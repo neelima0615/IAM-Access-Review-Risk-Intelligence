@@ -1,0 +1,10 @@
+JML_Status,RiskLevel,RecordCount,AvgRiskScore
+Leaver,Critical,710,76.1
+Leaver,High,475,59.5
+Mover,Critical,20,76.2
+Mover,High,545,53.9
+Mover,Low,15,25.0
+Mover,Medium,505,39.5
+Stable,High,265,52.9
+Stable,Low,2240,18.4
+Stable,Medium,2575,34.5

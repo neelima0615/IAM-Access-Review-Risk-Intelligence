@@ -1,0 +1,114 @@
+EmployeeID,Department,JobRole,AccessLevel,RiskScore,RiskLevel,YearsInCurrentRole,YearsSinceLastPromotion
+EMP1242,Research & Development,Research Director,Admin,80,Critical,0,0
+EMP0101,Research & Development,Research Director,Admin,75,Critical,0,0
+EMP0661,Research & Development,Research Director,Admin,75,Critical,0,0
+EMP1061,Research & Development,Research Director,Admin,75,Critical,1,7
+EMP0468,Research & Development,Research Director,Admin,65,High,0,0
+EMP0612,Research & Development,Research Director,Admin,65,High,1,0
+EMP0843,Research & Development,Research Director,Admin,65,High,1,1
+EMP0964,Research & Development,Research Scientist,Write,65,High,1,0
+EMP1180,Research & Development,Research Scientist,Write,65,High,1,0
+EMP1263,Research & Development,Research Director,Admin,65,High,0,0
+EMP1770,Research & Development,Research Director,Admin,65,High,0,0
+EMP1789,Research & Development,Research Director,Admin,65,High,1,2
+EMP0051,Research & Development,Research Scientist,Write,60,High,1,0
+EMP0214,Research & Development,Research Scientist,Write,60,High,0,0
+EMP0298,Sales,Manager,Write,60,High,0,0
+EMP0382,Sales,Sales Executive,Write,60,High,0,7
+EMP0518,Research & Development,Manufacturing Director,Write,60,High,0,0
+EMP0656,Sales,Sales Executive,Write,60,High,0,1
+EMP0743,Research & Development,Manufacturing Director,Write,60,High,0,0
+EMP0773,Research & Development,Research Scientist,Write,60,High,0,0
+EMP0833,Research & Development,Manufacturing Director,Write,60,High,0,0
+EMP1003,Sales,Sales Executive,Write,60,High,0,0
+EMP1036,Sales,Sales Executive,Write,60,High,0,0
+EMP1105,Sales,Sales Executive,Write,60,High,0,0
+EMP1260,Research & Development,Healthcare Representative,Read,60,High,0,1
+EMP1269,Research & Development,Research Scientist,Write,60,High,0,0
+EMP1292,Research & Development,Research Scientist,Write,60,High,0,0
+EMP1321,Research & Development,Manager,Write,60,High,1,0
+EMP1591,Sales,Manager,Write,60,High,0,0
+EMP1669,Sales,Sales Executive,Write,60,High,0,0
+EMP1724,Research & Development,Manufacturing Director,Write,60,High,0,0
+EMP1847,Research & Development,Research Scientist,Write,60,High,0,0
+EMP1893,Research & Development,Research Scientist,Write,60,High,0,1
+EMP1938,Sales,Manager,Write,60,High,0,0
+EMP1943,Sales,Sales Executive,Write,60,High,0,0
+EMP0224,Research & Development,Research Scientist,Write,55,High,1,0
+EMP0336,Research & Development,Manager,Write,55,High,0,1
+EMP0556,Research & Development,Laboratory Technician,Read,55,High,0,0
+EMP0680,Research & Development,Research Scientist,Write,55,High,0,0
+EMP0730,Research & Development,Research Director,Admin,55,High,1,1
+EMP0875,Research & Development,Research Scientist,Write,55,High,1,2
+EMP0904,Sales,Sales Executive,Write,55,High,0,0
+EMP1047,Sales,Sales Executive,Write,55,High,1,0
+EMP1154,Research & Development,Research Scientist,Write,55,High,1,0
+EMP1212,Sales,Sales Executive,Write,55,High,0,0
+EMP1306,Research & Development,Manager,Write,55,High,0,0
+EMP1481,Sales,Sales Executive,Write,55,High,0,0
+EMP1602,Sales,Manager,Write,55,High,0,0
+EMP1853,Sales,Sales Executive,Write,55,High,0,0
+EMP0010,Research & Development,Laboratory Technician,Read,50,High,0,0
+EMP0030,Research & Development,Research Scientist,Write,50,High,0,0
+EMP0061,Research & Development,Research Scientist,Write,50,High,0,0
+EMP0084,Research & Development,Manager,Write,50,High,0,0
+EMP0086,Research & Development,Research Scientist,Write,50,High,0,0
+EMP0095,Research & Development,Research Scientist,Write,50,High,1,1
+EMP0106,Sales,Sales Executive,Write,50,High,0,1
+EMP0134,Research & Development,Research Scientist,Write,50,High,0,0
+EMP0151,Research & Development,Research Scientist,Write,50,High,0,0
+EMP0211,Research & Development,Manufacturing Director,Write,50,High,0,0
+EMP0271,Research & Development,Manufacturing Director,Write,50,High,0,0
+EMP0309,Research & Development,Research Scientist,Write,50,High,0,0
+EMP0323,Sales,Manager,Write,50,High,0,0
+EMP0334,Research & Development,Research Scientist,Write,50,High,0,0
+EMP0353,Research & Development,Research Scientist,Write,50,High,0,0
+EMP0366,Sales,Sales Executive,Write,50,High,0,0
+EMP0397,Research & Development,Research Scientist,Write,50,High,0,7
+EMP0431,Research & Development,Healthcare Representative,Read,50,High,1,0
+EMP0473,Sales,Manager,Write,50,High,0,0
+EMP0568,Sales,Manager,Write,50,High,0,0
+EMP0618,Sales,Sales Executive,Write,50,High,0,0
+EMP0657,Research & Development,Research Scientist,Write,50,High,0,0
+EMP0662,Research & Development,Research Scientist,Write,50,High,0,0
+EMP0690,Sales,Sales Executive,Write,50,High,0,1
+EMP0715,Research & Development,Research Scientist,Write,50,High,0,0
+EMP0775,Research & Development,Manufacturing Director,Write,50,High,0,0
+EMP0834,Research & Development,Research Scientist,Write,50,High,0,0
+EMP0868,Sales,Sales Executive,Write,50,High,0,0
+EMP0920,Research & Development,Manufacturing Director,Write,50,High,0,0
+EMP0933,Research & Development,Research Scientist,Write,50,High,1,0
+EMP0940,Research & Development,Healthcare Representative,Read,50,High,0,0
+EMP0945,Research & Development,Research Scientist,Write,50,High,0,0
+EMP0954,Sales,Sales Executive,Write,50,High,0,0
+EMP1029,Sales,Manager,Write,50,High,0,0
+EMP1055,Sales,Sales Representative,Read,50,High,1,0
+EMP1076,Sales,Sales Executive,Write,50,High,0,0
+EMP1125,Sales,Sales Executive,Write,50,High,0,0
+EMP1158,Research & Development,Laboratory Technician,Read,50,High,0,0
+EMP1193,Research & Development,Research Scientist,Write,50,High,1,0
+EMP1254,Sales,Sales Executive,Write,50,High,1,0
+EMP1256,Research & Development,Manager,Write,50,High,0,0
+EMP1265,Research & Development,Research Scientist,Write,50,High,0,0
+EMP1270,Research & Development,Research Scientist,Write,50,High,0,0
+EMP1465,Research & Development,Manufacturing Director,Write,50,High,1,1
+EMP1506,Research & Development,Research Scientist,Write,50,High,0,0
+EMP1515,Research & Development,Healthcare Representative,Read,50,High,0,0
+EMP1555,Research & Development,Research Scientist,Write,50,High,1,2
+EMP1558,Research & Development,Research Scientist,Write,50,High,0,0
+EMP1577,Research & Development,Research Scientist,Write,50,High,0,0
+EMP1581,Research & Development,Research Scientist,Write,50,High,0,0
+EMP1585,Sales,Sales Executive,Write,50,High,0,0
+EMP1595,Research & Development,Manager,Write,50,High,0,0
+EMP1673,Sales,Sales Executive,Write,50,High,0,0
+EMP1678,Sales,Sales Executive,Write,50,High,0,0
+EMP1729,Research & Development,Research Scientist,Write,50,High,0,0
+EMP1755,Research & Development,Research Scientist,Write,50,High,0,1
+EMP1762,Research & Development,Research Scientist,Write,50,High,0,0
+EMP1766,Research & Development,Healthcare Representative,Read,50,High,0,1
+EMP1830,Research & Development,Research Scientist,Write,50,High,1,1
+EMP1935,Sales,Sales Executive,Write,50,High,0,0
+EMP1936,Research & Development,Manufacturing Director,Write,50,High,0,7
+EMP1966,Research & Development,Manufacturing Director,Write,50,High,0,0
+EMP1974,Research & Development,Laboratory Technician,Read,50,High,0,0
+EMP2040,Human Resources,Human Resources,Read,50,High,0,1

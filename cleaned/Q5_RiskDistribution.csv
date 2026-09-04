@@ -1,0 +1,5 @@
+RiskLevel,RecordCount,Percentage,AvgScore,MinScore,MaxScore
+Critical,730,9.9,76.1,70,100
+High,1285,17.5,55.8,50,65
+Medium,3080,41.9,35.4,30,45
+Low,2255,30.7,18.4,5,25

@@ -1,0 +1,1186 @@
+EmployeeID,Department,JobRole,JobLevel,Age,Gender,SystemName,AccessLevel,JML_Status,Attrition,YearsAtCompany,YearsInCurrentRole,YearsSinceLastPromotion,YearsWithCurrManager,BusinessTravel,OverTime,PerformanceRating,TotalWorkingYears,TrainingTimesLastYear,RiskScore,RiskLevel
+EMP0001,Sales,Sales Executive,2,41,Female,Active Directory,Write,Leaver,Yes,6,4,0,5,Travel_Rarely,Yes,3,8,0,80,Critical
+EMP0001,Sales,Sales Executive,2,41,Female,Salesforce,Write,Leaver,Yes,6,4,0,5,Travel_Rarely,Yes,3,8,0,80,Critical
+EMP0001,Sales,Sales Executive,2,41,Female,SharePoint,Write,Leaver,Yes,6,4,0,5,Travel_Rarely,Yes,3,8,0,80,Critical
+EMP0001,Sales,Sales Executive,2,41,Female,ServiceNow,Write,Leaver,Yes,6,4,0,5,Travel_Rarely,Yes,3,8,0,80,Critical
+EMP0001,Sales,Sales Executive,2,41,Female,CRM Portal,Write,Leaver,Yes,6,4,0,5,Travel_Rarely,Yes,3,8,0,80,Critical
+EMP0004,Research & Development,Laboratory Technician,1,37,Male,Active Directory,Read,Leaver,Yes,0,0,0,0,Travel_Rarely,Yes,3,7,3,70,Critical
+EMP0004,Research & Development,Laboratory Technician,1,37,Male,SAP,Read,Leaver,Yes,0,0,0,0,Travel_Rarely,Yes,3,7,3,70,Critical
+EMP0004,Research & Development,Laboratory Technician,1,37,Male,SharePoint,Read,Leaver,Yes,0,0,0,0,Travel_Rarely,Yes,3,7,3,70,Critical
+EMP0004,Research & Development,Laboratory Technician,1,37,Male,ServiceNow,Read,Leaver,Yes,0,0,0,0,Travel_Rarely,Yes,3,7,3,70,Critical
+EMP0004,Research & Development,Laboratory Technician,1,37,Male,Lab Systems,Read,Leaver,Yes,0,0,0,0,Travel_Rarely,Yes,3,7,3,70,Critical
+EMP0019,Research & Development,Laboratory Technician,1,28,Male,Active Directory,Read,Leaver,Yes,4,2,0,3,Travel_Rarely,Yes,3,6,4,60,High
+EMP0019,Research & Development,Laboratory Technician,1,28,Male,SAP,Read,Leaver,Yes,4,2,0,3,Travel_Rarely,Yes,3,6,4,60,High
+EMP0019,Research & Development,Laboratory Technician,1,28,Male,SharePoint,Read,Leaver,Yes,4,2,0,3,Travel_Rarely,Yes,3,6,4,60,High
+EMP0019,Research & Development,Laboratory Technician,1,28,Male,ServiceNow,Read,Leaver,Yes,4,2,0,3,Travel_Rarely,Yes,3,6,4,60,High
+EMP0019,Research & Development,Laboratory Technician,1,28,Male,Lab Systems,Read,Leaver,Yes,4,2,0,3,Travel_Rarely,Yes,3,6,4,60,High
+EMP0027,Sales,Sales Representative,1,36,Male,Active Directory,Read,Leaver,Yes,5,3,0,3,Travel_Rarely,No,4,10,4,50,High
+EMP0027,Sales,Sales Representative,1,36,Male,Salesforce,Read,Leaver,Yes,5,3,0,3,Travel_Rarely,No,4,10,4,50,High
+EMP0027,Sales,Sales Representative,1,36,Male,SharePoint,Read,Leaver,Yes,5,3,0,3,Travel_Rarely,No,4,10,4,50,High
+EMP0027,Sales,Sales Representative,1,36,Male,ServiceNow,Read,Leaver,Yes,5,3,0,3,Travel_Rarely,No,4,10,4,50,High
+EMP0027,Sales,Sales Representative,1,36,Male,CRM Portal,Read,Leaver,Yes,5,3,0,3,Travel_Rarely,No,4,10,4,50,High
+EMP0031,Research & Development,Research Scientist,1,34,Male,Active Directory,Write,Leaver,Yes,4,2,1,3,Travel_Rarely,No,3,8,2,60,High
+EMP0031,Research & Development,Research Scientist,1,34,Male,SAP,Write,Leaver,Yes,4,2,1,3,Travel_Rarely,No,3,8,2,60,High
+EMP0031,Research & Development,Research Scientist,1,34,Male,SharePoint,Write,Leaver,Yes,4,2,1,3,Travel_Rarely,No,3,8,2,60,High
+EMP0031,Research & Development,Research Scientist,1,34,Male,ServiceNow,Write,Leaver,Yes,4,2,1,3,Travel_Rarely,No,3,8,2,60,High
+EMP0031,Research & Development,Research Scientist,1,34,Male,Lab Systems,Write,Leaver,Yes,4,2,1,3,Travel_Rarely,No,3,8,2,60,High
+EMP0033,Research & Development,Research Scientist,1,32,Female,Active Directory,Write,Leaver,Yes,10,2,6,7,Travel_Frequently,Yes,4,10,5,85,Critical
+EMP0033,Research & Development,Research Scientist,1,32,Female,SAP,Write,Leaver,Yes,10,2,6,7,Travel_Frequently,Yes,4,10,5,85,Critical
+EMP0033,Research & Development,Research Scientist,1,32,Female,SharePoint,Write,Leaver,Yes,10,2,6,7,Travel_Frequently,Yes,4,10,5,85,Critical
+EMP0033,Research & Development,Research Scientist,1,32,Female,ServiceNow,Write,Leaver,Yes,10,2,6,7,Travel_Frequently,Yes,4,10,5,85,Critical
+EMP0033,Research & Development,Research Scientist,1,32,Female,Lab Systems,Write,Leaver,Yes,10,2,6,7,Travel_Frequently,Yes,4,10,5,85,Critical
+EMP0042,Sales,Sales Representative,2,39,Male,Active Directory,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,No,3,19,6,60,High
+EMP0042,Sales,Sales Representative,2,39,Male,Salesforce,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,No,3,19,6,60,High
+EMP0042,Sales,Sales Representative,2,39,Male,SharePoint,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,No,3,19,6,60,High
+EMP0042,Sales,Sales Representative,2,39,Male,ServiceNow,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,No,3,19,6,60,High
+EMP0042,Sales,Sales Representative,2,39,Male,CRM Portal,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,No,3,19,6,60,High
+EMP0045,Research & Development,Research Scientist,1,24,Male,Active Directory,Write,Leaver,Yes,2,0,2,0,Travel_Rarely,Yes,3,6,2,80,Critical
+EMP0045,Research & Development,Research Scientist,1,24,Male,SAP,Write,Leaver,Yes,2,0,2,0,Travel_Rarely,Yes,3,6,2,80,Critical
+EMP0045,Research & Development,Research Scientist,1,24,Male,SharePoint,Write,Leaver,Yes,2,0,2,0,Travel_Rarely,Yes,3,6,2,80,Critical
+EMP0045,Research & Development,Research Scientist,1,24,Male,ServiceNow,Write,Leaver,Yes,2,0,2,0,Travel_Rarely,Yes,3,6,2,80,Critical
+EMP0045,Research & Development,Research Scientist,1,24,Male,Lab Systems,Write,Leaver,Yes,2,0,2,0,Travel_Rarely,Yes,3,6,2,80,Critical
+EMP0047,Sales,Sales Representative,1,50,Male,Active Directory,Read,Leaver,Yes,3,2,0,2,Travel_Rarely,Yes,3,3,2,60,High
+EMP0047,Sales,Sales Representative,1,50,Male,Salesforce,Read,Leaver,Yes,3,2,0,2,Travel_Rarely,Yes,3,3,2,60,High
+EMP0047,Sales,Sales Representative,1,50,Male,SharePoint,Read,Leaver,Yes,3,2,0,2,Travel_Rarely,Yes,3,3,2,60,High
+EMP0047,Sales,Sales Representative,1,50,Male,ServiceNow,Read,Leaver,Yes,3,2,0,2,Travel_Rarely,Yes,3,3,2,60,High
+EMP0047,Sales,Sales Representative,1,50,Male,CRM Portal,Read,Leaver,Yes,3,2,0,2,Travel_Rarely,Yes,3,3,2,60,High
+EMP0055,Research & Development,Laboratory Technician,1,26,Male,Active Directory,Read,Leaver,Yes,1,0,0,1,Travel_Rarely,No,3,1,2,60,High
+EMP0055,Research & Development,Laboratory Technician,1,26,Male,SAP,Read,Leaver,Yes,1,0,0,1,Travel_Rarely,No,3,1,2,60,High
+EMP0055,Research & Development,Laboratory Technician,1,26,Male,SharePoint,Read,Leaver,Yes,1,0,0,1,Travel_Rarely,No,3,1,2,60,High
+EMP0055,Research & Development,Laboratory Technician,1,26,Male,ServiceNow,Read,Leaver,Yes,1,0,0,1,Travel_Rarely,No,3,1,2,60,High
+EMP0055,Research & Development,Laboratory Technician,1,26,Male,Lab Systems,Read,Leaver,Yes,1,0,0,1,Travel_Rarely,No,3,1,2,60,High
+EMP0058,Research & Development,Research Director,5,41,Female,Active Directory,Admin,Leaver,Yes,22,15,15,8,Travel_Rarely,No,3,23,0,90,Critical
+EMP0058,Research & Development,Research Director,5,41,Female,SAP,Admin,Leaver,Yes,22,15,15,8,Travel_Rarely,No,3,23,0,90,Critical
+EMP0058,Research & Development,Research Director,5,41,Female,SharePoint,Admin,Leaver,Yes,22,15,15,8,Travel_Rarely,No,3,23,0,90,Critical
+EMP0058,Research & Development,Research Director,5,41,Female,ServiceNow,Admin,Leaver,Yes,22,15,15,8,Travel_Rarely,No,3,23,0,90,Critical
+EMP0058,Research & Development,Research Director,5,41,Female,Lab Systems,Admin,Leaver,Yes,22,15,15,8,Travel_Rarely,No,3,23,0,90,Critical
+EMP0064,Research & Development,Laboratory Technician,3,48,Male,Active Directory,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,Yes,3,23,2,70,Critical
+EMP0064,Research & Development,Laboratory Technician,3,48,Male,SAP,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,Yes,3,23,2,70,Critical
+EMP0064,Research & Development,Laboratory Technician,3,48,Male,SharePoint,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,Yes,3,23,2,70,Critical
+EMP0064,Research & Development,Laboratory Technician,3,48,Male,ServiceNow,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,Yes,3,23,2,70,Critical
+EMP0064,Research & Development,Laboratory Technician,3,48,Male,Lab Systems,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,Yes,3,23,2,70,Critical
+EMP0065,Research & Development,Laboratory Technician,1,28,Male,Active Directory,Read,Leaver,Yes,2,2,2,2,Travel_Rarely,Yes,3,2,3,60,High
+EMP0065,Research & Development,Laboratory Technician,1,28,Male,SAP,Read,Leaver,Yes,2,2,2,2,Travel_Rarely,Yes,3,2,3,60,High
+EMP0065,Research & Development,Laboratory Technician,1,28,Male,SharePoint,Read,Leaver,Yes,2,2,2,2,Travel_Rarely,Yes,3,2,3,60,High
+EMP0065,Research & Development,Laboratory Technician,1,28,Male,ServiceNow,Read,Leaver,Yes,2,2,2,2,Travel_Rarely,Yes,3,2,3,60,High
+EMP0065,Research & Development,Laboratory Technician,1,28,Male,Lab Systems,Read,Leaver,Yes,2,2,2,2,Travel_Rarely,Yes,3,2,3,60,High
+EMP0090,Research & Development,Research Scientist,1,36,Male,Active Directory,Write,Leaver,Yes,1,0,0,0,Travel_Rarely,Yes,3,2,0,80,Critical
+EMP0090,Research & Development,Research Scientist,1,36,Male,SAP,Write,Leaver,Yes,1,0,0,0,Travel_Rarely,Yes,3,2,0,80,Critical
+EMP0090,Research & Development,Research Scientist,1,36,Male,SharePoint,Write,Leaver,Yes,1,0,0,0,Travel_Rarely,Yes,3,2,0,80,Critical
+EMP0090,Research & Development,Research Scientist,1,36,Male,ServiceNow,Write,Leaver,Yes,1,0,0,0,Travel_Rarely,Yes,3,2,0,80,Critical
+EMP0090,Research & Development,Research Scientist,1,36,Male,Lab Systems,Write,Leaver,Yes,1,0,0,0,Travel_Rarely,Yes,3,2,0,80,Critical
+EMP0118,Sales,Sales Executive,3,46,Male,Active Directory,Write,Leaver,Yes,9,8,4,7,Travel_Rarely,No,3,9,3,70,Critical
+EMP0118,Sales,Sales Executive,3,46,Male,Salesforce,Write,Leaver,Yes,9,8,4,7,Travel_Rarely,No,3,9,3,70,Critical
+EMP0118,Sales,Sales Executive,3,46,Male,SharePoint,Write,Leaver,Yes,9,8,4,7,Travel_Rarely,No,3,9,3,70,Critical
+EMP0118,Sales,Sales Executive,3,46,Male,ServiceNow,Write,Leaver,Yes,9,8,4,7,Travel_Rarely,No,3,9,3,70,Critical
+EMP0118,Sales,Sales Executive,3,46,Male,CRM Portal,Write,Leaver,Yes,9,8,4,7,Travel_Rarely,No,3,9,3,70,Critical
+EMP0133,Human Resources,Human Resources,1,37,Male,Active Directory,Read,Leaver,Yes,3,2,0,2,Travel_Rarely,Yes,4,7,3,60,High
+EMP0133,Human Resources,Human Resources,1,37,Male,Workday,Read,Leaver,Yes,3,2,0,2,Travel_Rarely,Yes,4,7,3,60,High
+EMP0133,Human Resources,Human Resources,1,37,Male,SharePoint,Read,Leaver,Yes,3,2,0,2,Travel_Rarely,Yes,4,7,3,60,High
+EMP0133,Human Resources,Human Resources,1,37,Male,ServiceNow,Read,Leaver,Yes,3,2,0,2,Travel_Rarely,Yes,4,7,3,60,High
+EMP0133,Human Resources,Human Resources,1,37,Male,HR Portal,Read,Leaver,Yes,3,2,0,2,Travel_Rarely,Yes,4,7,3,60,High
+EMP0137,Research & Development,Laboratory Technician,1,20,Female,Active Directory,Read,Leaver,Yes,1,0,1,0,Travel_Frequently,Yes,3,1,5,75,Critical
+EMP0137,Research & Development,Laboratory Technician,1,20,Female,SAP,Read,Leaver,Yes,1,0,1,0,Travel_Frequently,Yes,3,1,5,75,Critical
+EMP0137,Research & Development,Laboratory Technician,1,20,Female,SharePoint,Read,Leaver,Yes,1,0,1,0,Travel_Frequently,Yes,3,1,5,75,Critical
+EMP0137,Research & Development,Laboratory Technician,1,20,Female,ServiceNow,Read,Leaver,Yes,1,0,1,0,Travel_Frequently,Yes,3,1,5,75,Critical
+EMP0137,Research & Development,Laboratory Technician,1,20,Female,Lab Systems,Read,Leaver,Yes,1,0,1,0,Travel_Frequently,Yes,3,1,5,75,Critical
+EMP0142,Sales,Sales Executive,2,25,Male,Active Directory,Write,Leaver,Yes,6,4,0,3,Travel_Rarely,Yes,3,6,1,80,Critical
+EMP0142,Sales,Sales Executive,2,25,Male,Salesforce,Write,Leaver,Yes,6,4,0,3,Travel_Rarely,Yes,3,6,1,80,Critical
+EMP0142,Sales,Sales Executive,2,25,Male,SharePoint,Write,Leaver,Yes,6,4,0,3,Travel_Rarely,Yes,3,6,1,80,Critical
+EMP0142,Sales,Sales Executive,2,25,Male,ServiceNow,Write,Leaver,Yes,6,4,0,3,Travel_Rarely,Yes,3,6,1,80,Critical
+EMP0142,Sales,Sales Executive,2,25,Male,CRM Portal,Write,Leaver,Yes,6,4,0,3,Travel_Rarely,Yes,3,6,1,80,Critical
+EMP0147,Research & Development,Laboratory Technician,2,34,Male,Active Directory,Read,Leaver,Yes,9,7,0,6,Travel_Frequently,Yes,4,9,3,75,Critical
+EMP0147,Research & Development,Laboratory Technician,2,34,Male,SAP,Read,Leaver,Yes,9,7,0,6,Travel_Frequently,Yes,4,9,3,75,Critical
+EMP0147,Research & Development,Laboratory Technician,2,34,Male,SharePoint,Read,Leaver,Yes,9,7,0,6,Travel_Frequently,Yes,4,9,3,75,Critical
+EMP0147,Research & Development,Laboratory Technician,2,34,Male,ServiceNow,Read,Leaver,Yes,9,7,0,6,Travel_Frequently,Yes,4,9,3,75,Critical
+EMP0147,Research & Development,Laboratory Technician,2,34,Male,Lab Systems,Read,Leaver,Yes,9,7,0,6,Travel_Frequently,Yes,4,9,3,75,Critical
+EMP0161,Research & Development,Research Scientist,1,56,Female,Active Directory,Write,Leaver,Yes,5,4,4,3,Travel_Rarely,Yes,3,7,2,70,Critical
+EMP0161,Research & Development,Research Scientist,1,56,Female,SAP,Write,Leaver,Yes,5,4,4,3,Travel_Rarely,Yes,3,7,2,70,Critical
+EMP0161,Research & Development,Research Scientist,1,56,Female,SharePoint,Write,Leaver,Yes,5,4,4,3,Travel_Rarely,Yes,3,7,2,70,Critical
+EMP0161,Research & Development,Research Scientist,1,56,Female,ServiceNow,Write,Leaver,Yes,5,4,4,3,Travel_Rarely,Yes,3,7,2,70,Critical
+EMP0161,Research & Development,Research Scientist,1,56,Female,Lab Systems,Write,Leaver,Yes,5,4,4,3,Travel_Rarely,Yes,3,7,2,70,Critical
+EMP0163,Sales,Sales Executive,2,31,Male,Active Directory,Write,Leaver,Yes,7,7,7,7,Travel_Rarely,Yes,3,12,3,80,Critical
+EMP0163,Sales,Sales Executive,2,31,Male,Salesforce,Write,Leaver,Yes,7,7,7,7,Travel_Rarely,Yes,3,12,3,80,Critical
+EMP0163,Sales,Sales Executive,2,31,Male,SharePoint,Write,Leaver,Yes,7,7,7,7,Travel_Rarely,Yes,3,12,3,80,Critical
+EMP0163,Sales,Sales Executive,2,31,Male,ServiceNow,Write,Leaver,Yes,7,7,7,7,Travel_Rarely,Yes,3,12,3,80,Critical
+EMP0163,Sales,Sales Executive,2,31,Male,CRM Portal,Write,Leaver,Yes,7,7,7,7,Travel_Rarely,Yes,3,12,3,80,Critical
+EMP0165,Research & Development,Healthcare Representative,3,58,Female,Active Directory,Read,Leaver,Yes,40,10,15,6,Travel_Rarely,No,3,40,3,65,High
+EMP0165,Research & Development,Healthcare Representative,3,58,Female,SAP,Read,Leaver,Yes,40,10,15,6,Travel_Rarely,No,3,40,3,65,High
+EMP0165,Research & Development,Healthcare Representative,3,58,Female,SharePoint,Read,Leaver,Yes,40,10,15,6,Travel_Rarely,No,3,40,3,65,High
+EMP0165,Research & Development,Healthcare Representative,3,58,Female,ServiceNow,Read,Leaver,Yes,40,10,15,6,Travel_Rarely,No,3,40,3,65,High
+EMP0165,Research & Development,Healthcare Representative,3,58,Female,Lab Systems,Read,Leaver,Yes,40,10,15,6,Travel_Rarely,No,3,40,3,65,High
+EMP0167,Sales,Sales Representative,1,19,Male,Active Directory,Read,Leaver,Yes,0,0,0,0,Travel_Rarely,Yes,3,0,2,70,Critical
+EMP0167,Sales,Sales Representative,1,19,Male,Salesforce,Read,Leaver,Yes,0,0,0,0,Travel_Rarely,Yes,3,0,2,70,Critical
+EMP0167,Sales,Sales Representative,1,19,Male,SharePoint,Read,Leaver,Yes,0,0,0,0,Travel_Rarely,Yes,3,0,2,70,Critical
+EMP0167,Sales,Sales Representative,1,19,Male,ServiceNow,Read,Leaver,Yes,0,0,0,0,Travel_Rarely,Yes,3,0,2,70,Critical
+EMP0167,Sales,Sales Representative,1,19,Male,CRM Portal,Read,Leaver,Yes,0,0,0,0,Travel_Rarely,Yes,3,0,2,70,Critical
+EMP0175,Sales,Sales Executive,2,31,Female,Active Directory,Write,Leaver,Yes,2,2,2,2,Travel_Rarely,Yes,3,4,2,70,Critical
+EMP0175,Sales,Sales Executive,2,31,Female,Salesforce,Write,Leaver,Yes,2,2,2,2,Travel_Rarely,Yes,3,4,2,70,Critical
+EMP0175,Sales,Sales Executive,2,31,Female,SharePoint,Write,Leaver,Yes,2,2,2,2,Travel_Rarely,Yes,3,4,2,70,Critical
+EMP0175,Sales,Sales Executive,2,31,Female,ServiceNow,Write,Leaver,Yes,2,2,2,2,Travel_Rarely,Yes,3,4,2,70,Critical
+EMP0175,Sales,Sales Executive,2,31,Female,CRM Portal,Write,Leaver,Yes,2,2,2,2,Travel_Rarely,Yes,3,4,2,70,Critical
+EMP0179,Research & Development,Manufacturing Director,3,51,Male,Active Directory,Write,Leaver,Yes,4,2,0,3,Travel_Frequently,No,3,18,2,65,High
+EMP0179,Research & Development,Manufacturing Director,3,51,Male,SAP,Write,Leaver,Yes,4,2,0,3,Travel_Frequently,No,3,18,2,65,High
+EMP0179,Research & Development,Manufacturing Director,3,51,Male,SharePoint,Write,Leaver,Yes,4,2,0,3,Travel_Frequently,No,3,18,2,65,High
+EMP0179,Research & Development,Manufacturing Director,3,51,Male,ServiceNow,Write,Leaver,Yes,4,2,0,3,Travel_Frequently,No,3,18,2,65,High
+EMP0179,Research & Development,Manufacturing Director,3,51,Male,Lab Systems,Write,Leaver,Yes,4,2,0,3,Travel_Frequently,No,3,18,2,65,High
+EMP0190,Research & Development,Laboratory Technician,1,32,Female,Active Directory,Read,Leaver,Yes,5,4,0,4,Travel_Rarely,No,4,10,2,50,High
+EMP0190,Research & Development,Laboratory Technician,1,32,Female,SAP,Read,Leaver,Yes,5,4,0,4,Travel_Rarely,No,4,10,2,50,High
+EMP0190,Research & Development,Laboratory Technician,1,32,Female,SharePoint,Read,Leaver,Yes,5,4,0,4,Travel_Rarely,No,4,10,2,50,High
+EMP0190,Research & Development,Laboratory Technician,1,32,Female,ServiceNow,Read,Leaver,Yes,5,4,0,4,Travel_Rarely,No,4,10,2,50,High
+EMP0190,Research & Development,Laboratory Technician,1,32,Female,Lab Systems,Read,Leaver,Yes,5,4,0,4,Travel_Rarely,No,4,10,2,50,High
+EMP0235,Sales,Sales Representative,1,19,Female,Active Directory,Read,Leaver,Yes,0,0,0,0,Travel_Frequently,No,4,1,5,65,High
+EMP0235,Sales,Sales Representative,1,19,Female,Salesforce,Read,Leaver,Yes,0,0,0,0,Travel_Frequently,No,4,1,5,65,High
+EMP0235,Sales,Sales Representative,1,19,Female,SharePoint,Read,Leaver,Yes,0,0,0,0,Travel_Frequently,No,4,1,5,65,High
+EMP0235,Sales,Sales Representative,1,19,Female,ServiceNow,Read,Leaver,Yes,0,0,0,0,Travel_Frequently,No,4,1,5,65,High
+EMP0235,Sales,Sales Representative,1,19,Female,CRM Portal,Read,Leaver,Yes,0,0,0,0,Travel_Frequently,No,4,1,5,65,High
+EMP0243,Research & Development,Laboratory Technician,1,19,Male,Active Directory,Read,Leaver,Yes,1,0,1,0,Travel_Rarely,No,4,1,3,60,High
+EMP0243,Research & Development,Laboratory Technician,1,19,Male,SAP,Read,Leaver,Yes,1,0,1,0,Travel_Rarely,No,4,1,3,60,High
+EMP0243,Research & Development,Laboratory Technician,1,19,Male,SharePoint,Read,Leaver,Yes,1,0,1,0,Travel_Rarely,No,4,1,3,60,High
+EMP0243,Research & Development,Laboratory Technician,1,19,Male,ServiceNow,Read,Leaver,Yes,1,0,1,0,Travel_Rarely,No,4,1,3,60,High
+EMP0243,Research & Development,Laboratory Technician,1,19,Male,Lab Systems,Read,Leaver,Yes,1,0,1,0,Travel_Rarely,No,4,1,3,60,High
+EMP0248,Sales,Sales Representative,1,41,Female,Active Directory,Read,Leaver,Yes,4,3,0,2,Travel_Rarely,Yes,4,4,5,60,High
+EMP0248,Sales,Sales Representative,1,41,Female,Salesforce,Read,Leaver,Yes,4,3,0,2,Travel_Rarely,Yes,4,4,5,60,High
+EMP0248,Sales,Sales Representative,1,41,Female,SharePoint,Read,Leaver,Yes,4,3,0,2,Travel_Rarely,Yes,4,4,5,60,High
+EMP0248,Sales,Sales Representative,1,41,Female,ServiceNow,Read,Leaver,Yes,4,3,0,2,Travel_Rarely,Yes,4,4,5,60,High
+EMP0248,Sales,Sales Representative,1,41,Female,CRM Portal,Read,Leaver,Yes,4,3,0,2,Travel_Rarely,Yes,4,4,5,60,High
+EMP0261,Research & Development,Manufacturing Director,2,35,Male,Active Directory,Write,Leaver,Yes,1,0,0,1,Travel_Rarely,Yes,3,8,1,80,Critical
+EMP0261,Research & Development,Manufacturing Director,2,35,Male,SAP,Write,Leaver,Yes,1,0,0,1,Travel_Rarely,Yes,3,8,1,80,Critical
+EMP0261,Research & Development,Manufacturing Director,2,35,Male,SharePoint,Write,Leaver,Yes,1,0,0,1,Travel_Rarely,Yes,3,8,1,80,Critical
+EMP0261,Research & Development,Manufacturing Director,2,35,Male,ServiceNow,Write,Leaver,Yes,1,0,0,1,Travel_Rarely,Yes,3,8,1,80,Critical
+EMP0261,Research & Development,Manufacturing Director,2,35,Male,Lab Systems,Write,Leaver,Yes,1,0,0,1,Travel_Rarely,Yes,3,8,1,80,Critical
+EMP0282,Research & Development,Healthcare Representative,2,38,Male,Active Directory,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,Yes,3,17,2,70,Critical
+EMP0282,Research & Development,Healthcare Representative,2,38,Male,SAP,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,Yes,3,17,2,70,Critical
+EMP0282,Research & Development,Healthcare Representative,2,38,Male,SharePoint,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,Yes,3,17,2,70,Critical
+EMP0282,Research & Development,Healthcare Representative,2,38,Male,ServiceNow,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,Yes,3,17,2,70,Critical
+EMP0282,Research & Development,Healthcare Representative,2,38,Male,Lab Systems,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,Yes,3,17,2,70,Critical
+EMP0283,Sales,Sales Executive,3,29,Female,Active Directory,Write,Leaver,Yes,10,4,1,9,Travel_Rarely,No,4,10,3,70,Critical
+EMP0283,Sales,Sales Executive,3,29,Female,Salesforce,Write,Leaver,Yes,10,4,1,9,Travel_Rarely,No,4,10,3,70,Critical
+EMP0283,Sales,Sales Executive,3,29,Female,SharePoint,Write,Leaver,Yes,10,4,1,9,Travel_Rarely,No,4,10,3,70,Critical
+EMP0283,Sales,Sales Executive,3,29,Female,ServiceNow,Write,Leaver,Yes,10,4,1,9,Travel_Rarely,No,4,10,3,70,Critical
+EMP0283,Sales,Sales Executive,3,29,Female,CRM Portal,Write,Leaver,Yes,10,4,1,9,Travel_Rarely,No,4,10,3,70,Critical
+EMP0291,Sales,Sales Executive,3,32,Male,Active Directory,Write,Leaver,Yes,14,8,9,8,Travel_Rarely,No,3,14,2,75,Critical
+EMP0291,Sales,Sales Executive,3,32,Male,Salesforce,Write,Leaver,Yes,14,8,9,8,Travel_Rarely,No,3,14,2,75,Critical
+EMP0291,Sales,Sales Executive,3,32,Male,SharePoint,Write,Leaver,Yes,14,8,9,8,Travel_Rarely,No,3,14,2,75,Critical
+EMP0291,Sales,Sales Executive,3,32,Male,ServiceNow,Write,Leaver,Yes,14,8,9,8,Travel_Rarely,No,3,14,2,75,Critical
+EMP0291,Sales,Sales Executive,3,32,Male,CRM Portal,Write,Leaver,Yes,14,8,9,8,Travel_Rarely,No,3,14,2,75,Critical
+EMP0297,Research & Development,Research Scientist,1,30,Female,Active Directory,Write,Leaver,Yes,5,2,0,4,Travel_Rarely,Yes,3,8,5,70,Critical
+EMP0297,Research & Development,Research Scientist,1,30,Female,SAP,Write,Leaver,Yes,5,2,0,4,Travel_Rarely,Yes,3,8,5,70,Critical
+EMP0297,Research & Development,Research Scientist,1,30,Female,SharePoint,Write,Leaver,Yes,5,2,0,4,Travel_Rarely,Yes,3,8,5,70,Critical
+EMP0297,Research & Development,Research Scientist,1,30,Female,ServiceNow,Write,Leaver,Yes,5,2,0,4,Travel_Rarely,Yes,3,8,5,70,Critical
+EMP0297,Research & Development,Research Scientist,1,30,Female,Lab Systems,Write,Leaver,Yes,5,2,0,4,Travel_Rarely,Yes,3,8,5,70,Critical
+EMP0299,Sales,Sales Executive,2,30,Female,Active Directory,Write,Leaver,Yes,6,3,0,1,Travel_Frequently,No,3,9,5,85,Critical
+EMP0299,Sales,Sales Executive,2,30,Female,Salesforce,Write,Leaver,Yes,6,3,0,1,Travel_Frequently,No,3,9,5,85,Critical
+EMP0299,Sales,Sales Executive,2,30,Female,SharePoint,Write,Leaver,Yes,6,3,0,1,Travel_Frequently,No,3,9,5,85,Critical
+EMP0299,Sales,Sales Executive,2,30,Female,ServiceNow,Write,Leaver,Yes,6,3,0,1,Travel_Frequently,No,3,9,5,85,Critical
+EMP0299,Sales,Sales Executive,2,30,Female,CRM Portal,Write,Leaver,Yes,6,3,0,1,Travel_Frequently,No,3,9,5,85,Critical
+EMP0300,Research & Development,Research Scientist,1,29,Male,Active Directory,Write,Leaver,Yes,6,2,1,5,Travel_Rarely,No,3,7,1,70,Critical
+EMP0300,Research & Development,Research Scientist,1,29,Male,SAP,Write,Leaver,Yes,6,2,1,5,Travel_Rarely,No,3,7,1,70,Critical
+EMP0300,Research & Development,Research Scientist,1,29,Male,SharePoint,Write,Leaver,Yes,6,2,1,5,Travel_Rarely,No,3,7,1,70,Critical
+EMP0300,Research & Development,Research Scientist,1,29,Male,ServiceNow,Write,Leaver,Yes,6,2,1,5,Travel_Rarely,No,3,7,1,70,Critical
+EMP0300,Research & Development,Research Scientist,1,29,Male,Lab Systems,Write,Leaver,Yes,6,2,1,5,Travel_Rarely,No,3,7,1,70,Critical
+EMP0315,Research & Development,Research Scientist,1,29,Male,Active Directory,Write,Leaver,Yes,4,3,0,1,Travel_Rarely,Yes,3,4,3,80,Critical
+EMP0315,Research & Development,Research Scientist,1,29,Male,SAP,Write,Leaver,Yes,4,3,0,1,Travel_Rarely,Yes,3,4,3,80,Critical
+EMP0315,Research & Development,Research Scientist,1,29,Male,SharePoint,Write,Leaver,Yes,4,3,0,1,Travel_Rarely,Yes,3,4,3,80,Critical
+EMP0315,Research & Development,Research Scientist,1,29,Male,ServiceNow,Write,Leaver,Yes,4,3,0,1,Travel_Rarely,Yes,3,4,3,80,Critical
+EMP0315,Research & Development,Research Scientist,1,29,Male,Lab Systems,Write,Leaver,Yes,4,3,0,1,Travel_Rarely,Yes,3,4,3,80,Critical
+EMP0325,Research & Development,Laboratory Technician,1,33,Male,Active Directory,Read,Leaver,Yes,5,4,0,4,Travel_Rarely,Yes,3,8,2,60,High
+EMP0325,Research & Development,Laboratory Technician,1,33,Male,SAP,Read,Leaver,Yes,5,4,0,4,Travel_Rarely,Yes,3,8,2,60,High
+EMP0325,Research & Development,Laboratory Technician,1,33,Male,SharePoint,Read,Leaver,Yes,5,4,0,4,Travel_Rarely,Yes,3,8,2,60,High
+EMP0325,Research & Development,Laboratory Technician,1,33,Male,ServiceNow,Read,Leaver,Yes,5,4,0,4,Travel_Rarely,Yes,3,8,2,60,High
+EMP0325,Research & Development,Laboratory Technician,1,33,Male,Lab Systems,Read,Leaver,Yes,5,4,0,4,Travel_Rarely,Yes,3,8,2,60,High
+EMP0328,Research & Development,Laboratory Technician,1,33,Female,Active Directory,Read,Leaver,Yes,9,7,1,7,Travel_Rarely,No,4,13,3,60,High
+EMP0328,Research & Development,Laboratory Technician,1,33,Female,SAP,Read,Leaver,Yes,9,7,1,7,Travel_Rarely,No,4,13,3,60,High
+EMP0328,Research & Development,Laboratory Technician,1,33,Female,SharePoint,Read,Leaver,Yes,9,7,1,7,Travel_Rarely,No,4,13,3,60,High
+EMP0328,Research & Development,Laboratory Technician,1,33,Female,ServiceNow,Read,Leaver,Yes,9,7,1,7,Travel_Rarely,No,4,13,3,60,High
+EMP0328,Research & Development,Laboratory Technician,1,33,Female,Lab Systems,Read,Leaver,Yes,9,7,1,7,Travel_Rarely,No,4,13,3,60,High
+EMP0331,Research & Development,Laboratory Technician,1,32,Male,Active Directory,Read,Leaver,Yes,3,2,1,2,Travel_Rarely,Yes,3,4,2,60,High
+EMP0331,Research & Development,Laboratory Technician,1,32,Male,SAP,Read,Leaver,Yes,3,2,1,2,Travel_Rarely,Yes,3,4,2,60,High
+EMP0331,Research & Development,Laboratory Technician,1,32,Male,SharePoint,Read,Leaver,Yes,3,2,1,2,Travel_Rarely,Yes,3,4,2,60,High
+EMP0331,Research & Development,Laboratory Technician,1,32,Male,ServiceNow,Read,Leaver,Yes,3,2,1,2,Travel_Rarely,Yes,3,4,2,60,High
+EMP0331,Research & Development,Laboratory Technician,1,32,Male,Lab Systems,Read,Leaver,Yes,3,2,1,2,Travel_Rarely,Yes,3,4,2,60,High
+EMP0342,Research & Development,Manufacturing Director,3,37,Male,Active Directory,Write,Leaver,Yes,1,0,0,0,Travel_Frequently,No,3,17,5,75,Critical
+EMP0342,Research & Development,Manufacturing Director,3,37,Male,SAP,Write,Leaver,Yes,1,0,0,0,Travel_Frequently,No,3,17,5,75,Critical
+EMP0342,Research & Development,Manufacturing Director,3,37,Male,SharePoint,Write,Leaver,Yes,1,0,0,0,Travel_Frequently,No,3,17,5,75,Critical
+EMP0342,Research & Development,Manufacturing Director,3,37,Male,ServiceNow,Write,Leaver,Yes,1,0,0,0,Travel_Frequently,No,3,17,5,75,Critical
+EMP0342,Research & Development,Manufacturing Director,3,37,Male,Lab Systems,Write,Leaver,Yes,1,0,0,0,Travel_Frequently,No,3,17,5,75,Critical
+EMP0355,Research & Development,Laboratory Technician,1,31,Male,Active Directory,Read,Leaver,Yes,5,4,1,4,Travel_Frequently,No,3,6,2,55,High
+EMP0355,Research & Development,Laboratory Technician,1,31,Male,SAP,Read,Leaver,Yes,5,4,1,4,Travel_Frequently,No,3,6,2,55,High
+EMP0355,Research & Development,Laboratory Technician,1,31,Male,SharePoint,Read,Leaver,Yes,5,4,1,4,Travel_Frequently,No,3,6,2,55,High
+EMP0355,Research & Development,Laboratory Technician,1,31,Male,ServiceNow,Read,Leaver,Yes,5,4,1,4,Travel_Frequently,No,3,6,2,55,High
+EMP0355,Research & Development,Laboratory Technician,1,31,Male,Lab Systems,Read,Leaver,Yes,5,4,1,4,Travel_Frequently,No,3,6,2,55,High
+EMP0364,Research & Development,Laboratory Technician,1,28,Male,Active Directory,Read,Leaver,Yes,0,0,0,0,Travel_Rarely,No,3,5,5,60,High
+EMP0364,Research & Development,Laboratory Technician,1,28,Male,SAP,Read,Leaver,Yes,0,0,0,0,Travel_Rarely,No,3,5,5,60,High
+EMP0364,Research & Development,Laboratory Technician,1,28,Male,SharePoint,Read,Leaver,Yes,0,0,0,0,Travel_Rarely,No,3,5,5,60,High
+EMP0364,Research & Development,Laboratory Technician,1,28,Male,ServiceNow,Read,Leaver,Yes,0,0,0,0,Travel_Rarely,No,3,5,5,60,High
+EMP0364,Research & Development,Laboratory Technician,1,28,Male,Lab Systems,Read,Leaver,Yes,0,0,0,0,Travel_Rarely,No,3,5,5,60,High
+EMP0376,Research & Development,Manager,3,47,Male,Active Directory,Write,Leaver,Yes,10,7,9,9,Non-Travel,Yes,3,10,2,75,Critical
+EMP0376,Research & Development,Manager,3,47,Male,SAP,Write,Leaver,Yes,10,7,9,9,Non-Travel,Yes,3,10,2,75,Critical
+EMP0376,Research & Development,Manager,3,47,Male,SharePoint,Write,Leaver,Yes,10,7,9,9,Non-Travel,Yes,3,10,2,75,Critical
+EMP0376,Research & Development,Manager,3,47,Male,ServiceNow,Write,Leaver,Yes,10,7,9,9,Non-Travel,Yes,3,10,2,75,Critical
+EMP0376,Research & Development,Manager,3,47,Male,Lab Systems,Write,Leaver,Yes,10,7,9,9,Non-Travel,Yes,3,10,2,75,Critical
+EMP0392,Research & Development,Laboratory Technician,1,44,Male,Active Directory,Read,Leaver,Yes,1,0,0,0,Travel_Frequently,Yes,4,19,0,75,Critical
+EMP0392,Research & Development,Laboratory Technician,1,44,Male,SAP,Read,Leaver,Yes,1,0,0,0,Travel_Frequently,Yes,4,19,0,75,Critical
+EMP0392,Research & Development,Laboratory Technician,1,44,Male,SharePoint,Read,Leaver,Yes,1,0,0,0,Travel_Frequently,Yes,4,19,0,75,Critical
+EMP0392,Research & Development,Laboratory Technician,1,44,Male,ServiceNow,Read,Leaver,Yes,1,0,0,0,Travel_Frequently,Yes,4,19,0,75,Critical
+EMP0392,Research & Development,Laboratory Technician,1,44,Male,Lab Systems,Read,Leaver,Yes,1,0,0,0,Travel_Frequently,Yes,4,19,0,75,Critical
+EMP0394,Research & Development,Laboratory Technician,1,26,Male,Active Directory,Read,Leaver,Yes,3,2,0,2,Travel_Rarely,Yes,3,5,2,60,High
+EMP0394,Research & Development,Laboratory Technician,1,26,Male,SAP,Read,Leaver,Yes,3,2,0,2,Travel_Rarely,Yes,3,5,2,60,High
+EMP0394,Research & Development,Laboratory Technician,1,26,Male,SharePoint,Read,Leaver,Yes,3,2,0,2,Travel_Rarely,Yes,3,5,2,60,High
+EMP0394,Research & Development,Laboratory Technician,1,26,Male,ServiceNow,Read,Leaver,Yes,3,2,0,2,Travel_Rarely,Yes,3,5,2,60,High
+EMP0394,Research & Development,Laboratory Technician,1,26,Male,Lab Systems,Read,Leaver,Yes,3,2,0,2,Travel_Rarely,Yes,3,5,2,60,High
+EMP0401,Sales,Sales Executive,2,26,Male,Active Directory,Write,Leaver,Yes,8,7,7,4,Travel_Rarely,Yes,3,8,0,80,Critical
+EMP0401,Sales,Sales Executive,2,26,Male,Salesforce,Write,Leaver,Yes,8,7,7,4,Travel_Rarely,Yes,3,8,0,80,Critical
+EMP0401,Sales,Sales Executive,2,26,Male,SharePoint,Write,Leaver,Yes,8,7,7,4,Travel_Rarely,Yes,3,8,0,80,Critical
+EMP0401,Sales,Sales Executive,2,26,Male,ServiceNow,Write,Leaver,Yes,8,7,7,4,Travel_Rarely,Yes,3,8,0,80,Critical
+EMP0401,Sales,Sales Executive,2,26,Male,CRM Portal,Write,Leaver,Yes,8,7,7,4,Travel_Rarely,Yes,3,8,0,80,Critical
+EMP0405,Research & Development,Laboratory Technician,1,18,Male,Active Directory,Read,Leaver,Yes,0,0,0,0,Travel_Rarely,No,3,0,2,60,High
+EMP0405,Research & Development,Laboratory Technician,1,18,Male,SAP,Read,Leaver,Yes,0,0,0,0,Travel_Rarely,No,3,0,2,60,High
+EMP0405,Research & Development,Laboratory Technician,1,18,Male,SharePoint,Read,Leaver,Yes,0,0,0,0,Travel_Rarely,No,3,0,2,60,High
+EMP0405,Research & Development,Laboratory Technician,1,18,Male,ServiceNow,Read,Leaver,Yes,0,0,0,0,Travel_Rarely,No,3,0,2,60,High
+EMP0405,Research & Development,Laboratory Technician,1,18,Male,Lab Systems,Read,Leaver,Yes,0,0,0,0,Travel_Rarely,No,3,0,2,60,High
+EMP0433,Research & Development,Research Scientist,2,52,Male,Active Directory,Write,Leaver,Yes,8,2,7,7,Travel_Rarely,No,3,11,3,70,Critical
+EMP0433,Research & Development,Research Scientist,2,52,Male,SAP,Write,Leaver,Yes,8,2,7,7,Travel_Rarely,No,3,11,3,70,Critical
+EMP0433,Research & Development,Research Scientist,2,52,Male,SharePoint,Write,Leaver,Yes,8,2,7,7,Travel_Rarely,No,3,11,3,70,Critical
+EMP0433,Research & Development,Research Scientist,2,52,Male,ServiceNow,Write,Leaver,Yes,8,2,7,7,Travel_Rarely,No,3,11,3,70,Critical
+EMP0433,Research & Development,Research Scientist,2,52,Male,Lab Systems,Write,Leaver,Yes,8,2,7,7,Travel_Rarely,No,3,11,3,70,Critical
+EMP0440,Research & Development,Research Scientist,1,28,Male,Active Directory,Write,Leaver,Yes,3,2,2,2,Travel_Rarely,Yes,3,5,4,70,Critical
+EMP0440,Research & Development,Research Scientist,1,28,Male,SAP,Write,Leaver,Yes,3,2,2,2,Travel_Rarely,Yes,3,5,4,70,Critical
+EMP0440,Research & Development,Research Scientist,1,28,Male,SharePoint,Write,Leaver,Yes,3,2,2,2,Travel_Rarely,Yes,3,5,4,70,Critical
+EMP0440,Research & Development,Research Scientist,1,28,Male,ServiceNow,Write,Leaver,Yes,3,2,2,2,Travel_Rarely,Yes,3,5,4,70,Critical
+EMP0440,Research & Development,Research Scientist,1,28,Male,Lab Systems,Write,Leaver,Yes,3,2,2,2,Travel_Rarely,Yes,3,5,4,70,Critical
+EMP0445,Sales,Sales Executive,2,39,Female,Active Directory,Write,Leaver,Yes,1,0,0,0,Travel_Rarely,Yes,3,12,3,80,Critical
+EMP0445,Sales,Sales Executive,2,39,Female,Salesforce,Write,Leaver,Yes,1,0,0,0,Travel_Rarely,Yes,3,12,3,80,Critical
+EMP0445,Sales,Sales Executive,2,39,Female,SharePoint,Write,Leaver,Yes,1,0,0,0,Travel_Rarely,Yes,3,12,3,80,Critical
+EMP0445,Sales,Sales Executive,2,39,Female,ServiceNow,Write,Leaver,Yes,1,0,0,0,Travel_Rarely,Yes,3,12,3,80,Critical
+EMP0445,Sales,Sales Executive,2,39,Female,CRM Portal,Write,Leaver,Yes,1,0,0,0,Travel_Rarely,Yes,3,12,3,80,Critical
+EMP0454,Research & Development,Laboratory Technician,1,29,Male,Active Directory,Read,Leaver,Yes,7,7,0,7,Travel_Rarely,Yes,3,7,4,70,Critical
+EMP0454,Research & Development,Laboratory Technician,1,29,Male,SAP,Read,Leaver,Yes,7,7,0,7,Travel_Rarely,Yes,3,7,4,70,Critical
+EMP0454,Research & Development,Laboratory Technician,1,29,Male,SharePoint,Read,Leaver,Yes,7,7,0,7,Travel_Rarely,Yes,3,7,4,70,Critical
+EMP0454,Research & Development,Laboratory Technician,1,29,Male,ServiceNow,Read,Leaver,Yes,7,7,0,7,Travel_Rarely,Yes,3,7,4,70,Critical
+EMP0454,Research & Development,Laboratory Technician,1,29,Male,Lab Systems,Read,Leaver,Yes,7,7,0,7,Travel_Rarely,Yes,3,7,4,70,Critical
+EMP0478,Sales,Sales Representative,1,21,Female,Active Directory,Read,Leaver,Yes,3,2,1,2,Travel_Frequently,Yes,3,3,3,65,High
+EMP0478,Sales,Sales Representative,1,21,Female,Salesforce,Read,Leaver,Yes,3,2,1,2,Travel_Frequently,Yes,3,3,3,65,High
+EMP0478,Sales,Sales Representative,1,21,Female,SharePoint,Read,Leaver,Yes,3,2,1,2,Travel_Frequently,Yes,3,3,3,65,High
+EMP0478,Sales,Sales Representative,1,21,Female,ServiceNow,Read,Leaver,Yes,3,2,1,2,Travel_Frequently,Yes,3,3,3,65,High
+EMP0478,Sales,Sales Representative,1,21,Female,CRM Portal,Read,Leaver,Yes,3,2,1,2,Travel_Frequently,Yes,3,3,3,65,High
+EMP0485,Sales,Sales Representative,1,33,Female,Active Directory,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,Yes,3,1,2,70,Critical
+EMP0485,Sales,Sales Representative,1,33,Female,Salesforce,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,Yes,3,1,2,70,Critical
+EMP0485,Sales,Sales Representative,1,33,Female,SharePoint,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,Yes,3,1,2,70,Critical
+EMP0485,Sales,Sales Representative,1,33,Female,ServiceNow,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,Yes,3,1,2,70,Critical
+EMP0485,Sales,Sales Representative,1,33,Female,CRM Portal,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,Yes,3,1,2,70,Critical
+EMP0488,Sales,Sales Executive,2,41,Male,Active Directory,Write,Leaver,Yes,8,7,7,7,Travel_Frequently,No,3,8,5,75,Critical
+EMP0488,Sales,Sales Executive,2,41,Male,Salesforce,Write,Leaver,Yes,8,7,7,7,Travel_Frequently,No,3,8,5,75,Critical
+EMP0488,Sales,Sales Executive,2,41,Male,SharePoint,Write,Leaver,Yes,8,7,7,7,Travel_Frequently,No,3,8,5,75,Critical
+EMP0488,Sales,Sales Executive,2,41,Male,ServiceNow,Write,Leaver,Yes,8,7,7,7,Travel_Frequently,No,3,8,5,75,Critical
+EMP0488,Sales,Sales Executive,2,41,Male,CRM Portal,Write,Leaver,Yes,8,7,7,7,Travel_Frequently,No,3,8,5,75,Critical
+EMP0492,Sales,Sales Executive,2,40,Male,Active Directory,Write,Leaver,Yes,6,4,1,0,Travel_Rarely,Yes,3,8,6,90,Critical
+EMP0492,Sales,Sales Executive,2,40,Male,Salesforce,Write,Leaver,Yes,6,4,1,0,Travel_Rarely,Yes,3,8,6,90,Critical
+EMP0492,Sales,Sales Executive,2,40,Male,SharePoint,Write,Leaver,Yes,6,4,1,0,Travel_Rarely,Yes,3,8,6,90,Critical
+EMP0492,Sales,Sales Executive,2,40,Male,ServiceNow,Write,Leaver,Yes,6,4,1,0,Travel_Rarely,Yes,3,8,6,90,Critical
+EMP0492,Sales,Sales Executive,2,40,Male,CRM Portal,Write,Leaver,Yes,6,4,1,0,Travel_Rarely,Yes,3,8,6,90,Critical
+EMP0494,Sales,Sales Representative,1,21,Female,Active Directory,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,No,3,1,0,60,High
+EMP0494,Sales,Sales Representative,1,21,Female,Salesforce,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,No,3,1,0,60,High
+EMP0494,Sales,Sales Representative,1,21,Female,SharePoint,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,No,3,1,0,60,High
+EMP0494,Sales,Sales Representative,1,21,Female,ServiceNow,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,No,3,1,0,60,High
+EMP0494,Sales,Sales Representative,1,21,Female,CRM Portal,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,No,3,1,0,60,High
+EMP0502,Sales,Sales Executive,2,34,Male,Active Directory,Write,Leaver,Yes,5,2,0,4,Non-Travel,Yes,3,9,3,65,High
+EMP0502,Sales,Sales Executive,2,34,Male,Salesforce,Write,Leaver,Yes,5,2,0,4,Non-Travel,Yes,3,9,3,65,High
+EMP0502,Sales,Sales Executive,2,34,Male,SharePoint,Write,Leaver,Yes,5,2,0,4,Non-Travel,Yes,3,9,3,65,High
+EMP0502,Sales,Sales Executive,2,34,Male,ServiceNow,Write,Leaver,Yes,5,2,0,4,Non-Travel,Yes,3,9,3,65,High
+EMP0502,Sales,Sales Executive,2,34,Male,CRM Portal,Write,Leaver,Yes,5,2,0,4,Non-Travel,Yes,3,9,3,65,High
+EMP0510,Research & Development,Research Scientist,1,26,Male,Active Directory,Write,Leaver,Yes,6,4,0,4,Travel_Frequently,No,4,7,2,75,Critical
+EMP0510,Research & Development,Research Scientist,1,26,Male,SAP,Write,Leaver,Yes,6,4,0,4,Travel_Frequently,No,4,7,2,75,Critical
+EMP0510,Research & Development,Research Scientist,1,26,Male,SharePoint,Write,Leaver,Yes,6,4,0,4,Travel_Frequently,No,4,7,2,75,Critical
+EMP0510,Research & Development,Research Scientist,1,26,Male,ServiceNow,Write,Leaver,Yes,6,4,0,4,Travel_Frequently,No,4,7,2,75,Critical
+EMP0510,Research & Development,Research Scientist,1,26,Male,Lab Systems,Write,Leaver,Yes,6,4,0,4,Travel_Frequently,No,4,7,2,75,Critical
+EMP0514,Research & Development,Research Scientist,1,30,Male,Active Directory,Write,Leaver,Yes,1,0,0,0,Travel_Frequently,Yes,4,3,4,85,Critical
+EMP0514,Research & Development,Research Scientist,1,30,Male,SAP,Write,Leaver,Yes,1,0,0,0,Travel_Frequently,Yes,4,3,4,85,Critical
+EMP0514,Research & Development,Research Scientist,1,30,Male,SharePoint,Write,Leaver,Yes,1,0,0,0,Travel_Frequently,Yes,4,3,4,85,Critical
+EMP0514,Research & Development,Research Scientist,1,30,Male,ServiceNow,Write,Leaver,Yes,1,0,0,0,Travel_Frequently,Yes,4,3,4,85,Critical
+EMP0514,Research & Development,Research Scientist,1,30,Male,Lab Systems,Write,Leaver,Yes,1,0,0,0,Travel_Frequently,Yes,4,3,4,85,Critical
+EMP0538,Research & Development,Laboratory Technician,1,25,Male,Active Directory,Read,Leaver,Yes,2,2,0,2,Travel_Rarely,No,3,6,5,50,High
+EMP0538,Research & Development,Laboratory Technician,1,25,Male,SAP,Read,Leaver,Yes,2,2,0,2,Travel_Rarely,No,3,6,5,50,High
+EMP0538,Research & Development,Laboratory Technician,1,25,Male,SharePoint,Read,Leaver,Yes,2,2,0,2,Travel_Rarely,No,3,6,5,50,High
+EMP0538,Research & Development,Laboratory Technician,1,25,Male,ServiceNow,Read,Leaver,Yes,2,2,0,2,Travel_Rarely,No,3,6,5,50,High
+EMP0538,Research & Development,Laboratory Technician,1,25,Male,Lab Systems,Read,Leaver,Yes,2,2,0,2,Travel_Rarely,No,3,6,5,50,High
+EMP0554,Sales,Sales Representative,1,24,Female,Active Directory,Read,Leaver,Yes,5,3,1,4,Travel_Rarely,Yes,3,6,4,60,High
+EMP0554,Sales,Sales Representative,1,24,Female,Salesforce,Read,Leaver,Yes,5,3,1,4,Travel_Rarely,Yes,3,6,4,60,High
+EMP0554,Sales,Sales Representative,1,24,Female,SharePoint,Read,Leaver,Yes,5,3,1,4,Travel_Rarely,Yes,3,6,4,60,High
+EMP0554,Sales,Sales Representative,1,24,Female,ServiceNow,Read,Leaver,Yes,5,3,1,4,Travel_Rarely,Yes,3,6,4,60,High
+EMP0554,Sales,Sales Representative,1,24,Female,CRM Portal,Read,Leaver,Yes,5,3,1,4,Travel_Rarely,Yes,3,6,4,60,High
+EMP0555,Sales,Sales Representative,1,34,Female,Active Directory,Read,Leaver,Yes,2,2,1,0,Travel_Frequently,No,3,3,3,65,High
+EMP0555,Sales,Sales Representative,1,34,Female,Salesforce,Read,Leaver,Yes,2,2,1,0,Travel_Frequently,No,3,3,3,65,High
+EMP0555,Sales,Sales Representative,1,34,Female,SharePoint,Read,Leaver,Yes,2,2,1,0,Travel_Frequently,No,3,3,3,65,High
+EMP0555,Sales,Sales Representative,1,34,Female,ServiceNow,Read,Leaver,Yes,2,2,1,0,Travel_Frequently,No,3,3,3,65,High
+EMP0555,Sales,Sales Representative,1,34,Female,CRM Portal,Read,Leaver,Yes,2,2,1,0,Travel_Frequently,No,3,3,3,65,High
+EMP0565,Research & Development,Research Scientist,1,29,Female,Active Directory,Write,Leaver,Yes,2,2,1,1,Travel_Rarely,No,3,6,2,70,Critical
+EMP0565,Research & Development,Research Scientist,1,29,Female,SAP,Write,Leaver,Yes,2,2,1,1,Travel_Rarely,No,3,6,2,70,Critical
+EMP0565,Research & Development,Research Scientist,1,29,Female,SharePoint,Write,Leaver,Yes,2,2,1,1,Travel_Rarely,No,3,6,2,70,Critical
+EMP0565,Research & Development,Research Scientist,1,29,Female,ServiceNow,Write,Leaver,Yes,2,2,1,1,Travel_Rarely,No,3,6,2,70,Critical
+EMP0565,Research & Development,Research Scientist,1,29,Female,Lab Systems,Write,Leaver,Yes,2,2,1,1,Travel_Rarely,No,3,6,2,70,Critical
+EMP0566,Human Resources,Human Resources,1,19,Male,Active Directory,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,No,3,1,3,60,High
+EMP0566,Human Resources,Human Resources,1,19,Male,Workday,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,No,3,1,3,60,High
+EMP0566,Human Resources,Human Resources,1,19,Male,SharePoint,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,No,3,1,3,60,High
+EMP0566,Human Resources,Human Resources,1,19,Male,ServiceNow,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,No,3,1,3,60,High
+EMP0566,Human Resources,Human Resources,1,19,Male,HR Portal,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,No,3,1,3,60,High
+EMP0582,Research & Development,Manager,3,33,Male,Active Directory,Write,Leaver,Yes,7,6,7,7,Travel_Rarely,Yes,3,15,2,80,Critical
+EMP0582,Research & Development,Manager,3,33,Male,SAP,Write,Leaver,Yes,7,6,7,7,Travel_Rarely,Yes,3,15,2,80,Critical
+EMP0582,Research & Development,Manager,3,33,Male,SharePoint,Write,Leaver,Yes,7,6,7,7,Travel_Rarely,Yes,3,15,2,80,Critical
+EMP0582,Research & Development,Manager,3,33,Male,ServiceNow,Write,Leaver,Yes,7,6,7,7,Travel_Rarely,Yes,3,15,2,80,Critical
+EMP0582,Research & Development,Manager,3,33,Male,Lab Systems,Write,Leaver,Yes,7,6,7,7,Travel_Rarely,Yes,3,15,2,80,Critical
+EMP0584,Research & Development,Laboratory Technician,1,33,Male,Active Directory,Read,Leaver,Yes,4,3,1,3,Travel_Rarely,No,3,8,2,50,High
+EMP0584,Research & Development,Laboratory Technician,1,33,Male,SAP,Read,Leaver,Yes,4,3,1,3,Travel_Rarely,No,3,8,2,50,High
+EMP0584,Research & Development,Laboratory Technician,1,33,Male,SharePoint,Read,Leaver,Yes,4,3,1,3,Travel_Rarely,No,3,8,2,50,High
+EMP0584,Research & Development,Laboratory Technician,1,33,Male,ServiceNow,Read,Leaver,Yes,4,3,1,3,Travel_Rarely,No,3,8,2,50,High
+EMP0584,Research & Development,Laboratory Technician,1,33,Male,Lab Systems,Read,Leaver,Yes,4,3,1,3,Travel_Rarely,No,3,8,2,50,High
+EMP0587,Research & Development,Healthcare Representative,3,31,Male,Active Directory,Read,Leaver,Yes,1,0,0,0,Travel_Frequently,No,3,12,2,65,High
+EMP0587,Research & Development,Healthcare Representative,3,31,Male,SAP,Read,Leaver,Yes,1,0,0,0,Travel_Frequently,No,3,12,2,65,High
+EMP0587,Research & Development,Healthcare Representative,3,31,Male,SharePoint,Read,Leaver,Yes,1,0,0,0,Travel_Frequently,No,3,12,2,65,High
+EMP0587,Research & Development,Healthcare Representative,3,31,Male,ServiceNow,Read,Leaver,Yes,1,0,0,0,Travel_Frequently,No,3,12,2,65,High
+EMP0587,Research & Development,Healthcare Representative,3,31,Male,Lab Systems,Read,Leaver,Yes,1,0,0,0,Travel_Frequently,No,3,12,2,65,High
+EMP0590,Human Resources,Human Resources,3,34,Female,Active Directory,Read,Leaver,Yes,3,2,0,2,Travel_Frequently,Yes,3,11,2,65,High
+EMP0590,Human Resources,Human Resources,3,34,Female,Workday,Read,Leaver,Yes,3,2,0,2,Travel_Frequently,Yes,3,11,2,65,High
+EMP0590,Human Resources,Human Resources,3,34,Female,SharePoint,Read,Leaver,Yes,3,2,0,2,Travel_Frequently,Yes,3,11,2,65,High
+EMP0590,Human Resources,Human Resources,3,34,Female,ServiceNow,Read,Leaver,Yes,3,2,0,2,Travel_Frequently,Yes,3,11,2,65,High
+EMP0590,Human Resources,Human Resources,3,34,Female,HR Portal,Read,Leaver,Yes,3,2,0,2,Travel_Frequently,Yes,3,11,2,65,High
+EMP0593,Research & Development,Laboratory Technician,1,22,Male,Active Directory,Read,Leaver,Yes,2,2,1,2,Travel_Frequently,No,3,4,3,55,High
+EMP0593,Research & Development,Laboratory Technician,1,22,Male,SAP,Read,Leaver,Yes,2,2,1,2,Travel_Frequently,No,3,4,3,55,High
+EMP0593,Research & Development,Laboratory Technician,1,22,Male,SharePoint,Read,Leaver,Yes,2,2,1,2,Travel_Frequently,No,3,4,3,55,High
+EMP0593,Research & Development,Laboratory Technician,1,22,Male,ServiceNow,Read,Leaver,Yes,2,2,1,2,Travel_Frequently,No,3,4,3,55,High
+EMP0593,Research & Development,Laboratory Technician,1,22,Male,Lab Systems,Read,Leaver,Yes,2,2,1,2,Travel_Frequently,No,3,4,3,55,High
+EMP0608,Human Resources,Human Resources,1,26,Female,Active Directory,Read,Leaver,Yes,7,7,1,0,Travel_Frequently,Yes,3,8,2,85,Critical
+EMP0608,Human Resources,Human Resources,1,26,Female,Workday,Read,Leaver,Yes,7,7,1,0,Travel_Frequently,Yes,3,8,2,85,Critical
+EMP0608,Human Resources,Human Resources,1,26,Female,SharePoint,Read,Leaver,Yes,7,7,1,0,Travel_Frequently,Yes,3,8,2,85,Critical
+EMP0608,Human Resources,Human Resources,1,26,Female,ServiceNow,Read,Leaver,Yes,7,7,1,0,Travel_Frequently,Yes,3,8,2,85,Critical
+EMP0608,Human Resources,Human Resources,1,26,Female,HR Portal,Read,Leaver,Yes,7,7,1,0,Travel_Frequently,Yes,3,8,2,85,Critical
+EMP0614,Sales,Sales Representative,1,18,Male,Active Directory,Read,Leaver,Yes,0,0,0,0,Travel_Frequently,Yes,3,0,3,75,Critical
+EMP0614,Sales,Sales Representative,1,18,Male,Salesforce,Read,Leaver,Yes,0,0,0,0,Travel_Frequently,Yes,3,0,3,75,Critical
+EMP0614,Sales,Sales Representative,1,18,Male,SharePoint,Read,Leaver,Yes,0,0,0,0,Travel_Frequently,Yes,3,0,3,75,Critical
+EMP0614,Sales,Sales Representative,1,18,Male,ServiceNow,Read,Leaver,Yes,0,0,0,0,Travel_Frequently,Yes,3,0,3,75,Critical
+EMP0614,Sales,Sales Representative,1,18,Male,CRM Portal,Read,Leaver,Yes,0,0,0,0,Travel_Frequently,Yes,3,0,3,75,Critical
+EMP0622,Research & Development,Laboratory Technician,1,26,Male,Active Directory,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,Yes,3,1,3,70,Critical
+EMP0622,Research & Development,Laboratory Technician,1,26,Male,SAP,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,Yes,3,1,3,70,Critical
+EMP0622,Research & Development,Laboratory Technician,1,26,Male,SharePoint,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,Yes,3,1,3,70,Critical
+EMP0622,Research & Development,Laboratory Technician,1,26,Male,ServiceNow,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,Yes,3,1,3,70,Critical
+EMP0622,Research & Development,Laboratory Technician,1,26,Male,Lab Systems,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,Yes,3,1,3,70,Critical
+EMP0631,Sales,Sales Executive,2,32,Male,Active Directory,Write,Leaver,Yes,4,2,1,2,Non-Travel,No,3,6,2,55,High
+EMP0631,Sales,Sales Executive,2,32,Male,Salesforce,Write,Leaver,Yes,4,2,1,2,Non-Travel,No,3,6,2,55,High
+EMP0631,Sales,Sales Executive,2,32,Male,SharePoint,Write,Leaver,Yes,4,2,1,2,Non-Travel,No,3,6,2,55,High
+EMP0631,Sales,Sales Executive,2,32,Male,ServiceNow,Write,Leaver,Yes,4,2,1,2,Non-Travel,No,3,6,2,55,High
+EMP0631,Sales,Sales Executive,2,32,Male,CRM Portal,Write,Leaver,Yes,4,2,1,2,Non-Travel,No,3,6,2,55,High
+EMP0647,Research & Development,Laboratory Technician,1,24,Female,Active Directory,Read,Leaver,Yes,6,3,1,2,Travel_Frequently,Yes,3,6,4,75,Critical
+EMP0647,Research & Development,Laboratory Technician,1,24,Female,SAP,Read,Leaver,Yes,6,3,1,2,Travel_Frequently,Yes,3,6,4,75,Critical
+EMP0647,Research & Development,Laboratory Technician,1,24,Female,SharePoint,Read,Leaver,Yes,6,3,1,2,Travel_Frequently,Yes,3,6,4,75,Critical
+EMP0647,Research & Development,Laboratory Technician,1,24,Female,ServiceNow,Read,Leaver,Yes,6,3,1,2,Travel_Frequently,Yes,3,6,4,75,Critical
+EMP0647,Research & Development,Laboratory Technician,1,24,Female,Lab Systems,Read,Leaver,Yes,6,3,1,2,Travel_Frequently,Yes,3,6,4,75,Critical
+EMP0648,Sales,Sales Representative,1,30,Male,Active Directory,Read,Leaver,Yes,1,0,0,0,Travel_Frequently,No,3,1,2,65,High
+EMP0648,Sales,Sales Representative,1,30,Male,Salesforce,Read,Leaver,Yes,1,0,0,0,Travel_Frequently,No,3,1,2,65,High
+EMP0648,Sales,Sales Representative,1,30,Male,SharePoint,Read,Leaver,Yes,1,0,0,0,Travel_Frequently,No,3,1,2,65,High
+EMP0648,Sales,Sales Representative,1,30,Male,ServiceNow,Read,Leaver,Yes,1,0,0,0,Travel_Frequently,No,3,1,2,65,High
+EMP0648,Sales,Sales Representative,1,30,Male,CRM Portal,Read,Leaver,Yes,1,0,0,0,Travel_Frequently,No,3,1,2,65,High
+EMP0650,Sales,Sales Executive,2,31,Male,Active Directory,Write,Leaver,Yes,3,1,1,2,Travel_Rarely,No,3,9,2,60,High
+EMP0650,Sales,Sales Executive,2,31,Male,Salesforce,Write,Leaver,Yes,3,1,1,2,Travel_Rarely,No,3,9,2,60,High
+EMP0650,Sales,Sales Executive,2,31,Male,SharePoint,Write,Leaver,Yes,3,1,1,2,Travel_Rarely,No,3,9,2,60,High
+EMP0650,Sales,Sales Executive,2,31,Male,ServiceNow,Write,Leaver,Yes,3,1,1,2,Travel_Rarely,No,3,9,2,60,High
+EMP0650,Sales,Sales Executive,2,31,Male,CRM Portal,Write,Leaver,Yes,3,1,1,2,Travel_Rarely,No,3,9,2,60,High
+EMP0667,Sales,Sales Representative,1,27,Male,Active Directory,Read,Leaver,Yes,4,3,0,2,Travel_Rarely,No,3,5,3,50,High
+EMP0667,Sales,Sales Representative,1,27,Male,Salesforce,Read,Leaver,Yes,4,3,0,2,Travel_Rarely,No,3,5,3,50,High
+EMP0667,Sales,Sales Representative,1,27,Male,SharePoint,Read,Leaver,Yes,4,3,0,2,Travel_Rarely,No,3,5,3,50,High
+EMP0667,Sales,Sales Representative,1,27,Male,ServiceNow,Read,Leaver,Yes,4,3,0,2,Travel_Rarely,No,3,5,3,50,High
+EMP0667,Sales,Sales Representative,1,27,Male,CRM Portal,Read,Leaver,Yes,4,3,0,2,Travel_Rarely,No,3,5,3,50,High
+EMP0684,Sales,Sales Executive,2,45,Female,Active Directory,Write,Leaver,Yes,1,1,0,0,Travel_Frequently,No,3,5,4,75,Critical
+EMP0684,Sales,Sales Executive,2,45,Female,Salesforce,Write,Leaver,Yes,1,1,0,0,Travel_Frequently,No,3,5,4,75,Critical
+EMP0684,Sales,Sales Executive,2,45,Female,SharePoint,Write,Leaver,Yes,1,1,0,0,Travel_Frequently,No,3,5,4,75,Critical
+EMP0684,Sales,Sales Executive,2,45,Female,ServiceNow,Write,Leaver,Yes,1,1,0,0,Travel_Frequently,No,3,5,4,75,Critical
+EMP0684,Sales,Sales Executive,2,45,Female,CRM Portal,Write,Leaver,Yes,1,1,0,0,Travel_Frequently,No,3,5,4,75,Critical
+EMP0701,Research & Development,Research Scientist,1,20,Male,Active Directory,Write,Leaver,Yes,1,0,1,1,Travel_Rarely,Yes,3,1,5,80,Critical
+EMP0701,Research & Development,Research Scientist,1,20,Male,SAP,Write,Leaver,Yes,1,0,1,1,Travel_Rarely,Yes,3,1,5,80,Critical
+EMP0701,Research & Development,Research Scientist,1,20,Male,SharePoint,Write,Leaver,Yes,1,0,1,1,Travel_Rarely,Yes,3,1,5,80,Critical
+EMP0701,Research & Development,Research Scientist,1,20,Male,ServiceNow,Write,Leaver,Yes,1,0,1,1,Travel_Rarely,Yes,3,1,5,80,Critical
+EMP0701,Research & Development,Research Scientist,1,20,Male,Lab Systems,Write,Leaver,Yes,1,0,1,1,Travel_Rarely,Yes,3,1,5,80,Critical
+EMP0702,Research & Development,Research Scientist,1,33,Male,Active Directory,Write,Leaver,Yes,10,8,9,7,Travel_Frequently,Yes,3,10,3,85,Critical
+EMP0702,Research & Development,Research Scientist,1,33,Male,SAP,Write,Leaver,Yes,10,8,9,7,Travel_Frequently,Yes,3,10,3,85,Critical
+EMP0702,Research & Development,Research Scientist,1,33,Male,SharePoint,Write,Leaver,Yes,10,8,9,7,Travel_Frequently,Yes,3,10,3,85,Critical
+EMP0702,Research & Development,Research Scientist,1,33,Male,ServiceNow,Write,Leaver,Yes,10,8,9,7,Travel_Frequently,Yes,3,10,3,85,Critical
+EMP0702,Research & Development,Research Scientist,1,33,Male,Lab Systems,Write,Leaver,Yes,10,8,9,7,Travel_Frequently,Yes,3,10,3,85,Critical
+EMP0720,Sales,Sales Executive,2,24,Female,Active Directory,Write,Leaver,Yes,2,2,2,0,Travel_Rarely,No,3,4,3,70,Critical
+EMP0720,Sales,Sales Executive,2,24,Female,Salesforce,Write,Leaver,Yes,2,2,2,0,Travel_Rarely,No,3,4,3,70,Critical
+EMP0720,Sales,Sales Executive,2,24,Female,SharePoint,Write,Leaver,Yes,2,2,2,0,Travel_Rarely,No,3,4,3,70,Critical
+EMP0720,Sales,Sales Executive,2,24,Female,ServiceNow,Write,Leaver,Yes,2,2,2,0,Travel_Rarely,No,3,4,3,70,Critical
+EMP0720,Sales,Sales Executive,2,24,Female,CRM Portal,Write,Leaver,Yes,2,2,2,0,Travel_Rarely,No,3,4,3,70,Critical
+EMP0723,Sales,Sales Executive,2,50,Male,Active Directory,Write,Leaver,Yes,4,3,1,3,Travel_Frequently,Yes,3,18,4,75,Critical
+EMP0723,Sales,Sales Executive,2,50,Male,Salesforce,Write,Leaver,Yes,4,3,1,3,Travel_Frequently,Yes,3,18,4,75,Critical
+EMP0723,Sales,Sales Executive,2,50,Male,SharePoint,Write,Leaver,Yes,4,3,1,3,Travel_Frequently,Yes,3,18,4,75,Critical
+EMP0723,Sales,Sales Executive,2,50,Male,ServiceNow,Write,Leaver,Yes,4,3,1,3,Travel_Frequently,Yes,3,18,4,75,Critical
+EMP0723,Sales,Sales Executive,2,50,Male,CRM Portal,Write,Leaver,Yes,4,3,1,3,Travel_Frequently,Yes,3,18,4,75,Critical
+EMP0741,Research & Development,Research Scientist,1,28,Female,Active Directory,Write,Leaver,Yes,7,7,3,7,Travel_Rarely,Yes,3,10,4,80,Critical
+EMP0741,Research & Development,Research Scientist,1,28,Female,SAP,Write,Leaver,Yes,7,7,3,7,Travel_Rarely,Yes,3,10,4,80,Critical
+EMP0741,Research & Development,Research Scientist,1,28,Female,SharePoint,Write,Leaver,Yes,7,7,3,7,Travel_Rarely,Yes,3,10,4,80,Critical
+EMP0741,Research & Development,Research Scientist,1,28,Female,ServiceNow,Write,Leaver,Yes,7,7,3,7,Travel_Rarely,Yes,3,10,4,80,Critical
+EMP0741,Research & Development,Research Scientist,1,28,Female,Lab Systems,Write,Leaver,Yes,7,7,3,7,Travel_Rarely,Yes,3,10,4,80,Critical
+EMP0752,Research & Development,Research Scientist,1,42,Male,Active Directory,Write,Leaver,Yes,2,2,2,2,Travel_Frequently,Yes,3,7,2,75,Critical
+EMP0752,Research & Development,Research Scientist,1,42,Male,SAP,Write,Leaver,Yes,2,2,2,2,Travel_Frequently,Yes,3,7,2,75,Critical
+EMP0752,Research & Development,Research Scientist,1,42,Male,SharePoint,Write,Leaver,Yes,2,2,2,2,Travel_Frequently,Yes,3,7,2,75,Critical
+EMP0752,Research & Development,Research Scientist,1,42,Male,ServiceNow,Write,Leaver,Yes,2,2,2,2,Travel_Frequently,Yes,3,7,2,75,Critical
+EMP0752,Research & Development,Research Scientist,1,42,Male,Lab Systems,Write,Leaver,Yes,2,2,2,2,Travel_Frequently,Yes,3,7,2,75,Critical
+EMP0780,Research & Development,Research Scientist,1,33,Male,Active Directory,Write,Leaver,Yes,10,9,7,8,Travel_Rarely,Yes,3,10,2,80,Critical
+EMP0780,Research & Development,Research Scientist,1,33,Male,SAP,Write,Leaver,Yes,10,9,7,8,Travel_Rarely,Yes,3,10,2,80,Critical
+EMP0780,Research & Development,Research Scientist,1,33,Male,SharePoint,Write,Leaver,Yes,10,9,7,8,Travel_Rarely,Yes,3,10,2,80,Critical
+EMP0780,Research & Development,Research Scientist,1,33,Male,ServiceNow,Write,Leaver,Yes,10,9,7,8,Travel_Rarely,Yes,3,10,2,80,Critical
+EMP0780,Research & Development,Research Scientist,1,33,Male,Lab Systems,Write,Leaver,Yes,10,9,7,8,Travel_Rarely,Yes,3,10,2,80,Critical
+EMP0785,Sales,Sales Executive,2,47,Female,Active Directory,Write,Leaver,Yes,5,4,1,3,Travel_Frequently,Yes,3,8,2,75,Critical
+EMP0785,Sales,Sales Executive,2,47,Female,Salesforce,Write,Leaver,Yes,5,4,1,3,Travel_Frequently,Yes,3,8,2,75,Critical
+EMP0785,Sales,Sales Executive,2,47,Female,SharePoint,Write,Leaver,Yes,5,4,1,3,Travel_Frequently,Yes,3,8,2,75,Critical
+EMP0785,Sales,Sales Executive,2,47,Female,ServiceNow,Write,Leaver,Yes,5,4,1,3,Travel_Frequently,Yes,3,8,2,75,Critical
+EMP0785,Sales,Sales Executive,2,47,Female,CRM Portal,Write,Leaver,Yes,5,4,1,3,Travel_Frequently,Yes,3,8,2,75,Critical
+EMP0787,Research & Development,Manager,5,55,Male,Active Directory,Write,Leaver,Yes,5,2,1,4,Travel_Rarely,Yes,3,24,2,70,Critical
+EMP0787,Research & Development,Manager,5,55,Male,SAP,Write,Leaver,Yes,5,2,1,4,Travel_Rarely,Yes,3,24,2,70,Critical
+EMP0787,Research & Development,Manager,5,55,Male,SharePoint,Write,Leaver,Yes,5,2,1,4,Travel_Rarely,Yes,3,24,2,70,Critical
+EMP0787,Research & Development,Manager,5,55,Male,ServiceNow,Write,Leaver,Yes,5,2,1,4,Travel_Rarely,Yes,3,24,2,70,Critical
+EMP0787,Research & Development,Manager,5,55,Male,Lab Systems,Write,Leaver,Yes,5,2,1,4,Travel_Rarely,Yes,3,24,2,70,Critical
+EMP0796,Sales,Sales Executive,2,26,Male,Active Directory,Write,Leaver,Yes,4,3,1,2,Travel_Rarely,No,3,6,2,60,High
+EMP0796,Sales,Sales Executive,2,26,Male,Salesforce,Write,Leaver,Yes,4,3,1,2,Travel_Rarely,No,3,6,2,60,High
+EMP0796,Sales,Sales Executive,2,26,Male,SharePoint,Write,Leaver,Yes,4,3,1,2,Travel_Rarely,No,3,6,2,60,High
+EMP0796,Sales,Sales Executive,2,26,Male,ServiceNow,Write,Leaver,Yes,4,3,1,2,Travel_Rarely,No,3,6,2,60,High
+EMP0796,Sales,Sales Executive,2,26,Male,CRM Portal,Write,Leaver,Yes,4,3,1,2,Travel_Rarely,No,3,6,2,60,High
+EMP0811,Research & Development,Laboratory Technician,1,23,Male,Active Directory,Read,Leaver,Yes,0,0,0,0,Travel_Rarely,Yes,4,1,2,70,Critical
+EMP0811,Research & Development,Laboratory Technician,1,23,Male,SAP,Read,Leaver,Yes,0,0,0,0,Travel_Rarely,Yes,4,1,2,70,Critical
+EMP0811,Research & Development,Laboratory Technician,1,23,Male,SharePoint,Read,Leaver,Yes,0,0,0,0,Travel_Rarely,Yes,4,1,2,70,Critical
+EMP0811,Research & Development,Laboratory Technician,1,23,Male,ServiceNow,Read,Leaver,Yes,0,0,0,0,Travel_Rarely,Yes,4,1,2,70,Critical
+EMP0811,Research & Development,Laboratory Technician,1,23,Male,Lab Systems,Read,Leaver,Yes,0,0,0,0,Travel_Rarely,Yes,4,1,2,70,Critical
+EMP0816,Research & Development,Laboratory Technician,1,29,Female,Active Directory,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,Yes,3,1,1,70,Critical
+EMP0816,Research & Development,Laboratory Technician,1,29,Female,SAP,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,Yes,3,1,1,70,Critical
+EMP0816,Research & Development,Laboratory Technician,1,29,Female,SharePoint,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,Yes,3,1,1,70,Critical
+EMP0816,Research & Development,Laboratory Technician,1,29,Female,ServiceNow,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,Yes,3,1,1,70,Critical
+EMP0816,Research & Development,Laboratory Technician,1,29,Female,Lab Systems,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,Yes,3,1,1,70,Critical
+EMP0819,Sales,Sales Executive,2,33,Female,Active Directory,Write,Leaver,Yes,3,2,0,2,Travel_Rarely,No,3,6,3,60,High
+EMP0819,Sales,Sales Executive,2,33,Female,Salesforce,Write,Leaver,Yes,3,2,0,2,Travel_Rarely,No,3,6,3,60,High
+EMP0819,Sales,Sales Executive,2,33,Female,SharePoint,Write,Leaver,Yes,3,2,0,2,Travel_Rarely,No,3,6,3,60,High
+EMP0819,Sales,Sales Executive,2,33,Female,ServiceNow,Write,Leaver,Yes,3,2,0,2,Travel_Rarely,No,3,6,3,60,High
+EMP0819,Sales,Sales Executive,2,33,Female,CRM Portal,Write,Leaver,Yes,3,2,0,2,Travel_Rarely,No,3,6,3,60,High
+EMP0825,Research & Development,Research Director,5,58,Male,Active Directory,Admin,Leaver,Yes,31,15,13,8,Travel_Rarely,Yes,3,40,2,100,Critical
+EMP0825,Research & Development,Research Director,5,58,Male,SAP,Admin,Leaver,Yes,31,15,13,8,Travel_Rarely,Yes,3,40,2,100,Critical
+EMP0825,Research & Development,Research Director,5,58,Male,SharePoint,Admin,Leaver,Yes,31,15,13,8,Travel_Rarely,Yes,3,40,2,100,Critical
+EMP0825,Research & Development,Research Director,5,58,Male,ServiceNow,Admin,Leaver,Yes,31,15,13,8,Travel_Rarely,Yes,3,40,2,100,Critical
+EMP0825,Research & Development,Research Director,5,58,Male,Lab Systems,Admin,Leaver,Yes,31,15,13,8,Travel_Rarely,Yes,3,40,2,100,Critical
+EMP0828,Research & Development,Research Scientist,1,28,Male,Active Directory,Write,Leaver,Yes,2,2,2,1,Travel_Rarely,No,3,5,3,70,Critical
+EMP0828,Research & Development,Research Scientist,1,28,Male,SAP,Write,Leaver,Yes,2,2,2,1,Travel_Rarely,No,3,5,3,70,Critical
+EMP0828,Research & Development,Research Scientist,1,28,Male,SharePoint,Write,Leaver,Yes,2,2,2,1,Travel_Rarely,No,3,5,3,70,Critical
+EMP0828,Research & Development,Research Scientist,1,28,Male,ServiceNow,Write,Leaver,Yes,2,2,2,1,Travel_Rarely,No,3,5,3,70,Critical
+EMP0828,Research & Development,Research Scientist,1,28,Male,Lab Systems,Write,Leaver,Yes,2,2,2,1,Travel_Rarely,No,3,5,3,70,Critical
+EMP0840,Sales,Sales Executive,3,49,Female,Active Directory,Write,Leaver,Yes,9,8,7,7,Travel_Rarely,No,3,9,3,70,Critical
+EMP0840,Sales,Sales Executive,3,49,Female,Salesforce,Write,Leaver,Yes,9,8,7,7,Travel_Rarely,No,3,9,3,70,Critical
+EMP0840,Sales,Sales Executive,3,49,Female,SharePoint,Write,Leaver,Yes,9,8,7,7,Travel_Rarely,No,3,9,3,70,Critical
+EMP0840,Sales,Sales Executive,3,49,Female,ServiceNow,Write,Leaver,Yes,9,8,7,7,Travel_Rarely,No,3,9,3,70,Critical
+EMP0840,Sales,Sales Executive,3,49,Female,CRM Portal,Write,Leaver,Yes,9,8,7,7,Travel_Rarely,No,3,9,3,70,Critical
+EMP0842,Sales,Sales Executive,2,55,Male,Active Directory,Write,Leaver,Yes,9,7,7,3,Travel_Rarely,No,3,12,3,70,Critical
+EMP0842,Sales,Sales Executive,2,55,Male,Salesforce,Write,Leaver,Yes,9,7,7,3,Travel_Rarely,No,3,12,3,70,Critical
+EMP0842,Sales,Sales Executive,2,55,Male,SharePoint,Write,Leaver,Yes,9,7,7,3,Travel_Rarely,No,3,12,3,70,Critical
+EMP0842,Sales,Sales Executive,2,55,Male,ServiceNow,Write,Leaver,Yes,9,7,7,3,Travel_Rarely,No,3,12,3,70,Critical
+EMP0842,Sales,Sales Executive,2,55,Male,CRM Portal,Write,Leaver,Yes,9,7,7,3,Travel_Rarely,No,3,12,3,70,Critical
+EMP0848,Research & Development,Research Scientist,1,26,Female,Active Directory,Write,Leaver,Yes,8,7,1,7,Travel_Frequently,Yes,3,8,2,85,Critical
+EMP0848,Research & Development,Research Scientist,1,26,Female,SAP,Write,Leaver,Yes,8,7,1,7,Travel_Frequently,Yes,3,8,2,85,Critical
+EMP0848,Research & Development,Research Scientist,1,26,Female,SharePoint,Write,Leaver,Yes,8,7,1,7,Travel_Frequently,Yes,3,8,2,85,Critical
+EMP0848,Research & Development,Research Scientist,1,26,Female,ServiceNow,Write,Leaver,Yes,8,7,1,7,Travel_Frequently,Yes,3,8,2,85,Critical
+EMP0848,Research & Development,Research Scientist,1,26,Female,Lab Systems,Write,Leaver,Yes,8,7,1,7,Travel_Frequently,Yes,3,8,2,85,Critical
+EMP0881,Research & Development,Research Scientist,1,35,Female,Active Directory,Write,Leaver,Yes,10,2,7,8,Travel_Frequently,Yes,3,10,3,85,Critical
+EMP0881,Research & Development,Research Scientist,1,35,Female,SAP,Write,Leaver,Yes,10,2,7,8,Travel_Frequently,Yes,3,10,3,85,Critical
+EMP0881,Research & Development,Research Scientist,1,35,Female,SharePoint,Write,Leaver,Yes,10,2,7,8,Travel_Frequently,Yes,3,10,3,85,Critical
+EMP0881,Research & Development,Research Scientist,1,35,Female,ServiceNow,Write,Leaver,Yes,10,2,7,8,Travel_Frequently,Yes,3,10,3,85,Critical
+EMP0881,Research & Development,Research Scientist,1,35,Female,Lab Systems,Write,Leaver,Yes,10,2,7,8,Travel_Frequently,Yes,3,10,3,85,Critical
+EMP0896,Sales,Sales Representative,1,29,Female,Active Directory,Read,Leaver,Yes,3,2,0,2,Travel_Rarely,Yes,3,5,3,60,High
+EMP0896,Sales,Sales Representative,1,29,Female,Salesforce,Read,Leaver,Yes,3,2,0,2,Travel_Rarely,Yes,3,5,3,60,High
+EMP0896,Sales,Sales Representative,1,29,Female,SharePoint,Read,Leaver,Yes,3,2,0,2,Travel_Rarely,Yes,3,5,3,60,High
+EMP0896,Sales,Sales Representative,1,29,Female,ServiceNow,Read,Leaver,Yes,3,2,0,2,Travel_Rarely,Yes,3,5,3,60,High
+EMP0896,Sales,Sales Representative,1,29,Female,CRM Portal,Read,Leaver,Yes,3,2,0,2,Travel_Rarely,Yes,3,5,3,60,High
+EMP0911,Research & Development,Laboratory Technician,1,32,Male,Active Directory,Read,Leaver,Yes,1,0,0,1,Travel_Rarely,Yes,4,1,2,70,Critical
+EMP0911,Research & Development,Laboratory Technician,1,32,Male,SAP,Read,Leaver,Yes,1,0,0,1,Travel_Rarely,Yes,4,1,2,70,Critical
+EMP0911,Research & Development,Laboratory Technician,1,32,Male,SharePoint,Read,Leaver,Yes,1,0,0,1,Travel_Rarely,Yes,4,1,2,70,Critical
+EMP0911,Research & Development,Laboratory Technician,1,32,Male,ServiceNow,Read,Leaver,Yes,1,0,0,1,Travel_Rarely,Yes,4,1,2,70,Critical
+EMP0911,Research & Development,Laboratory Technician,1,32,Male,Lab Systems,Read,Leaver,Yes,1,0,0,1,Travel_Rarely,Yes,4,1,2,70,Critical
+EMP0918,Research & Development,Laboratory Technician,1,58,Male,Active Directory,Read,Leaver,Yes,1,0,0,0,Travel_Frequently,Yes,3,3,3,75,Critical
+EMP0918,Research & Development,Laboratory Technician,1,58,Male,SAP,Read,Leaver,Yes,1,0,0,0,Travel_Frequently,Yes,3,3,3,75,Critical
+EMP0918,Research & Development,Laboratory Technician,1,58,Male,SharePoint,Read,Leaver,Yes,1,0,0,0,Travel_Frequently,Yes,3,3,3,75,Critical
+EMP0918,Research & Development,Laboratory Technician,1,58,Male,ServiceNow,Read,Leaver,Yes,1,0,0,0,Travel_Frequently,Yes,3,3,3,75,Critical
+EMP0918,Research & Development,Laboratory Technician,1,58,Male,Lab Systems,Read,Leaver,Yes,1,0,0,0,Travel_Frequently,Yes,3,3,3,75,Critical
+EMP0922,Sales,Sales Representative,1,20,Female,Active Directory,Read,Leaver,Yes,2,2,0,2,Travel_Rarely,No,3,2,3,50,High
+EMP0922,Sales,Sales Representative,1,20,Female,Salesforce,Read,Leaver,Yes,2,2,0,2,Travel_Rarely,No,3,2,3,50,High
+EMP0922,Sales,Sales Representative,1,20,Female,SharePoint,Read,Leaver,Yes,2,2,0,2,Travel_Rarely,No,3,2,3,50,High
+EMP0922,Sales,Sales Representative,1,20,Female,ServiceNow,Read,Leaver,Yes,2,2,0,2,Travel_Rarely,No,3,2,3,50,High
+EMP0922,Sales,Sales Representative,1,20,Female,CRM Portal,Read,Leaver,Yes,2,2,0,2,Travel_Rarely,No,3,2,3,50,High
+EMP0923,Research & Development,Research Scientist,1,21,Female,Active Directory,Write,Leaver,Yes,1,0,0,0,Travel_Rarely,No,3,1,3,70,Critical
+EMP0923,Research & Development,Research Scientist,1,21,Female,SAP,Write,Leaver,Yes,1,0,0,0,Travel_Rarely,No,3,1,3,70,Critical
+EMP0923,Research & Development,Research Scientist,1,21,Female,SharePoint,Write,Leaver,Yes,1,0,0,0,Travel_Rarely,No,3,1,3,70,Critical
+EMP0923,Research & Development,Research Scientist,1,21,Female,ServiceNow,Write,Leaver,Yes,1,0,0,0,Travel_Rarely,No,3,1,3,70,Critical
+EMP0923,Research & Development,Research Scientist,1,21,Female,Lab Systems,Write,Leaver,Yes,1,0,0,0,Travel_Rarely,No,3,1,3,70,Critical
+EMP0926,Research & Development,Manufacturing Director,2,22,Female,Active Directory,Write,Leaver,Yes,3,2,0,2,Travel_Rarely,Yes,3,4,3,70,Critical
+EMP0926,Research & Development,Manufacturing Director,2,22,Female,SAP,Write,Leaver,Yes,3,2,0,2,Travel_Rarely,Yes,3,4,3,70,Critical
+EMP0926,Research & Development,Manufacturing Director,2,22,Female,SharePoint,Write,Leaver,Yes,3,2,0,2,Travel_Rarely,Yes,3,4,3,70,Critical
+EMP0926,Research & Development,Manufacturing Director,2,22,Female,ServiceNow,Write,Leaver,Yes,3,2,0,2,Travel_Rarely,Yes,3,4,3,70,Critical
+EMP0926,Research & Development,Manufacturing Director,2,22,Female,Lab Systems,Write,Leaver,Yes,3,2,0,2,Travel_Rarely,Yes,3,4,3,70,Critical
+EMP0927,Research & Development,Laboratory Technician,1,41,Female,Active Directory,Read,Leaver,Yes,7,7,1,0,Travel_Rarely,Yes,3,10,1,80,Critical
+EMP0927,Research & Development,Laboratory Technician,1,41,Female,SAP,Read,Leaver,Yes,7,7,1,0,Travel_Rarely,Yes,3,10,1,80,Critical
+EMP0927,Research & Development,Laboratory Technician,1,41,Female,SharePoint,Read,Leaver,Yes,7,7,1,0,Travel_Rarely,Yes,3,10,1,80,Critical
+EMP0927,Research & Development,Laboratory Technician,1,41,Female,ServiceNow,Read,Leaver,Yes,7,7,1,0,Travel_Rarely,Yes,3,10,1,80,Critical
+EMP0927,Research & Development,Laboratory Technician,1,41,Female,Lab Systems,Read,Leaver,Yes,7,7,1,0,Travel_Rarely,Yes,3,10,1,80,Critical
+EMP0932,Research & Development,Laboratory Technician,1,39,Male,Active Directory,Read,Leaver,Yes,2,2,2,2,Travel_Rarely,Yes,4,8,2,60,High
+EMP0932,Research & Development,Laboratory Technician,1,39,Male,SAP,Read,Leaver,Yes,2,2,2,2,Travel_Rarely,Yes,4,8,2,60,High
+EMP0932,Research & Development,Laboratory Technician,1,39,Male,SharePoint,Read,Leaver,Yes,2,2,2,2,Travel_Rarely,Yes,4,8,2,60,High
+EMP0932,Research & Development,Laboratory Technician,1,39,Male,ServiceNow,Read,Leaver,Yes,2,2,2,2,Travel_Rarely,Yes,4,8,2,60,High
+EMP0932,Research & Development,Laboratory Technician,1,39,Male,Lab Systems,Read,Leaver,Yes,2,2,2,2,Travel_Rarely,Yes,4,8,2,60,High
+EMP0952,Sales,Sales Representative,1,25,Male,Active Directory,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,Yes,3,1,2,70,Critical
+EMP0952,Sales,Sales Representative,1,25,Male,Salesforce,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,Yes,3,1,2,70,Critical
+EMP0952,Sales,Sales Representative,1,25,Male,SharePoint,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,Yes,3,1,2,70,Critical
+EMP0952,Sales,Sales Representative,1,25,Male,ServiceNow,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,Yes,3,1,2,70,Critical
+EMP0952,Sales,Sales Representative,1,25,Male,CRM Portal,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,Yes,3,1,2,70,Critical
+EMP0959,Sales,Sales Representative,1,19,Male,Active Directory,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,Yes,3,1,3,70,Critical
+EMP0959,Sales,Sales Representative,1,19,Male,Salesforce,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,Yes,3,1,3,70,Critical
+EMP0959,Sales,Sales Representative,1,19,Male,SharePoint,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,Yes,3,1,3,70,Critical
+EMP0959,Sales,Sales Representative,1,19,Male,ServiceNow,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,Yes,3,1,3,70,Critical
+EMP0959,Sales,Sales Representative,1,19,Male,CRM Portal,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,Yes,3,1,3,70,Critical
+EMP0960,Research & Development,Laboratory Technician,1,20,Male,Active Directory,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,No,3,1,2,60,High
+EMP0960,Research & Development,Laboratory Technician,1,20,Male,SAP,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,No,3,1,2,60,High
+EMP0960,Research & Development,Laboratory Technician,1,20,Male,SharePoint,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,No,3,1,2,60,High
+EMP0960,Research & Development,Laboratory Technician,1,20,Male,ServiceNow,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,No,3,1,2,60,High
+EMP0960,Research & Development,Laboratory Technician,1,20,Male,Lab Systems,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,No,3,1,2,60,High
+EMP0967,Sales,Sales Executive,3,36,Male,Active Directory,Write,Leaver,Yes,16,7,3,7,Travel_Rarely,Yes,3,16,6,85,Critical
+EMP0967,Sales,Sales Executive,3,36,Male,Salesforce,Write,Leaver,Yes,16,7,3,7,Travel_Rarely,Yes,3,16,6,85,Critical
+EMP0967,Sales,Sales Executive,3,36,Male,SharePoint,Write,Leaver,Yes,16,7,3,7,Travel_Rarely,Yes,3,16,6,85,Critical
+EMP0967,Sales,Sales Executive,3,36,Male,ServiceNow,Write,Leaver,Yes,16,7,3,7,Travel_Rarely,Yes,3,16,6,85,Critical
+EMP0967,Sales,Sales Executive,3,36,Male,CRM Portal,Write,Leaver,Yes,16,7,3,7,Travel_Rarely,Yes,3,16,6,85,Critical
+EMP0970,Sales,Sales Executive,3,37,Male,Active Directory,Write,Leaver,Yes,14,1,11,7,Travel_Rarely,No,3,17,2,75,Critical
+EMP0970,Sales,Sales Executive,3,37,Male,Salesforce,Write,Leaver,Yes,14,1,11,7,Travel_Rarely,No,3,17,2,75,Critical
+EMP0970,Sales,Sales Executive,3,37,Male,SharePoint,Write,Leaver,Yes,14,1,11,7,Travel_Rarely,No,3,17,2,75,Critical
+EMP0970,Sales,Sales Executive,3,37,Male,ServiceNow,Write,Leaver,Yes,14,1,11,7,Travel_Rarely,No,3,17,2,75,Critical
+EMP0970,Sales,Sales Executive,3,37,Male,CRM Portal,Write,Leaver,Yes,14,1,11,7,Travel_Rarely,No,3,17,2,75,Critical
+EMP0977,Research & Development,Research Scientist,1,58,Male,Active Directory,Write,Leaver,Yes,1,0,0,0,Travel_Rarely,No,4,7,4,70,Critical
+EMP0977,Research & Development,Research Scientist,1,58,Male,SAP,Write,Leaver,Yes,1,0,0,0,Travel_Rarely,No,4,7,4,70,Critical
+EMP0977,Research & Development,Research Scientist,1,58,Male,SharePoint,Write,Leaver,Yes,1,0,0,0,Travel_Rarely,No,4,7,4,70,Critical
+EMP0977,Research & Development,Research Scientist,1,58,Male,ServiceNow,Write,Leaver,Yes,1,0,0,0,Travel_Rarely,No,4,7,4,70,Critical
+EMP0977,Research & Development,Research Scientist,1,58,Male,Lab Systems,Write,Leaver,Yes,1,0,0,0,Travel_Rarely,No,4,7,4,70,Critical
+EMP0986,Sales,Sales Executive,4,40,Female,Active Directory,Write,Leaver,Yes,1,0,0,0,Non-Travel,Yes,3,22,2,75,Critical
+EMP0986,Sales,Sales Executive,4,40,Female,Salesforce,Write,Leaver,Yes,1,0,0,0,Non-Travel,Yes,3,22,2,75,Critical
+EMP0986,Sales,Sales Executive,4,40,Female,SharePoint,Write,Leaver,Yes,1,0,0,0,Non-Travel,Yes,3,22,2,75,Critical
+EMP0986,Sales,Sales Executive,4,40,Female,ServiceNow,Write,Leaver,Yes,1,0,0,0,Non-Travel,Yes,3,22,2,75,Critical
+EMP0986,Sales,Sales Executive,4,40,Female,CRM Portal,Write,Leaver,Yes,1,0,0,0,Non-Travel,Yes,3,22,2,75,Critical
+EMP0991,Research & Development,Research Scientist,1,31,Male,Active Directory,Write,Leaver,Yes,3,2,1,2,Non-Travel,Yes,4,4,0,65,High
+EMP0991,Research & Development,Research Scientist,1,31,Male,SAP,Write,Leaver,Yes,3,2,1,2,Non-Travel,Yes,4,4,0,65,High
+EMP0991,Research & Development,Research Scientist,1,31,Male,SharePoint,Write,Leaver,Yes,3,2,1,2,Non-Travel,Yes,4,4,0,65,High
+EMP0991,Research & Development,Research Scientist,1,31,Male,ServiceNow,Write,Leaver,Yes,3,2,1,2,Non-Travel,Yes,4,4,0,65,High
+EMP0991,Research & Development,Research Scientist,1,31,Male,Lab Systems,Write,Leaver,Yes,3,2,1,2,Non-Travel,Yes,4,4,0,65,High
+EMP0994,Research & Development,Research Scientist,1,29,Female,Active Directory,Write,Leaver,Yes,0,0,0,0,Travel_Rarely,Yes,4,3,5,80,Critical
+EMP0994,Research & Development,Research Scientist,1,29,Female,SAP,Write,Leaver,Yes,0,0,0,0,Travel_Rarely,Yes,4,3,5,80,Critical
+EMP0994,Research & Development,Research Scientist,1,29,Female,SharePoint,Write,Leaver,Yes,0,0,0,0,Travel_Rarely,Yes,4,3,5,80,Critical
+EMP0994,Research & Development,Research Scientist,1,29,Female,ServiceNow,Write,Leaver,Yes,0,0,0,0,Travel_Rarely,Yes,4,3,5,80,Critical
+EMP0994,Research & Development,Research Scientist,1,29,Female,Lab Systems,Write,Leaver,Yes,0,0,0,0,Travel_Rarely,Yes,4,3,5,80,Critical
+EMP1004,Research & Development,Research Scientist,1,30,Female,Active Directory,Write,Leaver,Yes,5,2,0,1,Travel_Rarely,Yes,3,7,2,80,Critical
+EMP1004,Research & Development,Research Scientist,1,30,Female,SAP,Write,Leaver,Yes,5,2,0,1,Travel_Rarely,Yes,3,7,2,80,Critical
+EMP1004,Research & Development,Research Scientist,1,30,Female,SharePoint,Write,Leaver,Yes,5,2,0,1,Travel_Rarely,Yes,3,7,2,80,Critical
+EMP1004,Research & Development,Research Scientist,1,30,Female,ServiceNow,Write,Leaver,Yes,5,2,0,1,Travel_Rarely,Yes,3,7,2,80,Critical
+EMP1004,Research & Development,Research Scientist,1,30,Female,Lab Systems,Write,Leaver,Yes,5,2,0,1,Travel_Rarely,Yes,3,7,2,80,Critical
+EMP1010,Research & Development,Laboratory Technician,1,35,Male,Active Directory,Read,Leaver,Yes,4,2,0,2,Travel_Rarely,Yes,4,5,2,60,High
+EMP1010,Research & Development,Laboratory Technician,1,35,Male,SAP,Read,Leaver,Yes,4,2,0,2,Travel_Rarely,Yes,4,5,2,60,High
+EMP1010,Research & Development,Laboratory Technician,1,35,Male,SharePoint,Read,Leaver,Yes,4,2,0,2,Travel_Rarely,Yes,4,5,2,60,High
+EMP1010,Research & Development,Laboratory Technician,1,35,Male,ServiceNow,Read,Leaver,Yes,4,2,0,2,Travel_Rarely,Yes,4,5,2,60,High
+EMP1010,Research & Development,Laboratory Technician,1,35,Male,Lab Systems,Read,Leaver,Yes,4,2,0,2,Travel_Rarely,Yes,4,5,2,60,High
+EMP1016,Research & Development,Research Scientist,1,20,Female,Active Directory,Write,Leaver,Yes,1,0,0,0,Travel_Rarely,Yes,3,1,2,80,Critical
+EMP1016,Research & Development,Research Scientist,1,20,Female,SAP,Write,Leaver,Yes,1,0,0,0,Travel_Rarely,Yes,3,1,2,80,Critical
+EMP1016,Research & Development,Research Scientist,1,20,Female,SharePoint,Write,Leaver,Yes,1,0,0,0,Travel_Rarely,Yes,3,1,2,80,Critical
+EMP1016,Research & Development,Research Scientist,1,20,Female,ServiceNow,Write,Leaver,Yes,1,0,0,0,Travel_Rarely,Yes,3,1,2,80,Critical
+EMP1016,Research & Development,Research Scientist,1,20,Female,Lab Systems,Write,Leaver,Yes,1,0,0,0,Travel_Rarely,Yes,3,1,2,80,Critical
+EMP1017,Research & Development,Laboratory Technician,1,30,Female,Active Directory,Read,Leaver,Yes,3,2,1,2,Travel_Frequently,No,3,4,3,55,High
+EMP1017,Research & Development,Laboratory Technician,1,30,Female,SAP,Read,Leaver,Yes,3,2,1,2,Travel_Frequently,No,3,4,3,55,High
+EMP1017,Research & Development,Laboratory Technician,1,30,Female,SharePoint,Read,Leaver,Yes,3,2,1,2,Travel_Frequently,No,3,4,3,55,High
+EMP1017,Research & Development,Laboratory Technician,1,30,Female,ServiceNow,Read,Leaver,Yes,3,2,1,2,Travel_Frequently,No,3,4,3,55,High
+EMP1017,Research & Development,Laboratory Technician,1,30,Female,Lab Systems,Read,Leaver,Yes,3,2,1,2,Travel_Frequently,No,3,4,3,55,High
+EMP1033,Research & Development,Healthcare Representative,2,37,Female,Active Directory,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,No,3,15,2,60,High
+EMP1033,Research & Development,Healthcare Representative,2,37,Female,SAP,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,No,3,15,2,60,High
+EMP1033,Research & Development,Healthcare Representative,2,37,Female,SharePoint,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,No,3,15,2,60,High
+EMP1033,Research & Development,Healthcare Representative,2,37,Female,ServiceNow,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,No,3,15,2,60,High
+EMP1033,Research & Development,Healthcare Representative,2,37,Female,Lab Systems,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,No,3,15,2,60,High
+EMP1037,Sales,Sales Executive,2,26,Male,Active Directory,Write,Leaver,Yes,2,2,2,2,Non-Travel,No,3,7,6,55,High
+EMP1037,Sales,Sales Executive,2,26,Male,Salesforce,Write,Leaver,Yes,2,2,2,2,Non-Travel,No,3,7,6,55,High
+EMP1037,Sales,Sales Executive,2,26,Male,SharePoint,Write,Leaver,Yes,2,2,2,2,Non-Travel,No,3,7,6,55,High
+EMP1037,Sales,Sales Executive,2,26,Male,ServiceNow,Write,Leaver,Yes,2,2,2,2,Non-Travel,No,3,7,6,55,High
+EMP1037,Sales,Sales Executive,2,26,Male,CRM Portal,Write,Leaver,Yes,2,2,2,2,Non-Travel,No,3,7,6,55,High
+EMP1038,Sales,Manager,5,52,Female,Active Directory,Write,Leaver,Yes,32,14,6,9,Travel_Rarely,No,3,33,3,75,Critical
+EMP1038,Sales,Manager,5,52,Female,Salesforce,Write,Leaver,Yes,32,14,6,9,Travel_Rarely,No,3,33,3,75,Critical
+EMP1038,Sales,Manager,5,52,Female,SharePoint,Write,Leaver,Yes,32,14,6,9,Travel_Rarely,No,3,33,3,75,Critical
+EMP1038,Sales,Manager,5,52,Female,ServiceNow,Write,Leaver,Yes,32,14,6,9,Travel_Rarely,No,3,33,3,75,Critical
+EMP1038,Sales,Manager,5,52,Female,CRM Portal,Write,Leaver,Yes,32,14,6,9,Travel_Rarely,No,3,33,3,75,Critical
+EMP1042,Research & Development,Laboratory Technician,1,36,Female,Active Directory,Read,Leaver,Yes,17,13,15,14,Travel_Rarely,No,3,18,1,65,High
+EMP1042,Research & Development,Laboratory Technician,1,36,Female,SAP,Read,Leaver,Yes,17,13,15,14,Travel_Rarely,No,3,18,1,65,High
+EMP1042,Research & Development,Laboratory Technician,1,36,Female,SharePoint,Read,Leaver,Yes,17,13,15,14,Travel_Rarely,No,3,18,1,65,High
+EMP1042,Research & Development,Laboratory Technician,1,36,Female,ServiceNow,Read,Leaver,Yes,17,13,15,14,Travel_Rarely,No,3,18,1,65,High
+EMP1042,Research & Development,Laboratory Technician,1,36,Female,Lab Systems,Read,Leaver,Yes,17,13,15,14,Travel_Rarely,No,3,18,1,65,High
+EMP1052,Research & Development,Laboratory Technician,2,36,Male,Active Directory,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,No,3,9,3,60,High
+EMP1052,Research & Development,Laboratory Technician,2,36,Male,SAP,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,No,3,9,3,60,High
+EMP1052,Research & Development,Laboratory Technician,2,36,Male,SharePoint,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,No,3,9,3,60,High
+EMP1052,Research & Development,Laboratory Technician,2,36,Male,ServiceNow,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,No,3,9,3,60,High
+EMP1052,Research & Development,Laboratory Technician,2,36,Male,Lab Systems,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,No,3,9,3,60,High
+EMP1053,Research & Development,Research Scientist,1,26,Male,Active Directory,Write,Leaver,Yes,3,2,1,2,Travel_Frequently,Yes,3,6,2,75,Critical
+EMP1053,Research & Development,Research Scientist,1,26,Male,SAP,Write,Leaver,Yes,3,2,1,2,Travel_Frequently,Yes,3,6,2,75,Critical
+EMP1053,Research & Development,Research Scientist,1,26,Male,SharePoint,Write,Leaver,Yes,3,2,1,2,Travel_Frequently,Yes,3,6,2,75,Critical
+EMP1053,Research & Development,Research Scientist,1,26,Male,ServiceNow,Write,Leaver,Yes,3,2,1,2,Travel_Frequently,Yes,3,6,2,75,Critical
+EMP1053,Research & Development,Research Scientist,1,26,Male,Lab Systems,Write,Leaver,Yes,3,2,1,2,Travel_Frequently,Yes,3,6,2,75,Critical
+EMP1077,Sales,Sales Representative,1,20,Female,Active Directory,Read,Leaver,Yes,2,2,0,2,Travel_Frequently,Yes,3,2,3,65,High
+EMP1077,Sales,Sales Representative,1,20,Female,Salesforce,Read,Leaver,Yes,2,2,0,2,Travel_Frequently,Yes,3,2,3,65,High
+EMP1077,Sales,Sales Representative,1,20,Female,SharePoint,Read,Leaver,Yes,2,2,0,2,Travel_Frequently,Yes,3,2,3,65,High
+EMP1077,Sales,Sales Representative,1,20,Female,ServiceNow,Read,Leaver,Yes,2,2,0,2,Travel_Frequently,Yes,3,2,3,65,High
+EMP1077,Sales,Sales Representative,1,20,Female,CRM Portal,Read,Leaver,Yes,2,2,0,2,Travel_Frequently,Yes,3,2,3,65,High
+EMP1079,Research & Development,Laboratory Technician,1,21,Female,Active Directory,Read,Leaver,Yes,1,0,1,0,Travel_Rarely,No,3,1,6,60,High
+EMP1079,Research & Development,Laboratory Technician,1,21,Female,SAP,Read,Leaver,Yes,1,0,1,0,Travel_Rarely,No,3,1,6,60,High
+EMP1079,Research & Development,Laboratory Technician,1,21,Female,SharePoint,Read,Leaver,Yes,1,0,1,0,Travel_Rarely,No,3,1,6,60,High
+EMP1079,Research & Development,Laboratory Technician,1,21,Female,ServiceNow,Read,Leaver,Yes,1,0,1,0,Travel_Rarely,No,3,1,6,60,High
+EMP1079,Research & Development,Laboratory Technician,1,21,Female,Lab Systems,Read,Leaver,Yes,1,0,1,0,Travel_Rarely,No,3,1,6,60,High
+EMP1081,Research & Development,Research Scientist,1,51,Male,Active Directory,Write,Leaver,Yes,10,0,2,7,Travel_Rarely,Yes,3,18,2,80,Critical
+EMP1081,Research & Development,Research Scientist,1,51,Male,SAP,Write,Leaver,Yes,10,0,2,7,Travel_Rarely,Yes,3,18,2,80,Critical
+EMP1081,Research & Development,Research Scientist,1,51,Male,SharePoint,Write,Leaver,Yes,10,0,2,7,Travel_Rarely,Yes,3,18,2,80,Critical
+EMP1081,Research & Development,Research Scientist,1,51,Male,ServiceNow,Write,Leaver,Yes,10,0,2,7,Travel_Rarely,Yes,3,18,2,80,Critical
+EMP1081,Research & Development,Research Scientist,1,51,Male,Lab Systems,Write,Leaver,Yes,10,0,2,7,Travel_Rarely,Yes,3,18,2,80,Critical
+EMP1082,Research & Development,Healthcare Representative,3,28,Male,Active Directory,Read,Leaver,Yes,10,7,1,9,Non-Travel,No,3,10,2,55,High
+EMP1082,Research & Development,Healthcare Representative,3,28,Male,SAP,Read,Leaver,Yes,10,7,1,9,Non-Travel,No,3,10,2,55,High
+EMP1082,Research & Development,Healthcare Representative,3,28,Male,SharePoint,Read,Leaver,Yes,10,7,1,9,Non-Travel,No,3,10,2,55,High
+EMP1082,Research & Development,Healthcare Representative,3,28,Male,ServiceNow,Read,Leaver,Yes,10,7,1,9,Non-Travel,No,3,10,2,55,High
+EMP1082,Research & Development,Healthcare Representative,3,28,Male,Lab Systems,Read,Leaver,Yes,10,7,1,9,Non-Travel,No,3,10,2,55,High
+EMP1098,Human Resources,Human Resources,3,44,Male,Active Directory,Read,Leaver,Yes,20,6,3,6,Travel_Rarely,No,3,24,1,65,High
+EMP1098,Human Resources,Human Resources,3,44,Male,Workday,Read,Leaver,Yes,20,6,3,6,Travel_Rarely,No,3,24,1,65,High
+EMP1098,Human Resources,Human Resources,3,44,Male,SharePoint,Read,Leaver,Yes,20,6,3,6,Travel_Rarely,No,3,24,1,65,High
+EMP1098,Human Resources,Human Resources,3,44,Male,ServiceNow,Read,Leaver,Yes,20,6,3,6,Travel_Rarely,No,3,24,1,65,High
+EMP1098,Human Resources,Human Resources,3,44,Male,HR Portal,Read,Leaver,Yes,20,6,3,6,Travel_Rarely,No,3,24,1,65,High
+EMP1100,Sales,Sales Executive,3,35,Male,Active Directory,Write,Leaver,Yes,8,7,4,7,Travel_Rarely,Yes,4,9,2,80,Critical
+EMP1100,Sales,Sales Executive,3,35,Male,Salesforce,Write,Leaver,Yes,8,7,4,7,Travel_Rarely,Yes,4,9,2,80,Critical
+EMP1100,Sales,Sales Executive,3,35,Male,SharePoint,Write,Leaver,Yes,8,7,4,7,Travel_Rarely,Yes,4,9,2,80,Critical
+EMP1100,Sales,Sales Executive,3,35,Male,ServiceNow,Write,Leaver,Yes,8,7,4,7,Travel_Rarely,Yes,4,9,2,80,Critical
+EMP1100,Sales,Sales Executive,3,35,Male,CRM Portal,Write,Leaver,Yes,8,7,4,7,Travel_Rarely,Yes,4,9,2,80,Critical
+EMP1101,Research & Development,Research Scientist,2,33,Female,Active Directory,Write,Leaver,Yes,13,7,3,8,Travel_Frequently,No,4,14,4,80,Critical
+EMP1101,Research & Development,Research Scientist,2,33,Female,SAP,Write,Leaver,Yes,13,7,3,8,Travel_Frequently,No,4,14,4,80,Critical
+EMP1101,Research & Development,Research Scientist,2,33,Female,SharePoint,Write,Leaver,Yes,13,7,3,8,Travel_Frequently,No,4,14,4,80,Critical
+EMP1101,Research & Development,Research Scientist,2,33,Female,ServiceNow,Write,Leaver,Yes,13,7,3,8,Travel_Frequently,No,4,14,4,80,Critical
+EMP1101,Research & Development,Research Scientist,2,33,Female,Lab Systems,Write,Leaver,Yes,13,7,3,8,Travel_Frequently,No,4,14,4,80,Critical
+EMP1106,Research & Development,Laboratory Technician,1,25,Male,Active Directory,Read,Leaver,Yes,7,7,5,6,Travel_Rarely,Yes,3,7,3,70,Critical
+EMP1106,Research & Development,Laboratory Technician,1,25,Male,SAP,Read,Leaver,Yes,7,7,5,6,Travel_Rarely,Yes,3,7,3,70,Critical
+EMP1106,Research & Development,Laboratory Technician,1,25,Male,SharePoint,Read,Leaver,Yes,7,7,5,6,Travel_Rarely,Yes,3,7,3,70,Critical
+EMP1106,Research & Development,Laboratory Technician,1,25,Male,ServiceNow,Read,Leaver,Yes,7,7,5,6,Travel_Rarely,Yes,3,7,3,70,Critical
+EMP1106,Research & Development,Laboratory Technician,1,25,Male,Lab Systems,Read,Leaver,Yes,7,7,5,6,Travel_Rarely,Yes,3,7,3,70,Critical
+EMP1107,Research & Development,Laboratory Technician,1,26,Male,Active Directory,Read,Leaver,Yes,1,1,0,0,Travel_Rarely,No,4,1,0,60,High
+EMP1107,Research & Development,Laboratory Technician,1,26,Male,SAP,Read,Leaver,Yes,1,1,0,0,Travel_Rarely,No,4,1,0,60,High
+EMP1107,Research & Development,Laboratory Technician,1,26,Male,SharePoint,Read,Leaver,Yes,1,1,0,0,Travel_Rarely,No,4,1,0,60,High
+EMP1107,Research & Development,Laboratory Technician,1,26,Male,ServiceNow,Read,Leaver,Yes,1,1,0,0,Travel_Rarely,No,4,1,0,60,High
+EMP1107,Research & Development,Laboratory Technician,1,26,Male,Lab Systems,Read,Leaver,Yes,1,1,0,0,Travel_Rarely,No,4,1,0,60,High
+EMP1108,Research & Development,Research Scientist,1,33,Male,Active Directory,Write,Leaver,Yes,2,2,2,2,Travel_Rarely,Yes,4,5,0,70,Critical
+EMP1108,Research & Development,Research Scientist,1,33,Male,SAP,Write,Leaver,Yes,2,2,2,2,Travel_Rarely,Yes,4,5,0,70,Critical
+EMP1108,Research & Development,Research Scientist,1,33,Male,SharePoint,Write,Leaver,Yes,2,2,2,2,Travel_Rarely,Yes,4,5,0,70,Critical
+EMP1108,Research & Development,Research Scientist,1,33,Male,ServiceNow,Write,Leaver,Yes,2,2,2,2,Travel_Rarely,Yes,4,5,0,70,Critical
+EMP1108,Research & Development,Research Scientist,1,33,Male,Lab Systems,Write,Leaver,Yes,2,2,2,2,Travel_Rarely,Yes,4,5,0,70,Critical
+EMP1111,Research & Development,Laboratory Technician,1,28,Male,Active Directory,Read,Leaver,Yes,1,0,0,0,Travel_Frequently,No,3,1,2,65,High
+EMP1111,Research & Development,Laboratory Technician,1,28,Male,SAP,Read,Leaver,Yes,1,0,0,0,Travel_Frequently,No,3,1,2,65,High
+EMP1111,Research & Development,Laboratory Technician,1,28,Male,SharePoint,Read,Leaver,Yes,1,0,0,0,Travel_Frequently,No,3,1,2,65,High
+EMP1111,Research & Development,Laboratory Technician,1,28,Male,ServiceNow,Read,Leaver,Yes,1,0,0,0,Travel_Frequently,No,3,1,2,65,High
+EMP1111,Research & Development,Laboratory Technician,1,28,Male,Lab Systems,Read,Leaver,Yes,1,0,0,0,Travel_Frequently,No,3,1,2,65,High
+EMP1113,Sales,Sales Executive,2,50,Male,Active Directory,Write,Leaver,Yes,0,0,0,0,Travel_Frequently,Yes,3,5,4,85,Critical
+EMP1113,Sales,Sales Executive,2,50,Male,Salesforce,Write,Leaver,Yes,0,0,0,0,Travel_Frequently,Yes,3,5,4,85,Critical
+EMP1113,Sales,Sales Executive,2,50,Male,SharePoint,Write,Leaver,Yes,0,0,0,0,Travel_Frequently,Yes,3,5,4,85,Critical
+EMP1113,Sales,Sales Executive,2,50,Male,ServiceNow,Write,Leaver,Yes,0,0,0,0,Travel_Frequently,Yes,3,5,4,85,Critical
+EMP1113,Sales,Sales Executive,2,50,Male,CRM Portal,Write,Leaver,Yes,0,0,0,0,Travel_Frequently,Yes,3,5,4,85,Critical
+EMP1127,Research & Development,Healthcare Representative,4,39,Male,Active Directory,Read,Leaver,Yes,18,7,11,5,Travel_Frequently,No,3,21,4,70,Critical
+EMP1127,Research & Development,Healthcare Representative,4,39,Male,SAP,Read,Leaver,Yes,18,7,11,5,Travel_Frequently,No,3,21,4,70,Critical
+EMP1127,Research & Development,Healthcare Representative,4,39,Male,SharePoint,Read,Leaver,Yes,18,7,11,5,Travel_Frequently,No,3,21,4,70,Critical
+EMP1127,Research & Development,Healthcare Representative,4,39,Male,ServiceNow,Read,Leaver,Yes,18,7,11,5,Travel_Frequently,No,3,21,4,70,Critical
+EMP1127,Research & Development,Healthcare Representative,4,39,Male,Lab Systems,Read,Leaver,Yes,18,7,11,5,Travel_Frequently,No,3,21,4,70,Critical
+EMP1156,Research & Development,Laboratory Technician,1,18,Male,Active Directory,Read,Leaver,Yes,0,0,0,0,Non-Travel,No,3,0,0,55,High
+EMP1156,Research & Development,Laboratory Technician,1,18,Male,SAP,Read,Leaver,Yes,0,0,0,0,Non-Travel,No,3,0,0,55,High
+EMP1156,Research & Development,Laboratory Technician,1,18,Male,SharePoint,Read,Leaver,Yes,0,0,0,0,Non-Travel,No,3,0,0,55,High
+EMP1156,Research & Development,Laboratory Technician,1,18,Male,ServiceNow,Read,Leaver,Yes,0,0,0,0,Non-Travel,No,3,0,0,55,High
+EMP1156,Research & Development,Laboratory Technician,1,18,Male,Lab Systems,Read,Leaver,Yes,0,0,0,0,Non-Travel,No,3,0,0,55,High
+EMP1157,Sales,Sales Executive,2,33,Female,Active Directory,Write,Leaver,Yes,5,2,0,3,Travel_Rarely,Yes,3,6,3,70,Critical
+EMP1157,Sales,Sales Executive,2,33,Female,Salesforce,Write,Leaver,Yes,5,2,0,3,Travel_Rarely,Yes,3,6,3,70,Critical
+EMP1157,Sales,Sales Executive,2,33,Female,SharePoint,Write,Leaver,Yes,5,2,0,3,Travel_Rarely,Yes,3,6,3,70,Critical
+EMP1157,Sales,Sales Executive,2,33,Female,ServiceNow,Write,Leaver,Yes,5,2,0,3,Travel_Rarely,Yes,3,6,3,70,Critical
+EMP1157,Sales,Sales Executive,2,33,Female,CRM Portal,Write,Leaver,Yes,5,2,0,3,Travel_Rarely,Yes,3,6,3,70,Critical
+EMP1160,Research & Development,Laboratory Technician,1,31,Male,Active Directory,Read,Leaver,Yes,2,2,2,2,Travel_Frequently,No,3,2,5,55,High
+EMP1160,Research & Development,Laboratory Technician,1,31,Male,SAP,Read,Leaver,Yes,2,2,2,2,Travel_Frequently,No,3,2,5,55,High
+EMP1160,Research & Development,Laboratory Technician,1,31,Male,SharePoint,Read,Leaver,Yes,2,2,2,2,Travel_Frequently,No,3,2,5,55,High
+EMP1160,Research & Development,Laboratory Technician,1,31,Male,ServiceNow,Read,Leaver,Yes,2,2,2,2,Travel_Frequently,No,3,2,5,55,High
+EMP1160,Research & Development,Laboratory Technician,1,31,Male,Lab Systems,Read,Leaver,Yes,2,2,2,2,Travel_Frequently,No,3,2,5,55,High
+EMP1165,Sales,Sales Executive,3,29,Female,Active Directory,Write,Leaver,Yes,11,8,3,10,Travel_Rarely,No,3,11,3,75,Critical
+EMP1165,Sales,Sales Executive,3,29,Female,Salesforce,Write,Leaver,Yes,11,8,3,10,Travel_Rarely,No,3,11,3,75,Critical
+EMP1165,Sales,Sales Executive,3,29,Female,SharePoint,Write,Leaver,Yes,11,8,3,10,Travel_Rarely,No,3,11,3,75,Critical
+EMP1165,Sales,Sales Executive,3,29,Female,ServiceNow,Write,Leaver,Yes,11,8,3,10,Travel_Rarely,No,3,11,3,75,Critical
+EMP1165,Sales,Sales Executive,3,29,Female,CRM Portal,Write,Leaver,Yes,11,8,3,10,Travel_Rarely,No,3,11,3,75,Critical
+EMP1167,Sales,Sales Executive,4,42,Male,Active Directory,Write,Leaver,Yes,21,9,13,14,Travel_Frequently,Yes,3,22,2,90,Critical
+EMP1167,Sales,Sales Executive,4,42,Male,Salesforce,Write,Leaver,Yes,21,9,13,14,Travel_Frequently,Yes,3,22,2,90,Critical
+EMP1167,Sales,Sales Executive,4,42,Male,SharePoint,Write,Leaver,Yes,21,9,13,14,Travel_Frequently,Yes,3,22,2,90,Critical
+EMP1167,Sales,Sales Executive,4,42,Male,ServiceNow,Write,Leaver,Yes,21,9,13,14,Travel_Frequently,Yes,3,22,2,90,Critical
+EMP1167,Sales,Sales Executive,4,42,Male,CRM Portal,Write,Leaver,Yes,21,9,13,14,Travel_Frequently,Yes,3,22,2,90,Critical
+EMP1175,Research & Development,Laboratory Technician,1,28,Female,Active Directory,Read,Leaver,Yes,1,1,0,0,Travel_Rarely,Yes,3,1,4,70,Critical
+EMP1175,Research & Development,Laboratory Technician,1,28,Female,SAP,Read,Leaver,Yes,1,1,0,0,Travel_Rarely,Yes,3,1,4,70,Critical
+EMP1175,Research & Development,Laboratory Technician,1,28,Female,SharePoint,Read,Leaver,Yes,1,1,0,0,Travel_Rarely,Yes,3,1,4,70,Critical
+EMP1175,Research & Development,Laboratory Technician,1,28,Female,ServiceNow,Read,Leaver,Yes,1,1,0,0,Travel_Rarely,Yes,3,1,4,70,Critical
+EMP1175,Research & Development,Laboratory Technician,1,28,Female,Lab Systems,Read,Leaver,Yes,1,1,0,0,Travel_Rarely,Yes,3,1,4,70,Critical
+EMP1188,Sales,Sales Executive,2,43,Female,Active Directory,Write,Leaver,Yes,4,3,1,3,Travel_Rarely,No,3,7,2,60,High
+EMP1188,Sales,Sales Executive,2,43,Female,Salesforce,Write,Leaver,Yes,4,3,1,3,Travel_Rarely,No,3,7,2,60,High
+EMP1188,Sales,Sales Executive,2,43,Female,SharePoint,Write,Leaver,Yes,4,3,1,3,Travel_Rarely,No,3,7,2,60,High
+EMP1188,Sales,Sales Executive,2,43,Female,ServiceNow,Write,Leaver,Yes,4,3,1,3,Travel_Rarely,No,3,7,2,60,High
+EMP1188,Sales,Sales Executive,2,43,Female,CRM Portal,Write,Leaver,Yes,4,3,1,3,Travel_Rarely,No,3,7,2,60,High
+EMP1200,Research & Development,Research Scientist,1,44,Male,Active Directory,Write,Leaver,Yes,6,4,0,2,Travel_Rarely,Yes,3,6,4,80,Critical
+EMP1200,Research & Development,Research Scientist,1,44,Male,SAP,Write,Leaver,Yes,6,4,0,2,Travel_Rarely,Yes,3,6,4,80,Critical
+EMP1200,Research & Development,Research Scientist,1,44,Male,SharePoint,Write,Leaver,Yes,6,4,0,2,Travel_Rarely,Yes,3,6,4,80,Critical
+EMP1200,Research & Development,Research Scientist,1,44,Male,ServiceNow,Write,Leaver,Yes,6,4,0,2,Travel_Rarely,Yes,3,6,4,80,Critical
+EMP1200,Research & Development,Research Scientist,1,44,Male,Lab Systems,Write,Leaver,Yes,6,4,0,2,Travel_Rarely,Yes,3,6,4,80,Critical
+EMP1203,Research & Development,Research Scientist,1,22,Male,Active Directory,Write,Leaver,Yes,0,0,0,0,Travel_Frequently,Yes,3,1,5,85,Critical
+EMP1203,Research & Development,Research Scientist,1,22,Male,SAP,Write,Leaver,Yes,0,0,0,0,Travel_Frequently,Yes,3,1,5,85,Critical
+EMP1203,Research & Development,Research Scientist,1,22,Male,SharePoint,Write,Leaver,Yes,0,0,0,0,Travel_Frequently,Yes,3,1,5,85,Critical
+EMP1203,Research & Development,Research Scientist,1,22,Male,ServiceNow,Write,Leaver,Yes,0,0,0,0,Travel_Frequently,Yes,3,1,5,85,Critical
+EMP1203,Research & Development,Research Scientist,1,22,Male,Lab Systems,Write,Leaver,Yes,0,0,0,0,Travel_Frequently,Yes,3,1,5,85,Critical
+EMP1210,Research & Development,Research Scientist,1,41,Male,Active Directory,Write,Leaver,Yes,1,0,0,0,Non-Travel,No,3,5,2,65,High
+EMP1210,Research & Development,Research Scientist,1,41,Male,SAP,Write,Leaver,Yes,1,0,0,0,Non-Travel,No,3,5,2,65,High
+EMP1210,Research & Development,Research Scientist,1,41,Male,SharePoint,Write,Leaver,Yes,1,0,0,0,Non-Travel,No,3,5,2,65,High
+EMP1210,Research & Development,Research Scientist,1,41,Male,ServiceNow,Write,Leaver,Yes,1,0,0,0,Non-Travel,No,3,5,2,65,High
+EMP1210,Research & Development,Research Scientist,1,41,Male,Lab Systems,Write,Leaver,Yes,1,0,0,0,Non-Travel,No,3,5,2,65,High
+EMP1219,Research & Development,Laboratory Technician,1,24,Female,Active Directory,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,No,3,1,3,60,High
+EMP1219,Research & Development,Laboratory Technician,1,24,Female,SAP,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,No,3,1,3,60,High
+EMP1219,Research & Development,Laboratory Technician,1,24,Female,SharePoint,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,No,3,1,3,60,High
+EMP1219,Research & Development,Laboratory Technician,1,24,Female,ServiceNow,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,No,3,1,3,60,High
+EMP1219,Research & Development,Laboratory Technician,1,24,Female,Lab Systems,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,No,3,1,3,60,High
+EMP1248,Research & Development,Research Scientist,1,19,Female,Active Directory,Write,Leaver,Yes,1,1,0,0,Non-Travel,Yes,4,1,2,75,Critical
+EMP1248,Research & Development,Research Scientist,1,19,Female,SAP,Write,Leaver,Yes,1,1,0,0,Non-Travel,Yes,4,1,2,75,Critical
+EMP1248,Research & Development,Research Scientist,1,19,Female,SharePoint,Write,Leaver,Yes,1,1,0,0,Non-Travel,Yes,4,1,2,75,Critical
+EMP1248,Research & Development,Research Scientist,1,19,Female,ServiceNow,Write,Leaver,Yes,1,1,0,0,Non-Travel,Yes,4,1,2,75,Critical
+EMP1248,Research & Development,Research Scientist,1,19,Female,Lab Systems,Write,Leaver,Yes,1,1,0,0,Non-Travel,Yes,4,1,2,75,Critical
+EMP1273,Sales,Sales Representative,1,25,Male,Active Directory,Read,Leaver,Yes,1,0,1,0,Travel_Frequently,Yes,3,1,4,75,Critical
+EMP1273,Sales,Sales Representative,1,25,Male,Salesforce,Read,Leaver,Yes,1,0,1,0,Travel_Frequently,Yes,3,1,4,75,Critical
+EMP1273,Sales,Sales Representative,1,25,Male,SharePoint,Read,Leaver,Yes,1,0,1,0,Travel_Frequently,Yes,3,1,4,75,Critical
+EMP1273,Sales,Sales Representative,1,25,Male,ServiceNow,Read,Leaver,Yes,1,0,1,0,Travel_Frequently,Yes,3,1,4,75,Critical
+EMP1273,Sales,Sales Representative,1,25,Male,CRM Portal,Read,Leaver,Yes,1,0,1,0,Travel_Frequently,Yes,3,1,4,75,Critical
+EMP1277,Sales,Manager,5,45,Female,Active Directory,Write,Leaver,Yes,24,10,1,11,Travel_Rarely,Yes,3,26,2,85,Critical
+EMP1277,Sales,Manager,5,45,Female,Salesforce,Write,Leaver,Yes,24,10,1,11,Travel_Rarely,Yes,3,26,2,85,Critical
+EMP1277,Sales,Manager,5,45,Female,SharePoint,Write,Leaver,Yes,24,10,1,11,Travel_Rarely,Yes,3,26,2,85,Critical
+EMP1277,Sales,Manager,5,45,Female,ServiceNow,Write,Leaver,Yes,24,10,1,11,Travel_Rarely,Yes,3,26,2,85,Critical
+EMP1277,Sales,Manager,5,45,Female,CRM Portal,Write,Leaver,Yes,24,10,1,11,Travel_Rarely,Yes,3,26,2,85,Critical
+EMP1279,Research & Development,Laboratory Technician,1,21,Female,Active Directory,Read,Leaver,Yes,2,2,2,2,Travel_Frequently,No,4,2,2,55,High
+EMP1279,Research & Development,Laboratory Technician,1,21,Female,SAP,Read,Leaver,Yes,2,2,2,2,Travel_Frequently,No,4,2,2,55,High
+EMP1279,Research & Development,Laboratory Technician,1,21,Female,SharePoint,Read,Leaver,Yes,2,2,2,2,Travel_Frequently,No,4,2,2,55,High
+EMP1279,Research & Development,Laboratory Technician,1,21,Female,ServiceNow,Read,Leaver,Yes,2,2,2,2,Travel_Frequently,No,4,2,2,55,High
+EMP1279,Research & Development,Laboratory Technician,1,21,Female,Lab Systems,Read,Leaver,Yes,2,2,2,2,Travel_Frequently,No,4,2,2,55,High
+EMP1295,Research & Development,Healthcare Representative,3,44,Female,Active Directory,Read,Leaver,Yes,10,7,0,5,Travel_Rarely,No,3,10,2,60,High
+EMP1295,Research & Development,Healthcare Representative,3,44,Female,SAP,Read,Leaver,Yes,10,7,0,5,Travel_Rarely,No,3,10,2,60,High
+EMP1295,Research & Development,Healthcare Representative,3,44,Female,SharePoint,Read,Leaver,Yes,10,7,0,5,Travel_Rarely,No,3,10,2,60,High
+EMP1295,Research & Development,Healthcare Representative,3,44,Female,ServiceNow,Read,Leaver,Yes,10,7,0,5,Travel_Rarely,No,3,10,2,60,High
+EMP1295,Research & Development,Healthcare Representative,3,44,Female,Lab Systems,Read,Leaver,Yes,10,7,0,5,Travel_Rarely,No,3,10,2,60,High
+EMP1299,Research & Development,Laboratory Technician,1,29,Female,Active Directory,Read,Leaver,Yes,7,7,7,7,Travel_Rarely,Yes,3,10,2,70,Critical
+EMP1299,Research & Development,Laboratory Technician,1,29,Female,SAP,Read,Leaver,Yes,7,7,7,7,Travel_Rarely,Yes,3,10,2,70,Critical
+EMP1299,Research & Development,Laboratory Technician,1,29,Female,SharePoint,Read,Leaver,Yes,7,7,7,7,Travel_Rarely,Yes,3,10,2,70,Critical
+EMP1299,Research & Development,Laboratory Technician,1,29,Female,ServiceNow,Read,Leaver,Yes,7,7,7,7,Travel_Rarely,Yes,3,10,2,70,Critical
+EMP1299,Research & Development,Laboratory Technician,1,29,Female,Lab Systems,Read,Leaver,Yes,7,7,7,7,Travel_Rarely,Yes,3,10,2,70,Critical
+EMP1309,Research & Development,Laboratory Technician,2,32,Male,Active Directory,Read,Leaver,Yes,10,4,1,1,Travel_Rarely,No,3,10,3,70,Critical
+EMP1309,Research & Development,Laboratory Technician,2,32,Male,SAP,Read,Leaver,Yes,10,4,1,1,Travel_Rarely,No,3,10,3,70,Critical
+EMP1309,Research & Development,Laboratory Technician,2,32,Male,SharePoint,Read,Leaver,Yes,10,4,1,1,Travel_Rarely,No,3,10,3,70,Critical
+EMP1309,Research & Development,Laboratory Technician,2,32,Male,ServiceNow,Read,Leaver,Yes,10,4,1,1,Travel_Rarely,No,3,10,3,70,Critical
+EMP1309,Research & Development,Laboratory Technician,2,32,Male,Lab Systems,Read,Leaver,Yes,10,4,1,1,Travel_Rarely,No,3,10,3,70,Critical
+EMP1310,Research & Development,Research Scientist,1,39,Male,Active Directory,Write,Leaver,Yes,5,2,0,3,Travel_Rarely,No,3,6,2,60,High
+EMP1310,Research & Development,Research Scientist,1,39,Male,SAP,Write,Leaver,Yes,5,2,0,3,Travel_Rarely,No,3,6,2,60,High
+EMP1310,Research & Development,Research Scientist,1,39,Male,SharePoint,Write,Leaver,Yes,5,2,0,3,Travel_Rarely,No,3,6,2,60,High
+EMP1310,Research & Development,Research Scientist,1,39,Male,ServiceNow,Write,Leaver,Yes,5,2,0,3,Travel_Rarely,No,3,6,2,60,High
+EMP1310,Research & Development,Research Scientist,1,39,Male,Lab Systems,Write,Leaver,Yes,5,2,0,3,Travel_Rarely,No,3,6,2,60,High
+EMP1318,Sales,Sales Executive,3,40,Male,Active Directory,Write,Leaver,Yes,5,4,1,0,Travel_Rarely,Yes,3,9,2,80,Critical
+EMP1318,Sales,Sales Executive,3,40,Male,Salesforce,Write,Leaver,Yes,5,4,1,0,Travel_Rarely,Yes,3,9,2,80,Critical
+EMP1318,Sales,Sales Executive,3,40,Male,SharePoint,Write,Leaver,Yes,5,4,1,0,Travel_Rarely,Yes,3,9,2,80,Critical
+EMP1318,Sales,Sales Executive,3,40,Male,ServiceNow,Write,Leaver,Yes,5,4,1,0,Travel_Rarely,Yes,3,9,2,80,Critical
+EMP1318,Sales,Sales Executive,3,40,Male,CRM Portal,Write,Leaver,Yes,5,4,1,0,Travel_Rarely,Yes,3,9,2,80,Critical
+EMP1319,Sales,Sales Executive,3,52,Male,Active Directory,Write,Leaver,Yes,8,7,7,7,Travel_Rarely,Yes,3,10,2,80,Critical
+EMP1319,Sales,Sales Executive,3,52,Male,Salesforce,Write,Leaver,Yes,8,7,7,7,Travel_Rarely,Yes,3,10,2,80,Critical
+EMP1319,Sales,Sales Executive,3,52,Male,SharePoint,Write,Leaver,Yes,8,7,7,7,Travel_Rarely,Yes,3,10,2,80,Critical
+EMP1319,Sales,Sales Executive,3,52,Male,ServiceNow,Write,Leaver,Yes,8,7,7,7,Travel_Rarely,Yes,3,10,2,80,Critical
+EMP1319,Sales,Sales Executive,3,52,Male,CRM Portal,Write,Leaver,Yes,8,7,7,7,Travel_Rarely,Yes,3,10,2,80,Critical
+EMP1331,Sales,Sales Representative,1,31,Female,Active Directory,Read,Leaver,Yes,3,2,2,2,Travel_Frequently,Yes,3,3,2,65,High
+EMP1331,Sales,Sales Representative,1,31,Female,Salesforce,Read,Leaver,Yes,3,2,2,2,Travel_Frequently,Yes,3,3,2,65,High
+EMP1331,Sales,Sales Representative,1,31,Female,SharePoint,Read,Leaver,Yes,3,2,2,2,Travel_Frequently,Yes,3,3,2,65,High
+EMP1331,Sales,Sales Representative,1,31,Female,ServiceNow,Read,Leaver,Yes,3,2,2,2,Travel_Frequently,Yes,3,3,2,65,High
+EMP1331,Sales,Sales Representative,1,31,Female,CRM Portal,Read,Leaver,Yes,3,2,2,2,Travel_Frequently,Yes,3,3,2,65,High
+EMP1333,Research & Development,Laboratory Technician,1,44,Male,Active Directory,Read,Leaver,Yes,3,2,1,2,Travel_Rarely,No,3,10,4,50,High
+EMP1333,Research & Development,Laboratory Technician,1,44,Male,SAP,Read,Leaver,Yes,3,2,1,2,Travel_Rarely,No,3,10,4,50,High
+EMP1333,Research & Development,Laboratory Technician,1,44,Male,SharePoint,Read,Leaver,Yes,3,2,1,2,Travel_Rarely,No,3,10,4,50,High
+EMP1333,Research & Development,Laboratory Technician,1,44,Male,ServiceNow,Read,Leaver,Yes,3,2,1,2,Travel_Rarely,No,3,10,4,50,High
+EMP1333,Research & Development,Laboratory Technician,1,44,Male,Lab Systems,Read,Leaver,Yes,3,2,1,2,Travel_Rarely,No,3,10,4,50,High
+EMP1360,Research & Development,Manufacturing Director,3,58,Female,Active Directory,Write,Leaver,Yes,10,9,5,9,Travel_Rarely,Yes,3,31,0,80,Critical
+EMP1360,Research & Development,Manufacturing Director,3,58,Female,SAP,Write,Leaver,Yes,10,9,5,9,Travel_Rarely,Yes,3,31,0,80,Critical
+EMP1360,Research & Development,Manufacturing Director,3,58,Female,SharePoint,Write,Leaver,Yes,10,9,5,9,Travel_Rarely,Yes,3,31,0,80,Critical
+EMP1360,Research & Development,Manufacturing Director,3,58,Female,ServiceNow,Write,Leaver,Yes,10,9,5,9,Travel_Rarely,Yes,3,31,0,80,Critical
+EMP1360,Research & Development,Manufacturing Director,3,58,Female,Lab Systems,Write,Leaver,Yes,10,9,5,9,Travel_Rarely,Yes,3,31,0,80,Critical
+EMP1372,Sales,Sales Executive,4,55,Male,Active Directory,Write,Leaver,Yes,19,7,3,8,Travel_Rarely,Yes,3,24,2,85,Critical
+EMP1372,Sales,Sales Executive,4,55,Male,Salesforce,Write,Leaver,Yes,19,7,3,8,Travel_Rarely,Yes,3,24,2,85,Critical
+EMP1372,Sales,Sales Executive,4,55,Male,SharePoint,Write,Leaver,Yes,19,7,3,8,Travel_Rarely,Yes,3,24,2,85,Critical
+EMP1372,Sales,Sales Executive,4,55,Male,ServiceNow,Write,Leaver,Yes,19,7,3,8,Travel_Rarely,Yes,3,24,2,85,Critical
+EMP1372,Sales,Sales Executive,4,55,Male,CRM Portal,Write,Leaver,Yes,19,7,3,8,Travel_Rarely,Yes,3,24,2,85,Critical
+EMP1379,Sales,Sales Representative,1,31,Female,Active Directory,Read,Leaver,Yes,1,0,0,0,Travel_Frequently,No,3,3,3,65,High
+EMP1379,Sales,Sales Representative,1,31,Female,Salesforce,Read,Leaver,Yes,1,0,0,0,Travel_Frequently,No,3,3,3,65,High
+EMP1379,Sales,Sales Representative,1,31,Female,SharePoint,Read,Leaver,Yes,1,0,0,0,Travel_Frequently,No,3,3,3,65,High
+EMP1379,Sales,Sales Representative,1,31,Female,ServiceNow,Read,Leaver,Yes,1,0,0,0,Travel_Frequently,No,3,3,3,65,High
+EMP1379,Sales,Sales Representative,1,31,Female,CRM Portal,Read,Leaver,Yes,1,0,0,0,Travel_Frequently,No,3,3,3,65,High
+EMP1380,Sales,Sales Executive,2,35,Female,Active Directory,Write,Leaver,Yes,4,2,3,2,Travel_Frequently,Yes,3,5,0,75,Critical
+EMP1380,Sales,Sales Executive,2,35,Female,Salesforce,Write,Leaver,Yes,4,2,3,2,Travel_Frequently,Yes,3,5,0,75,Critical
+EMP1380,Sales,Sales Executive,2,35,Female,SharePoint,Write,Leaver,Yes,4,2,3,2,Travel_Frequently,Yes,3,5,0,75,Critical
+EMP1380,Sales,Sales Executive,2,35,Female,ServiceNow,Write,Leaver,Yes,4,2,3,2,Travel_Frequently,Yes,3,5,0,75,Critical
+EMP1380,Sales,Sales Executive,2,35,Female,CRM Portal,Write,Leaver,Yes,4,2,3,2,Travel_Frequently,Yes,3,5,0,75,Critical
+EMP1389,Research & Development,Manufacturing Director,2,31,Male,Active Directory,Write,Leaver,Yes,10,2,6,7,Travel_Rarely,Yes,3,10,3,80,Critical
+EMP1389,Research & Development,Manufacturing Director,2,31,Male,SAP,Write,Leaver,Yes,10,2,6,7,Travel_Rarely,Yes,3,10,3,80,Critical
+EMP1389,Research & Development,Manufacturing Director,2,31,Male,SharePoint,Write,Leaver,Yes,10,2,6,7,Travel_Rarely,Yes,3,10,3,80,Critical
+EMP1389,Research & Development,Manufacturing Director,2,31,Male,ServiceNow,Write,Leaver,Yes,10,2,6,7,Travel_Rarely,Yes,3,10,3,80,Critical
+EMP1389,Research & Development,Manufacturing Director,2,31,Male,Lab Systems,Write,Leaver,Yes,10,2,6,7,Travel_Rarely,Yes,3,10,3,80,Critical
+EMP1405,Research & Development,Research Scientist,1,27,Female,Active Directory,Write,Leaver,Yes,8,2,7,7,Travel_Rarely,Yes,3,8,2,80,Critical
+EMP1405,Research & Development,Research Scientist,1,27,Female,SAP,Write,Leaver,Yes,8,2,7,7,Travel_Rarely,Yes,3,8,2,80,Critical
+EMP1405,Research & Development,Research Scientist,1,27,Female,SharePoint,Write,Leaver,Yes,8,2,7,7,Travel_Rarely,Yes,3,8,2,80,Critical
+EMP1405,Research & Development,Research Scientist,1,27,Female,ServiceNow,Write,Leaver,Yes,8,2,7,7,Travel_Rarely,Yes,3,8,2,80,Critical
+EMP1405,Research & Development,Research Scientist,1,27,Female,Lab Systems,Write,Leaver,Yes,8,2,7,7,Travel_Rarely,Yes,3,8,2,80,Critical
+EMP1420,Research & Development,Laboratory Technician,2,49,Male,Active Directory,Read,Leaver,Yes,4,3,1,3,Travel_Frequently,No,4,20,2,55,High
+EMP1420,Research & Development,Laboratory Technician,2,49,Male,SAP,Read,Leaver,Yes,4,3,1,3,Travel_Frequently,No,4,20,2,55,High
+EMP1420,Research & Development,Laboratory Technician,2,49,Male,SharePoint,Read,Leaver,Yes,4,3,1,3,Travel_Frequently,No,4,20,2,55,High
+EMP1420,Research & Development,Laboratory Technician,2,49,Male,ServiceNow,Read,Leaver,Yes,4,3,1,3,Travel_Frequently,No,4,20,2,55,High
+EMP1420,Research & Development,Laboratory Technician,2,49,Male,Lab Systems,Read,Leaver,Yes,4,3,1,3,Travel_Frequently,No,4,20,2,55,High
+EMP1421,Research & Development,Healthcare Representative,3,29,Female,Active Directory,Read,Leaver,Yes,8,7,7,7,Travel_Frequently,Yes,3,9,1,75,Critical
+EMP1421,Research & Development,Healthcare Representative,3,29,Female,SAP,Read,Leaver,Yes,8,7,7,7,Travel_Frequently,Yes,3,9,1,75,Critical
+EMP1421,Research & Development,Healthcare Representative,3,29,Female,SharePoint,Read,Leaver,Yes,8,7,7,7,Travel_Frequently,Yes,3,9,1,75,Critical
+EMP1421,Research & Development,Healthcare Representative,3,29,Female,ServiceNow,Read,Leaver,Yes,8,7,7,7,Travel_Frequently,Yes,3,9,1,75,Critical
+EMP1421,Research & Development,Healthcare Representative,3,29,Female,Lab Systems,Read,Leaver,Yes,8,7,7,7,Travel_Frequently,Yes,3,9,1,75,Critical
+EMP1427,Sales,Sales Representative,1,31,Female,Active Directory,Read,Leaver,Yes,1,0,0,0,Travel_Frequently,No,3,1,3,65,High
+EMP1427,Sales,Sales Representative,1,31,Female,Salesforce,Read,Leaver,Yes,1,0,0,0,Travel_Frequently,No,3,1,3,65,High
+EMP1427,Sales,Sales Representative,1,31,Female,SharePoint,Read,Leaver,Yes,1,0,0,0,Travel_Frequently,No,3,1,3,65,High
+EMP1427,Sales,Sales Representative,1,31,Female,ServiceNow,Read,Leaver,Yes,1,0,0,0,Travel_Frequently,No,3,1,3,65,High
+EMP1427,Sales,Sales Representative,1,31,Female,CRM Portal,Read,Leaver,Yes,1,0,0,0,Travel_Frequently,No,3,1,3,65,High
+EMP1433,Research & Development,Research Scientist,1,31,Female,Active Directory,Write,Leaver,Yes,1,0,0,0,Travel_Rarely,No,3,1,3,70,Critical
+EMP1433,Research & Development,Research Scientist,1,31,Female,SAP,Write,Leaver,Yes,1,0,0,0,Travel_Rarely,No,3,1,3,70,Critical
+EMP1433,Research & Development,Research Scientist,1,31,Female,SharePoint,Write,Leaver,Yes,1,0,0,0,Travel_Rarely,No,3,1,3,70,Critical
+EMP1433,Research & Development,Research Scientist,1,31,Female,ServiceNow,Write,Leaver,Yes,1,0,0,0,Travel_Rarely,No,3,1,3,70,Critical
+EMP1433,Research & Development,Research Scientist,1,31,Female,Lab Systems,Write,Leaver,Yes,1,0,0,0,Travel_Rarely,No,3,1,3,70,Critical
+EMP1439,Sales,Sales Representative,1,25,Male,Active Directory,Read,Leaver,Yes,3,2,2,2,Travel_Rarely,No,3,6,2,50,High
+EMP1439,Sales,Sales Representative,1,25,Male,Salesforce,Read,Leaver,Yes,3,2,2,2,Travel_Rarely,No,3,6,2,50,High
+EMP1439,Sales,Sales Representative,1,25,Male,SharePoint,Read,Leaver,Yes,3,2,2,2,Travel_Rarely,No,3,6,2,50,High
+EMP1439,Sales,Sales Representative,1,25,Male,ServiceNow,Read,Leaver,Yes,3,2,2,2,Travel_Rarely,No,3,6,2,50,High
+EMP1439,Sales,Sales Representative,1,25,Male,CRM Portal,Read,Leaver,Yes,3,2,2,2,Travel_Rarely,No,3,6,2,50,High
+EMP1457,Sales,Sales Executive,3,46,Male,Active Directory,Write,Leaver,Yes,7,7,4,3,Travel_Rarely,No,3,28,1,70,Critical
+EMP1457,Sales,Sales Executive,3,46,Male,Salesforce,Write,Leaver,Yes,7,7,4,3,Travel_Rarely,No,3,28,1,70,Critical
+EMP1457,Sales,Sales Executive,3,46,Male,SharePoint,Write,Leaver,Yes,7,7,4,3,Travel_Rarely,No,3,28,1,70,Critical
+EMP1457,Sales,Sales Executive,3,46,Male,ServiceNow,Write,Leaver,Yes,7,7,4,3,Travel_Rarely,No,3,28,1,70,Critical
+EMP1457,Sales,Sales Executive,3,46,Male,CRM Portal,Write,Leaver,Yes,7,7,4,3,Travel_Rarely,No,3,28,1,70,Critical
+EMP1458,Research & Development,Laboratory Technician,1,39,Female,Active Directory,Read,Leaver,Yes,1,0,0,0,Non-Travel,Yes,4,11,2,65,High
+EMP1458,Research & Development,Laboratory Technician,1,39,Female,SAP,Read,Leaver,Yes,1,0,0,0,Non-Travel,Yes,4,11,2,65,High
+EMP1458,Research & Development,Laboratory Technician,1,39,Female,SharePoint,Read,Leaver,Yes,1,0,0,0,Non-Travel,Yes,4,11,2,65,High
+EMP1458,Research & Development,Laboratory Technician,1,39,Female,ServiceNow,Read,Leaver,Yes,1,0,0,0,Non-Travel,Yes,4,11,2,65,High
+EMP1458,Research & Development,Laboratory Technician,1,39,Female,Lab Systems,Read,Leaver,Yes,1,0,0,0,Non-Travel,Yes,4,11,2,65,High
+EMP1459,Research & Development,Manufacturing Director,3,31,Female,Active Directory,Write,Leaver,Yes,10,8,4,7,Travel_Frequently,No,3,10,2,75,Critical
+EMP1459,Research & Development,Manufacturing Director,3,31,Female,SAP,Write,Leaver,Yes,10,8,4,7,Travel_Frequently,No,3,10,2,75,Critical
+EMP1459,Research & Development,Manufacturing Director,3,31,Female,SharePoint,Write,Leaver,Yes,10,8,4,7,Travel_Frequently,No,3,10,2,75,Critical
+EMP1459,Research & Development,Manufacturing Director,3,31,Female,ServiceNow,Write,Leaver,Yes,10,8,4,7,Travel_Frequently,No,3,10,2,75,Critical
+EMP1459,Research & Development,Manufacturing Director,3,31,Female,Lab Systems,Write,Leaver,Yes,10,8,4,7,Travel_Frequently,No,3,10,2,75,Critical
+EMP1464,Research & Development,Laboratory Technician,1,31,Male,Active Directory,Read,Leaver,Yes,2,2,2,2,Travel_Frequently,Yes,3,7,2,65,High
+EMP1464,Research & Development,Laboratory Technician,1,31,Male,SAP,Read,Leaver,Yes,2,2,2,2,Travel_Frequently,Yes,3,7,2,65,High
+EMP1464,Research & Development,Laboratory Technician,1,31,Male,SharePoint,Read,Leaver,Yes,2,2,2,2,Travel_Frequently,Yes,3,7,2,65,High
+EMP1464,Research & Development,Laboratory Technician,1,31,Male,ServiceNow,Read,Leaver,Yes,2,2,2,2,Travel_Frequently,Yes,3,7,2,65,High
+EMP1464,Research & Development,Laboratory Technician,1,31,Male,Lab Systems,Read,Leaver,Yes,2,2,2,2,Travel_Frequently,Yes,3,7,2,65,High
+EMP1467,Human Resources,Human Resources,1,34,Female,Active Directory,Read,Leaver,Yes,2,2,2,2,Travel_Rarely,No,3,2,0,50,High
+EMP1467,Human Resources,Human Resources,1,34,Female,Workday,Read,Leaver,Yes,2,2,2,2,Travel_Rarely,No,3,2,0,50,High
+EMP1467,Human Resources,Human Resources,1,34,Female,SharePoint,Read,Leaver,Yes,2,2,2,2,Travel_Rarely,No,3,2,0,50,High
+EMP1467,Human Resources,Human Resources,1,34,Female,ServiceNow,Read,Leaver,Yes,2,2,2,2,Travel_Rarely,No,3,2,0,50,High
+EMP1467,Human Resources,Human Resources,1,34,Female,HR Portal,Read,Leaver,Yes,2,2,2,2,Travel_Rarely,No,3,2,0,50,High
+EMP1486,Sales,Sales Representative,1,28,Male,Active Directory,Read,Leaver,Yes,3,2,1,2,Travel_Frequently,No,3,5,3,55,High
+EMP1486,Sales,Sales Representative,1,28,Male,Salesforce,Read,Leaver,Yes,3,2,1,2,Travel_Frequently,No,3,5,3,55,High
+EMP1486,Sales,Sales Representative,1,28,Male,SharePoint,Read,Leaver,Yes,3,2,1,2,Travel_Frequently,No,3,5,3,55,High
+EMP1486,Sales,Sales Representative,1,28,Male,ServiceNow,Read,Leaver,Yes,3,2,1,2,Travel_Frequently,No,3,5,3,55,High
+EMP1486,Sales,Sales Representative,1,28,Male,CRM Portal,Read,Leaver,Yes,3,2,1,2,Travel_Frequently,No,3,5,3,55,High
+EMP1487,Sales,Sales Executive,2,29,Female,Active Directory,Write,Leaver,Yes,5,3,0,0,Travel_Frequently,No,3,7,4,75,Critical
+EMP1487,Sales,Sales Executive,2,29,Female,Salesforce,Write,Leaver,Yes,5,3,0,0,Travel_Frequently,No,3,7,4,75,Critical
+EMP1487,Sales,Sales Executive,2,29,Female,SharePoint,Write,Leaver,Yes,5,3,0,0,Travel_Frequently,No,3,7,4,75,Critical
+EMP1487,Sales,Sales Executive,2,29,Female,ServiceNow,Write,Leaver,Yes,5,3,0,0,Travel_Frequently,No,3,7,4,75,Critical
+EMP1487,Sales,Sales Executive,2,29,Female,CRM Portal,Write,Leaver,Yes,5,3,0,0,Travel_Frequently,No,3,7,4,75,Critical
+EMP1489,Sales,Sales Executive,2,34,Female,Active Directory,Write,Leaver,Yes,15,9,10,10,Travel_Rarely,Yes,4,16,2,85,Critical
+EMP1489,Sales,Sales Executive,2,34,Female,Salesforce,Write,Leaver,Yes,15,9,10,10,Travel_Rarely,Yes,4,16,2,85,Critical
+EMP1489,Sales,Sales Executive,2,34,Female,SharePoint,Write,Leaver,Yes,15,9,10,10,Travel_Rarely,Yes,4,16,2,85,Critical
+EMP1489,Sales,Sales Executive,2,34,Female,ServiceNow,Write,Leaver,Yes,15,9,10,10,Travel_Rarely,Yes,4,16,2,85,Critical
+EMP1489,Sales,Sales Executive,2,34,Female,CRM Portal,Write,Leaver,Yes,15,9,10,10,Travel_Rarely,Yes,4,16,2,85,Critical
+EMP1494,Research & Development,Laboratory Technician,1,24,Male,Active Directory,Read,Leaver,Yes,0,0,0,0,Travel_Frequently,Yes,3,4,2,75,Critical
+EMP1494,Research & Development,Laboratory Technician,1,24,Male,SAP,Read,Leaver,Yes,0,0,0,0,Travel_Frequently,Yes,3,4,2,75,Critical
+EMP1494,Research & Development,Laboratory Technician,1,24,Male,SharePoint,Read,Leaver,Yes,0,0,0,0,Travel_Frequently,Yes,3,4,2,75,Critical
+EMP1494,Research & Development,Laboratory Technician,1,24,Male,ServiceNow,Read,Leaver,Yes,0,0,0,0,Travel_Frequently,Yes,3,4,2,75,Critical
+EMP1494,Research & Development,Laboratory Technician,1,24,Male,Lab Systems,Read,Leaver,Yes,0,0,0,0,Travel_Frequently,Yes,3,4,2,75,Critical
+EMP1504,Research & Development,Laboratory Technician,1,28,Male,Active Directory,Read,Leaver,Yes,0,0,0,0,Travel_Frequently,No,3,8,2,65,High
+EMP1504,Research & Development,Laboratory Technician,1,28,Male,SAP,Read,Leaver,Yes,0,0,0,0,Travel_Frequently,No,3,8,2,65,High
+EMP1504,Research & Development,Laboratory Technician,1,28,Male,SharePoint,Read,Leaver,Yes,0,0,0,0,Travel_Frequently,No,3,8,2,65,High
+EMP1504,Research & Development,Laboratory Technician,1,28,Male,ServiceNow,Read,Leaver,Yes,0,0,0,0,Travel_Frequently,No,3,8,2,65,High
+EMP1504,Research & Development,Laboratory Technician,1,28,Male,Lab Systems,Read,Leaver,Yes,0,0,0,0,Travel_Frequently,No,3,8,2,65,High
+EMP1522,Research & Development,Research Scientist,1,29,Male,Active Directory,Write,Leaver,Yes,9,7,0,7,Travel_Rarely,No,3,11,2,70,Critical
+EMP1522,Research & Development,Research Scientist,1,29,Male,SAP,Write,Leaver,Yes,9,7,0,7,Travel_Rarely,No,3,11,2,70,Critical
+EMP1522,Research & Development,Research Scientist,1,29,Male,SharePoint,Write,Leaver,Yes,9,7,0,7,Travel_Rarely,No,3,11,2,70,Critical
+EMP1522,Research & Development,Research Scientist,1,29,Male,ServiceNow,Write,Leaver,Yes,9,7,0,7,Travel_Rarely,No,3,11,2,70,Critical
+EMP1522,Research & Development,Research Scientist,1,29,Male,Lab Systems,Write,Leaver,Yes,9,7,0,7,Travel_Rarely,No,3,11,2,70,Critical
+EMP1534,Research & Development,Laboratory Technician,1,40,Male,Active Directory,Read,Leaver,Yes,5,4,1,0,Travel_Rarely,No,3,15,3,60,High
+EMP1534,Research & Development,Laboratory Technician,1,40,Male,SAP,Read,Leaver,Yes,5,4,1,0,Travel_Rarely,No,3,15,3,60,High
+EMP1534,Research & Development,Laboratory Technician,1,40,Male,SharePoint,Read,Leaver,Yes,5,4,1,0,Travel_Rarely,No,3,15,3,60,High
+EMP1534,Research & Development,Laboratory Technician,1,40,Male,ServiceNow,Read,Leaver,Yes,5,4,1,0,Travel_Rarely,No,3,15,3,60,High
+EMP1534,Research & Development,Laboratory Technician,1,40,Male,Lab Systems,Read,Leaver,Yes,5,4,1,0,Travel_Rarely,No,3,15,3,60,High
+EMP1537,Research & Development,Research Scientist,1,31,Female,Active Directory,Write,Leaver,Yes,7,2,7,7,Travel_Frequently,No,3,7,2,75,Critical
+EMP1537,Research & Development,Research Scientist,1,31,Female,SAP,Write,Leaver,Yes,7,2,7,7,Travel_Frequently,No,3,7,2,75,Critical
+EMP1537,Research & Development,Research Scientist,1,31,Female,SharePoint,Write,Leaver,Yes,7,2,7,7,Travel_Frequently,No,3,7,2,75,Critical
+EMP1537,Research & Development,Research Scientist,1,31,Female,ServiceNow,Write,Leaver,Yes,7,2,7,7,Travel_Frequently,No,3,7,2,75,Critical
+EMP1537,Research & Development,Research Scientist,1,31,Female,Lab Systems,Write,Leaver,Yes,7,2,7,7,Travel_Frequently,No,3,7,2,75,Critical
+EMP1562,Sales,Sales Executive,2,30,Male,Active Directory,Write,Leaver,Yes,10,8,6,7,Travel_Rarely,No,3,10,4,70,Critical
+EMP1562,Sales,Sales Executive,2,30,Male,Salesforce,Write,Leaver,Yes,10,8,6,7,Travel_Rarely,No,3,10,4,70,Critical
+EMP1562,Sales,Sales Executive,2,30,Male,SharePoint,Write,Leaver,Yes,10,8,6,7,Travel_Rarely,No,3,10,4,70,Critical
+EMP1562,Sales,Sales Executive,2,30,Male,ServiceNow,Write,Leaver,Yes,10,8,6,7,Travel_Rarely,No,3,10,4,70,Critical
+EMP1562,Sales,Sales Executive,2,30,Male,CRM Portal,Write,Leaver,Yes,10,8,6,7,Travel_Rarely,No,3,10,4,70,Critical
+EMP1569,Research & Development,Laboratory Technician,1,35,Female,Active Directory,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,Yes,3,1,2,70,Critical
+EMP1569,Research & Development,Laboratory Technician,1,35,Female,SAP,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,Yes,3,1,2,70,Critical
+EMP1569,Research & Development,Laboratory Technician,1,35,Female,SharePoint,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,Yes,3,1,2,70,Critical
+EMP1569,Research & Development,Laboratory Technician,1,35,Female,ServiceNow,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,Yes,3,1,2,70,Critical
+EMP1569,Research & Development,Laboratory Technician,1,35,Female,Lab Systems,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,Yes,3,1,2,70,Critical
+EMP1572,Research & Development,Manufacturing Director,3,53,Female,Active Directory,Write,Leaver,Yes,33,7,1,9,Travel_Rarely,No,3,34,4,75,Critical
+EMP1572,Research & Development,Manufacturing Director,3,53,Female,SAP,Write,Leaver,Yes,33,7,1,9,Travel_Rarely,No,3,34,4,75,Critical
+EMP1572,Research & Development,Manufacturing Director,3,53,Female,SharePoint,Write,Leaver,Yes,33,7,1,9,Travel_Rarely,No,3,34,4,75,Critical
+EMP1572,Research & Development,Manufacturing Director,3,53,Female,ServiceNow,Write,Leaver,Yes,33,7,1,9,Travel_Rarely,No,3,34,4,75,Critical
+EMP1572,Research & Development,Manufacturing Director,3,53,Female,Lab Systems,Write,Leaver,Yes,33,7,1,9,Travel_Rarely,No,3,34,4,75,Critical
+EMP1573,Research & Development,Manufacturing Director,2,38,Male,Active Directory,Write,Leaver,Yes,5,2,1,4,Travel_Rarely,No,3,7,2,60,High
+EMP1573,Research & Development,Manufacturing Director,2,38,Male,SAP,Write,Leaver,Yes,5,2,1,4,Travel_Rarely,No,3,7,2,60,High
+EMP1573,Research & Development,Manufacturing Director,2,38,Male,SharePoint,Write,Leaver,Yes,5,2,1,4,Travel_Rarely,No,3,7,2,60,High
+EMP1573,Research & Development,Manufacturing Director,2,38,Male,ServiceNow,Write,Leaver,Yes,5,2,1,4,Travel_Rarely,No,3,7,2,60,High
+EMP1573,Research & Development,Manufacturing Director,2,38,Male,Lab Systems,Write,Leaver,Yes,5,2,1,4,Travel_Rarely,No,3,7,2,60,High
+EMP1604,Research & Development,Laboratory Technician,1,28,Male,Active Directory,Read,Leaver,Yes,1,1,0,0,Travel_Rarely,Yes,3,1,3,70,Critical
+EMP1604,Research & Development,Laboratory Technician,1,28,Male,SAP,Read,Leaver,Yes,1,1,0,0,Travel_Rarely,Yes,3,1,3,70,Critical
+EMP1604,Research & Development,Laboratory Technician,1,28,Male,SharePoint,Read,Leaver,Yes,1,1,0,0,Travel_Rarely,Yes,3,1,3,70,Critical
+EMP1604,Research & Development,Laboratory Technician,1,28,Male,ServiceNow,Read,Leaver,Yes,1,1,0,0,Travel_Rarely,Yes,3,1,3,70,Critical
+EMP1604,Research & Development,Laboratory Technician,1,28,Male,Lab Systems,Read,Leaver,Yes,1,1,0,0,Travel_Rarely,Yes,3,1,3,70,Critical
+EMP1624,Sales,Sales Representative,1,18,Female,Active Directory,Read,Leaver,Yes,0,0,0,0,Travel_Frequently,Yes,3,0,2,75,Critical
+EMP1624,Sales,Sales Representative,1,18,Female,Salesforce,Read,Leaver,Yes,0,0,0,0,Travel_Frequently,Yes,3,0,2,75,Critical
+EMP1624,Sales,Sales Representative,1,18,Female,SharePoint,Read,Leaver,Yes,0,0,0,0,Travel_Frequently,Yes,3,0,2,75,Critical
+EMP1624,Sales,Sales Representative,1,18,Female,ServiceNow,Read,Leaver,Yes,0,0,0,0,Travel_Frequently,Yes,3,0,2,75,Critical
+EMP1624,Sales,Sales Representative,1,18,Female,CRM Portal,Read,Leaver,Yes,0,0,0,0,Travel_Frequently,Yes,3,0,2,75,Critical
+EMP1639,Sales,Sales Executive,3,35,Male,Active Directory,Write,Leaver,Yes,13,12,6,0,Travel_Rarely,No,3,15,3,85,Critical
+EMP1639,Sales,Sales Executive,3,35,Male,Salesforce,Write,Leaver,Yes,13,12,6,0,Travel_Rarely,No,3,15,3,85,Critical
+EMP1639,Sales,Sales Executive,3,35,Male,SharePoint,Write,Leaver,Yes,13,12,6,0,Travel_Rarely,No,3,15,3,85,Critical
+EMP1639,Sales,Sales Executive,3,35,Male,ServiceNow,Write,Leaver,Yes,13,12,6,0,Travel_Rarely,No,3,15,3,85,Critical
+EMP1639,Sales,Sales Executive,3,35,Male,CRM Portal,Write,Leaver,Yes,13,12,6,0,Travel_Rarely,No,3,15,3,85,Critical
+EMP1645,Sales,Sales Executive,2,35,Male,Active Directory,Write,Leaver,Yes,2,2,2,2,Travel_Rarely,Yes,3,7,2,70,Critical
+EMP1645,Sales,Sales Executive,2,35,Male,Salesforce,Write,Leaver,Yes,2,2,2,2,Travel_Rarely,Yes,3,7,2,70,Critical
+EMP1645,Sales,Sales Executive,2,35,Male,SharePoint,Write,Leaver,Yes,2,2,2,2,Travel_Rarely,Yes,3,7,2,70,Critical
+EMP1645,Sales,Sales Executive,2,35,Male,ServiceNow,Write,Leaver,Yes,2,2,2,2,Travel_Rarely,Yes,3,7,2,70,Critical
+EMP1645,Sales,Sales Executive,2,35,Male,CRM Portal,Write,Leaver,Yes,2,2,2,2,Travel_Rarely,Yes,3,7,2,70,Critical
+EMP1649,Research & Development,Laboratory Technician,1,40,Male,Active Directory,Read,Leaver,Yes,4,2,0,3,Travel_Rarely,Yes,3,10,3,60,High
+EMP1649,Research & Development,Laboratory Technician,1,40,Male,SAP,Read,Leaver,Yes,4,2,0,3,Travel_Rarely,Yes,3,10,3,60,High
+EMP1649,Research & Development,Laboratory Technician,1,40,Male,SharePoint,Read,Leaver,Yes,4,2,0,3,Travel_Rarely,Yes,3,10,3,60,High
+EMP1649,Research & Development,Laboratory Technician,1,40,Male,ServiceNow,Read,Leaver,Yes,4,2,0,3,Travel_Rarely,Yes,3,10,3,60,High
+EMP1649,Research & Development,Laboratory Technician,1,40,Male,Lab Systems,Read,Leaver,Yes,4,2,0,3,Travel_Rarely,Yes,3,10,3,60,High
+EMP1667,Sales,Sales Executive,2,35,Male,Active Directory,Write,Leaver,Yes,11,9,6,7,Travel_Frequently,Yes,4,13,2,90,Critical
+EMP1667,Sales,Sales Executive,2,35,Male,Salesforce,Write,Leaver,Yes,11,9,6,7,Travel_Frequently,Yes,4,13,2,90,Critical
+EMP1667,Sales,Sales Executive,2,35,Male,SharePoint,Write,Leaver,Yes,11,9,6,7,Travel_Frequently,Yes,4,13,2,90,Critical
+EMP1667,Sales,Sales Executive,2,35,Male,ServiceNow,Write,Leaver,Yes,11,9,6,7,Travel_Frequently,Yes,4,13,2,90,Critical
+EMP1667,Sales,Sales Executive,2,35,Male,CRM Portal,Write,Leaver,Yes,11,9,6,7,Travel_Frequently,Yes,4,13,2,90,Critical
+EMP1684,Research & Development,Laboratory Technician,1,23,Male,Active Directory,Read,Leaver,Yes,5,4,1,2,Travel_Rarely,Yes,3,5,2,60,High
+EMP1684,Research & Development,Laboratory Technician,1,23,Male,SAP,Read,Leaver,Yes,5,4,1,2,Travel_Rarely,Yes,3,5,2,60,High
+EMP1684,Research & Development,Laboratory Technician,1,23,Male,SharePoint,Read,Leaver,Yes,5,4,1,2,Travel_Rarely,Yes,3,5,2,60,High
+EMP1684,Research & Development,Laboratory Technician,1,23,Male,ServiceNow,Read,Leaver,Yes,5,4,1,2,Travel_Rarely,Yes,3,5,2,60,High
+EMP1684,Research & Development,Laboratory Technician,1,23,Male,Lab Systems,Read,Leaver,Yes,5,4,1,2,Travel_Rarely,Yes,3,5,2,60,High
+EMP1691,Sales,Sales Representative,1,48,Female,Active Directory,Read,Leaver,Yes,9,7,7,7,Travel_Frequently,Yes,3,19,3,75,Critical
+EMP1691,Sales,Sales Representative,1,48,Female,Salesforce,Read,Leaver,Yes,9,7,7,7,Travel_Frequently,Yes,3,19,3,75,Critical
+EMP1691,Sales,Sales Representative,1,48,Female,SharePoint,Read,Leaver,Yes,9,7,7,7,Travel_Frequently,Yes,3,19,3,75,Critical
+EMP1691,Sales,Sales Representative,1,48,Female,ServiceNow,Read,Leaver,Yes,9,7,7,7,Travel_Frequently,Yes,3,19,3,75,Critical
+EMP1691,Sales,Sales Representative,1,48,Female,CRM Portal,Read,Leaver,Yes,9,7,7,7,Travel_Frequently,Yes,3,19,3,75,Critical
+EMP1692,Research & Development,Laboratory Technician,1,32,Male,Active Directory,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,No,3,1,2,60,High
+EMP1692,Research & Development,Laboratory Technician,1,32,Male,SAP,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,No,3,1,2,60,High
+EMP1692,Research & Development,Laboratory Technician,1,32,Male,SharePoint,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,No,3,1,2,60,High
+EMP1692,Research & Development,Laboratory Technician,1,32,Male,ServiceNow,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,No,3,1,2,60,High
+EMP1692,Research & Development,Laboratory Technician,1,32,Male,Lab Systems,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,No,3,1,2,60,High
+EMP1702,Sales,Sales Representative,1,23,Male,Active Directory,Read,Leaver,Yes,3,2,0,2,Travel_Rarely,Yes,4,3,2,60,High
+EMP1702,Sales,Sales Representative,1,23,Male,Salesforce,Read,Leaver,Yes,3,2,0,2,Travel_Rarely,Yes,4,3,2,60,High
+EMP1702,Sales,Sales Representative,1,23,Male,SharePoint,Read,Leaver,Yes,3,2,0,2,Travel_Rarely,Yes,4,3,2,60,High
+EMP1702,Sales,Sales Representative,1,23,Male,ServiceNow,Read,Leaver,Yes,3,2,0,2,Travel_Rarely,Yes,4,3,2,60,High
+EMP1702,Sales,Sales Representative,1,23,Male,CRM Portal,Read,Leaver,Yes,3,2,0,2,Travel_Rarely,Yes,4,3,2,60,High
+EMP1714,Human Resources,Human Resources,1,24,Male,Active Directory,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,No,3,1,2,60,High
+EMP1714,Human Resources,Human Resources,1,24,Male,Workday,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,No,3,1,2,60,High
+EMP1714,Human Resources,Human Resources,1,24,Male,SharePoint,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,No,3,1,2,60,High
+EMP1714,Human Resources,Human Resources,1,24,Male,ServiceNow,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,No,3,1,2,60,High
+EMP1714,Human Resources,Human Resources,1,24,Male,HR Portal,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,No,3,1,2,60,High
+EMP1716,Sales,Sales Executive,4,47,Male,Active Directory,Write,Leaver,Yes,23,5,14,10,Travel_Frequently,No,3,25,3,80,Critical
+EMP1716,Sales,Sales Executive,4,47,Male,Salesforce,Write,Leaver,Yes,23,5,14,10,Travel_Frequently,No,3,25,3,80,Critical
+EMP1716,Sales,Sales Executive,4,47,Male,SharePoint,Write,Leaver,Yes,23,5,14,10,Travel_Frequently,No,3,25,3,80,Critical
+EMP1716,Sales,Sales Executive,4,47,Male,ServiceNow,Write,Leaver,Yes,23,5,14,10,Travel_Frequently,No,3,25,3,80,Critical
+EMP1716,Sales,Sales Executive,4,47,Male,CRM Portal,Write,Leaver,Yes,23,5,14,10,Travel_Frequently,No,3,25,3,80,Critical
+EMP1733,Sales,Sales Executive,2,36,Male,Active Directory,Write,Leaver,Yes,2,2,2,2,Travel_Rarely,Yes,3,16,3,70,Critical
+EMP1733,Sales,Sales Executive,2,36,Male,Salesforce,Write,Leaver,Yes,2,2,2,2,Travel_Rarely,Yes,3,16,3,70,Critical
+EMP1733,Sales,Sales Executive,2,36,Male,SharePoint,Write,Leaver,Yes,2,2,2,2,Travel_Rarely,Yes,3,16,3,70,Critical
+EMP1733,Sales,Sales Executive,2,36,Male,ServiceNow,Write,Leaver,Yes,2,2,2,2,Travel_Rarely,Yes,3,16,3,70,Critical
+EMP1733,Sales,Sales Executive,2,36,Male,CRM Portal,Write,Leaver,Yes,2,2,2,2,Travel_Rarely,Yes,3,16,3,70,Critical
+EMP1734,Sales,Sales Executive,2,32,Male,Active Directory,Write,Leaver,Yes,0,0,0,0,Travel_Rarely,No,3,10,2,70,Critical
+EMP1734,Sales,Sales Executive,2,32,Male,Salesforce,Write,Leaver,Yes,0,0,0,0,Travel_Rarely,No,3,10,2,70,Critical
+EMP1734,Sales,Sales Executive,2,32,Male,SharePoint,Write,Leaver,Yes,0,0,0,0,Travel_Rarely,No,3,10,2,70,Critical
+EMP1734,Sales,Sales Executive,2,32,Male,ServiceNow,Write,Leaver,Yes,0,0,0,0,Travel_Rarely,No,3,10,2,70,Critical
+EMP1734,Sales,Sales Executive,2,32,Male,CRM Portal,Write,Leaver,Yes,0,0,0,0,Travel_Rarely,No,3,10,2,70,Critical
+EMP1747,Human Resources,Human Resources,1,30,Female,Active Directory,Read,Leaver,Yes,4,2,1,2,Travel_Frequently,No,3,6,0,55,High
+EMP1747,Human Resources,Human Resources,1,30,Female,Workday,Read,Leaver,Yes,4,2,1,2,Travel_Frequently,No,3,6,0,55,High
+EMP1747,Human Resources,Human Resources,1,30,Female,SharePoint,Read,Leaver,Yes,4,2,1,2,Travel_Frequently,No,3,6,0,55,High
+EMP1747,Human Resources,Human Resources,1,30,Female,ServiceNow,Read,Leaver,Yes,4,2,1,2,Travel_Frequently,No,3,6,0,55,High
+EMP1747,Human Resources,Human Resources,1,30,Female,HR Portal,Read,Leaver,Yes,4,2,1,2,Travel_Frequently,No,3,6,0,55,High
+EMP1752,Sales,Sales Representative,1,29,Female,Active Directory,Read,Leaver,Yes,2,2,2,2,Travel_Rarely,No,3,2,3,50,High
+EMP1752,Sales,Sales Representative,1,29,Female,Salesforce,Read,Leaver,Yes,2,2,2,2,Travel_Rarely,No,3,2,3,50,High
+EMP1752,Sales,Sales Representative,1,29,Female,SharePoint,Read,Leaver,Yes,2,2,2,2,Travel_Rarely,No,3,2,3,50,High
+EMP1752,Sales,Sales Representative,1,29,Female,ServiceNow,Read,Leaver,Yes,2,2,2,2,Travel_Rarely,No,3,2,3,50,High
+EMP1752,Sales,Sales Representative,1,29,Female,CRM Portal,Read,Leaver,Yes,2,2,2,2,Travel_Rarely,No,3,2,3,50,High
+EMP1758,Sales,Sales Executive,3,33,Female,Active Directory,Write,Leaver,Yes,0,0,0,0,Travel_Rarely,Yes,4,11,2,80,Critical
+EMP1758,Sales,Sales Executive,3,33,Female,Salesforce,Write,Leaver,Yes,0,0,0,0,Travel_Rarely,Yes,4,11,2,80,Critical
+EMP1758,Sales,Sales Executive,3,33,Female,SharePoint,Write,Leaver,Yes,0,0,0,0,Travel_Rarely,Yes,4,11,2,80,Critical
+EMP1758,Sales,Sales Executive,3,33,Female,ServiceNow,Write,Leaver,Yes,0,0,0,0,Travel_Rarely,Yes,4,11,2,80,Critical
+EMP1758,Sales,Sales Executive,3,33,Female,CRM Portal,Write,Leaver,Yes,0,0,0,0,Travel_Rarely,Yes,4,11,2,80,Critical
+EMP1761,Sales,Sales Executive,3,31,Male,Active Directory,Write,Leaver,Yes,1,0,0,0,Travel_Rarely,No,3,10,2,70,Critical
+EMP1761,Sales,Sales Executive,3,31,Male,Salesforce,Write,Leaver,Yes,1,0,0,0,Travel_Rarely,No,3,10,2,70,Critical
+EMP1761,Sales,Sales Executive,3,31,Male,SharePoint,Write,Leaver,Yes,1,0,0,0,Travel_Rarely,No,3,10,2,70,Critical
+EMP1761,Sales,Sales Executive,3,31,Male,ServiceNow,Write,Leaver,Yes,1,0,0,0,Travel_Rarely,No,3,10,2,70,Critical
+EMP1761,Sales,Sales Executive,3,31,Male,CRM Portal,Write,Leaver,Yes,1,0,0,0,Travel_Rarely,No,3,10,2,70,Critical
+EMP1767,Research & Development,Research Scientist,1,43,Male,Active Directory,Write,Leaver,Yes,1,0,0,0,Travel_Frequently,Yes,3,6,4,85,Critical
+EMP1767,Research & Development,Research Scientist,1,43,Male,SAP,Write,Leaver,Yes,1,0,0,0,Travel_Frequently,Yes,3,6,4,85,Critical
+EMP1767,Research & Development,Research Scientist,1,43,Male,SharePoint,Write,Leaver,Yes,1,0,0,0,Travel_Frequently,Yes,3,6,4,85,Critical
+EMP1767,Research & Development,Research Scientist,1,43,Male,ServiceNow,Write,Leaver,Yes,1,0,0,0,Travel_Frequently,Yes,3,6,4,85,Critical
+EMP1767,Research & Development,Research Scientist,1,43,Male,Lab Systems,Write,Leaver,Yes,1,0,0,0,Travel_Frequently,Yes,3,6,4,85,Critical
+EMP1780,Sales,Sales Representative,1,21,Male,Active Directory,Read,Leaver,Yes,1,0,1,0,Travel_Rarely,No,3,1,3,60,High
+EMP1780,Sales,Sales Representative,1,21,Male,Salesforce,Read,Leaver,Yes,1,0,1,0,Travel_Rarely,No,3,1,3,60,High
+EMP1780,Sales,Sales Representative,1,21,Male,SharePoint,Read,Leaver,Yes,1,0,1,0,Travel_Rarely,No,3,1,3,60,High
+EMP1780,Sales,Sales Representative,1,21,Male,ServiceNow,Read,Leaver,Yes,1,0,1,0,Travel_Rarely,No,3,1,3,60,High
+EMP1780,Sales,Sales Representative,1,21,Male,CRM Portal,Read,Leaver,Yes,1,0,1,0,Travel_Rarely,No,3,1,3,60,High
+EMP1783,Research & Development,Laboratory Technician,1,22,Female,Active Directory,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,Yes,3,1,6,70,Critical
+EMP1783,Research & Development,Laboratory Technician,1,22,Female,SAP,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,Yes,3,1,6,70,Critical
+EMP1783,Research & Development,Laboratory Technician,1,22,Female,SharePoint,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,Yes,3,1,6,70,Critical
+EMP1783,Research & Development,Laboratory Technician,1,22,Female,ServiceNow,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,Yes,3,1,6,70,Critical
+EMP1783,Research & Development,Laboratory Technician,1,22,Female,Lab Systems,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,Yes,3,1,6,70,Critical
+EMP1792,Research & Development,Research Scientist,1,44,Male,Active Directory,Write,Leaver,Yes,5,3,2,3,Travel_Frequently,Yes,3,6,2,75,Critical
+EMP1792,Research & Development,Research Scientist,1,44,Male,SAP,Write,Leaver,Yes,5,3,2,3,Travel_Frequently,Yes,3,6,2,75,Critical
+EMP1792,Research & Development,Research Scientist,1,44,Male,SharePoint,Write,Leaver,Yes,5,3,2,3,Travel_Frequently,Yes,3,6,2,75,Critical
+EMP1792,Research & Development,Research Scientist,1,44,Male,ServiceNow,Write,Leaver,Yes,5,3,2,3,Travel_Frequently,Yes,3,6,2,75,Critical
+EMP1792,Research & Development,Research Scientist,1,44,Male,Lab Systems,Write,Leaver,Yes,5,3,2,3,Travel_Frequently,Yes,3,6,2,75,Critical
+EMP1797,Sales,Sales Executive,2,35,Male,Active Directory,Write,Leaver,Yes,10,7,7,7,Travel_Rarely,Yes,3,10,2,80,Critical
+EMP1797,Sales,Sales Executive,2,35,Male,Salesforce,Write,Leaver,Yes,10,7,7,7,Travel_Rarely,Yes,3,10,2,80,Critical
+EMP1797,Sales,Sales Executive,2,35,Male,SharePoint,Write,Leaver,Yes,10,7,7,7,Travel_Rarely,Yes,3,10,2,80,Critical
+EMP1797,Sales,Sales Executive,2,35,Male,ServiceNow,Write,Leaver,Yes,10,7,7,7,Travel_Rarely,Yes,3,10,2,80,Critical
+EMP1797,Sales,Sales Executive,2,35,Male,CRM Portal,Write,Leaver,Yes,10,7,7,7,Travel_Rarely,Yes,3,10,2,80,Critical
+EMP1807,Research & Development,Laboratory Technician,2,34,Male,Active Directory,Read,Leaver,Yes,7,1,0,7,Travel_Frequently,No,3,11,3,65,High
+EMP1807,Research & Development,Laboratory Technician,2,34,Male,SAP,Read,Leaver,Yes,7,1,0,7,Travel_Frequently,No,3,11,3,65,High
+EMP1807,Research & Development,Laboratory Technician,2,34,Male,SharePoint,Read,Leaver,Yes,7,1,0,7,Travel_Frequently,No,3,11,3,65,High
+EMP1807,Research & Development,Laboratory Technician,2,34,Male,ServiceNow,Read,Leaver,Yes,7,1,0,7,Travel_Frequently,No,3,11,3,65,High
+EMP1807,Research & Development,Laboratory Technician,2,34,Male,Lab Systems,Read,Leaver,Yes,7,1,0,7,Travel_Frequently,No,3,11,3,65,High
+EMP1809,Research & Development,Manufacturing Director,2,37,Male,Active Directory,Write,Leaver,Yes,10,3,0,8,Travel_Rarely,No,3,10,4,70,Critical
+EMP1809,Research & Development,Manufacturing Director,2,37,Male,SAP,Write,Leaver,Yes,10,3,0,8,Travel_Rarely,No,3,10,4,70,Critical
+EMP1809,Research & Development,Manufacturing Director,2,37,Male,SharePoint,Write,Leaver,Yes,10,3,0,8,Travel_Rarely,No,3,10,4,70,Critical
+EMP1809,Research & Development,Manufacturing Director,2,37,Male,ServiceNow,Write,Leaver,Yes,10,3,0,8,Travel_Rarely,No,3,10,4,70,Critical
+EMP1809,Research & Development,Manufacturing Director,2,37,Male,Lab Systems,Write,Leaver,Yes,10,3,0,8,Travel_Rarely,No,3,10,4,70,Critical
+EMP1818,Human Resources,Human Resources,1,26,Female,Active Directory,Read,Leaver,Yes,5,1,1,4,Travel_Rarely,Yes,3,6,3,60,High
+EMP1818,Human Resources,Human Resources,1,26,Female,Workday,Read,Leaver,Yes,5,1,1,4,Travel_Rarely,Yes,3,6,3,60,High
+EMP1818,Human Resources,Human Resources,1,26,Female,SharePoint,Read,Leaver,Yes,5,1,1,4,Travel_Rarely,Yes,3,6,3,60,High
+EMP1818,Human Resources,Human Resources,1,26,Female,ServiceNow,Read,Leaver,Yes,5,1,1,4,Travel_Rarely,Yes,3,6,3,60,High
+EMP1818,Human Resources,Human Resources,1,26,Female,HR Portal,Read,Leaver,Yes,5,1,1,4,Travel_Rarely,Yes,3,6,3,60,High
+EMP1821,Research & Development,Healthcare Representative,2,46,Female,Active Directory,Read,Leaver,Yes,9,7,3,7,Travel_Rarely,No,4,13,2,60,High
+EMP1821,Research & Development,Healthcare Representative,2,46,Female,SAP,Read,Leaver,Yes,9,7,3,7,Travel_Rarely,No,4,13,2,60,High
+EMP1821,Research & Development,Healthcare Representative,2,46,Female,SharePoint,Read,Leaver,Yes,9,7,3,7,Travel_Rarely,No,4,13,2,60,High
+EMP1821,Research & Development,Healthcare Representative,2,46,Female,ServiceNow,Read,Leaver,Yes,9,7,3,7,Travel_Rarely,No,4,13,2,60,High
+EMP1821,Research & Development,Healthcare Representative,2,46,Female,Lab Systems,Read,Leaver,Yes,9,7,3,7,Travel_Rarely,No,4,13,2,60,High
+EMP1842,Human Resources,Human Resources,1,31,Male,Active Directory,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,No,3,2,4,60,High
+EMP1842,Human Resources,Human Resources,1,31,Male,Workday,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,No,3,2,4,60,High
+EMP1842,Human Resources,Human Resources,1,31,Male,SharePoint,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,No,3,2,4,60,High
+EMP1842,Human Resources,Human Resources,1,31,Male,ServiceNow,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,No,3,2,4,60,High
+EMP1842,Human Resources,Human Resources,1,31,Male,HR Portal,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,No,3,2,4,60,High
+EMP1844,Human Resources,Human Resources,1,29,Male,Active Directory,Read,Leaver,Yes,2,2,2,0,Travel_Rarely,Yes,3,4,3,70,Critical
+EMP1844,Human Resources,Human Resources,1,29,Male,Workday,Read,Leaver,Yes,2,2,2,0,Travel_Rarely,Yes,3,4,3,70,Critical
+EMP1844,Human Resources,Human Resources,1,29,Male,SharePoint,Read,Leaver,Yes,2,2,2,0,Travel_Rarely,Yes,3,4,3,70,Critical
+EMP1844,Human Resources,Human Resources,1,29,Male,ServiceNow,Read,Leaver,Yes,2,2,2,0,Travel_Rarely,Yes,3,4,3,70,Critical
+EMP1844,Human Resources,Human Resources,1,29,Male,HR Portal,Read,Leaver,Yes,2,2,2,0,Travel_Rarely,Yes,3,4,3,70,Critical
+EMP1862,Sales,Sales Executive,2,32,Male,Active Directory,Write,Leaver,Yes,2,2,2,2,Travel_Rarely,Yes,3,7,3,70,Critical
+EMP1862,Sales,Sales Executive,2,32,Male,Salesforce,Write,Leaver,Yes,2,2,2,2,Travel_Rarely,Yes,3,7,3,70,Critical
+EMP1862,Sales,Sales Executive,2,32,Male,SharePoint,Write,Leaver,Yes,2,2,2,2,Travel_Rarely,Yes,3,7,3,70,Critical
+EMP1862,Sales,Sales Executive,2,32,Male,ServiceNow,Write,Leaver,Yes,2,2,2,2,Travel_Rarely,Yes,3,7,3,70,Critical
+EMP1862,Sales,Sales Executive,2,32,Male,CRM Portal,Write,Leaver,Yes,2,2,2,2,Travel_Rarely,Yes,3,7,3,70,Critical
+EMP1868,Research & Development,Research Scientist,1,29,Male,Active Directory,Write,Leaver,Yes,1,0,1,0,Travel_Frequently,Yes,4,1,3,85,Critical
+EMP1868,Research & Development,Research Scientist,1,29,Male,SAP,Write,Leaver,Yes,1,0,1,0,Travel_Frequently,Yes,4,1,3,85,Critical
+EMP1868,Research & Development,Research Scientist,1,29,Male,SharePoint,Write,Leaver,Yes,1,0,1,0,Travel_Frequently,Yes,4,1,3,85,Critical
+EMP1868,Research & Development,Research Scientist,1,29,Male,ServiceNow,Write,Leaver,Yes,1,0,1,0,Travel_Frequently,Yes,4,1,3,85,Critical
+EMP1868,Research & Development,Research Scientist,1,29,Male,Lab Systems,Write,Leaver,Yes,1,0,1,0,Travel_Frequently,Yes,4,1,3,85,Critical
+EMP1869,Sales,Sales Executive,3,46,Female,Active Directory,Write,Leaver,Yes,8,7,0,7,Travel_Rarely,No,4,14,2,70,Critical
+EMP1869,Sales,Sales Executive,3,46,Female,Salesforce,Write,Leaver,Yes,8,7,0,7,Travel_Rarely,No,4,14,2,70,Critical
+EMP1869,Sales,Sales Executive,3,46,Female,SharePoint,Write,Leaver,Yes,8,7,0,7,Travel_Rarely,No,4,14,2,70,Critical
+EMP1869,Sales,Sales Executive,3,46,Female,ServiceNow,Write,Leaver,Yes,8,7,0,7,Travel_Rarely,No,4,14,2,70,Critical
+EMP1869,Sales,Sales Executive,3,46,Female,CRM Portal,Write,Leaver,Yes,8,7,0,7,Travel_Rarely,No,4,14,2,70,Critical
+EMP1876,Sales,Sales Representative,1,30,Male,Active Directory,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,No,3,1,3,60,High
+EMP1876,Sales,Sales Representative,1,30,Male,Salesforce,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,No,3,1,3,60,High
+EMP1876,Sales,Sales Representative,1,30,Male,SharePoint,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,No,3,1,3,60,High
+EMP1876,Sales,Sales Representative,1,30,Male,ServiceNow,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,No,3,1,3,60,High
+EMP1876,Sales,Sales Representative,1,30,Male,CRM Portal,Read,Leaver,Yes,1,0,0,0,Travel_Rarely,No,3,1,3,60,High
+EMP1878,Research & Development,Research Scientist,1,22,Male,Active Directory,Write,Leaver,Yes,1,0,0,0,Travel_Rarely,Yes,4,1,2,80,Critical
+EMP1878,Research & Development,Research Scientist,1,22,Male,SAP,Write,Leaver,Yes,1,0,0,0,Travel_Rarely,Yes,4,1,2,80,Critical
+EMP1878,Research & Development,Research Scientist,1,22,Male,SharePoint,Write,Leaver,Yes,1,0,0,0,Travel_Rarely,Yes,4,1,2,80,Critical
+EMP1878,Research & Development,Research Scientist,1,22,Male,ServiceNow,Write,Leaver,Yes,1,0,0,0,Travel_Rarely,Yes,4,1,2,80,Critical
+EMP1878,Research & Development,Research Scientist,1,22,Male,Lab Systems,Write,Leaver,Yes,1,0,0,0,Travel_Rarely,Yes,4,1,2,80,Critical
+EMP1905,Research & Development,Research Scientist,1,34,Male,Active Directory,Write,Leaver,Yes,5,2,3,0,Non-Travel,Yes,4,5,2,75,Critical
+EMP1905,Research & Development,Research Scientist,1,34,Male,SAP,Write,Leaver,Yes,5,2,3,0,Non-Travel,Yes,4,5,2,75,Critical
+EMP1905,Research & Development,Research Scientist,1,34,Male,SharePoint,Write,Leaver,Yes,5,2,3,0,Non-Travel,Yes,4,5,2,75,Critical
+EMP1905,Research & Development,Research Scientist,1,34,Male,ServiceNow,Write,Leaver,Yes,5,2,3,0,Non-Travel,Yes,4,5,2,75,Critical
+EMP1905,Research & Development,Research Scientist,1,34,Male,Lab Systems,Write,Leaver,Yes,5,2,3,0,Non-Travel,Yes,4,5,2,75,Critical
+EMP1907,Research & Development,Laboratory Technician,1,56,Male,Active Directory,Read,Leaver,Yes,4,2,1,0,Travel_Rarely,No,3,5,3,60,High
+EMP1907,Research & Development,Laboratory Technician,1,56,Male,SAP,Read,Leaver,Yes,4,2,1,0,Travel_Rarely,No,3,5,3,60,High
+EMP1907,Research & Development,Laboratory Technician,1,56,Male,SharePoint,Read,Leaver,Yes,4,2,1,0,Travel_Rarely,No,3,5,3,60,High
+EMP1907,Research & Development,Laboratory Technician,1,56,Male,ServiceNow,Read,Leaver,Yes,4,2,1,0,Travel_Rarely,No,3,5,3,60,High
+EMP1907,Research & Development,Laboratory Technician,1,56,Male,Lab Systems,Read,Leaver,Yes,4,2,1,0,Travel_Rarely,No,3,5,3,60,High
+EMP1928,Sales,Sales Representative,1,29,Male,Active Directory,Read,Leaver,Yes,1,0,0,0,Travel_Frequently,No,3,1,3,65,High
+EMP1928,Sales,Sales Representative,1,29,Male,Salesforce,Read,Leaver,Yes,1,0,0,0,Travel_Frequently,No,3,1,3,65,High
+EMP1928,Sales,Sales Representative,1,29,Male,SharePoint,Read,Leaver,Yes,1,0,0,0,Travel_Frequently,No,3,1,3,65,High
+EMP1928,Sales,Sales Representative,1,29,Male,ServiceNow,Read,Leaver,Yes,1,0,0,0,Travel_Frequently,No,3,1,3,65,High
+EMP1928,Sales,Sales Representative,1,29,Male,CRM Portal,Read,Leaver,Yes,1,0,0,0,Travel_Frequently,No,3,1,3,65,High
+EMP1933,Sales,Sales Executive,2,28,Female,Active Directory,Write,Leaver,Yes,2,0,2,2,Travel_Rarely,Yes,3,6,0,70,Critical
+EMP1933,Sales,Sales Executive,2,28,Female,Salesforce,Write,Leaver,Yes,2,0,2,2,Travel_Rarely,Yes,3,6,0,70,Critical
+EMP1933,Sales,Sales Executive,2,28,Female,SharePoint,Write,Leaver,Yes,2,0,2,2,Travel_Rarely,Yes,3,6,0,70,Critical
+EMP1933,Sales,Sales Executive,2,28,Female,ServiceNow,Write,Leaver,Yes,2,0,2,2,Travel_Rarely,Yes,3,6,0,70,Critical
+EMP1933,Sales,Sales Executive,2,28,Female,CRM Portal,Write,Leaver,Yes,2,0,2,2,Travel_Rarely,Yes,3,6,0,70,Critical
+EMP1939,Research & Development,Research Scientist,1,32,Female,Active Directory,Write,Leaver,Yes,4,1,0,3,Travel_Frequently,Yes,3,8,2,75,Critical
+EMP1939,Research & Development,Research Scientist,1,32,Female,SAP,Write,Leaver,Yes,4,1,0,3,Travel_Frequently,Yes,3,8,2,75,Critical
+EMP1939,Research & Development,Research Scientist,1,32,Female,SharePoint,Write,Leaver,Yes,4,1,0,3,Travel_Frequently,Yes,3,8,2,75,Critical
+EMP1939,Research & Development,Research Scientist,1,32,Female,ServiceNow,Write,Leaver,Yes,4,1,0,3,Travel_Frequently,Yes,3,8,2,75,Critical
+EMP1939,Research & Development,Research Scientist,1,32,Female,Lab Systems,Write,Leaver,Yes,4,1,0,3,Travel_Frequently,Yes,3,8,2,75,Critical
+EMP1944,Human Resources,Human Resources,1,27,Female,Active Directory,Read,Leaver,Yes,1,0,0,0,Travel_Frequently,No,3,1,2,65,High
+EMP1944,Human Resources,Human Resources,1,27,Female,Workday,Read,Leaver,Yes,1,0,0,0,Travel_Frequently,No,3,1,2,65,High
+EMP1944,Human Resources,Human Resources,1,27,Female,SharePoint,Read,Leaver,Yes,1,0,0,0,Travel_Frequently,No,3,1,2,65,High
+EMP1944,Human Resources,Human Resources,1,27,Female,ServiceNow,Read,Leaver,Yes,1,0,0,0,Travel_Frequently,No,3,1,2,65,High
+EMP1944,Human Resources,Human Resources,1,27,Female,HR Portal,Read,Leaver,Yes,1,0,0,0,Travel_Frequently,No,3,1,2,65,High
+EMP1960,Research & Development,Laboratory Technician,1,28,Male,Active Directory,Read,Leaver,Yes,4,1,0,3,Travel_Rarely,No,3,6,2,50,High
+EMP1960,Research & Development,Laboratory Technician,1,28,Male,SAP,Read,Leaver,Yes,4,1,0,3,Travel_Rarely,No,3,6,2,50,High
+EMP1960,Research & Development,Laboratory Technician,1,28,Male,SharePoint,Read,Leaver,Yes,4,1,0,3,Travel_Rarely,No,3,6,2,50,High
+EMP1960,Research & Development,Laboratory Technician,1,28,Male,ServiceNow,Read,Leaver,Yes,4,1,0,3,Travel_Rarely,No,3,6,2,50,High
+EMP1960,Research & Development,Laboratory Technician,1,28,Male,Lab Systems,Read,Leaver,Yes,4,1,0,3,Travel_Rarely,No,3,6,2,50,High
+EMP1967,Sales,Sales Executive,2,31,Male,Active Directory,Write,Leaver,Yes,10,7,0,8,Travel_Frequently,Yes,3,10,4,85,Critical
+EMP1967,Sales,Sales Executive,2,31,Male,Salesforce,Write,Leaver,Yes,10,7,0,8,Travel_Frequently,Yes,3,10,4,85,Critical
+EMP1967,Sales,Sales Executive,2,31,Male,SharePoint,Write,Leaver,Yes,10,7,0,8,Travel_Frequently,Yes,3,10,4,85,Critical
+EMP1967,Sales,Sales Executive,2,31,Male,ServiceNow,Write,Leaver,Yes,10,7,0,8,Travel_Frequently,Yes,3,10,4,85,Critical
+EMP1967,Sales,Sales Executive,2,31,Male,CRM Portal,Write,Leaver,Yes,10,7,0,8,Travel_Frequently,Yes,3,10,4,85,Critical
+EMP1968,Sales,Sales Executive,3,53,Male,Active Directory,Write,Leaver,Yes,2,2,2,2,Travel_Rarely,Yes,3,15,2,70,Critical
+EMP1968,Sales,Sales Executive,3,53,Male,Salesforce,Write,Leaver,Yes,2,2,2,2,Travel_Rarely,Yes,3,15,2,70,Critical
+EMP1968,Sales,Sales Executive,3,53,Male,SharePoint,Write,Leaver,Yes,2,2,2,2,Travel_Rarely,Yes,3,15,2,70,Critical
+EMP1968,Sales,Sales Executive,3,53,Male,ServiceNow,Write,Leaver,Yes,2,2,2,2,Travel_Rarely,Yes,3,15,2,70,Critical
+EMP1968,Sales,Sales Executive,3,53,Male,CRM Portal,Write,Leaver,Yes,2,2,2,2,Travel_Rarely,Yes,3,15,2,70,Critical
+EMP2023,Sales,Sales Representative,1,23,Male,Active Directory,Read,Leaver,Yes,1,0,1,0,Travel_Frequently,No,3,1,3,65,High
+EMP2023,Sales,Sales Representative,1,23,Male,Salesforce,Read,Leaver,Yes,1,0,1,0,Travel_Frequently,No,3,1,3,65,High
+EMP2023,Sales,Sales Representative,1,23,Male,SharePoint,Read,Leaver,Yes,1,0,1,0,Travel_Frequently,No,3,1,3,65,High
+EMP2023,Sales,Sales Representative,1,23,Male,ServiceNow,Read,Leaver,Yes,1,0,1,0,Travel_Frequently,No,3,1,3,65,High
+EMP2023,Sales,Sales Representative,1,23,Male,CRM Portal,Read,Leaver,Yes,1,0,1,0,Travel_Frequently,No,3,1,3,65,High
+EMP2027,Research & Development,Research Scientist,1,29,Male,Active Directory,Write,Leaver,Yes,2,2,2,2,Travel_Rarely,Yes,3,4,3,70,Critical
+EMP2027,Research & Development,Research Scientist,1,29,Male,SAP,Write,Leaver,Yes,2,2,2,2,Travel_Rarely,Yes,3,4,3,70,Critical
+EMP2027,Research & Development,Research Scientist,1,29,Male,SharePoint,Write,Leaver,Yes,2,2,2,2,Travel_Rarely,Yes,3,4,3,70,Critical
+EMP2027,Research & Development,Research Scientist,1,29,Male,ServiceNow,Write,Leaver,Yes,2,2,2,2,Travel_Rarely,Yes,3,4,3,70,Critical
+EMP2027,Research & Development,Research Scientist,1,29,Male,Lab Systems,Write,Leaver,Yes,2,2,2,2,Travel_Rarely,Yes,3,4,3,70,Critical
+EMP2032,Research & Development,Laboratory Technician,1,56,Male,Active Directory,Read,Leaver,Yes,10,9,9,8,Travel_Rarely,No,3,14,4,60,High
+EMP2032,Research & Development,Laboratory Technician,1,56,Male,SAP,Read,Leaver,Yes,10,9,9,8,Travel_Rarely,No,3,14,4,60,High
+EMP2032,Research & Development,Laboratory Technician,1,56,Male,SharePoint,Read,Leaver,Yes,10,9,9,8,Travel_Rarely,No,3,14,4,60,High
+EMP2032,Research & Development,Laboratory Technician,1,56,Male,ServiceNow,Read,Leaver,Yes,10,9,9,8,Travel_Rarely,No,3,14,4,60,High
+EMP2032,Research & Development,Laboratory Technician,1,56,Male,Lab Systems,Read,Leaver,Yes,10,9,9,8,Travel_Rarely,No,3,14,4,60,High
+EMP2044,Sales,Sales Executive,2,50,Male,Active Directory,Write,Leaver,Yes,6,3,0,1,Travel_Frequently,No,3,12,3,85,Critical
+EMP2044,Sales,Sales Executive,2,50,Male,Salesforce,Write,Leaver,Yes,6,3,0,1,Travel_Frequently,No,3,12,3,85,Critical
+EMP2044,Sales,Sales Executive,2,50,Male,SharePoint,Write,Leaver,Yes,6,3,0,1,Travel_Frequently,No,3,12,3,85,Critical
+EMP2044,Sales,Sales Executive,2,50,Male,ServiceNow,Write,Leaver,Yes,6,3,0,1,Travel_Frequently,No,3,12,3,85,Critical
+EMP2044,Sales,Sales Executive,2,50,Male,CRM Portal,Write,Leaver,Yes,6,3,0,1,Travel_Frequently,No,3,12,3,85,Critical
+EMP2055,Sales,Sales Executive,3,50,Male,Active Directory,Write,Leaver,Yes,3,2,2,0,Travel_Rarely,Yes,3,20,3,80,Critical
+EMP2055,Sales,Sales Executive,3,50,Male,Salesforce,Write,Leaver,Yes,3,2,2,0,Travel_Rarely,Yes,3,20,3,80,Critical
+EMP2055,Sales,Sales Executive,3,50,Male,SharePoint,Write,Leaver,Yes,3,2,2,0,Travel_Rarely,Yes,3,20,3,80,Critical
+EMP2055,Sales,Sales Executive,3,50,Male,ServiceNow,Write,Leaver,Yes,3,2,2,0,Travel_Rarely,Yes,3,20,3,80,Critical
+EMP2055,Sales,Sales Executive,3,50,Male,CRM Portal,Write,Leaver,Yes,3,2,2,0,Travel_Rarely,Yes,3,20,3,80,Critical

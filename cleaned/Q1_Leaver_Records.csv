@@ -1,0 +1,1186 @@
+EmployeeID,Department,JobRole,SystemName,AccessLevel,RiskScore,RiskLevel,YearsAtCompany
+EMP0825,Research & Development,Research Director,Active Directory,Admin,100,Critical,31
+EMP0825,Research & Development,Research Director,SAP,Admin,100,Critical,31
+EMP0825,Research & Development,Research Director,SharePoint,Admin,100,Critical,31
+EMP0825,Research & Development,Research Director,ServiceNow,Admin,100,Critical,31
+EMP0825,Research & Development,Research Director,Lab Systems,Admin,100,Critical,31
+EMP0058,Research & Development,Research Director,Active Directory,Admin,90,Critical,22
+EMP0058,Research & Development,Research Director,SAP,Admin,90,Critical,22
+EMP0058,Research & Development,Research Director,SharePoint,Admin,90,Critical,22
+EMP0058,Research & Development,Research Director,ServiceNow,Admin,90,Critical,22
+EMP0058,Research & Development,Research Director,Lab Systems,Admin,90,Critical,22
+EMP0492,Sales,Sales Executive,Active Directory,Write,90,Critical,6
+EMP0492,Sales,Sales Executive,Salesforce,Write,90,Critical,6
+EMP0492,Sales,Sales Executive,SharePoint,Write,90,Critical,6
+EMP0492,Sales,Sales Executive,ServiceNow,Write,90,Critical,6
+EMP0492,Sales,Sales Executive,CRM Portal,Write,90,Critical,6
+EMP1167,Sales,Sales Executive,Active Directory,Write,90,Critical,21
+EMP1167,Sales,Sales Executive,Salesforce,Write,90,Critical,21
+EMP1167,Sales,Sales Executive,SharePoint,Write,90,Critical,21
+EMP1167,Sales,Sales Executive,ServiceNow,Write,90,Critical,21
+EMP1167,Sales,Sales Executive,CRM Portal,Write,90,Critical,21
+EMP1667,Sales,Sales Executive,Active Directory,Write,90,Critical,11
+EMP1667,Sales,Sales Executive,Salesforce,Write,90,Critical,11
+EMP1667,Sales,Sales Executive,SharePoint,Write,90,Critical,11
+EMP1667,Sales,Sales Executive,ServiceNow,Write,90,Critical,11
+EMP1667,Sales,Sales Executive,CRM Portal,Write,90,Critical,11
+EMP0033,Research & Development,Research Scientist,Active Directory,Write,85,Critical,10
+EMP0033,Research & Development,Research Scientist,SAP,Write,85,Critical,10
+EMP0033,Research & Development,Research Scientist,SharePoint,Write,85,Critical,10
+EMP0033,Research & Development,Research Scientist,ServiceNow,Write,85,Critical,10
+EMP0033,Research & Development,Research Scientist,Lab Systems,Write,85,Critical,10
+EMP0299,Sales,Sales Executive,Active Directory,Write,85,Critical,6
+EMP0299,Sales,Sales Executive,Salesforce,Write,85,Critical,6
+EMP0299,Sales,Sales Executive,SharePoint,Write,85,Critical,6
+EMP0299,Sales,Sales Executive,ServiceNow,Write,85,Critical,6
+EMP0299,Sales,Sales Executive,CRM Portal,Write,85,Critical,6
+EMP0514,Research & Development,Research Scientist,Active Directory,Write,85,Critical,1
+EMP0514,Research & Development,Research Scientist,SAP,Write,85,Critical,1
+EMP0514,Research & Development,Research Scientist,SharePoint,Write,85,Critical,1
+EMP0514,Research & Development,Research Scientist,ServiceNow,Write,85,Critical,1
+EMP0514,Research & Development,Research Scientist,Lab Systems,Write,85,Critical,1
+EMP0608,Human Resources,Human Resources,Active Directory,Read,85,Critical,7
+EMP0608,Human Resources,Human Resources,Workday,Read,85,Critical,7
+EMP0608,Human Resources,Human Resources,SharePoint,Read,85,Critical,7
+EMP0608,Human Resources,Human Resources,ServiceNow,Read,85,Critical,7
+EMP0608,Human Resources,Human Resources,HR Portal,Read,85,Critical,7
+EMP0702,Research & Development,Research Scientist,Active Directory,Write,85,Critical,10
+EMP0702,Research & Development,Research Scientist,SAP,Write,85,Critical,10
+EMP0702,Research & Development,Research Scientist,SharePoint,Write,85,Critical,10
+EMP0702,Research & Development,Research Scientist,ServiceNow,Write,85,Critical,10
+EMP0702,Research & Development,Research Scientist,Lab Systems,Write,85,Critical,10
+EMP0848,Research & Development,Research Scientist,Active Directory,Write,85,Critical,8
+EMP0848,Research & Development,Research Scientist,SAP,Write,85,Critical,8
+EMP0848,Research & Development,Research Scientist,SharePoint,Write,85,Critical,8
+EMP0848,Research & Development,Research Scientist,ServiceNow,Write,85,Critical,8
+EMP0848,Research & Development,Research Scientist,Lab Systems,Write,85,Critical,8
+EMP0881,Research & Development,Research Scientist,Active Directory,Write,85,Critical,10
+EMP0881,Research & Development,Research Scientist,SAP,Write,85,Critical,10
+EMP0881,Research & Development,Research Scientist,SharePoint,Write,85,Critical,10
+EMP0881,Research & Development,Research Scientist,ServiceNow,Write,85,Critical,10
+EMP0881,Research & Development,Research Scientist,Lab Systems,Write,85,Critical,10
+EMP0967,Sales,Sales Executive,Active Directory,Write,85,Critical,16
+EMP0967,Sales,Sales Executive,Salesforce,Write,85,Critical,16
+EMP0967,Sales,Sales Executive,SharePoint,Write,85,Critical,16
+EMP0967,Sales,Sales Executive,ServiceNow,Write,85,Critical,16
+EMP0967,Sales,Sales Executive,CRM Portal,Write,85,Critical,16
+EMP1113,Sales,Sales Executive,Active Directory,Write,85,Critical,0
+EMP1113,Sales,Sales Executive,Salesforce,Write,85,Critical,0
+EMP1113,Sales,Sales Executive,SharePoint,Write,85,Critical,0
+EMP1113,Sales,Sales Executive,ServiceNow,Write,85,Critical,0
+EMP1113,Sales,Sales Executive,CRM Portal,Write,85,Critical,0
+EMP1203,Research & Development,Research Scientist,Active Directory,Write,85,Critical,0
+EMP1203,Research & Development,Research Scientist,SAP,Write,85,Critical,0
+EMP1203,Research & Development,Research Scientist,SharePoint,Write,85,Critical,0
+EMP1203,Research & Development,Research Scientist,ServiceNow,Write,85,Critical,0
+EMP1203,Research & Development,Research Scientist,Lab Systems,Write,85,Critical,0
+EMP1277,Sales,Manager,Active Directory,Write,85,Critical,24
+EMP1277,Sales,Manager,Salesforce,Write,85,Critical,24
+EMP1277,Sales,Manager,SharePoint,Write,85,Critical,24
+EMP1277,Sales,Manager,ServiceNow,Write,85,Critical,24
+EMP1277,Sales,Manager,CRM Portal,Write,85,Critical,24
+EMP1372,Sales,Sales Executive,Active Directory,Write,85,Critical,19
+EMP1372,Sales,Sales Executive,Salesforce,Write,85,Critical,19
+EMP1372,Sales,Sales Executive,SharePoint,Write,85,Critical,19
+EMP1372,Sales,Sales Executive,ServiceNow,Write,85,Critical,19
+EMP1372,Sales,Sales Executive,CRM Portal,Write,85,Critical,19
+EMP1489,Sales,Sales Executive,Active Directory,Write,85,Critical,15
+EMP1489,Sales,Sales Executive,Salesforce,Write,85,Critical,15
+EMP1489,Sales,Sales Executive,SharePoint,Write,85,Critical,15
+EMP1489,Sales,Sales Executive,ServiceNow,Write,85,Critical,15
+EMP1489,Sales,Sales Executive,CRM Portal,Write,85,Critical,15
+EMP1639,Sales,Sales Executive,Active Directory,Write,85,Critical,13
+EMP1639,Sales,Sales Executive,Salesforce,Write,85,Critical,13
+EMP1639,Sales,Sales Executive,SharePoint,Write,85,Critical,13
+EMP1639,Sales,Sales Executive,ServiceNow,Write,85,Critical,13
+EMP1639,Sales,Sales Executive,CRM Portal,Write,85,Critical,13
+EMP1767,Research & Development,Research Scientist,Active Directory,Write,85,Critical,1
+EMP1767,Research & Development,Research Scientist,SAP,Write,85,Critical,1
+EMP1767,Research & Development,Research Scientist,SharePoint,Write,85,Critical,1
+EMP1767,Research & Development,Research Scientist,ServiceNow,Write,85,Critical,1
+EMP1767,Research & Development,Research Scientist,Lab Systems,Write,85,Critical,1
+EMP1868,Research & Development,Research Scientist,Active Directory,Write,85,Critical,1
+EMP1868,Research & Development,Research Scientist,SAP,Write,85,Critical,1
+EMP1868,Research & Development,Research Scientist,SharePoint,Write,85,Critical,1
+EMP1868,Research & Development,Research Scientist,ServiceNow,Write,85,Critical,1
+EMP1868,Research & Development,Research Scientist,Lab Systems,Write,85,Critical,1
+EMP1967,Sales,Sales Executive,Active Directory,Write,85,Critical,10
+EMP1967,Sales,Sales Executive,Salesforce,Write,85,Critical,10
+EMP1967,Sales,Sales Executive,SharePoint,Write,85,Critical,10
+EMP1967,Sales,Sales Executive,ServiceNow,Write,85,Critical,10
+EMP1967,Sales,Sales Executive,CRM Portal,Write,85,Critical,10
+EMP2044,Sales,Sales Executive,Active Directory,Write,85,Critical,6
+EMP2044,Sales,Sales Executive,Salesforce,Write,85,Critical,6
+EMP2044,Sales,Sales Executive,SharePoint,Write,85,Critical,6
+EMP2044,Sales,Sales Executive,ServiceNow,Write,85,Critical,6
+EMP2044,Sales,Sales Executive,CRM Portal,Write,85,Critical,6
+EMP0001,Sales,Sales Executive,Active Directory,Write,80,Critical,6
+EMP0001,Sales,Sales Executive,Salesforce,Write,80,Critical,6
+EMP0001,Sales,Sales Executive,SharePoint,Write,80,Critical,6
+EMP0001,Sales,Sales Executive,ServiceNow,Write,80,Critical,6
+EMP0001,Sales,Sales Executive,CRM Portal,Write,80,Critical,6
+EMP0045,Research & Development,Research Scientist,Active Directory,Write,80,Critical,2
+EMP0045,Research & Development,Research Scientist,SAP,Write,80,Critical,2
+EMP0045,Research & Development,Research Scientist,SharePoint,Write,80,Critical,2
+EMP0045,Research & Development,Research Scientist,ServiceNow,Write,80,Critical,2
+EMP0045,Research & Development,Research Scientist,Lab Systems,Write,80,Critical,2
+EMP0090,Research & Development,Research Scientist,Active Directory,Write,80,Critical,1
+EMP0090,Research & Development,Research Scientist,SAP,Write,80,Critical,1
+EMP0090,Research & Development,Research Scientist,SharePoint,Write,80,Critical,1
+EMP0090,Research & Development,Research Scientist,ServiceNow,Write,80,Critical,1
+EMP0090,Research & Development,Research Scientist,Lab Systems,Write,80,Critical,1
+EMP0142,Sales,Sales Executive,Active Directory,Write,80,Critical,6
+EMP0142,Sales,Sales Executive,Salesforce,Write,80,Critical,6
+EMP0142,Sales,Sales Executive,SharePoint,Write,80,Critical,6
+EMP0142,Sales,Sales Executive,ServiceNow,Write,80,Critical,6
+EMP0142,Sales,Sales Executive,CRM Portal,Write,80,Critical,6
+EMP0163,Sales,Sales Executive,Active Directory,Write,80,Critical,7
+EMP0163,Sales,Sales Executive,Salesforce,Write,80,Critical,7
+EMP0163,Sales,Sales Executive,SharePoint,Write,80,Critical,7
+EMP0163,Sales,Sales Executive,ServiceNow,Write,80,Critical,7
+EMP0163,Sales,Sales Executive,CRM Portal,Write,80,Critical,7
+EMP0261,Research & Development,Manufacturing Director,Active Directory,Write,80,Critical,1
+EMP0261,Research & Development,Manufacturing Director,SAP,Write,80,Critical,1
+EMP0261,Research & Development,Manufacturing Director,SharePoint,Write,80,Critical,1
+EMP0261,Research & Development,Manufacturing Director,ServiceNow,Write,80,Critical,1
+EMP0261,Research & Development,Manufacturing Director,Lab Systems,Write,80,Critical,1
+EMP0315,Research & Development,Research Scientist,Active Directory,Write,80,Critical,4
+EMP0315,Research & Development,Research Scientist,SAP,Write,80,Critical,4
+EMP0315,Research & Development,Research Scientist,SharePoint,Write,80,Critical,4
+EMP0315,Research & Development,Research Scientist,ServiceNow,Write,80,Critical,4
+EMP0315,Research & Development,Research Scientist,Lab Systems,Write,80,Critical,4
+EMP0401,Sales,Sales Executive,Active Directory,Write,80,Critical,8
+EMP0401,Sales,Sales Executive,Salesforce,Write,80,Critical,8
+EMP0401,Sales,Sales Executive,SharePoint,Write,80,Critical,8
+EMP0401,Sales,Sales Executive,ServiceNow,Write,80,Critical,8
+EMP0401,Sales,Sales Executive,CRM Portal,Write,80,Critical,8
+EMP0445,Sales,Sales Executive,Active Directory,Write,80,Critical,1
+EMP0445,Sales,Sales Executive,Salesforce,Write,80,Critical,1
+EMP0445,Sales,Sales Executive,SharePoint,Write,80,Critical,1
+EMP0445,Sales,Sales Executive,ServiceNow,Write,80,Critical,1
+EMP0445,Sales,Sales Executive,CRM Portal,Write,80,Critical,1
+EMP0582,Research & Development,Manager,Active Directory,Write,80,Critical,7
+EMP0582,Research & Development,Manager,SAP,Write,80,Critical,7
+EMP0582,Research & Development,Manager,SharePoint,Write,80,Critical,7
+EMP0582,Research & Development,Manager,ServiceNow,Write,80,Critical,7
+EMP0582,Research & Development,Manager,Lab Systems,Write,80,Critical,7
+EMP0701,Research & Development,Research Scientist,Active Directory,Write,80,Critical,1
+EMP0701,Research & Development,Research Scientist,SAP,Write,80,Critical,1
+EMP0701,Research & Development,Research Scientist,SharePoint,Write,80,Critical,1
+EMP0701,Research & Development,Research Scientist,ServiceNow,Write,80,Critical,1
+EMP0701,Research & Development,Research Scientist,Lab Systems,Write,80,Critical,1
+EMP0741,Research & Development,Research Scientist,Active Directory,Write,80,Critical,7
+EMP0741,Research & Development,Research Scientist,SAP,Write,80,Critical,7
+EMP0741,Research & Development,Research Scientist,SharePoint,Write,80,Critical,7
+EMP0741,Research & Development,Research Scientist,ServiceNow,Write,80,Critical,7
+EMP0741,Research & Development,Research Scientist,Lab Systems,Write,80,Critical,7
+EMP0780,Research & Development,Research Scientist,Active Directory,Write,80,Critical,10
+EMP0780,Research & Development,Research Scientist,SAP,Write,80,Critical,10
+EMP0780,Research & Development,Research Scientist,SharePoint,Write,80,Critical,10
+EMP0780,Research & Development,Research Scientist,ServiceNow,Write,80,Critical,10
+EMP0780,Research & Development,Research Scientist,Lab Systems,Write,80,Critical,10
+EMP0927,Research & Development,Laboratory Technician,Active Directory,Read,80,Critical,7
+EMP0927,Research & Development,Laboratory Technician,SAP,Read,80,Critical,7
+EMP0927,Research & Development,Laboratory Technician,SharePoint,Read,80,Critical,7
+EMP0927,Research & Development,Laboratory Technician,ServiceNow,Read,80,Critical,7
+EMP0927,Research & Development,Laboratory Technician,Lab Systems,Read,80,Critical,7
+EMP0994,Research & Development,Research Scientist,Active Directory,Write,80,Critical,0
+EMP0994,Research & Development,Research Scientist,SAP,Write,80,Critical,0
+EMP0994,Research & Development,Research Scientist,SharePoint,Write,80,Critical,0
+EMP0994,Research & Development,Research Scientist,ServiceNow,Write,80,Critical,0
+EMP0994,Research & Development,Research Scientist,Lab Systems,Write,80,Critical,0
+EMP1004,Research & Development,Research Scientist,Active Directory,Write,80,Critical,5
+EMP1004,Research & Development,Research Scientist,SAP,Write,80,Critical,5
+EMP1004,Research & Development,Research Scientist,SharePoint,Write,80,Critical,5
+EMP1004,Research & Development,Research Scientist,ServiceNow,Write,80,Critical,5
+EMP1004,Research & Development,Research Scientist,Lab Systems,Write,80,Critical,5
+EMP1016,Research & Development,Research Scientist,Active Directory,Write,80,Critical,1
+EMP1016,Research & Development,Research Scientist,SAP,Write,80,Critical,1
+EMP1016,Research & Development,Research Scientist,SharePoint,Write,80,Critical,1
+EMP1016,Research & Development,Research Scientist,ServiceNow,Write,80,Critical,1
+EMP1016,Research & Development,Research Scientist,Lab Systems,Write,80,Critical,1
+EMP1081,Research & Development,Research Scientist,Active Directory,Write,80,Critical,10
+EMP1081,Research & Development,Research Scientist,SAP,Write,80,Critical,10
+EMP1081,Research & Development,Research Scientist,SharePoint,Write,80,Critical,10
+EMP1081,Research & Development,Research Scientist,ServiceNow,Write,80,Critical,10
+EMP1081,Research & Development,Research Scientist,Lab Systems,Write,80,Critical,10
+EMP1100,Sales,Sales Executive,Active Directory,Write,80,Critical,8
+EMP1100,Sales,Sales Executive,Salesforce,Write,80,Critical,8
+EMP1100,Sales,Sales Executive,SharePoint,Write,80,Critical,8
+EMP1100,Sales,Sales Executive,ServiceNow,Write,80,Critical,8
+EMP1100,Sales,Sales Executive,CRM Portal,Write,80,Critical,8
+EMP1101,Research & Development,Research Scientist,Active Directory,Write,80,Critical,13
+EMP1101,Research & Development,Research Scientist,SAP,Write,80,Critical,13
+EMP1101,Research & Development,Research Scientist,SharePoint,Write,80,Critical,13
+EMP1101,Research & Development,Research Scientist,ServiceNow,Write,80,Critical,13
+EMP1101,Research & Development,Research Scientist,Lab Systems,Write,80,Critical,13
+EMP1200,Research & Development,Research Scientist,Active Directory,Write,80,Critical,6
+EMP1200,Research & Development,Research Scientist,SAP,Write,80,Critical,6
+EMP1200,Research & Development,Research Scientist,SharePoint,Write,80,Critical,6
+EMP1200,Research & Development,Research Scientist,ServiceNow,Write,80,Critical,6
+EMP1200,Research & Development,Research Scientist,Lab Systems,Write,80,Critical,6
+EMP1318,Sales,Sales Executive,Active Directory,Write,80,Critical,5
+EMP1318,Sales,Sales Executive,Salesforce,Write,80,Critical,5
+EMP1318,Sales,Sales Executive,SharePoint,Write,80,Critical,5
+EMP1318,Sales,Sales Executive,ServiceNow,Write,80,Critical,5
+EMP1318,Sales,Sales Executive,CRM Portal,Write,80,Critical,5
+EMP1319,Sales,Sales Executive,Active Directory,Write,80,Critical,8
+EMP1319,Sales,Sales Executive,Salesforce,Write,80,Critical,8
+EMP1319,Sales,Sales Executive,SharePoint,Write,80,Critical,8
+EMP1319,Sales,Sales Executive,ServiceNow,Write,80,Critical,8
+EMP1319,Sales,Sales Executive,CRM Portal,Write,80,Critical,8
+EMP1360,Research & Development,Manufacturing Director,Active Directory,Write,80,Critical,10
+EMP1360,Research & Development,Manufacturing Director,SAP,Write,80,Critical,10
+EMP1360,Research & Development,Manufacturing Director,SharePoint,Write,80,Critical,10
+EMP1360,Research & Development,Manufacturing Director,ServiceNow,Write,80,Critical,10
+EMP1360,Research & Development,Manufacturing Director,Lab Systems,Write,80,Critical,10
+EMP1389,Research & Development,Manufacturing Director,Active Directory,Write,80,Critical,10
+EMP1389,Research & Development,Manufacturing Director,SAP,Write,80,Critical,10
+EMP1389,Research & Development,Manufacturing Director,SharePoint,Write,80,Critical,10
+EMP1389,Research & Development,Manufacturing Director,ServiceNow,Write,80,Critical,10
+EMP1389,Research & Development,Manufacturing Director,Lab Systems,Write,80,Critical,10
+EMP1405,Research & Development,Research Scientist,Active Directory,Write,80,Critical,8
+EMP1405,Research & Development,Research Scientist,SAP,Write,80,Critical,8
+EMP1405,Research & Development,Research Scientist,SharePoint,Write,80,Critical,8
+EMP1405,Research & Development,Research Scientist,ServiceNow,Write,80,Critical,8
+EMP1405,Research & Development,Research Scientist,Lab Systems,Write,80,Critical,8
+EMP1716,Sales,Sales Executive,Active Directory,Write,80,Critical,23
+EMP1716,Sales,Sales Executive,Salesforce,Write,80,Critical,23
+EMP1716,Sales,Sales Executive,SharePoint,Write,80,Critical,23
+EMP1716,Sales,Sales Executive,ServiceNow,Write,80,Critical,23
+EMP1716,Sales,Sales Executive,CRM Portal,Write,80,Critical,23
+EMP1758,Sales,Sales Executive,Active Directory,Write,80,Critical,0
+EMP1758,Sales,Sales Executive,Salesforce,Write,80,Critical,0
+EMP1758,Sales,Sales Executive,SharePoint,Write,80,Critical,0
+EMP1758,Sales,Sales Executive,ServiceNow,Write,80,Critical,0
+EMP1758,Sales,Sales Executive,CRM Portal,Write,80,Critical,0
+EMP1797,Sales,Sales Executive,Active Directory,Write,80,Critical,10
+EMP1797,Sales,Sales Executive,Salesforce,Write,80,Critical,10
+EMP1797,Sales,Sales Executive,SharePoint,Write,80,Critical,10
+EMP1797,Sales,Sales Executive,ServiceNow,Write,80,Critical,10
+EMP1797,Sales,Sales Executive,CRM Portal,Write,80,Critical,10
+EMP1878,Research & Development,Research Scientist,Active Directory,Write,80,Critical,1
+EMP1878,Research & Development,Research Scientist,SAP,Write,80,Critical,1
+EMP1878,Research & Development,Research Scientist,SharePoint,Write,80,Critical,1
+EMP1878,Research & Development,Research Scientist,ServiceNow,Write,80,Critical,1
+EMP1878,Research & Development,Research Scientist,Lab Systems,Write,80,Critical,1
+EMP2055,Sales,Sales Executive,Active Directory,Write,80,Critical,3
+EMP2055,Sales,Sales Executive,Salesforce,Write,80,Critical,3
+EMP2055,Sales,Sales Executive,SharePoint,Write,80,Critical,3
+EMP2055,Sales,Sales Executive,ServiceNow,Write,80,Critical,3
+EMP2055,Sales,Sales Executive,CRM Portal,Write,80,Critical,3
+EMP0137,Research & Development,Laboratory Technician,Active Directory,Read,75,Critical,1
+EMP0137,Research & Development,Laboratory Technician,SAP,Read,75,Critical,1
+EMP0137,Research & Development,Laboratory Technician,SharePoint,Read,75,Critical,1
+EMP0137,Research & Development,Laboratory Technician,ServiceNow,Read,75,Critical,1
+EMP0137,Research & Development,Laboratory Technician,Lab Systems,Read,75,Critical,1
+EMP0147,Research & Development,Laboratory Technician,Active Directory,Read,75,Critical,9
+EMP0147,Research & Development,Laboratory Technician,SAP,Read,75,Critical,9
+EMP0147,Research & Development,Laboratory Technician,SharePoint,Read,75,Critical,9
+EMP0147,Research & Development,Laboratory Technician,ServiceNow,Read,75,Critical,9
+EMP0147,Research & Development,Laboratory Technician,Lab Systems,Read,75,Critical,9
+EMP0291,Sales,Sales Executive,Active Directory,Write,75,Critical,14
+EMP0291,Sales,Sales Executive,Salesforce,Write,75,Critical,14
+EMP0291,Sales,Sales Executive,SharePoint,Write,75,Critical,14
+EMP0291,Sales,Sales Executive,ServiceNow,Write,75,Critical,14
+EMP0291,Sales,Sales Executive,CRM Portal,Write,75,Critical,14
+EMP0342,Research & Development,Manufacturing Director,Active Directory,Write,75,Critical,1
+EMP0342,Research & Development,Manufacturing Director,SAP,Write,75,Critical,1
+EMP0342,Research & Development,Manufacturing Director,SharePoint,Write,75,Critical,1
+EMP0342,Research & Development,Manufacturing Director,ServiceNow,Write,75,Critical,1
+EMP0342,Research & Development,Manufacturing Director,Lab Systems,Write,75,Critical,1
+EMP0376,Research & Development,Manager,Active Directory,Write,75,Critical,10
+EMP0376,Research & Development,Manager,SAP,Write,75,Critical,10
+EMP0376,Research & Development,Manager,SharePoint,Write,75,Critical,10
+EMP0376,Research & Development,Manager,ServiceNow,Write,75,Critical,10
+EMP0376,Research & Development,Manager,Lab Systems,Write,75,Critical,10
+EMP0392,Research & Development,Laboratory Technician,Active Directory,Read,75,Critical,1
+EMP0392,Research & Development,Laboratory Technician,SAP,Read,75,Critical,1
+EMP0392,Research & Development,Laboratory Technician,SharePoint,Read,75,Critical,1
+EMP0392,Research & Development,Laboratory Technician,ServiceNow,Read,75,Critical,1
+EMP0392,Research & Development,Laboratory Technician,Lab Systems,Read,75,Critical,1
+EMP0488,Sales,Sales Executive,Active Directory,Write,75,Critical,8
+EMP0488,Sales,Sales Executive,Salesforce,Write,75,Critical,8
+EMP0488,Sales,Sales Executive,SharePoint,Write,75,Critical,8
+EMP0488,Sales,Sales Executive,ServiceNow,Write,75,Critical,8
+EMP0488,Sales,Sales Executive,CRM Portal,Write,75,Critical,8
+EMP0510,Research & Development,Research Scientist,Active Directory,Write,75,Critical,6
+EMP0510,Research & Development,Research Scientist,SAP,Write,75,Critical,6
+EMP0510,Research & Development,Research Scientist,SharePoint,Write,75,Critical,6
+EMP0510,Research & Development,Research Scientist,ServiceNow,Write,75,Critical,6
+EMP0510,Research & Development,Research Scientist,Lab Systems,Write,75,Critical,6
+EMP0614,Sales,Sales Representative,Active Directory,Read,75,Critical,0
+EMP0614,Sales,Sales Representative,Salesforce,Read,75,Critical,0
+EMP0614,Sales,Sales Representative,SharePoint,Read,75,Critical,0
+EMP0614,Sales,Sales Representative,ServiceNow,Read,75,Critical,0
+EMP0614,Sales,Sales Representative,CRM Portal,Read,75,Critical,0
+EMP0647,Research & Development,Laboratory Technician,Active Directory,Read,75,Critical,6
+EMP0647,Research & Development,Laboratory Technician,SAP,Read,75,Critical,6
+EMP0647,Research & Development,Laboratory Technician,SharePoint,Read,75,Critical,6
+EMP0647,Research & Development,Laboratory Technician,ServiceNow,Read,75,Critical,6
+EMP0647,Research & Development,Laboratory Technician,Lab Systems,Read,75,Critical,6
+EMP0684,Sales,Sales Executive,Active Directory,Write,75,Critical,1
+EMP0684,Sales,Sales Executive,Salesforce,Write,75,Critical,1
+EMP0684,Sales,Sales Executive,SharePoint,Write,75,Critical,1
+EMP0684,Sales,Sales Executive,ServiceNow,Write,75,Critical,1
+EMP0684,Sales,Sales Executive,CRM Portal,Write,75,Critical,1
+EMP0723,Sales,Sales Executive,Active Directory,Write,75,Critical,4
+EMP0723,Sales,Sales Executive,Salesforce,Write,75,Critical,4
+EMP0723,Sales,Sales Executive,SharePoint,Write,75,Critical,4
+EMP0723,Sales,Sales Executive,ServiceNow,Write,75,Critical,4
+EMP0723,Sales,Sales Executive,CRM Portal,Write,75,Critical,4
+EMP0752,Research & Development,Research Scientist,Active Directory,Write,75,Critical,2
+EMP0752,Research & Development,Research Scientist,SAP,Write,75,Critical,2
+EMP0752,Research & Development,Research Scientist,SharePoint,Write,75,Critical,2
+EMP0752,Research & Development,Research Scientist,ServiceNow,Write,75,Critical,2
+EMP0752,Research & Development,Research Scientist,Lab Systems,Write,75,Critical,2
+EMP0785,Sales,Sales Executive,Active Directory,Write,75,Critical,5
+EMP0785,Sales,Sales Executive,Salesforce,Write,75,Critical,5
+EMP0785,Sales,Sales Executive,SharePoint,Write,75,Critical,5
+EMP0785,Sales,Sales Executive,ServiceNow,Write,75,Critical,5
+EMP0785,Sales,Sales Executive,CRM Portal,Write,75,Critical,5
+EMP0918,Research & Development,Laboratory Technician,Active Directory,Read,75,Critical,1
+EMP0918,Research & Development,Laboratory Technician,SAP,Read,75,Critical,1
+EMP0918,Research & Development,Laboratory Technician,SharePoint,Read,75,Critical,1
+EMP0918,Research & Development,Laboratory Technician,ServiceNow,Read,75,Critical,1
+EMP0918,Research & Development,Laboratory Technician,Lab Systems,Read,75,Critical,1
+EMP0970,Sales,Sales Executive,Active Directory,Write,75,Critical,14
+EMP0970,Sales,Sales Executive,Salesforce,Write,75,Critical,14
+EMP0970,Sales,Sales Executive,SharePoint,Write,75,Critical,14
+EMP0970,Sales,Sales Executive,ServiceNow,Write,75,Critical,14
+EMP0970,Sales,Sales Executive,CRM Portal,Write,75,Critical,14
+EMP0986,Sales,Sales Executive,Active Directory,Write,75,Critical,1
+EMP0986,Sales,Sales Executive,Salesforce,Write,75,Critical,1
+EMP0986,Sales,Sales Executive,SharePoint,Write,75,Critical,1
+EMP0986,Sales,Sales Executive,ServiceNow,Write,75,Critical,1
+EMP0986,Sales,Sales Executive,CRM Portal,Write,75,Critical,1
+EMP1038,Sales,Manager,Active Directory,Write,75,Critical,32
+EMP1038,Sales,Manager,Salesforce,Write,75,Critical,32
+EMP1038,Sales,Manager,SharePoint,Write,75,Critical,32
+EMP1038,Sales,Manager,ServiceNow,Write,75,Critical,32
+EMP1038,Sales,Manager,CRM Portal,Write,75,Critical,32
+EMP1053,Research & Development,Research Scientist,Active Directory,Write,75,Critical,3
+EMP1053,Research & Development,Research Scientist,SAP,Write,75,Critical,3
+EMP1053,Research & Development,Research Scientist,SharePoint,Write,75,Critical,3
+EMP1053,Research & Development,Research Scientist,ServiceNow,Write,75,Critical,3
+EMP1053,Research & Development,Research Scientist,Lab Systems,Write,75,Critical,3
+EMP1165,Sales,Sales Executive,Active Directory,Write,75,Critical,11
+EMP1165,Sales,Sales Executive,Salesforce,Write,75,Critical,11
+EMP1165,Sales,Sales Executive,SharePoint,Write,75,Critical,11
+EMP1165,Sales,Sales Executive,ServiceNow,Write,75,Critical,11
+EMP1165,Sales,Sales Executive,CRM Portal,Write,75,Critical,11
+EMP1248,Research & Development,Research Scientist,Active Directory,Write,75,Critical,1
+EMP1248,Research & Development,Research Scientist,SAP,Write,75,Critical,1
+EMP1248,Research & Development,Research Scientist,SharePoint,Write,75,Critical,1
+EMP1248,Research & Development,Research Scientist,ServiceNow,Write,75,Critical,1
+EMP1248,Research & Development,Research Scientist,Lab Systems,Write,75,Critical,1
+EMP1273,Sales,Sales Representative,Active Directory,Read,75,Critical,1
+EMP1273,Sales,Sales Representative,Salesforce,Read,75,Critical,1
+EMP1273,Sales,Sales Representative,SharePoint,Read,75,Critical,1
+EMP1273,Sales,Sales Representative,ServiceNow,Read,75,Critical,1
+EMP1273,Sales,Sales Representative,CRM Portal,Read,75,Critical,1
+EMP1380,Sales,Sales Executive,Active Directory,Write,75,Critical,4
+EMP1380,Sales,Sales Executive,Salesforce,Write,75,Critical,4
+EMP1380,Sales,Sales Executive,SharePoint,Write,75,Critical,4
+EMP1380,Sales,Sales Executive,ServiceNow,Write,75,Critical,4
+EMP1380,Sales,Sales Executive,CRM Portal,Write,75,Critical,4
+EMP1421,Research & Development,Healthcare Representative,Active Directory,Read,75,Critical,8
+EMP1421,Research & Development,Healthcare Representative,SAP,Read,75,Critical,8
+EMP1421,Research & Development,Healthcare Representative,SharePoint,Read,75,Critical,8
+EMP1421,Research & Development,Healthcare Representative,ServiceNow,Read,75,Critical,8
+EMP1421,Research & Development,Healthcare Representative,Lab Systems,Read,75,Critical,8
+EMP1459,Research & Development,Manufacturing Director,Active Directory,Write,75,Critical,10
+EMP1459,Research & Development,Manufacturing Director,SAP,Write,75,Critical,10
+EMP1459,Research & Development,Manufacturing Director,SharePoint,Write,75,Critical,10
+EMP1459,Research & Development,Manufacturing Director,ServiceNow,Write,75,Critical,10
+EMP1459,Research & Development,Manufacturing Director,Lab Systems,Write,75,Critical,10
+EMP1487,Sales,Sales Executive,Active Directory,Write,75,Critical,5
+EMP1487,Sales,Sales Executive,Salesforce,Write,75,Critical,5
+EMP1487,Sales,Sales Executive,SharePoint,Write,75,Critical,5
+EMP1487,Sales,Sales Executive,ServiceNow,Write,75,Critical,5
+EMP1487,Sales,Sales Executive,CRM Portal,Write,75,Critical,5
+EMP1494,Research & Development,Laboratory Technician,Active Directory,Read,75,Critical,0
+EMP1494,Research & Development,Laboratory Technician,SAP,Read,75,Critical,0
+EMP1494,Research & Development,Laboratory Technician,SharePoint,Read,75,Critical,0
+EMP1494,Research & Development,Laboratory Technician,ServiceNow,Read,75,Critical,0
+EMP1494,Research & Development,Laboratory Technician,Lab Systems,Read,75,Critical,0
+EMP1537,Research & Development,Research Scientist,Active Directory,Write,75,Critical,7
+EMP1537,Research & Development,Research Scientist,SAP,Write,75,Critical,7
+EMP1537,Research & Development,Research Scientist,SharePoint,Write,75,Critical,7
+EMP1537,Research & Development,Research Scientist,ServiceNow,Write,75,Critical,7
+EMP1537,Research & Development,Research Scientist,Lab Systems,Write,75,Critical,7
+EMP1572,Research & Development,Manufacturing Director,Active Directory,Write,75,Critical,33
+EMP1572,Research & Development,Manufacturing Director,SAP,Write,75,Critical,33
+EMP1572,Research & Development,Manufacturing Director,SharePoint,Write,75,Critical,33
+EMP1572,Research & Development,Manufacturing Director,ServiceNow,Write,75,Critical,33
+EMP1572,Research & Development,Manufacturing Director,Lab Systems,Write,75,Critical,33
+EMP1624,Sales,Sales Representative,Active Directory,Read,75,Critical,0
+EMP1624,Sales,Sales Representative,Salesforce,Read,75,Critical,0
+EMP1624,Sales,Sales Representative,SharePoint,Read,75,Critical,0
+EMP1624,Sales,Sales Representative,ServiceNow,Read,75,Critical,0
+EMP1624,Sales,Sales Representative,CRM Portal,Read,75,Critical,0
+EMP1691,Sales,Sales Representative,Active Directory,Read,75,Critical,9
+EMP1691,Sales,Sales Representative,Salesforce,Read,75,Critical,9
+EMP1691,Sales,Sales Representative,SharePoint,Read,75,Critical,9
+EMP1691,Sales,Sales Representative,ServiceNow,Read,75,Critical,9
+EMP1691,Sales,Sales Representative,CRM Portal,Read,75,Critical,9
+EMP1792,Research & Development,Research Scientist,Active Directory,Write,75,Critical,5
+EMP1792,Research & Development,Research Scientist,SAP,Write,75,Critical,5
+EMP1792,Research & Development,Research Scientist,SharePoint,Write,75,Critical,5
+EMP1792,Research & Development,Research Scientist,ServiceNow,Write,75,Critical,5
+EMP1792,Research & Development,Research Scientist,Lab Systems,Write,75,Critical,5
+EMP1905,Research & Development,Research Scientist,Active Directory,Write,75,Critical,5
+EMP1905,Research & Development,Research Scientist,SAP,Write,75,Critical,5
+EMP1905,Research & Development,Research Scientist,SharePoint,Write,75,Critical,5
+EMP1905,Research & Development,Research Scientist,ServiceNow,Write,75,Critical,5
+EMP1905,Research & Development,Research Scientist,Lab Systems,Write,75,Critical,5
+EMP1939,Research & Development,Research Scientist,Active Directory,Write,75,Critical,4
+EMP1939,Research & Development,Research Scientist,SAP,Write,75,Critical,4
+EMP1939,Research & Development,Research Scientist,SharePoint,Write,75,Critical,4
+EMP1939,Research & Development,Research Scientist,ServiceNow,Write,75,Critical,4
+EMP1939,Research & Development,Research Scientist,Lab Systems,Write,75,Critical,4
+EMP0004,Research & Development,Laboratory Technician,Active Directory,Read,70,Critical,0
+EMP0004,Research & Development,Laboratory Technician,SAP,Read,70,Critical,0
+EMP0004,Research & Development,Laboratory Technician,SharePoint,Read,70,Critical,0
+EMP0004,Research & Development,Laboratory Technician,ServiceNow,Read,70,Critical,0
+EMP0004,Research & Development,Laboratory Technician,Lab Systems,Read,70,Critical,0
+EMP0064,Research & Development,Laboratory Technician,Active Directory,Read,70,Critical,1
+EMP0064,Research & Development,Laboratory Technician,SAP,Read,70,Critical,1
+EMP0064,Research & Development,Laboratory Technician,SharePoint,Read,70,Critical,1
+EMP0064,Research & Development,Laboratory Technician,ServiceNow,Read,70,Critical,1
+EMP0064,Research & Development,Laboratory Technician,Lab Systems,Read,70,Critical,1
+EMP0118,Sales,Sales Executive,Active Directory,Write,70,Critical,9
+EMP0118,Sales,Sales Executive,Salesforce,Write,70,Critical,9
+EMP0118,Sales,Sales Executive,SharePoint,Write,70,Critical,9
+EMP0118,Sales,Sales Executive,ServiceNow,Write,70,Critical,9
+EMP0118,Sales,Sales Executive,CRM Portal,Write,70,Critical,9
+EMP0161,Research & Development,Research Scientist,Active Directory,Write,70,Critical,5
+EMP0161,Research & Development,Research Scientist,SAP,Write,70,Critical,5
+EMP0161,Research & Development,Research Scientist,SharePoint,Write,70,Critical,5
+EMP0161,Research & Development,Research Scientist,ServiceNow,Write,70,Critical,5
+EMP0161,Research & Development,Research Scientist,Lab Systems,Write,70,Critical,5
+EMP0167,Sales,Sales Representative,Active Directory,Read,70,Critical,0
+EMP0167,Sales,Sales Representative,Salesforce,Read,70,Critical,0
+EMP0167,Sales,Sales Representative,SharePoint,Read,70,Critical,0
+EMP0167,Sales,Sales Representative,ServiceNow,Read,70,Critical,0
+EMP0167,Sales,Sales Representative,CRM Portal,Read,70,Critical,0
+EMP0175,Sales,Sales Executive,Active Directory,Write,70,Critical,2
+EMP0175,Sales,Sales Executive,Salesforce,Write,70,Critical,2
+EMP0175,Sales,Sales Executive,SharePoint,Write,70,Critical,2
+EMP0175,Sales,Sales Executive,ServiceNow,Write,70,Critical,2
+EMP0175,Sales,Sales Executive,CRM Portal,Write,70,Critical,2
+EMP0282,Research & Development,Healthcare Representative,Active Directory,Read,70,Critical,1
+EMP0282,Research & Development,Healthcare Representative,SAP,Read,70,Critical,1
+EMP0282,Research & Development,Healthcare Representative,SharePoint,Read,70,Critical,1
+EMP0282,Research & Development,Healthcare Representative,ServiceNow,Read,70,Critical,1
+EMP0282,Research & Development,Healthcare Representative,Lab Systems,Read,70,Critical,1
+EMP0283,Sales,Sales Executive,Active Directory,Write,70,Critical,10
+EMP0283,Sales,Sales Executive,Salesforce,Write,70,Critical,10
+EMP0283,Sales,Sales Executive,SharePoint,Write,70,Critical,10
+EMP0283,Sales,Sales Executive,ServiceNow,Write,70,Critical,10
+EMP0283,Sales,Sales Executive,CRM Portal,Write,70,Critical,10
+EMP0297,Research & Development,Research Scientist,Active Directory,Write,70,Critical,5
+EMP0297,Research & Development,Research Scientist,SAP,Write,70,Critical,5
+EMP0297,Research & Development,Research Scientist,SharePoint,Write,70,Critical,5
+EMP0297,Research & Development,Research Scientist,ServiceNow,Write,70,Critical,5
+EMP0297,Research & Development,Research Scientist,Lab Systems,Write,70,Critical,5
+EMP0300,Research & Development,Research Scientist,Active Directory,Write,70,Critical,6
+EMP0300,Research & Development,Research Scientist,SAP,Write,70,Critical,6
+EMP0300,Research & Development,Research Scientist,SharePoint,Write,70,Critical,6
+EMP0300,Research & Development,Research Scientist,ServiceNow,Write,70,Critical,6
+EMP0300,Research & Development,Research Scientist,Lab Systems,Write,70,Critical,6
+EMP0433,Research & Development,Research Scientist,Active Directory,Write,70,Critical,8
+EMP0433,Research & Development,Research Scientist,SAP,Write,70,Critical,8
+EMP0433,Research & Development,Research Scientist,SharePoint,Write,70,Critical,8
+EMP0433,Research & Development,Research Scientist,ServiceNow,Write,70,Critical,8
+EMP0433,Research & Development,Research Scientist,Lab Systems,Write,70,Critical,8
+EMP0440,Research & Development,Research Scientist,Active Directory,Write,70,Critical,3
+EMP0440,Research & Development,Research Scientist,SAP,Write,70,Critical,3
+EMP0440,Research & Development,Research Scientist,SharePoint,Write,70,Critical,3
+EMP0440,Research & Development,Research Scientist,ServiceNow,Write,70,Critical,3
+EMP0440,Research & Development,Research Scientist,Lab Systems,Write,70,Critical,3
+EMP0454,Research & Development,Laboratory Technician,Active Directory,Read,70,Critical,7
+EMP0454,Research & Development,Laboratory Technician,SAP,Read,70,Critical,7
+EMP0454,Research & Development,Laboratory Technician,SharePoint,Read,70,Critical,7
+EMP0454,Research & Development,Laboratory Technician,ServiceNow,Read,70,Critical,7
+EMP0454,Research & Development,Laboratory Technician,Lab Systems,Read,70,Critical,7
+EMP0485,Sales,Sales Representative,Active Directory,Read,70,Critical,1
+EMP0485,Sales,Sales Representative,Salesforce,Read,70,Critical,1
+EMP0485,Sales,Sales Representative,SharePoint,Read,70,Critical,1
+EMP0485,Sales,Sales Representative,ServiceNow,Read,70,Critical,1
+EMP0485,Sales,Sales Representative,CRM Portal,Read,70,Critical,1
+EMP0565,Research & Development,Research Scientist,Active Directory,Write,70,Critical,2
+EMP0565,Research & Development,Research Scientist,SAP,Write,70,Critical,2
+EMP0565,Research & Development,Research Scientist,SharePoint,Write,70,Critical,2
+EMP0565,Research & Development,Research Scientist,ServiceNow,Write,70,Critical,2
+EMP0565,Research & Development,Research Scientist,Lab Systems,Write,70,Critical,2
+EMP0622,Research & Development,Laboratory Technician,Active Directory,Read,70,Critical,1
+EMP0622,Research & Development,Laboratory Technician,SAP,Read,70,Critical,1
+EMP0622,Research & Development,Laboratory Technician,SharePoint,Read,70,Critical,1
+EMP0622,Research & Development,Laboratory Technician,ServiceNow,Read,70,Critical,1
+EMP0622,Research & Development,Laboratory Technician,Lab Systems,Read,70,Critical,1
+EMP0720,Sales,Sales Executive,Active Directory,Write,70,Critical,2
+EMP0720,Sales,Sales Executive,Salesforce,Write,70,Critical,2
+EMP0720,Sales,Sales Executive,SharePoint,Write,70,Critical,2
+EMP0720,Sales,Sales Executive,ServiceNow,Write,70,Critical,2
+EMP0720,Sales,Sales Executive,CRM Portal,Write,70,Critical,2
+EMP0787,Research & Development,Manager,Active Directory,Write,70,Critical,5
+EMP0787,Research & Development,Manager,SAP,Write,70,Critical,5
+EMP0787,Research & Development,Manager,SharePoint,Write,70,Critical,5
+EMP0787,Research & Development,Manager,ServiceNow,Write,70,Critical,5
+EMP0787,Research & Development,Manager,Lab Systems,Write,70,Critical,5
+EMP0811,Research & Development,Laboratory Technician,Active Directory,Read,70,Critical,0
+EMP0811,Research & Development,Laboratory Technician,SAP,Read,70,Critical,0
+EMP0811,Research & Development,Laboratory Technician,SharePoint,Read,70,Critical,0
+EMP0811,Research & Development,Laboratory Technician,ServiceNow,Read,70,Critical,0
+EMP0811,Research & Development,Laboratory Technician,Lab Systems,Read,70,Critical,0
+EMP0816,Research & Development,Laboratory Technician,Active Directory,Read,70,Critical,1
+EMP0816,Research & Development,Laboratory Technician,SAP,Read,70,Critical,1
+EMP0816,Research & Development,Laboratory Technician,SharePoint,Read,70,Critical,1
+EMP0816,Research & Development,Laboratory Technician,ServiceNow,Read,70,Critical,1
+EMP0816,Research & Development,Laboratory Technician,Lab Systems,Read,70,Critical,1
+EMP0828,Research & Development,Research Scientist,Active Directory,Write,70,Critical,2
+EMP0828,Research & Development,Research Scientist,SAP,Write,70,Critical,2
+EMP0828,Research & Development,Research Scientist,SharePoint,Write,70,Critical,2
+EMP0828,Research & Development,Research Scientist,ServiceNow,Write,70,Critical,2
+EMP0828,Research & Development,Research Scientist,Lab Systems,Write,70,Critical,2
+EMP0840,Sales,Sales Executive,Active Directory,Write,70,Critical,9
+EMP0840,Sales,Sales Executive,Salesforce,Write,70,Critical,9
+EMP0840,Sales,Sales Executive,SharePoint,Write,70,Critical,9
+EMP0840,Sales,Sales Executive,ServiceNow,Write,70,Critical,9
+EMP0840,Sales,Sales Executive,CRM Portal,Write,70,Critical,9
+EMP0842,Sales,Sales Executive,Active Directory,Write,70,Critical,9
+EMP0842,Sales,Sales Executive,Salesforce,Write,70,Critical,9
+EMP0842,Sales,Sales Executive,SharePoint,Write,70,Critical,9
+EMP0842,Sales,Sales Executive,ServiceNow,Write,70,Critical,9
+EMP0842,Sales,Sales Executive,CRM Portal,Write,70,Critical,9
+EMP0911,Research & Development,Laboratory Technician,Active Directory,Read,70,Critical,1
+EMP0911,Research & Development,Laboratory Technician,SAP,Read,70,Critical,1
+EMP0911,Research & Development,Laboratory Technician,SharePoint,Read,70,Critical,1
+EMP0911,Research & Development,Laboratory Technician,ServiceNow,Read,70,Critical,1
+EMP0911,Research & Development,Laboratory Technician,Lab Systems,Read,70,Critical,1
+EMP0923,Research & Development,Research Scientist,Active Directory,Write,70,Critical,1
+EMP0923,Research & Development,Research Scientist,SAP,Write,70,Critical,1
+EMP0923,Research & Development,Research Scientist,SharePoint,Write,70,Critical,1
+EMP0923,Research & Development,Research Scientist,ServiceNow,Write,70,Critical,1
+EMP0923,Research & Development,Research Scientist,Lab Systems,Write,70,Critical,1
+EMP0926,Research & Development,Manufacturing Director,Active Directory,Write,70,Critical,3
+EMP0926,Research & Development,Manufacturing Director,SAP,Write,70,Critical,3
+EMP0926,Research & Development,Manufacturing Director,SharePoint,Write,70,Critical,3
+EMP0926,Research & Development,Manufacturing Director,ServiceNow,Write,70,Critical,3
+EMP0926,Research & Development,Manufacturing Director,Lab Systems,Write,70,Critical,3
+EMP0952,Sales,Sales Representative,Active Directory,Read,70,Critical,1
+EMP0952,Sales,Sales Representative,Salesforce,Read,70,Critical,1
+EMP0952,Sales,Sales Representative,SharePoint,Read,70,Critical,1
+EMP0952,Sales,Sales Representative,ServiceNow,Read,70,Critical,1
+EMP0952,Sales,Sales Representative,CRM Portal,Read,70,Critical,1
+EMP0959,Sales,Sales Representative,Active Directory,Read,70,Critical,1
+EMP0959,Sales,Sales Representative,Salesforce,Read,70,Critical,1
+EMP0959,Sales,Sales Representative,SharePoint,Read,70,Critical,1
+EMP0959,Sales,Sales Representative,ServiceNow,Read,70,Critical,1
+EMP0959,Sales,Sales Representative,CRM Portal,Read,70,Critical,1
+EMP0977,Research & Development,Research Scientist,Active Directory,Write,70,Critical,1
+EMP0977,Research & Development,Research Scientist,SAP,Write,70,Critical,1
+EMP0977,Research & Development,Research Scientist,SharePoint,Write,70,Critical,1
+EMP0977,Research & Development,Research Scientist,ServiceNow,Write,70,Critical,1
+EMP0977,Research & Development,Research Scientist,Lab Systems,Write,70,Critical,1
+EMP1106,Research & Development,Laboratory Technician,Active Directory,Read,70,Critical,7
+EMP1106,Research & Development,Laboratory Technician,SAP,Read,70,Critical,7
+EMP1106,Research & Development,Laboratory Technician,SharePoint,Read,70,Critical,7
+EMP1106,Research & Development,Laboratory Technician,ServiceNow,Read,70,Critical,7
+EMP1106,Research & Development,Laboratory Technician,Lab Systems,Read,70,Critical,7
+EMP1108,Research & Development,Research Scientist,Active Directory,Write,70,Critical,2
+EMP1108,Research & Development,Research Scientist,SAP,Write,70,Critical,2
+EMP1108,Research & Development,Research Scientist,SharePoint,Write,70,Critical,2
+EMP1108,Research & Development,Research Scientist,ServiceNow,Write,70,Critical,2
+EMP1108,Research & Development,Research Scientist,Lab Systems,Write,70,Critical,2
+EMP1127,Research & Development,Healthcare Representative,Active Directory,Read,70,Critical,18
+EMP1127,Research & Development,Healthcare Representative,SAP,Read,70,Critical,18
+EMP1127,Research & Development,Healthcare Representative,SharePoint,Read,70,Critical,18
+EMP1127,Research & Development,Healthcare Representative,ServiceNow,Read,70,Critical,18
+EMP1127,Research & Development,Healthcare Representative,Lab Systems,Read,70,Critical,18
+EMP1157,Sales,Sales Executive,Active Directory,Write,70,Critical,5
+EMP1157,Sales,Sales Executive,Salesforce,Write,70,Critical,5
+EMP1157,Sales,Sales Executive,SharePoint,Write,70,Critical,5
+EMP1157,Sales,Sales Executive,ServiceNow,Write,70,Critical,5
+EMP1157,Sales,Sales Executive,CRM Portal,Write,70,Critical,5
+EMP1175,Research & Development,Laboratory Technician,Active Directory,Read,70,Critical,1
+EMP1175,Research & Development,Laboratory Technician,SAP,Read,70,Critical,1
+EMP1175,Research & Development,Laboratory Technician,SharePoint,Read,70,Critical,1
+EMP1175,Research & Development,Laboratory Technician,ServiceNow,Read,70,Critical,1
+EMP1175,Research & Development,Laboratory Technician,Lab Systems,Read,70,Critical,1
+EMP1299,Research & Development,Laboratory Technician,Active Directory,Read,70,Critical,7
+EMP1299,Research & Development,Laboratory Technician,SAP,Read,70,Critical,7
+EMP1299,Research & Development,Laboratory Technician,SharePoint,Read,70,Critical,7
+EMP1299,Research & Development,Laboratory Technician,ServiceNow,Read,70,Critical,7
+EMP1299,Research & Development,Laboratory Technician,Lab Systems,Read,70,Critical,7
+EMP1309,Research & Development,Laboratory Technician,Active Directory,Read,70,Critical,10
+EMP1309,Research & Development,Laboratory Technician,SAP,Read,70,Critical,10
+EMP1309,Research & Development,Laboratory Technician,SharePoint,Read,70,Critical,10
+EMP1309,Research & Development,Laboratory Technician,ServiceNow,Read,70,Critical,10
+EMP1309,Research & Development,Laboratory Technician,Lab Systems,Read,70,Critical,10
+EMP1433,Research & Development,Research Scientist,Active Directory,Write,70,Critical,1
+EMP1433,Research & Development,Research Scientist,SAP,Write,70,Critical,1
+EMP1433,Research & Development,Research Scientist,SharePoint,Write,70,Critical,1
+EMP1433,Research & Development,Research Scientist,ServiceNow,Write,70,Critical,1
+EMP1433,Research & Development,Research Scientist,Lab Systems,Write,70,Critical,1
+EMP1457,Sales,Sales Executive,Active Directory,Write,70,Critical,7
+EMP1457,Sales,Sales Executive,Salesforce,Write,70,Critical,7
+EMP1457,Sales,Sales Executive,SharePoint,Write,70,Critical,7
+EMP1457,Sales,Sales Executive,ServiceNow,Write,70,Critical,7
+EMP1457,Sales,Sales Executive,CRM Portal,Write,70,Critical,7
+EMP1522,Research & Development,Research Scientist,Active Directory,Write,70,Critical,9
+EMP1522,Research & Development,Research Scientist,SAP,Write,70,Critical,9
+EMP1522,Research & Development,Research Scientist,SharePoint,Write,70,Critical,9
+EMP1522,Research & Development,Research Scientist,ServiceNow,Write,70,Critical,9
+EMP1522,Research & Development,Research Scientist,Lab Systems,Write,70,Critical,9
+EMP1562,Sales,Sales Executive,Active Directory,Write,70,Critical,10
+EMP1562,Sales,Sales Executive,Salesforce,Write,70,Critical,10
+EMP1562,Sales,Sales Executive,SharePoint,Write,70,Critical,10
+EMP1562,Sales,Sales Executive,ServiceNow,Write,70,Critical,10
+EMP1562,Sales,Sales Executive,CRM Portal,Write,70,Critical,10
+EMP1569,Research & Development,Laboratory Technician,Active Directory,Read,70,Critical,1
+EMP1569,Research & Development,Laboratory Technician,SAP,Read,70,Critical,1
+EMP1569,Research & Development,Laboratory Technician,SharePoint,Read,70,Critical,1
+EMP1569,Research & Development,Laboratory Technician,ServiceNow,Read,70,Critical,1
+EMP1569,Research & Development,Laboratory Technician,Lab Systems,Read,70,Critical,1
+EMP1604,Research & Development,Laboratory Technician,Active Directory,Read,70,Critical,1
+EMP1604,Research & Development,Laboratory Technician,SAP,Read,70,Critical,1
+EMP1604,Research & Development,Laboratory Technician,SharePoint,Read,70,Critical,1
+EMP1604,Research & Development,Laboratory Technician,ServiceNow,Read,70,Critical,1
+EMP1604,Research & Development,Laboratory Technician,Lab Systems,Read,70,Critical,1
+EMP1645,Sales,Sales Executive,Active Directory,Write,70,Critical,2
+EMP1645,Sales,Sales Executive,Salesforce,Write,70,Critical,2
+EMP1645,Sales,Sales Executive,SharePoint,Write,70,Critical,2
+EMP1645,Sales,Sales Executive,ServiceNow,Write,70,Critical,2
+EMP1645,Sales,Sales Executive,CRM Portal,Write,70,Critical,2
+EMP1733,Sales,Sales Executive,Active Directory,Write,70,Critical,2
+EMP1733,Sales,Sales Executive,Salesforce,Write,70,Critical,2
+EMP1733,Sales,Sales Executive,SharePoint,Write,70,Critical,2
+EMP1733,Sales,Sales Executive,ServiceNow,Write,70,Critical,2
+EMP1733,Sales,Sales Executive,CRM Portal,Write,70,Critical,2
+EMP1734,Sales,Sales Executive,Active Directory,Write,70,Critical,0
+EMP1734,Sales,Sales Executive,Salesforce,Write,70,Critical,0
+EMP1734,Sales,Sales Executive,SharePoint,Write,70,Critical,0
+EMP1734,Sales,Sales Executive,ServiceNow,Write,70,Critical,0
+EMP1734,Sales,Sales Executive,CRM Portal,Write,70,Critical,0
+EMP1761,Sales,Sales Executive,Active Directory,Write,70,Critical,1
+EMP1761,Sales,Sales Executive,Salesforce,Write,70,Critical,1
+EMP1761,Sales,Sales Executive,SharePoint,Write,70,Critical,1
+EMP1761,Sales,Sales Executive,ServiceNow,Write,70,Critical,1
+EMP1761,Sales,Sales Executive,CRM Portal,Write,70,Critical,1
+EMP1783,Research & Development,Laboratory Technician,Active Directory,Read,70,Critical,1
+EMP1783,Research & Development,Laboratory Technician,SAP,Read,70,Critical,1
+EMP1783,Research & Development,Laboratory Technician,SharePoint,Read,70,Critical,1
+EMP1783,Research & Development,Laboratory Technician,ServiceNow,Read,70,Critical,1
+EMP1783,Research & Development,Laboratory Technician,Lab Systems,Read,70,Critical,1
+EMP1809,Research & Development,Manufacturing Director,Active Directory,Write,70,Critical,10
+EMP1809,Research & Development,Manufacturing Director,SAP,Write,70,Critical,10
+EMP1809,Research & Development,Manufacturing Director,SharePoint,Write,70,Critical,10
+EMP1809,Research & Development,Manufacturing Director,ServiceNow,Write,70,Critical,10
+EMP1809,Research & Development,Manufacturing Director,Lab Systems,Write,70,Critical,10
+EMP1844,Human Resources,Human Resources,Active Directory,Read,70,Critical,2
+EMP1844,Human Resources,Human Resources,Workday,Read,70,Critical,2
+EMP1844,Human Resources,Human Resources,SharePoint,Read,70,Critical,2
+EMP1844,Human Resources,Human Resources,ServiceNow,Read,70,Critical,2
+EMP1844,Human Resources,Human Resources,HR Portal,Read,70,Critical,2
+EMP1862,Sales,Sales Executive,Active Directory,Write,70,Critical,2
+EMP1862,Sales,Sales Executive,Salesforce,Write,70,Critical,2
+EMP1862,Sales,Sales Executive,SharePoint,Write,70,Critical,2
+EMP1862,Sales,Sales Executive,ServiceNow,Write,70,Critical,2
+EMP1862,Sales,Sales Executive,CRM Portal,Write,70,Critical,2
+EMP1869,Sales,Sales Executive,Active Directory,Write,70,Critical,8
+EMP1869,Sales,Sales Executive,Salesforce,Write,70,Critical,8
+EMP1869,Sales,Sales Executive,SharePoint,Write,70,Critical,8
+EMP1869,Sales,Sales Executive,ServiceNow,Write,70,Critical,8
+EMP1869,Sales,Sales Executive,CRM Portal,Write,70,Critical,8
+EMP1933,Sales,Sales Executive,Active Directory,Write,70,Critical,2
+EMP1933,Sales,Sales Executive,Salesforce,Write,70,Critical,2
+EMP1933,Sales,Sales Executive,SharePoint,Write,70,Critical,2
+EMP1933,Sales,Sales Executive,ServiceNow,Write,70,Critical,2
+EMP1933,Sales,Sales Executive,CRM Portal,Write,70,Critical,2
+EMP1968,Sales,Sales Executive,Active Directory,Write,70,Critical,2
+EMP1968,Sales,Sales Executive,Salesforce,Write,70,Critical,2
+EMP1968,Sales,Sales Executive,SharePoint,Write,70,Critical,2
+EMP1968,Sales,Sales Executive,ServiceNow,Write,70,Critical,2
+EMP1968,Sales,Sales Executive,CRM Portal,Write,70,Critical,2
+EMP2027,Research & Development,Research Scientist,Active Directory,Write,70,Critical,2
+EMP2027,Research & Development,Research Scientist,SAP,Write,70,Critical,2
+EMP2027,Research & Development,Research Scientist,SharePoint,Write,70,Critical,2
+EMP2027,Research & Development,Research Scientist,ServiceNow,Write,70,Critical,2
+EMP2027,Research & Development,Research Scientist,Lab Systems,Write,70,Critical,2
+EMP0165,Research & Development,Healthcare Representative,Active Directory,Read,65,High,40
+EMP0165,Research & Development,Healthcare Representative,SAP,Read,65,High,40
+EMP0165,Research & Development,Healthcare Representative,SharePoint,Read,65,High,40
+EMP0165,Research & Development,Healthcare Representative,ServiceNow,Read,65,High,40
+EMP0165,Research & Development,Healthcare Representative,Lab Systems,Read,65,High,40
+EMP0179,Research & Development,Manufacturing Director,Active Directory,Write,65,High,4
+EMP0179,Research & Development,Manufacturing Director,SAP,Write,65,High,4
+EMP0179,Research & Development,Manufacturing Director,SharePoint,Write,65,High,4
+EMP0179,Research & Development,Manufacturing Director,ServiceNow,Write,65,High,4
+EMP0179,Research & Development,Manufacturing Director,Lab Systems,Write,65,High,4
+EMP0235,Sales,Sales Representative,Active Directory,Read,65,High,0
+EMP0235,Sales,Sales Representative,Salesforce,Read,65,High,0
+EMP0235,Sales,Sales Representative,SharePoint,Read,65,High,0
+EMP0235,Sales,Sales Representative,ServiceNow,Read,65,High,0
+EMP0235,Sales,Sales Representative,CRM Portal,Read,65,High,0
+EMP0478,Sales,Sales Representative,Active Directory,Read,65,High,3
+EMP0478,Sales,Sales Representative,Salesforce,Read,65,High,3
+EMP0478,Sales,Sales Representative,SharePoint,Read,65,High,3
+EMP0478,Sales,Sales Representative,ServiceNow,Read,65,High,3
+EMP0478,Sales,Sales Representative,CRM Portal,Read,65,High,3
+EMP0502,Sales,Sales Executive,Active Directory,Write,65,High,5
+EMP0502,Sales,Sales Executive,Salesforce,Write,65,High,5
+EMP0502,Sales,Sales Executive,SharePoint,Write,65,High,5
+EMP0502,Sales,Sales Executive,ServiceNow,Write,65,High,5
+EMP0502,Sales,Sales Executive,CRM Portal,Write,65,High,5
+EMP0555,Sales,Sales Representative,Active Directory,Read,65,High,2
+EMP0555,Sales,Sales Representative,Salesforce,Read,65,High,2
+EMP0555,Sales,Sales Representative,SharePoint,Read,65,High,2
+EMP0555,Sales,Sales Representative,ServiceNow,Read,65,High,2
+EMP0555,Sales,Sales Representative,CRM Portal,Read,65,High,2
+EMP0587,Research & Development,Healthcare Representative,Active Directory,Read,65,High,1
+EMP0587,Research & Development,Healthcare Representative,SAP,Read,65,High,1
+EMP0587,Research & Development,Healthcare Representative,SharePoint,Read,65,High,1
+EMP0587,Research & Development,Healthcare Representative,ServiceNow,Read,65,High,1
+EMP0587,Research & Development,Healthcare Representative,Lab Systems,Read,65,High,1
+EMP0590,Human Resources,Human Resources,Active Directory,Read,65,High,3
+EMP0590,Human Resources,Human Resources,Workday,Read,65,High,3
+EMP0590,Human Resources,Human Resources,SharePoint,Read,65,High,3
+EMP0590,Human Resources,Human Resources,ServiceNow,Read,65,High,3
+EMP0590,Human Resources,Human Resources,HR Portal,Read,65,High,3
+EMP0648,Sales,Sales Representative,Active Directory,Read,65,High,1
+EMP0648,Sales,Sales Representative,Salesforce,Read,65,High,1
+EMP0648,Sales,Sales Representative,SharePoint,Read,65,High,1
+EMP0648,Sales,Sales Representative,ServiceNow,Read,65,High,1
+EMP0648,Sales,Sales Representative,CRM Portal,Read,65,High,1
+EMP0991,Research & Development,Research Scientist,Active Directory,Write,65,High,3
+EMP0991,Research & Development,Research Scientist,SAP,Write,65,High,3
+EMP0991,Research & Development,Research Scientist,SharePoint,Write,65,High,3
+EMP0991,Research & Development,Research Scientist,ServiceNow,Write,65,High,3
+EMP0991,Research & Development,Research Scientist,Lab Systems,Write,65,High,3
+EMP1042,Research & Development,Laboratory Technician,Active Directory,Read,65,High,17
+EMP1042,Research & Development,Laboratory Technician,SAP,Read,65,High,17
+EMP1042,Research & Development,Laboratory Technician,SharePoint,Read,65,High,17
+EMP1042,Research & Development,Laboratory Technician,ServiceNow,Read,65,High,17
+EMP1042,Research & Development,Laboratory Technician,Lab Systems,Read,65,High,17
+EMP1077,Sales,Sales Representative,Active Directory,Read,65,High,2
+EMP1077,Sales,Sales Representative,Salesforce,Read,65,High,2
+EMP1077,Sales,Sales Representative,SharePoint,Read,65,High,2
+EMP1077,Sales,Sales Representative,ServiceNow,Read,65,High,2
+EMP1077,Sales,Sales Representative,CRM Portal,Read,65,High,2
+EMP1098,Human Resources,Human Resources,Active Directory,Read,65,High,20
+EMP1098,Human Resources,Human Resources,Workday,Read,65,High,20
+EMP1098,Human Resources,Human Resources,SharePoint,Read,65,High,20
+EMP1098,Human Resources,Human Resources,ServiceNow,Read,65,High,20
+EMP1098,Human Resources,Human Resources,HR Portal,Read,65,High,20
+EMP1111,Research & Development,Laboratory Technician,Active Directory,Read,65,High,1
+EMP1111,Research & Development,Laboratory Technician,SAP,Read,65,High,1
+EMP1111,Research & Development,Laboratory Technician,SharePoint,Read,65,High,1
+EMP1111,Research & Development,Laboratory Technician,ServiceNow,Read,65,High,1
+EMP1111,Research & Development,Laboratory Technician,Lab Systems,Read,65,High,1
+EMP1210,Research & Development,Research Scientist,Active Directory,Write,65,High,1
+EMP1210,Research & Development,Research Scientist,SAP,Write,65,High,1
+EMP1210,Research & Development,Research Scientist,SharePoint,Write,65,High,1
+EMP1210,Research & Development,Research Scientist,ServiceNow,Write,65,High,1
+EMP1210,Research & Development,Research Scientist,Lab Systems,Write,65,High,1
+EMP1331,Sales,Sales Representative,Active Directory,Read,65,High,3
+EMP1331,Sales,Sales Representative,Salesforce,Read,65,High,3
+EMP1331,Sales,Sales Representative,SharePoint,Read,65,High,3
+EMP1331,Sales,Sales Representative,ServiceNow,Read,65,High,3
+EMP1331,Sales,Sales Representative,CRM Portal,Read,65,High,3
+EMP1379,Sales,Sales Representative,Active Directory,Read,65,High,1
+EMP1379,Sales,Sales Representative,Salesforce,Read,65,High,1
+EMP1379,Sales,Sales Representative,SharePoint,Read,65,High,1
+EMP1379,Sales,Sales Representative,ServiceNow,Read,65,High,1
+EMP1379,Sales,Sales Representative,CRM Portal,Read,65,High,1
+EMP1427,Sales,Sales Representative,Active Directory,Read,65,High,1
+EMP1427,Sales,Sales Representative,Salesforce,Read,65,High,1
+EMP1427,Sales,Sales Representative,SharePoint,Read,65,High,1
+EMP1427,Sales,Sales Representative,ServiceNow,Read,65,High,1
+EMP1427,Sales,Sales Representative,CRM Portal,Read,65,High,1
+EMP1458,Research & Development,Laboratory Technician,Active Directory,Read,65,High,1
+EMP1458,Research & Development,Laboratory Technician,SAP,Read,65,High,1
+EMP1458,Research & Development,Laboratory Technician,SharePoint,Read,65,High,1
+EMP1458,Research & Development,Laboratory Technician,ServiceNow,Read,65,High,1
+EMP1458,Research & Development,Laboratory Technician,Lab Systems,Read,65,High,1
+EMP1464,Research & Development,Laboratory Technician,Active Directory,Read,65,High,2
+EMP1464,Research & Development,Laboratory Technician,SAP,Read,65,High,2
+EMP1464,Research & Development,Laboratory Technician,SharePoint,Read,65,High,2
+EMP1464,Research & Development,Laboratory Technician,ServiceNow,Read,65,High,2
+EMP1464,Research & Development,Laboratory Technician,Lab Systems,Read,65,High,2
+EMP1504,Research & Development,Laboratory Technician,Active Directory,Read,65,High,0
+EMP1504,Research & Development,Laboratory Technician,SAP,Read,65,High,0
+EMP1504,Research & Development,Laboratory Technician,SharePoint,Read,65,High,0
+EMP1504,Research & Development,Laboratory Technician,ServiceNow,Read,65,High,0
+EMP1504,Research & Development,Laboratory Technician,Lab Systems,Read,65,High,0
+EMP1807,Research & Development,Laboratory Technician,Active Directory,Read,65,High,7
+EMP1807,Research & Development,Laboratory Technician,SAP,Read,65,High,7
+EMP1807,Research & Development,Laboratory Technician,SharePoint,Read,65,High,7
+EMP1807,Research & Development,Laboratory Technician,ServiceNow,Read,65,High,7
+EMP1807,Research & Development,Laboratory Technician,Lab Systems,Read,65,High,7
+EMP1928,Sales,Sales Representative,Active Directory,Read,65,High,1
+EMP1928,Sales,Sales Representative,Salesforce,Read,65,High,1
+EMP1928,Sales,Sales Representative,SharePoint,Read,65,High,1
+EMP1928,Sales,Sales Representative,ServiceNow,Read,65,High,1
+EMP1928,Sales,Sales Representative,CRM Portal,Read,65,High,1
+EMP1944,Human Resources,Human Resources,Active Directory,Read,65,High,1
+EMP1944,Human Resources,Human Resources,Workday,Read,65,High,1
+EMP1944,Human Resources,Human Resources,SharePoint,Read,65,High,1
+EMP1944,Human Resources,Human Resources,ServiceNow,Read,65,High,1
+EMP1944,Human Resources,Human Resources,HR Portal,Read,65,High,1
+EMP2023,Sales,Sales Representative,Active Directory,Read,65,High,1
+EMP2023,Sales,Sales Representative,Salesforce,Read,65,High,1
+EMP2023,Sales,Sales Representative,SharePoint,Read,65,High,1
+EMP2023,Sales,Sales Representative,ServiceNow,Read,65,High,1
+EMP2023,Sales,Sales Representative,CRM Portal,Read,65,High,1
+EMP0019,Research & Development,Laboratory Technician,Active Directory,Read,60,High,4
+EMP0019,Research & Development,Laboratory Technician,SAP,Read,60,High,4
+EMP0019,Research & Development,Laboratory Technician,SharePoint,Read,60,High,4
+EMP0019,Research & Development,Laboratory Technician,ServiceNow,Read,60,High,4
+EMP0019,Research & Development,Laboratory Technician,Lab Systems,Read,60,High,4
+EMP0031,Research & Development,Research Scientist,Active Directory,Write,60,High,4
+EMP0031,Research & Development,Research Scientist,SAP,Write,60,High,4
+EMP0031,Research & Development,Research Scientist,SharePoint,Write,60,High,4
+EMP0031,Research & Development,Research Scientist,ServiceNow,Write,60,High,4
+EMP0031,Research & Development,Research Scientist,Lab Systems,Write,60,High,4
+EMP0042,Sales,Sales Representative,Active Directory,Read,60,High,1
+EMP0042,Sales,Sales Representative,Salesforce,Read,60,High,1
+EMP0042,Sales,Sales Representative,SharePoint,Read,60,High,1
+EMP0042,Sales,Sales Representative,ServiceNow,Read,60,High,1
+EMP0042,Sales,Sales Representative,CRM Portal,Read,60,High,1
+EMP0047,Sales,Sales Representative,Active Directory,Read,60,High,3
+EMP0047,Sales,Sales Representative,Salesforce,Read,60,High,3
+EMP0047,Sales,Sales Representative,SharePoint,Read,60,High,3
+EMP0047,Sales,Sales Representative,ServiceNow,Read,60,High,3
+EMP0047,Sales,Sales Representative,CRM Portal,Read,60,High,3
+EMP0055,Research & Development,Laboratory Technician,Active Directory,Read,60,High,1
+EMP0055,Research & Development,Laboratory Technician,SAP,Read,60,High,1
+EMP0055,Research & Development,Laboratory Technician,SharePoint,Read,60,High,1
+EMP0055,Research & Development,Laboratory Technician,ServiceNow,Read,60,High,1
+EMP0055,Research & Development,Laboratory Technician,Lab Systems,Read,60,High,1
+EMP0065,Research & Development,Laboratory Technician,Active Directory,Read,60,High,2
+EMP0065,Research & Development,Laboratory Technician,SAP,Read,60,High,2
+EMP0065,Research & Development,Laboratory Technician,SharePoint,Read,60,High,2
+EMP0065,Research & Development,Laboratory Technician,ServiceNow,Read,60,High,2
+EMP0065,Research & Development,Laboratory Technician,Lab Systems,Read,60,High,2
+EMP0133,Human Resources,Human Resources,Active Directory,Read,60,High,3
+EMP0133,Human Resources,Human Resources,Workday,Read,60,High,3
+EMP0133,Human Resources,Human Resources,SharePoint,Read,60,High,3
+EMP0133,Human Resources,Human Resources,ServiceNow,Read,60,High,3
+EMP0133,Human Resources,Human Resources,HR Portal,Read,60,High,3
+EMP0243,Research & Development,Laboratory Technician,Active Directory,Read,60,High,1
+EMP0243,Research & Development,Laboratory Technician,SAP,Read,60,High,1
+EMP0243,Research & Development,Laboratory Technician,SharePoint,Read,60,High,1
+EMP0243,Research & Development,Laboratory Technician,ServiceNow,Read,60,High,1
+EMP0243,Research & Development,Laboratory Technician,Lab Systems,Read,60,High,1
+EMP0248,Sales,Sales Representative,Active Directory,Read,60,High,4
+EMP0248,Sales,Sales Representative,Salesforce,Read,60,High,4
+EMP0248,Sales,Sales Representative,SharePoint,Read,60,High,4
+EMP0248,Sales,Sales Representative,ServiceNow,Read,60,High,4
+EMP0248,Sales,Sales Representative,CRM Portal,Read,60,High,4
+EMP0325,Research & Development,Laboratory Technician,Active Directory,Read,60,High,5
+EMP0325,Research & Development,Laboratory Technician,SAP,Read,60,High,5
+EMP0325,Research & Development,Laboratory Technician,SharePoint,Read,60,High,5
+EMP0325,Research & Development,Laboratory Technician,ServiceNow,Read,60,High,5
+EMP0325,Research & Development,Laboratory Technician,Lab Systems,Read,60,High,5
+EMP0328,Research & Development,Laboratory Technician,Active Directory,Read,60,High,9
+EMP0328,Research & Development,Laboratory Technician,SAP,Read,60,High,9
+EMP0328,Research & Development,Laboratory Technician,SharePoint,Read,60,High,9
+EMP0328,Research & Development,Laboratory Technician,ServiceNow,Read,60,High,9
+EMP0328,Research & Development,Laboratory Technician,Lab Systems,Read,60,High,9
+EMP0331,Research & Development,Laboratory Technician,Active Directory,Read,60,High,3
+EMP0331,Research & Development,Laboratory Technician,SAP,Read,60,High,3
+EMP0331,Research & Development,Laboratory Technician,SharePoint,Read,60,High,3
+EMP0331,Research & Development,Laboratory Technician,ServiceNow,Read,60,High,3
+EMP0331,Research & Development,Laboratory Technician,Lab Systems,Read,60,High,3
+EMP0364,Research & Development,Laboratory Technician,Active Directory,Read,60,High,0
+EMP0364,Research & Development,Laboratory Technician,SAP,Read,60,High,0
+EMP0364,Research & Development,Laboratory Technician,SharePoint,Read,60,High,0
+EMP0364,Research & Development,Laboratory Technician,ServiceNow,Read,60,High,0
+EMP0364,Research & Development,Laboratory Technician,Lab Systems,Read,60,High,0
+EMP0394,Research & Development,Laboratory Technician,Active Directory,Read,60,High,3
+EMP0394,Research & Development,Laboratory Technician,SAP,Read,60,High,3
+EMP0394,Research & Development,Laboratory Technician,SharePoint,Read,60,High,3
+EMP0394,Research & Development,Laboratory Technician,ServiceNow,Read,60,High,3
+EMP0394,Research & Development,Laboratory Technician,Lab Systems,Read,60,High,3
+EMP0405,Research & Development,Laboratory Technician,Active Directory,Read,60,High,0
+EMP0405,Research & Development,Laboratory Technician,SAP,Read,60,High,0
+EMP0405,Research & Development,Laboratory Technician,SharePoint,Read,60,High,0
+EMP0405,Research & Development,Laboratory Technician,ServiceNow,Read,60,High,0
+EMP0405,Research & Development,Laboratory Technician,Lab Systems,Read,60,High,0
+EMP0494,Sales,Sales Representative,Active Directory,Read,60,High,1
+EMP0494,Sales,Sales Representative,Salesforce,Read,60,High,1
+EMP0494,Sales,Sales Representative,SharePoint,Read,60,High,1
+EMP0494,Sales,Sales Representative,ServiceNow,Read,60,High,1
+EMP0494,Sales,Sales Representative,CRM Portal,Read,60,High,1
+EMP0554,Sales,Sales Representative,Active Directory,Read,60,High,5
+EMP0554,Sales,Sales Representative,Salesforce,Read,60,High,5
+EMP0554,Sales,Sales Representative,SharePoint,Read,60,High,5
+EMP0554,Sales,Sales Representative,ServiceNow,Read,60,High,5
+EMP0554,Sales,Sales Representative,CRM Portal,Read,60,High,5
+EMP0566,Human Resources,Human Resources,Active Directory,Read,60,High,1
+EMP0566,Human Resources,Human Resources,Workday,Read,60,High,1
+EMP0566,Human Resources,Human Resources,SharePoint,Read,60,High,1
+EMP0566,Human Resources,Human Resources,ServiceNow,Read,60,High,1
+EMP0566,Human Resources,Human Resources,HR Portal,Read,60,High,1
+EMP0650,Sales,Sales Executive,Active Directory,Write,60,High,3
+EMP0650,Sales,Sales Executive,Salesforce,Write,60,High,3
+EMP0650,Sales,Sales Executive,SharePoint,Write,60,High,3
+EMP0650,Sales,Sales Executive,ServiceNow,Write,60,High,3
+EMP0650,Sales,Sales Executive,CRM Portal,Write,60,High,3
+EMP0796,Sales,Sales Executive,Active Directory,Write,60,High,4
+EMP0796,Sales,Sales Executive,Salesforce,Write,60,High,4
+EMP0796,Sales,Sales Executive,SharePoint,Write,60,High,4
+EMP0796,Sales,Sales Executive,ServiceNow,Write,60,High,4
+EMP0796,Sales,Sales Executive,CRM Portal,Write,60,High,4
+EMP0819,Sales,Sales Executive,Active Directory,Write,60,High,3
+EMP0819,Sales,Sales Executive,Salesforce,Write,60,High,3
+EMP0819,Sales,Sales Executive,SharePoint,Write,60,High,3
+EMP0819,Sales,Sales Executive,ServiceNow,Write,60,High,3
+EMP0819,Sales,Sales Executive,CRM Portal,Write,60,High,3
+EMP0896,Sales,Sales Representative,Active Directory,Read,60,High,3
+EMP0896,Sales,Sales Representative,Salesforce,Read,60,High,3
+EMP0896,Sales,Sales Representative,SharePoint,Read,60,High,3
+EMP0896,Sales,Sales Representative,ServiceNow,Read,60,High,3
+EMP0896,Sales,Sales Representative,CRM Portal,Read,60,High,3
+EMP0932,Research & Development,Laboratory Technician,Active Directory,Read,60,High,2
+EMP0932,Research & Development,Laboratory Technician,SAP,Read,60,High,2
+EMP0932,Research & Development,Laboratory Technician,SharePoint,Read,60,High,2
+EMP0932,Research & Development,Laboratory Technician,ServiceNow,Read,60,High,2
+EMP0932,Research & Development,Laboratory Technician,Lab Systems,Read,60,High,2
+EMP0960,Research & Development,Laboratory Technician,Active Directory,Read,60,High,1
+EMP0960,Research & Development,Laboratory Technician,SAP,Read,60,High,1
+EMP0960,Research & Development,Laboratory Technician,SharePoint,Read,60,High,1
+EMP0960,Research & Development,Laboratory Technician,ServiceNow,Read,60,High,1
+EMP0960,Research & Development,Laboratory Technician,Lab Systems,Read,60,High,1
+EMP1010,Research & Development,Laboratory Technician,Active Directory,Read,60,High,4
+EMP1010,Research & Development,Laboratory Technician,SAP,Read,60,High,4
+EMP1010,Research & Development,Laboratory Technician,SharePoint,Read,60,High,4
+EMP1010,Research & Development,Laboratory Technician,ServiceNow,Read,60,High,4
+EMP1010,Research & Development,Laboratory Technician,Lab Systems,Read,60,High,4
+EMP1033,Research & Development,Healthcare Representative,Active Directory,Read,60,High,1
+EMP1033,Research & Development,Healthcare Representative,SAP,Read,60,High,1
+EMP1033,Research & Development,Healthcare Representative,SharePoint,Read,60,High,1
+EMP1033,Research & Development,Healthcare Representative,ServiceNow,Read,60,High,1
+EMP1033,Research & Development,Healthcare Representative,Lab Systems,Read,60,High,1
+EMP1052,Research & Development,Laboratory Technician,Active Directory,Read,60,High,1
+EMP1052,Research & Development,Laboratory Technician,SAP,Read,60,High,1
+EMP1052,Research & Development,Laboratory Technician,SharePoint,Read,60,High,1
+EMP1052,Research & Development,Laboratory Technician,ServiceNow,Read,60,High,1
+EMP1052,Research & Development,Laboratory Technician,Lab Systems,Read,60,High,1
+EMP1079,Research & Development,Laboratory Technician,Active Directory,Read,60,High,1
+EMP1079,Research & Development,Laboratory Technician,SAP,Read,60,High,1
+EMP1079,Research & Development,Laboratory Technician,SharePoint,Read,60,High,1
+EMP1079,Research & Development,Laboratory Technician,ServiceNow,Read,60,High,1
+EMP1079,Research & Development,Laboratory Technician,Lab Systems,Read,60,High,1
+EMP1107,Research & Development,Laboratory Technician,Active Directory,Read,60,High,1
+EMP1107,Research & Development,Laboratory Technician,SAP,Read,60,High,1
+EMP1107,Research & Development,Laboratory Technician,SharePoint,Read,60,High,1
+EMP1107,Research & Development,Laboratory Technician,ServiceNow,Read,60,High,1
+EMP1107,Research & Development,Laboratory Technician,Lab Systems,Read,60,High,1
+EMP1188,Sales,Sales Executive,Active Directory,Write,60,High,4
+EMP1188,Sales,Sales Executive,Salesforce,Write,60,High,4
+EMP1188,Sales,Sales Executive,SharePoint,Write,60,High,4
+EMP1188,Sales,Sales Executive,ServiceNow,Write,60,High,4
+EMP1188,Sales,Sales Executive,CRM Portal,Write,60,High,4
+EMP1219,Research & Development,Laboratory Technician,Active Directory,Read,60,High,1
+EMP1219,Research & Development,Laboratory Technician,SAP,Read,60,High,1
+EMP1219,Research & Development,Laboratory Technician,SharePoint,Read,60,High,1
+EMP1219,Research & Development,Laboratory Technician,ServiceNow,Read,60,High,1
+EMP1219,Research & Development,Laboratory Technician,Lab Systems,Read,60,High,1
+EMP1295,Research & Development,Healthcare Representative,Active Directory,Read,60,High,10
+EMP1295,Research & Development,Healthcare Representative,SAP,Read,60,High,10
+EMP1295,Research & Development,Healthcare Representative,SharePoint,Read,60,High,10
+EMP1295,Research & Development,Healthcare Representative,ServiceNow,Read,60,High,10
+EMP1295,Research & Development,Healthcare Representative,Lab Systems,Read,60,High,10
+EMP1310,Research & Development,Research Scientist,Active Directory,Write,60,High,5
+EMP1310,Research & Development,Research Scientist,SAP,Write,60,High,5
+EMP1310,Research & Development,Research Scientist,SharePoint,Write,60,High,5
+EMP1310,Research & Development,Research Scientist,ServiceNow,Write,60,High,5
+EMP1310,Research & Development,Research Scientist,Lab Systems,Write,60,High,5
+EMP1534,Research & Development,Laboratory Technician,Active Directory,Read,60,High,5
+EMP1534,Research & Development,Laboratory Technician,SAP,Read,60,High,5
+EMP1534,Research & Development,Laboratory Technician,SharePoint,Read,60,High,5
+EMP1534,Research & Development,Laboratory Technician,ServiceNow,Read,60,High,5
+EMP1534,Research & Development,Laboratory Technician,Lab Systems,Read,60,High,5
+EMP1573,Research & Development,Manufacturing Director,Active Directory,Write,60,High,5
+EMP1573,Research & Development,Manufacturing Director,SAP,Write,60,High,5
+EMP1573,Research & Development,Manufacturing Director,SharePoint,Write,60,High,5
+EMP1573,Research & Development,Manufacturing Director,ServiceNow,Write,60,High,5
+EMP1573,Research & Development,Manufacturing Director,Lab Systems,Write,60,High,5
+EMP1649,Research & Development,Laboratory Technician,Active Directory,Read,60,High,4
+EMP1649,Research & Development,Laboratory Technician,SAP,Read,60,High,4
+EMP1649,Research & Development,Laboratory Technician,SharePoint,Read,60,High,4
+EMP1649,Research & Development,Laboratory Technician,ServiceNow,Read,60,High,4
+EMP1649,Research & Development,Laboratory Technician,Lab Systems,Read,60,High,4
+EMP1684,Research & Development,Laboratory Technician,Active Directory,Read,60,High,5
+EMP1684,Research & Development,Laboratory Technician,SAP,Read,60,High,5
+EMP1684,Research & Development,Laboratory Technician,SharePoint,Read,60,High,5
+EMP1684,Research & Development,Laboratory Technician,ServiceNow,Read,60,High,5
+EMP1684,Research & Development,Laboratory Technician,Lab Systems,Read,60,High,5
+EMP1692,Research & Development,Laboratory Technician,Active Directory,Read,60,High,1
+EMP1692,Research & Development,Laboratory Technician,SAP,Read,60,High,1
+EMP1692,Research & Development,Laboratory Technician,SharePoint,Read,60,High,1
+EMP1692,Research & Development,Laboratory Technician,ServiceNow,Read,60,High,1
+EMP1692,Research & Development,Laboratory Technician,Lab Systems,Read,60,High,1
+EMP1702,Sales,Sales Representative,Active Directory,Read,60,High,3
+EMP1702,Sales,Sales Representative,Salesforce,Read,60,High,3
+EMP1702,Sales,Sales Representative,SharePoint,Read,60,High,3
+EMP1702,Sales,Sales Representative,ServiceNow,Read,60,High,3
+EMP1702,Sales,Sales Representative,CRM Portal,Read,60,High,3
+EMP1714,Human Resources,Human Resources,Active Directory,Read,60,High,1
+EMP1714,Human Resources,Human Resources,Workday,Read,60,High,1
+EMP1714,Human Resources,Human Resources,SharePoint,Read,60,High,1
+EMP1714,Human Resources,Human Resources,ServiceNow,Read,60,High,1
+EMP1714,Human Resources,Human Resources,HR Portal,Read,60,High,1
+EMP1780,Sales,Sales Representative,Active Directory,Read,60,High,1
+EMP1780,Sales,Sales Representative,Salesforce,Read,60,High,1
+EMP1780,Sales,Sales Representative,SharePoint,Read,60,High,1
+EMP1780,Sales,Sales Representative,ServiceNow,Read,60,High,1
+EMP1780,Sales,Sales Representative,CRM Portal,Read,60,High,1
+EMP1818,Human Resources,Human Resources,Active Directory,Read,60,High,5
+EMP1818,Human Resources,Human Resources,Workday,Read,60,High,5
+EMP1818,Human Resources,Human Resources,SharePoint,Read,60,High,5
+EMP1818,Human Resources,Human Resources,ServiceNow,Read,60,High,5
+EMP1818,Human Resources,Human Resources,HR Portal,Read,60,High,5
+EMP1821,Research & Development,Healthcare Representative,Active Directory,Read,60,High,9
+EMP1821,Research & Development,Healthcare Representative,SAP,Read,60,High,9
+EMP1821,Research & Development,Healthcare Representative,SharePoint,Read,60,High,9
+EMP1821,Research & Development,Healthcare Representative,ServiceNow,Read,60,High,9
+EMP1821,Research & Development,Healthcare Representative,Lab Systems,Read,60,High,9
+EMP1842,Human Resources,Human Resources,Active Directory,Read,60,High,1
+EMP1842,Human Resources,Human Resources,Workday,Read,60,High,1
+EMP1842,Human Resources,Human Resources,SharePoint,Read,60,High,1
+EMP1842,Human Resources,Human Resources,ServiceNow,Read,60,High,1
+EMP1842,Human Resources,Human Resources,HR Portal,Read,60,High,1
+EMP1876,Sales,Sales Representative,Active Directory,Read,60,High,1
+EMP1876,Sales,Sales Representative,Salesforce,Read,60,High,1
+EMP1876,Sales,Sales Representative,SharePoint,Read,60,High,1
+EMP1876,Sales,Sales Representative,ServiceNow,Read,60,High,1
+EMP1876,Sales,Sales Representative,CRM Portal,Read,60,High,1
+EMP1907,Research & Development,Laboratory Technician,Active Directory,Read,60,High,4
+EMP1907,Research & Development,Laboratory Technician,SAP,Read,60,High,4
+EMP1907,Research & Development,Laboratory Technician,SharePoint,Read,60,High,4
+EMP1907,Research & Development,Laboratory Technician,ServiceNow,Read,60,High,4
+EMP1907,Research & Development,Laboratory Technician,Lab Systems,Read,60,High,4
+EMP2032,Research & Development,Laboratory Technician,Active Directory,Read,60,High,10
+EMP2032,Research & Development,Laboratory Technician,SAP,Read,60,High,10
+EMP2032,Research & Development,Laboratory Technician,SharePoint,Read,60,High,10
+EMP2032,Research & Development,Laboratory Technician,ServiceNow,Read,60,High,10
+EMP2032,Research & Development,Laboratory Technician,Lab Systems,Read,60,High,10
+EMP0355,Research & Development,Laboratory Technician,Active Directory,Read,55,High,5
+EMP0355,Research & Development,Laboratory Technician,SAP,Read,55,High,5
+EMP0355,Research & Development,Laboratory Technician,SharePoint,Read,55,High,5
+EMP0355,Research & Development,Laboratory Technician,ServiceNow,Read,55,High,5
+EMP0355,Research & Development,Laboratory Technician,Lab Systems,Read,55,High,5
+EMP0593,Research & Development,Laboratory Technician,Active Directory,Read,55,High,2
+EMP0593,Research & Development,Laboratory Technician,SAP,Read,55,High,2
+EMP0593,Research & Development,Laboratory Technician,SharePoint,Read,55,High,2
+EMP0593,Research & Development,Laboratory Technician,ServiceNow,Read,55,High,2
+EMP0593,Research & Development,Laboratory Technician,Lab Systems,Read,55,High,2
+EMP0631,Sales,Sales Executive,Active Directory,Write,55,High,4
+EMP0631,Sales,Sales Executive,Salesforce,Write,55,High,4
+EMP0631,Sales,Sales Executive,SharePoint,Write,55,High,4
+EMP0631,Sales,Sales Executive,ServiceNow,Write,55,High,4
+EMP0631,Sales,Sales Executive,CRM Portal,Write,55,High,4
+EMP1017,Research & Development,Laboratory Technician,Active Directory,Read,55,High,3
+EMP1017,Research & Development,Laboratory Technician,SAP,Read,55,High,3
+EMP1017,Research & Development,Laboratory Technician,SharePoint,Read,55,High,3
+EMP1017,Research & Development,Laboratory Technician,ServiceNow,Read,55,High,3
+EMP1017,Research & Development,Laboratory Technician,Lab Systems,Read,55,High,3
+EMP1037,Sales,Sales Executive,Active Directory,Write,55,High,2
+EMP1037,Sales,Sales Executive,Salesforce,Write,55,High,2
+EMP1037,Sales,Sales Executive,SharePoint,Write,55,High,2
+EMP1037,Sales,Sales Executive,ServiceNow,Write,55,High,2
+EMP1037,Sales,Sales Executive,CRM Portal,Write,55,High,2
+EMP1082,Research & Development,Healthcare Representative,Active Directory,Read,55,High,10
+EMP1082,Research & Development,Healthcare Representative,SAP,Read,55,High,10
+EMP1082,Research & Development,Healthcare Representative,SharePoint,Read,55,High,10
+EMP1082,Research & Development,Healthcare Representative,ServiceNow,Read,55,High,10
+EMP1082,Research & Development,Healthcare Representative,Lab Systems,Read,55,High,10
+EMP1156,Research & Development,Laboratory Technician,Active Directory,Read,55,High,0
+EMP1156,Research & Development,Laboratory Technician,SAP,Read,55,High,0
+EMP1156,Research & Development,Laboratory Technician,SharePoint,Read,55,High,0
+EMP1156,Research & Development,Laboratory Technician,ServiceNow,Read,55,High,0
+EMP1156,Research & Development,Laboratory Technician,Lab Systems,Read,55,High,0
+EMP1160,Research & Development,Laboratory Technician,Active Directory,Read,55,High,2
+EMP1160,Research & Development,Laboratory Technician,SAP,Read,55,High,2
+EMP1160,Research & Development,Laboratory Technician,SharePoint,Read,55,High,2
+EMP1160,Research & Development,Laboratory Technician,ServiceNow,Read,55,High,2
+EMP1160,Research & Development,Laboratory Technician,Lab Systems,Read,55,High,2
+EMP1279,Research & Development,Laboratory Technician,Active Directory,Read,55,High,2
+EMP1279,Research & Development,Laboratory Technician,SAP,Read,55,High,2
+EMP1279,Research & Development,Laboratory Technician,SharePoint,Read,55,High,2
+EMP1279,Research & Development,Laboratory Technician,ServiceNow,Read,55,High,2
+EMP1279,Research & Development,Laboratory Technician,Lab Systems,Read,55,High,2
+EMP1420,Research & Development,Laboratory Technician,Active Directory,Read,55,High,4
+EMP1420,Research & Development,Laboratory Technician,SAP,Read,55,High,4
+EMP1420,Research & Development,Laboratory Technician,SharePoint,Read,55,High,4
+EMP1420,Research & Development,Laboratory Technician,ServiceNow,Read,55,High,4
+EMP1420,Research & Development,Laboratory Technician,Lab Systems,Read,55,High,4
+EMP1486,Sales,Sales Representative,Active Directory,Read,55,High,3
+EMP1486,Sales,Sales Representative,Salesforce,Read,55,High,3
+EMP1486,Sales,Sales Representative,SharePoint,Read,55,High,3
+EMP1486,Sales,Sales Representative,ServiceNow,Read,55,High,3
+EMP1486,Sales,Sales Representative,CRM Portal,Read,55,High,3
+EMP1747,Human Resources,Human Resources,Active Directory,Read,55,High,4
+EMP1747,Human Resources,Human Resources,Workday,Read,55,High,4
+EMP1747,Human Resources,Human Resources,SharePoint,Read,55,High,4
+EMP1747,Human Resources,Human Resources,ServiceNow,Read,55,High,4
+EMP1747,Human Resources,Human Resources,HR Portal,Read,55,High,4
+EMP0027,Sales,Sales Representative,Active Directory,Read,50,High,5
+EMP0027,Sales,Sales Representative,Salesforce,Read,50,High,5
+EMP0027,Sales,Sales Representative,SharePoint,Read,50,High,5
+EMP0027,Sales,Sales Representative,ServiceNow,Read,50,High,5
+EMP0027,Sales,Sales Representative,CRM Portal,Read,50,High,5
+EMP0190,Research & Development,Laboratory Technician,Active Directory,Read,50,High,5
+EMP0190,Research & Development,Laboratory Technician,SAP,Read,50,High,5
+EMP0190,Research & Development,Laboratory Technician,SharePoint,Read,50,High,5
+EMP0190,Research & Development,Laboratory Technician,ServiceNow,Read,50,High,5
+EMP0190,Research & Development,Laboratory Technician,Lab Systems,Read,50,High,5
+EMP0538,Research & Development,Laboratory Technician,Active Directory,Read,50,High,2
+EMP0538,Research & Development,Laboratory Technician,SAP,Read,50,High,2
+EMP0538,Research & Development,Laboratory Technician,SharePoint,Read,50,High,2
+EMP0538,Research & Development,Laboratory Technician,ServiceNow,Read,50,High,2
+EMP0538,Research & Development,Laboratory Technician,Lab Systems,Read,50,High,2
+EMP0584,Research & Development,Laboratory Technician,Active Directory,Read,50,High,4
+EMP0584,Research & Development,Laboratory Technician,SAP,Read,50,High,4
+EMP0584,Research & Development,Laboratory Technician,SharePoint,Read,50,High,4
+EMP0584,Research & Development,Laboratory Technician,ServiceNow,Read,50,High,4
+EMP0584,Research & Development,Laboratory Technician,Lab Systems,Read,50,High,4
+EMP0667,Sales,Sales Representative,Active Directory,Read,50,High,4
+EMP0667,Sales,Sales Representative,Salesforce,Read,50,High,4
+EMP0667,Sales,Sales Representative,SharePoint,Read,50,High,4
+EMP0667,Sales,Sales Representative,ServiceNow,Read,50,High,4
+EMP0667,Sales,Sales Representative,CRM Portal,Read,50,High,4
+EMP0922,Sales,Sales Representative,Active Directory,Read,50,High,2
+EMP0922,Sales,Sales Representative,Salesforce,Read,50,High,2
+EMP0922,Sales,Sales Representative,SharePoint,Read,50,High,2
+EMP0922,Sales,Sales Representative,ServiceNow,Read,50,High,2
+EMP0922,Sales,Sales Representative,CRM Portal,Read,50,High,2
+EMP1333,Research & Development,Laboratory Technician,Active Directory,Read,50,High,3
+EMP1333,Research & Development,Laboratory Technician,SAP,Read,50,High,3
+EMP1333,Research & Development,Laboratory Technician,SharePoint,Read,50,High,3
+EMP1333,Research & Development,Laboratory Technician,ServiceNow,Read,50,High,3
+EMP1333,Research & Development,Laboratory Technician,Lab Systems,Read,50,High,3
+EMP1439,Sales,Sales Representative,Active Directory,Read,50,High,3
+EMP1439,Sales,Sales Representative,Salesforce,Read,50,High,3
+EMP1439,Sales,Sales Representative,SharePoint,Read,50,High,3
+EMP1439,Sales,Sales Representative,ServiceNow,Read,50,High,3
+EMP1439,Sales,Sales Representative,CRM Portal,Read,50,High,3
+EMP1467,Human Resources,Human Resources,Active Directory,Read,50,High,2
+EMP1467,Human Resources,Human Resources,Workday,Read,50,High,2
+EMP1467,Human Resources,Human Resources,SharePoint,Read,50,High,2
+EMP1467,Human Resources,Human Resources,ServiceNow,Read,50,High,2
+EMP1467,Human Resources,Human Resources,HR Portal,Read,50,High,2
+EMP1752,Sales,Sales Representative,Active Directory,Read,50,High,2
+EMP1752,Sales,Sales Representative,Salesforce,Read,50,High,2
+EMP1752,Sales,Sales Representative,SharePoint,Read,50,High,2
+EMP1752,Sales,Sales Representative,ServiceNow,Read,50,High,2
+EMP1752,Sales,Sales Representative,CRM Portal,Read,50,High,2
+EMP1960,Research & Development,Laboratory Technician,Active Directory,Read,50,High,4
+EMP1960,Research & Development,Laboratory Technician,SAP,Read,50,High,4
+EMP1960,Research & Development,Laboratory Technician,SharePoint,Read,50,High,4
+EMP1960,Research & Development,Laboratory Technician,ServiceNow,Read,50,High,4
+EMP1960,Research & Development,Laboratory Technician,Lab Systems,Read,50,High,4

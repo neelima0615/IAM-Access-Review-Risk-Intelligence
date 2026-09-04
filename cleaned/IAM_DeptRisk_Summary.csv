@@ -1,0 +1,13 @@
+Department,RiskLevel,RecordCount,AvgRiskScore,UniqueEmployees
+Human Resources,Critical,10,77.5,2
+Human Resources,High,55,59.1,11
+Human Resources,Low,145,15.5,29
+Human Resources,Medium,105,35.5,21
+Research & Development,Critical,420,75.7,84
+Research & Development,High,870,55.4,174
+Research & Development,Low,1610,18.4,322
+Research & Development,Medium,1905,35.5,381
+Sales,Critical,300,76.5,60
+Sales,High,360,56.1,72
+Sales,Low,500,19.4,100
+Sales,Medium,1070,35.1,214

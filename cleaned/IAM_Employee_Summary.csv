@@ -1,0 +1,1471 @@
+EmployeeNumber,Department,JobRole,JobLevel,Age,Gender,Attrition,JML_Status,AccessLevel,RiskScore,RiskLevel,YearsAtCompany,YearsInCurrentRole,BusinessTravel,OverTime,PerformanceRating,EmployeeID
+1,Sales,Sales Executive,2,41,Female,Yes,Leaver,Write,80,Critical,6,4,Travel_Rarely,Yes,3,EMP0001
+2,Research & Development,Research Scientist,2,49,Male,No,Stable,Write,35,Medium,10,7,Travel_Frequently,No,4,EMP0002
+4,Research & Development,Laboratory Technician,1,37,Male,Yes,Leaver,Read,70,Critical,0,0,Travel_Rarely,Yes,3,EMP0004
+5,Research & Development,Research Scientist,1,33,Female,No,Stable,Write,55,High,8,7,Travel_Frequently,Yes,3,EMP0005
+7,Research & Development,Laboratory Technician,1,27,Male,No,Stable,Read,10,Low,2,2,Travel_Rarely,No,3,EMP0007
+8,Research & Development,Laboratory Technician,1,32,Male,No,Stable,Read,25,Low,7,7,Travel_Frequently,No,3,EMP0008
+10,Research & Development,Laboratory Technician,1,59,Female,No,Mover,Read,50,High,1,0,Travel_Rarely,Yes,4,EMP0010
+11,Research & Development,Laboratory Technician,1,30,Male,No,Mover,Read,40,Medium,1,0,Travel_Rarely,No,4,EMP0011
+12,Research & Development,Manufacturing Director,3,38,Male,No,Stable,Write,35,Medium,9,7,Travel_Frequently,No,4,EMP0012
+13,Research & Development,Healthcare Representative,2,36,Male,No,Stable,Read,20,Low,7,7,Travel_Rarely,No,3,EMP0013
+14,Research & Development,Laboratory Technician,1,35,Male,No,Stable,Read,10,Low,5,4,Travel_Rarely,No,3,EMP0014
+15,Research & Development,Laboratory Technician,2,29,Female,No,Stable,Read,30,Medium,9,5,Travel_Rarely,Yes,3,EMP0015
+16,Research & Development,Research Scientist,1,31,Male,No,Stable,Write,20,Low,5,2,Travel_Rarely,No,3,EMP0016
+18,Research & Development,Laboratory Technician,1,34,Male,No,Stable,Read,10,Low,2,2,Travel_Rarely,No,3,EMP0018
+19,Research & Development,Laboratory Technician,1,28,Male,Yes,Leaver,Read,60,High,4,2,Travel_Rarely,Yes,3,EMP0019
+20,Research & Development,Manufacturing Director,3,29,Female,No,Stable,Write,30,Medium,10,9,Travel_Rarely,No,3,EMP0020
+21,Research & Development,Research Scientist,1,32,Male,No,Stable,Write,40,Medium,6,2,Travel_Rarely,Yes,3,EMP0021
+22,Research & Development,Laboratory Technician,1,22,Male,No,Mover,Read,45,Medium,1,0,Non-Travel,Yes,3,EMP0022
+23,Sales,Manager,4,53,Female,No,Stable,Write,35,Medium,25,8,Travel_Rarely,No,3,EMP0023
+24,Research & Development,Research Scientist,1,38,Male,No,Stable,Write,30,Medium,3,2,Travel_Rarely,Yes,3,EMP0024
+26,Research & Development,Manufacturing Director,2,24,Female,No,Stable,Write,15,Low,4,2,Non-Travel,No,3,EMP0026
+27,Sales,Sales Representative,1,36,Male,Yes,Leaver,Read,50,High,5,3,Travel_Rarely,No,4,EMP0027
+28,Research & Development,Research Director,3,34,Female,No,Stable,Admin,50,High,12,6,Travel_Rarely,No,3,EMP0028
+30,Research & Development,Research Scientist,1,21,Male,No,Mover,Write,50,High,0,0,Travel_Rarely,No,3,EMP0030
+31,Research & Development,Research Scientist,1,34,Male,Yes,Leaver,Write,60,High,4,2,Travel_Rarely,No,3,EMP0031
+32,Research & Development,Manager,5,53,Female,No,Stable,Write,35,Medium,14,13,Travel_Rarely,No,3,EMP0032
+33,Research & Development,Research Scientist,1,32,Female,Yes,Leaver,Write,85,Critical,10,2,Travel_Frequently,Yes,4,EMP0033
+35,Sales,Sales Executive,2,42,Male,No,Stable,Write,30,Medium,9,7,Travel_Rarely,No,3,EMP0035
+36,Research & Development,Healthcare Representative,3,44,Female,No,Stable,Read,25,Low,22,6,Travel_Rarely,No,3,EMP0036
+38,Sales,Manager,5,46,Female,No,Stable,Write,30,Medium,2,2,Travel_Rarely,No,3,EMP0038
+39,Research & Development,Laboratory Technician,1,33,Male,No,Mover,Read,40,Medium,1,1,Travel_Rarely,No,3,EMP0039
+40,Research & Development,Healthcare Representative,2,44,Male,No,Stable,Read,20,Low,4,2,Travel_Rarely,Yes,3,EMP0040
+41,Research & Development,Laboratory Technician,1,30,Male,No,Mover,Read,40,Medium,10,0,Travel_Rarely,No,3,EMP0041
+42,Sales,Sales Representative,2,39,Male,Yes,Leaver,Read,60,High,1,0,Travel_Rarely,No,3,EMP0042
+45,Research & Development,Research Scientist,1,24,Male,Yes,Leaver,Write,80,Critical,2,0,Travel_Rarely,Yes,3,EMP0045
+46,Research & Development,Research Scientist,1,43,Female,No,Stable,Write,20,Low,5,3,Travel_Rarely,No,3,EMP0046
+47,Sales,Sales Representative,1,50,Male,Yes,Leaver,Read,60,High,3,2,Travel_Rarely,Yes,3,EMP0047
+49,Sales,Sales Representative,1,35,Female,No,Stable,Read,10,Low,2,2,Travel_Rarely,No,3,EMP0049
+51,Research & Development,Research Scientist,1,36,Female,No,Mover,Write,60,High,1,1,Travel_Rarely,Yes,3,EMP0051
+52,Sales,Sales Executive,2,33,Female,No,Stable,Write,25,Low,5,3,Travel_Frequently,No,3,EMP0052
+53,Research & Development,Laboratory Technician,1,35,Male,No,Mover,Read,40,Medium,1,0,Travel_Rarely,No,3,EMP0053
+54,Research & Development,Laboratory Technician,1,27,Female,No,Mover,Read,40,Medium,1,0,Travel_Rarely,No,3,EMP0054
+55,Research & Development,Laboratory Technician,1,26,Male,Yes,Leaver,Read,60,High,1,0,Travel_Rarely,No,3,EMP0055
+56,Sales,Sales Executive,3,27,Male,No,Stable,Write,35,Medium,9,8,Travel_Frequently,No,3,EMP0056
+57,Research & Development,Laboratory Technician,2,30,Female,No,Stable,Read,30,Medium,12,8,Travel_Frequently,No,4,EMP0057
+58,Research & Development,Research Director,5,41,Female,Yes,Leaver,Admin,90,Critical,22,15,Travel_Rarely,No,3,EMP0058
+60,Sales,Sales Executive,2,34,Male,No,Stable,Write,25,Low,9,5,Non-Travel,No,4,EMP0060
+61,Research & Development,Research Scientist,1,37,Male,No,Mover,Write,50,High,1,0,Travel_Rarely,No,4,EMP0061
+62,Sales,Sales Executive,2,46,Male,No,Stable,Write,45,Medium,9,6,Travel_Frequently,Yes,4,EMP0062
+63,Research & Development,Laboratory Technician,1,35,Male,No,Mover,Read,40,Medium,1,0,Travel_Rarely,No,3,EMP0063
+64,Research & Development,Laboratory Technician,3,48,Male,Yes,Leaver,Read,70,Critical,1,0,Travel_Rarely,Yes,3,EMP0064
+65,Research & Development,Laboratory Technician,1,28,Male,Yes,Leaver,Read,60,High,2,2,Travel_Rarely,Yes,3,EMP0065
+68,Sales,Sales Executive,2,44,Female,No,Stable,Write,30,Medium,4,3,Travel_Rarely,Yes,4,EMP0068
+70,Research & Development,Healthcare Representative,3,35,Male,No,Mover,Read,35,Medium,4,0,Non-Travel,Yes,3,EMP0070
+72,Sales,Sales Executive,2,26,Female,No,Stable,Write,40,Medium,2,2,Travel_Rarely,Yes,3,EMP0072
+73,Research & Development,Research Director,3,33,Female,No,Stable,Admin,65,High,15,14,Travel_Frequently,Yes,3,EMP0073
+74,Sales,Sales Executive,3,35,Male,No,Stable,Write,35,Medium,9,8,Travel_Frequently,No,4,EMP0074
+75,Research & Development,Laboratory Technician,1,35,Female,No,Stable,Read,20,Low,2,2,Travel_Rarely,Yes,3,EMP0075
+76,Research & Development,Laboratory Technician,2,31,Male,No,Stable,Read,20,Low,7,7,Travel_Rarely,No,4,EMP0076
+77,Research & Development,Manufacturing Director,2,37,Male,No,Stable,Write,30,Medium,7,5,Travel_Rarely,No,3,EMP0077
+78,Research & Development,Manufacturing Director,2,32,Male,No,Stable,Write,40,Medium,9,8,Travel_Rarely,Yes,4,EMP0078
+79,Research & Development,Laboratory Technician,2,38,Female,No,Stable,Read,25,Low,10,3,Travel_Frequently,No,3,EMP0079
+80,Research & Development,Research Director,5,50,Female,No,Stable,Admin,60,High,27,3,Travel_Rarely,Yes,3,EMP0080
+81,Sales,Sales Executive,3,59,Female,No,Stable,Write,35,Medium,21,16,Travel_Rarely,No,3,EMP0081
+83,Research & Development,Healthcare Representative,3,36,Female,No,Stable,Read,25,Low,17,14,Travel_Rarely,No,3,EMP0083
+84,Research & Development,Manager,4,55,Female,No,Mover,Write,50,High,5,0,Travel_Rarely,Yes,3,EMP0084
+85,Research & Development,Manufacturing Director,2,36,Male,No,Stable,Write,35,Medium,6,5,Travel_Frequently,No,3,EMP0085
+86,Research & Development,Research Scientist,3,45,Male,No,Mover,Write,50,High,1,0,Travel_Rarely,No,3,EMP0086
+88,Research & Development,Research Scientist,1,35,Male,No,Stable,Write,25,Low,3,2,Travel_Frequently,No,3,EMP0088
+90,Research & Development,Research Scientist,1,36,Male,Yes,Leaver,Write,80,Critical,1,0,Travel_Rarely,Yes,3,EMP0090
+91,Sales,Sales Executive,2,59,Female,No,Stable,Write,25,Low,4,3,Travel_Frequently,No,3,EMP0091
+94,Research & Development,Research Scientist,1,29,Male,No,Stable,Write,20,Low,5,4,Travel_Rarely,No,4,EMP0094
+95,Research & Development,Research Scientist,1,31,Male,No,Mover,Write,50,High,1,1,Travel_Rarely,No,3,EMP0095
+96,Research & Development,Research Scientist,2,32,Male,No,Stable,Write,30,Medium,10,4,Travel_Rarely,No,3,EMP0096
+97,Research & Development,Laboratory Technician,1,36,Female,No,Mover,Read,40,Medium,1,0,Travel_Rarely,No,3,EMP0097
+98,Research & Development,Manufacturing Director,2,31,Female,No,Stable,Write,35,Medium,11,7,Travel_Rarely,No,4,EMP0098
+100,Sales,Sales Executive,2,35,Male,No,Stable,Write,35,Medium,15,13,Travel_Rarely,No,3,EMP0100
+101,Research & Development,Research Director,3,45,Male,No,Mover,Admin,75,Critical,0,0,Travel_Rarely,Yes,3,EMP0101
+102,Research & Development,Research Director,3,37,Male,No,Stable,Admin,35,Medium,5,2,Travel_Rarely,No,3,EMP0102
+103,Human Resources,Human Resources,2,46,Male,No,Stable,Read,20,Low,4,2,Travel_Rarely,Yes,4,EMP0103
+104,Research & Development,Laboratory Technician,2,30,Male,No,Stable,Read,40,Medium,10,8,Travel_Rarely,Yes,3,EMP0104
+105,Research & Development,Research Scientist,1,35,Male,No,Stable,Write,30,Medium,6,4,Travel_Rarely,No,3,EMP0105
+106,Sales,Sales Executive,3,55,Male,No,Mover,Write,50,High,1,0,Travel_Rarely,No,3,EMP0106
+107,Research & Development,Research Scientist,2,38,Female,No,Stable,Write,40,Medium,13,11,Non-Travel,Yes,3,EMP0107
+110,Research & Development,Manufacturing Director,2,34,Male,No,Stable,Write,20,Low,5,2,Travel_Rarely,No,3,EMP0110
+112,Research & Development,Manufacturing Director,3,56,Male,No,Stable,Write,30,Medium,6,4,Travel_Rarely,No,3,EMP0112
+113,Sales,Sales Representative,1,23,Male,No,Mover,Read,40,Medium,0,0,Travel_Rarely,No,3,EMP0113
+116,Research & Development,Laboratory Technician,1,51,Male,No,Stable,Read,10,Low,4,2,Travel_Rarely,No,4,EMP0116
+117,Research & Development,Healthcare Representative,2,30,Male,No,Stable,Read,25,Low,11,10,Travel_Rarely,No,3,EMP0117
+118,Sales,Sales Executive,3,46,Male,Yes,Leaver,Write,70,Critical,9,8,Travel_Rarely,No,3,EMP0118
+119,Research & Development,Healthcare Representative,4,40,Male,No,Stable,Read,30,Medium,22,3,Travel_Frequently,No,4,EMP0119
+120,Sales,Sales Executive,2,51,Male,No,Stable,Write,50,High,10,7,Travel_Rarely,Yes,4,EMP0120
+121,Sales,Sales Executive,2,30,Female,No,Stable,Write,45,Medium,11,8,Travel_Rarely,Yes,3,EMP0121
+124,Research & Development,Healthcare Representative,3,46,Male,No,Stable,Read,35,Medium,10,9,Travel_Frequently,Yes,3,EMP0124
+125,Sales,Sales Executive,2,32,Male,No,Stable,Write,35,Medium,11,8,Travel_Rarely,No,3,EMP0125
+126,Research & Development,Research Director,3,54,Female,No,Stable,Admin,35,Medium,4,3,Travel_Rarely,No,3,EMP0126
+128,Sales,Sales Executive,2,24,Female,No,Stable,Write,20,Low,3,2,Travel_Rarely,No,4,EMP0128
+129,Sales,Sales Executive,2,28,Male,No,Stable,Write,15,Low,5,4,Non-Travel,No,3,EMP0129
+131,Sales,Sales Executive,4,58,Male,No,Stable,Write,35,Medium,37,10,Travel_Rarely,No,3,EMP0131
+132,Research & Development,Laboratory Technician,2,44,Male,No,Stable,Read,5,Low,3,2,Non-Travel,No,3,EMP0132
+133,Human Resources,Human Resources,1,37,Male,Yes,Leaver,Read,60,High,3,2,Travel_Rarely,Yes,4,EMP0133
+134,Research & Development,Research Scientist,1,32,Male,No,Mover,Write,50,High,1,0,Travel_Rarely,No,3,EMP0134
+137,Research & Development,Laboratory Technician,1,20,Female,Yes,Leaver,Read,75,Critical,1,0,Travel_Frequently,Yes,3,EMP0137
+138,Research & Development,Research Scientist,2,34,Female,No,Stable,Write,35,Medium,16,13,Travel_Rarely,No,3,EMP0138
+139,Research & Development,Healthcare Representative,2,37,Male,No,Mover,Read,35,Medium,1,0,Non-Travel,No,3,EMP0139
+140,Human Resources,Manager,5,59,Female,No,Stable,Write,15,Low,3,2,Non-Travel,No,4,EMP0140
+141,Research & Development,Research Director,5,50,Female,No,Stable,Admin,60,High,8,3,Travel_Frequently,Yes,3,EMP0141
+142,Sales,Sales Executive,2,25,Male,Yes,Leaver,Write,80,Critical,6,4,Travel_Rarely,Yes,3,EMP0142
+143,Research & Development,Research Scientist,1,25,Male,No,Stable,Write,30,Medium,2,2,Travel_Rarely,No,3,EMP0143
+144,Research & Development,Laboratory Technician,1,22,Female,No,Mover,Read,40,Medium,0,0,Travel_Rarely,No,3,EMP0144
+145,Research & Development,Healthcare Representative,3,51,Female,No,Stable,Read,30,Medium,13,12,Travel_Frequently,No,4,EMP0145
+147,Research & Development,Laboratory Technician,2,34,Male,Yes,Leaver,Read,75,Critical,9,7,Travel_Frequently,Yes,4,EMP0147
+148,Human Resources,Manager,4,54,Female,No,Stable,Write,25,Low,5,3,Non-Travel,Yes,3,EMP0148
+150,Research & Development,Laboratory Technician,1,24,Male,No,Stable,Read,10,Low,5,3,Travel_Rarely,No,3,EMP0150
+151,Research & Development,Research Scientist,2,34,Female,No,Mover,Write,50,High,1,0,Travel_Rarely,No,3,EMP0151
+152,Sales,Sales Executive,3,37,Male,No,Stable,Write,20,Low,5,3,Travel_Rarely,No,3,EMP0152
+153,Research & Development,Manager,3,34,Female,No,Stable,Write,35,Medium,11,10,Travel_Rarely,No,3,EMP0153
+154,Sales,Sales Executive,3,36,Female,No,Stable,Write,35,Medium,9,7,Travel_Frequently,No,3,EMP0154
+155,Research & Development,Laboratory Technician,1,36,Female,No,Mover,Read,40,Medium,1,0,Travel_Rarely,No,4,EMP0155
+158,Sales,Manager,4,43,Male,No,Stable,Write,50,High,25,12,Travel_Frequently,Yes,3,EMP0158
+159,Research & Development,Research Scientist,1,30,Male,No,Stable,Write,35,Medium,10,7,Travel_Frequently,No,4,EMP0159
+160,Sales,Sales Executive,2,33,Male,No,Stable,Write,25,Low,7,7,Non-Travel,No,3,EMP0160
+161,Research & Development,Research Scientist,1,56,Female,Yes,Leaver,Write,70,Critical,5,4,Travel_Rarely,Yes,3,EMP0161
+162,Research & Development,Research Director,5,51,Male,No,Stable,Admin,50,High,20,18,Travel_Rarely,No,3,EMP0162
+163,Sales,Sales Executive,2,31,Male,Yes,Leaver,Write,80,Critical,7,7,Travel_Rarely,Yes,3,EMP0163
+164,Research & Development,Research Scientist,1,26,Female,No,Stable,Write,20,Low,5,4,Travel_Rarely,No,3,EMP0164
+165,Research & Development,Healthcare Representative,3,58,Female,Yes,Leaver,Read,65,High,40,10,Travel_Rarely,No,3,EMP0165
+167,Sales,Sales Representative,1,19,Male,Yes,Leaver,Read,70,Critical,0,0,Travel_Rarely,Yes,3,EMP0167
+169,Research & Development,Laboratory Technician,1,22,Male,No,Mover,Read,40,Medium,2,1,Travel_Rarely,No,3,EMP0169
+170,Research & Development,Manufacturing Director,2,49,Female,No,Stable,Write,35,Medium,15,11,Travel_Rarely,No,3,EMP0170
+171,Research & Development,Research Scientist,1,43,Female,No,Stable,Write,25,Low,3,2,Travel_Frequently,No,3,EMP0171
+174,Sales,Sales Executive,3,50,Female,No,Stable,Write,35,Medium,2,2,Travel_Frequently,No,3,EMP0174
+175,Sales,Sales Executive,2,31,Female,Yes,Leaver,Write,70,Critical,2,2,Travel_Rarely,Yes,3,EMP0175
+176,Sales,Sales Executive,3,41,Male,No,Stable,Write,40,Medium,9,7,Travel_Rarely,Yes,3,EMP0176
+177,Human Resources,Human Resources,1,26,Female,No,Stable,Read,20,Low,8,7,Travel_Rarely,No,4,EMP0177
+178,Research & Development,Manufacturing Director,2,36,Male,No,Stable,Write,30,Medium,3,2,Travel_Rarely,No,4,EMP0178
+179,Research & Development,Manufacturing Director,3,51,Male,Yes,Leaver,Write,65,High,4,2,Travel_Frequently,No,3,EMP0179
+182,Sales,Sales Executive,2,39,Female,No,Stable,Write,35,Medium,15,11,Travel_Rarely,No,3,EMP0182
+183,Sales,Sales Executive,2,25,Male,No,Stable,Write,20,Low,2,2,Travel_Rarely,No,3,EMP0183
+184,Human Resources,Human Resources,2,30,Male,No,Stable,Read,35,Medium,11,9,Travel_Rarely,Yes,3,EMP0184
+190,Research & Development,Laboratory Technician,1,32,Female,Yes,Leaver,Read,50,High,5,4,Travel_Rarely,No,4,EMP0190
+192,Research & Development,Research Scientist,1,45,Male,No,Stable,Write,30,Medium,6,5,Travel_Rarely,No,3,EMP0192
+193,Research & Development,Research Scientist,2,38,Female,No,Stable,Write,30,Medium,3,2,Travel_Rarely,Yes,4,EMP0193
+194,Research & Development,Research Scientist,1,30,Female,No,Stable,Write,20,Low,5,4,Travel_Rarely,No,3,EMP0194
+195,Sales,Sales Executive,2,32,Male,No,Stable,Write,35,Medium,8,7,Travel_Frequently,No,3,EMP0195
+197,Research & Development,Research Scientist,1,30,Female,No,Stable,Write,20,Low,3,2,Travel_Rarely,No,3,EMP0197
+198,Research & Development,Laboratory Technician,1,30,Male,No,Stable,Read,10,Low,5,3,Travel_Rarely,No,3,EMP0198
+199,Research & Development,Manager,4,41,Male,No,Stable,Write,35,Medium,7,6,Travel_Frequently,No,3,EMP0199
+200,Research & Development,Laboratory Technician,1,41,Male,No,Mover,Read,30,Medium,5,0,Travel_Rarely,No,4,EMP0200
+201,Research & Development,Laboratory Technician,1,19,Female,No,Mover,Read,40,Medium,1,0,Travel_Rarely,No,3,EMP0201
+202,Research & Development,Research Scientist,2,40,Female,No,Stable,Write,40,Medium,20,7,Travel_Frequently,No,3,EMP0202
+204,Sales,Sales Executive,3,35,Male,No,Stable,Write,30,Medium,10,8,Travel_Rarely,No,3,EMP0204
+205,Sales,Sales Representative,2,53,Male,No,Stable,Read,30,Medium,7,7,Travel_Rarely,Yes,4,EMP0205
+206,Research & Development,Laboratory Technician,2,45,Male,No,Stable,Read,25,Low,17,9,Travel_Rarely,No,3,EMP0206
+207,Sales,Sales Executive,3,32,Female,No,Stable,Write,35,Medium,9,8,Travel_Frequently,No,3,EMP0207
+208,Research & Development,Manufacturing Director,2,29,Male,No,Stable,Write,25,Low,10,7,Non-Travel,No,3,EMP0208
+211,Research & Development,Manufacturing Director,2,51,Male,No,Mover,Write,50,High,1,0,Travel_Rarely,No,3,EMP0211
+214,Research & Development,Research Scientist,1,58,Female,No,Mover,Write,60,High,1,0,Travel_Rarely,Yes,4,EMP0214
+215,Sales,Sales Executive,3,40,Male,No,Stable,Write,35,Medium,12,11,Travel_Rarely,No,3,EMP0215
+216,Sales,Sales Representative,1,34,Female,No,Stable,Read,15,Low,4,3,Travel_Frequently,No,3,EMP0216
+217,Research & Development,Research Scientist,1,22,Male,No,Stable,Write,20,Low,2,2,Travel_Rarely,No,4,EMP0217
+218,Research & Development,Research Scientist,1,27,Male,No,Stable,Write,15,Low,2,2,Non-Travel,No,3,EMP0218
+221,Research & Development,Research Scientist,1,28,Male,No,Stable,Write,20,Low,5,2,Travel_Rarely,No,3,EMP0221
+223,Research & Development,Healthcare Representative,3,57,Male,No,Stable,Read,20,Low,5,3,Travel_Rarely,Yes,3,EMP0223
+224,Research & Development,Research Scientist,1,27,Male,No,Mover,Write,55,High,1,1,Non-Travel,Yes,3,EMP0224
+226,Research & Development,Manager,5,50,Female,No,Stable,Write,20,Low,5,4,Travel_Rarely,No,3,EMP0226
+227,Research & Development,Research Scientist,1,41,Male,No,Stable,Write,30,Medium,9,8,Travel_Rarely,No,3,EMP0227
+228,Sales,Sales Executive,3,30,Female,No,Stable,Write,30,Medium,10,9,Travel_Rarely,No,3,EMP0228
+230,Sales,Sales Executive,2,38,Female,No,Stable,Write,30,Medium,8,3,Travel_Rarely,No,4,EMP0230
+231,Research & Development,Research Scientist,1,32,Male,No,Stable,Write,20,Low,5,4,Travel_Rarely,No,4,EMP0231
+233,Research & Development,Research Scientist,1,27,Male,No,Stable,Write,40,Medium,5,2,Travel_Rarely,Yes,3,EMP0233
+235,Sales,Sales Representative,1,19,Female,Yes,Leaver,Read,65,High,0,0,Travel_Frequently,No,4,EMP0235
+238,Research & Development,Laboratory Technician,1,36,Male,No,Stable,Read,25,Low,8,7,Travel_Frequently,No,3,EMP0238
+239,Research & Development,Laboratory Technician,2,30,Male,No,Stable,Read,20,Low,12,9,Non-Travel,No,3,EMP0239
+240,Sales,Sales Executive,2,45,Female,No,Stable,Write,30,Medium,5,4,Travel_Rarely,Yes,3,EMP0240
+241,Research & Development,Research Scientist,1,56,Female,No,Stable,Write,30,Medium,2,2,Travel_Rarely,Yes,3,EMP0241
+242,Research & Development,Research Scientist,1,33,Male,No,Mover,Write,40,Medium,3,1,Travel_Rarely,No,3,EMP0242
+243,Research & Development,Laboratory Technician,1,19,Male,Yes,Leaver,Read,60,High,1,0,Travel_Rarely,No,4,EMP0243
+244,Sales,Sales Executive,3,46,Female,No,Stable,Write,35,Medium,24,13,Travel_Rarely,No,4,EMP0244
+245,Research & Development,Laboratory Technician,1,38,Female,No,Stable,Read,20,Low,2,2,Travel_Rarely,No,3,EMP0245
+246,Research & Development,Research Scientist,1,31,Female,No,Stable,Write,30,Medium,4,2,Travel_Rarely,Yes,4,EMP0246
+247,Research & Development,Research Scientist,1,34,Female,No,Stable,Write,20,Low,3,2,Travel_Rarely,No,3,EMP0247
+248,Sales,Sales Representative,1,41,Female,Yes,Leaver,Read,60,High,4,3,Travel_Rarely,Yes,4,EMP0248
+249,Research & Development,Laboratory Technician,1,50,Male,No,Stable,Read,10,Low,3,2,Travel_Rarely,No,3,EMP0249
+250,Research & Development,Manufacturing Director,2,53,Female,No,Stable,Write,20,Low,4,2,Travel_Rarely,No,3,EMP0250
+252,Research & Development,Research Scientist,1,33,Female,No,Stable,Write,30,Medium,8,7,Travel_Rarely,No,3,EMP0252
+253,Research & Development,Manager,5,40,Female,No,Stable,Write,35,Medium,20,8,Travel_Rarely,No,3,EMP0253
+254,Research & Development,Research Director,5,55,Male,No,Stable,Admin,50,High,24,15,Travel_Rarely,No,3,EMP0254
+256,Research & Development,Manufacturing Director,2,34,Male,No,Stable,Write,35,Medium,10,9,Travel_Frequently,No,3,EMP0256
+258,Research & Development,Healthcare Representative,4,51,Female,No,Stable,Read,30,Medium,7,7,Travel_Rarely,No,3,EMP0258
+259,Research & Development,Manager,5,52,Male,No,Stable,Write,35,Medium,33,18,Travel_Rarely,No,3,EMP0259
+260,Research & Development,Research Scientist,1,27,Female,No,Stable,Write,30,Medium,7,7,Travel_Rarely,No,3,EMP0260
+261,Research & Development,Manufacturing Director,2,35,Male,Yes,Leaver,Write,80,Critical,1,0,Travel_Rarely,Yes,3,EMP0261
+262,Research & Development,Research Scientist,1,43,Male,No,Stable,Write,15,Low,5,4,Non-Travel,No,3,EMP0262
+264,Research & Development,Manager,4,45,Male,No,Stable,Write,30,Medium,20,8,Non-Travel,No,4,EMP0264
+267,Research & Development,Research Scientist,1,37,Male,No,Stable,Write,40,Medium,8,7,Travel_Rarely,Yes,3,EMP0267
+269,Research & Development,Laboratory Technician,2,35,Female,No,Stable,Read,25,Low,6,2,Travel_Frequently,No,3,EMP0269
+270,Research & Development,Manufacturing Director,2,42,Female,No,Stable,Write,15,Low,5,3,Non-Travel,No,3,EMP0270
+271,Research & Development,Manufacturing Director,2,38,Male,No,Mover,Write,50,High,1,0,Travel_Rarely,No,3,EMP0271
+273,Research & Development,Manufacturing Director,2,38,Male,No,Stable,Write,30,Medium,7,7,Travel_Rarely,No,3,EMP0273
+274,Research & Development,Manufacturing Director,2,27,Male,No,Stable,Write,35,Medium,2,2,Travel_Frequently,No,3,EMP0274
+275,Research & Development,Manufacturing Director,2,49,Male,No,Stable,Write,35,Medium,7,7,Non-Travel,Yes,3,EMP0275
+277,Research & Development,Research Scientist,1,34,Male,No,Stable,Write,45,Medium,5,3,Travel_Frequently,Yes,3,EMP0277
+281,Research & Development,Laboratory Technician,2,40,Male,No,Stable,Read,30,Medium,7,2,Travel_Rarely,Yes,3,EMP0281
+282,Research & Development,Healthcare Representative,2,38,Male,Yes,Leaver,Read,70,Critical,1,0,Travel_Rarely,Yes,3,EMP0282
+283,Sales,Sales Executive,3,29,Female,Yes,Leaver,Write,70,Critical,10,4,Travel_Rarely,No,4,EMP0283
+284,Research & Development,Research Scientist,1,22,Male,No,Stable,Write,30,Medium,4,2,Travel_Rarely,Yes,3,EMP0284
+286,Research & Development,Laboratory Technician,1,36,Female,No,Mover,Read,45,Medium,8,1,Travel_Frequently,No,3,EMP0286
+287,Research & Development,Healthcare Representative,2,40,Male,No,Stable,Read,5,Low,3,2,Non-Travel,No,3,EMP0287
+288,Research & Development,Healthcare Representative,3,46,Male,No,Stable,Read,10,Low,4,2,Travel_Rarely,No,3,EMP0288
+291,Sales,Sales Executive,3,32,Male,Yes,Leaver,Write,75,Critical,14,8,Travel_Rarely,No,3,EMP0291
+292,Research & Development,Manufacturing Director,3,30,Male,No,Stable,Write,30,Medium,11,8,Non-Travel,No,4,EMP0292
+293,Sales,Sales Executive,2,27,Female,No,Stable,Write,35,Medium,7,7,Travel_Frequently,No,3,EMP0293
+296,Research & Development,Research Director,3,51,Male,No,Stable,Admin,45,Medium,10,9,Travel_Rarely,No,3,EMP0296
+297,Research & Development,Research Scientist,1,30,Female,Yes,Leaver,Write,70,Critical,5,2,Travel_Rarely,Yes,3,EMP0297
+298,Sales,Manager,3,41,Female,No,Mover,Write,60,High,1,0,Travel_Rarely,Yes,3,EMP0298
+299,Sales,Sales Executive,2,30,Female,Yes,Leaver,Write,85,Critical,6,3,Travel_Frequently,No,3,EMP0299
+300,Research & Development,Research Scientist,1,29,Male,Yes,Leaver,Write,70,Critical,6,2,Travel_Rarely,No,3,EMP0300
+302,Sales,Sales Executive,3,45,Female,No,Stable,Write,30,Medium,19,7,Non-Travel,No,3,EMP0302
+303,Sales,Sales Executive,2,54,Female,No,Stable,Write,30,Medium,6,2,Travel_Rarely,No,3,EMP0303
+304,Research & Development,Laboratory Technician,2,36,Male,No,Stable,Read,25,Low,13,11,Travel_Rarely,No,3,EMP0304
+305,Research & Development,Research Scientist,1,33,Female,No,Stable,Write,30,Medium,3,2,Travel_Rarely,No,4,EMP0305
+306,Research & Development,Research Director,3,37,Male,No,Stable,Admin,60,High,10,8,Travel_Frequently,Yes,3,EMP0306
+307,Sales,Sales Executive,3,38,Male,No,Stable,Write,35,Medium,16,10,Travel_Rarely,No,3,EMP0307
+308,Research & Development,Manufacturing Director,2,31,Male,No,Stable,Write,15,Low,5,4,Non-Travel,No,3,EMP0308
+309,Research & Development,Research Scientist,1,59,Male,No,Mover,Write,50,High,1,0,Travel_Rarely,No,3,EMP0309
+311,Sales,Sales Representative,1,37,Male,No,Stable,Read,25,Low,9,8,Travel_Frequently,No,3,EMP0311
+312,Sales,Sales Executive,3,29,Female,No,Stable,Write,50,High,11,10,Travel_Frequently,No,3,EMP0312
+314,Sales,Sales Executive,3,35,Female,No,Stable,Write,35,Medium,10,7,Travel_Frequently,No,3,EMP0314
+315,Research & Development,Research Scientist,1,29,Male,Yes,Leaver,Write,80,Critical,4,3,Travel_Rarely,Yes,3,EMP0315
+316,Research & Development,Laboratory Technician,1,52,Female,No,Stable,Read,10,Low,2,2,Travel_Rarely,No,3,EMP0316
+319,Research & Development,Manager,5,42,Male,No,Stable,Write,35,Medium,22,17,Travel_Rarely,No,3,EMP0319
+321,Human Resources,Human Resources,1,59,Male,No,Stable,Read,10,Low,2,2,Travel_Rarely,No,3,EMP0321
+323,Sales,Manager,5,50,Female,No,Mover,Write,50,High,7,0,Travel_Rarely,No,3,EMP0323
+325,Research & Development,Laboratory Technician,1,33,Male,Yes,Leaver,Read,60,High,5,4,Travel_Rarely,Yes,3,EMP0325
+327,Sales,Manager,4,43,Female,No,Stable,Write,45,Medium,17,13,Travel_Rarely,Yes,4,EMP0327
+328,Research & Development,Laboratory Technician,1,33,Female,Yes,Leaver,Read,60,High,9,7,Travel_Rarely,No,4,EMP0328
+329,Sales,Manager,5,52,Male,No,Stable,Write,40,Medium,33,7,Non-Travel,Yes,3,EMP0329
+330,Sales,Sales Representative,1,32,Female,No,Stable,Read,10,Low,4,3,Travel_Rarely,No,3,EMP0330
+331,Research & Development,Laboratory Technician,1,32,Male,Yes,Leaver,Read,60,High,3,2,Travel_Rarely,Yes,3,EMP0331
+332,Research & Development,Laboratory Technician,1,39,Female,No,Stable,Read,10,Low,3,2,Travel_Rarely,No,3,EMP0332
+333,Sales,Sales Executive,2,32,Male,No,Stable,Write,15,Low,3,2,Non-Travel,No,3,EMP0333
+334,Research & Development,Research Scientist,2,41,Male,No,Mover,Write,50,High,1,0,Travel_Rarely,No,3,EMP0334
+335,Research & Development,Research Scientist,2,40,Male,No,Stable,Write,30,Medium,9,8,Travel_Rarely,No,3,EMP0335
+336,Research & Development,Manager,5,45,Male,No,Mover,Write,55,High,24,0,Travel_Rarely,No,3,EMP0336
+337,Research & Development,Research Director,3,31,Male,No,Stable,Admin,40,Medium,2,2,Travel_Frequently,No,3,EMP0337
+338,Research & Development,Research Scientist,1,33,Female,No,Stable,Write,20,Low,2,2,Travel_Rarely,No,3,EMP0338
+339,Research & Development,Manufacturing Director,2,34,Male,No,Stable,Write,35,Medium,11,9,Travel_Rarely,No,3,EMP0339
+340,Research & Development,Research Scientist,1,37,Female,No,Mover,Write,40,Medium,3,1,Travel_Rarely,No,3,EMP0340
+341,Research & Development,Manufacturing Director,2,45,Male,No,Stable,Write,25,Low,3,2,Travel_Frequently,No,3,EMP0341
+342,Research & Development,Manufacturing Director,3,37,Male,Yes,Leaver,Write,75,Critical,1,0,Travel_Frequently,No,3,EMP0342
+343,Research & Development,Healthcare Representative,3,39,Female,No,Stable,Read,30,Medium,19,6,Travel_Frequently,No,4,EMP0343
+346,Research & Development,Research Scientist,1,29,Male,No,Stable,Write,30,Medium,6,5,Travel_Rarely,No,3,EMP0346
+347,Research & Development,Research Scientist,2,42,Female,No,Stable,Write,30,Medium,3,2,Travel_Rarely,Yes,3,EMP0347
+349,Sales,Sales Executive,2,29,Male,No,Stable,Write,20,Low,3,2,Travel_Rarely,No,3,EMP0349
+350,Research & Development,Manufacturing Director,2,25,Female,No,Stable,Write,20,Low,4,2,Travel_Rarely,No,3,EMP0350
+351,Research & Development,Laboratory Technician,1,42,Female,No,Stable,Read,30,Medium,9,6,Travel_Rarely,Yes,3,EMP0351
+352,Research & Development,Research Director,5,40,Male,No,Stable,Admin,50,High,21,7,Travel_Rarely,No,3,EMP0352
+353,Research & Development,Research Scientist,1,51,Male,No,Mover,Write,50,High,1,0,Travel_Rarely,No,3,EMP0353
+355,Research & Development,Laboratory Technician,1,31,Male,Yes,Leaver,Read,55,High,5,4,Travel_Frequently,No,3,EMP0355
+359,Research & Development,Laboratory Technician,1,32,Male,No,Mover,Read,35,Medium,5,1,Travel_Frequently,No,4,EMP0359
+361,Sales,Sales Executive,2,38,Male,No,Stable,Write,25,Low,8,7,Non-Travel,No,3,EMP0361
+362,Research & Development,Laboratory Technician,2,32,Male,No,Stable,Read,20,Low,6,2,Travel_Rarely,No,3,EMP0362
+363,Sales,Manager,4,46,Female,No,Stable,Write,40,Medium,7,7,Travel_Rarely,Yes,3,EMP0363
+364,Research & Development,Laboratory Technician,1,28,Male,Yes,Leaver,Read,60,High,0,0,Travel_Rarely,No,3,EMP0364
+366,Sales,Sales Executive,2,29,Male,No,Mover,Write,50,High,0,0,Travel_Rarely,No,3,EMP0366
+367,Research & Development,Healthcare Representative,2,31,Male,No,Mover,Read,40,Medium,9,0,Travel_Rarely,No,4,EMP0367
+369,Research & Development,Healthcare Representative,2,25,Male,No,Stable,Read,15,Low,6,3,Non-Travel,No,3,EMP0369
+372,Research & Development,Healthcare Representative,4,45,Male,No,Stable,Read,35,Medium,20,7,Travel_Rarely,Yes,3,EMP0372
+373,Research & Development,Laboratory Technician,1,36,Male,No,Stable,Read,25,Low,15,13,Travel_Rarely,No,3,EMP0373
+374,Research & Development,Manager,5,55,Male,No,Stable,Write,45,Medium,36,10,Travel_Rarely,Yes,3,EMP0374
+376,Research & Development,Manager,3,47,Male,Yes,Leaver,Write,75,Critical,10,7,Non-Travel,Yes,3,EMP0376
+377,Research & Development,Research Scientist,1,28,Male,No,Stable,Write,20,Low,5,2,Travel_Rarely,No,4,EMP0377
+378,Sales,Sales Executive,2,37,Male,No,Stable,Write,30,Medium,5,4,Travel_Rarely,No,3,EMP0378
+379,Research & Development,Research Scientist,1,21,Male,No,Stable,Write,30,Medium,3,2,Travel_Rarely,No,3,EMP0379
+380,Research & Development,Research Director,3,37,Female,No,Stable,Admin,40,Medium,5,2,Non-Travel,Yes,3,EMP0380
+381,Research & Development,Manager,3,35,Female,No,Stable,Write,30,Medium,7,7,Travel_Rarely,No,3,EMP0381
+382,Sales,Sales Executive,2,38,Female,No,Mover,Write,60,High,8,0,Travel_Rarely,Yes,4,EMP0382
+384,Research & Development,Manufacturing Director,2,26,Female,No,Stable,Write,35,Medium,6,5,Travel_Frequently,No,4,EMP0384
+385,Research & Development,Research Director,5,50,Male,No,Stable,Admin,45,Medium,10,4,Travel_Rarely,No,3,EMP0385
+386,Research & Development,Research Director,4,53,Male,No,Stable,Admin,45,Medium,5,3,Travel_Rarely,Yes,3,EMP0386
+387,Sales,Sales Executive,2,42,Male,No,Stable,Write,35,Medium,20,16,Travel_Rarely,No,4,EMP0387
+388,Sales,Sales Executive,2,29,Male,No,Stable,Write,35,Medium,10,7,Travel_Frequently,No,3,EMP0388
+389,Research & Development,Laboratory Technician,2,55,Male,No,Stable,Read,30,Medium,10,7,Travel_Rarely,Yes,3,EMP0389
+390,Research & Development,Healthcare Representative,2,26,Male,No,Stable,Read,25,Low,5,3,Travel_Frequently,Yes,3,EMP0390
+391,Research & Development,Research Scientist,1,37,Female,No,Stable,Write,35,Medium,17,12,Travel_Rarely,No,3,EMP0391
+392,Research & Development,Laboratory Technician,1,44,Male,Yes,Leaver,Read,75,Critical,1,0,Travel_Frequently,Yes,4,EMP0392
+393,Research & Development,Healthcare Representative,2,38,Male,No,Stable,Read,10,Low,2,2,Travel_Rarely,No,3,EMP0393
+394,Research & Development,Laboratory Technician,1,26,Male,Yes,Leaver,Read,60,High,3,2,Travel_Rarely,Yes,3,EMP0394
+395,Research & Development,Research Scientist,1,28,Female,No,Stable,Write,20,Low,5,3,Travel_Rarely,No,4,EMP0395
+396,Research & Development,Research Director,5,49,Female,No,Stable,Admin,50,High,3,2,Travel_Frequently,Yes,3,EMP0396
+397,Research & Development,Research Scientist,2,36,Male,No,Mover,Write,50,High,8,0,Travel_Rarely,No,3,EMP0397
+399,Sales,Sales Representative,1,31,Female,No,Stable,Read,15,Low,2,2,Travel_Frequently,No,3,EMP0399
+401,Sales,Sales Executive,2,26,Male,Yes,Leaver,Write,80,Critical,8,7,Travel_Rarely,Yes,3,EMP0401
+403,Research & Development,Research Scientist,1,37,Male,No,Stable,Write,35,Medium,4,2,Travel_Frequently,Yes,3,EMP0403
+404,Sales,Sales Executive,4,42,Female,No,Stable,Write,40,Medium,20,4,Travel_Frequently,No,3,EMP0404
+405,Research & Development,Laboratory Technician,1,18,Male,Yes,Leaver,Read,60,High,0,0,Travel_Rarely,No,3,EMP0405
+406,Sales,Sales Executive,3,35,Male,No,Stable,Write,35,Medium,11,9,Travel_Rarely,No,3,EMP0406
+407,Research & Development,Laboratory Technician,1,36,Male,No,Mover,Read,45,Medium,1,0,Travel_Frequently,No,3,EMP0407
+408,Research & Development,Manufacturing Director,2,51,Male,No,Mover,Write,40,Medium,4,1,Travel_Rarely,No,3,EMP0408
+410,Sales,Manager,4,41,Male,No,Stable,Write,35,Medium,22,10,Travel_Rarely,No,3,EMP0410
+411,Sales,Sales Representative,1,18,Female,No,Mover,Read,40,Medium,0,0,Travel_Rarely,No,3,EMP0411
+412,Research & Development,Healthcare Representative,2,28,Male,No,Stable,Read,20,Low,8,3,Travel_Rarely,No,3,EMP0412
+416,Sales,Sales Executive,2,31,Male,No,Stable,Write,30,Medium,8,7,Travel_Rarely,No,3,EMP0416
+417,Research & Development,Healthcare Representative,3,39,Male,No,Stable,Read,25,Low,18,10,Travel_Rarely,No,3,EMP0417
+419,Research & Development,Laboratory Technician,2,36,Female,No,Stable,Read,15,Low,9,8,Non-Travel,No,3,EMP0419
+420,Sales,Sales Executive,2,32,Male,No,Stable,Write,35,Medium,13,8,Travel_Rarely,No,3,EMP0420
+421,Research & Development,Research Director,3,38,Female,No,Stable,Admin,55,High,10,8,Travel_Rarely,No,3,EMP0421
+422,Research & Development,Healthcare Representative,2,58,Male,No,Stable,Read,15,Low,5,3,Non-Travel,Yes,3,EMP0422
+423,Research & Development,Research Scientist,1,31,Male,No,Stable,Write,30,Medium,5,2,Travel_Rarely,Yes,3,EMP0423
+424,Human Resources,Human Resources,2,31,Male,No,Stable,Read,20,Low,2,2,Travel_Rarely,No,3,EMP0424
+425,Research & Development,Laboratory Technician,3,45,Male,No,Stable,Read,30,Medium,24,9,Travel_Frequently,No,3,EMP0425
+426,Research & Development,Research Scientist,1,31,Male,No,Stable,Write,30,Medium,2,2,Travel_Rarely,Yes,3,EMP0426
+428,Research & Development,Manager,3,33,Female,No,Stable,Write,35,Medium,10,6,Travel_Frequently,No,3,EMP0428
+429,Research & Development,Manager,4,39,Male,No,Stable,Write,45,Medium,21,9,Travel_Rarely,Yes,3,EMP0429
+430,Research & Development,Laboratory Technician,1,43,Female,No,Stable,Read,25,Low,8,7,Travel_Frequently,No,3,EMP0430
+431,Research & Development,Healthcare Representative,4,49,Female,No,Mover,Read,50,High,7,1,Travel_Rarely,Yes,3,EMP0431
+433,Research & Development,Research Scientist,2,52,Male,Yes,Leaver,Write,70,Critical,8,2,Travel_Rarely,No,3,EMP0433
+434,Research & Development,Research Scientist,1,27,Female,No,Stable,Write,30,Medium,4,3,Travel_Rarely,Yes,3,EMP0434
+436,Sales,Sales Executive,2,32,Female,No,Stable,Write,45,Medium,13,12,Travel_Rarely,Yes,3,EMP0436
+437,Sales,Sales Executive,2,27,Male,No,Stable,Write,30,Medium,5,4,Travel_Rarely,Yes,3,EMP0437
+438,Sales,Sales Executive,2,31,Male,No,Stable,Write,30,Medium,7,7,Travel_Rarely,No,3,EMP0438
+439,Research & Development,Research Scientist,2,32,Female,No,Stable,Write,30,Medium,7,7,Travel_Rarely,No,3,EMP0439
+440,Research & Development,Research Scientist,1,28,Male,Yes,Leaver,Write,70,Critical,3,2,Travel_Rarely,Yes,3,EMP0440
+441,Research & Development,Research Scientist,2,30,Female,No,Stable,Write,30,Medium,10,8,Travel_Rarely,No,3,EMP0441
+442,Research & Development,Manufacturing Director,3,31,Female,No,Stable,Write,35,Medium,10,9,Travel_Frequently,No,4,EMP0442
+444,Research & Development,Manager,5,39,Male,No,Stable,Write,40,Medium,21,9,Travel_Frequently,No,3,EMP0444
+445,Sales,Sales Executive,2,39,Female,Yes,Leaver,Write,80,Critical,1,0,Travel_Rarely,Yes,3,EMP0445
+446,Sales,Sales Executive,2,33,Male,No,Stable,Write,45,Medium,7,7,Travel_Frequently,No,3,EMP0446
+447,Research & Development,Research Director,5,47,Male,No,Stable,Admin,45,Medium,3,2,Travel_Rarely,No,3,EMP0447
+448,Research & Development,Laboratory Technician,2,43,Female,No,Stable,Read,35,Medium,9,7,Travel_Frequently,No,3,EMP0448
+449,Sales,Sales Executive,2,27,Male,No,Stable,Write,25,Low,5,4,Non-Travel,Yes,3,EMP0449
+450,Research & Development,Research Scientist,2,54,Female,No,Stable,Write,25,Low,4,3,Travel_Frequently,No,3,EMP0450
+451,Research & Development,Healthcare Representative,3,43,Female,No,Mover,Read,40,Medium,1,0,Travel_Rarely,No,3,EMP0451
+452,Research & Development,Research Scientist,2,45,Male,No,Stable,Write,30,Medium,10,9,Travel_Rarely,No,3,EMP0452
+453,Sales,Sales Executive,2,40,Male,No,Stable,Write,30,Medium,4,3,Travel_Rarely,Yes,4,EMP0453
+454,Research & Development,Laboratory Technician,1,29,Male,Yes,Leaver,Read,70,Critical,7,7,Travel_Rarely,Yes,3,EMP0454
+455,Research & Development,Laboratory Technician,1,29,Male,No,Stable,Read,10,Low,3,2,Travel_Rarely,No,3,EMP0455
+456,Sales,Sales Executive,2,30,Female,No,Stable,Write,30,Medium,10,9,Travel_Rarely,No,3,EMP0456
+458,Sales,Sales Executive,2,27,Female,No,Stable,Write,30,Medium,8,7,Travel_Rarely,No,3,EMP0458
+460,Research & Development,Manufacturing Director,2,37,Male,No,Stable,Write,30,Medium,6,2,Travel_Rarely,No,3,EMP0460
+461,Research & Development,Research Director,3,38,Male,No,Stable,Admin,60,High,11,10,Travel_Rarely,Yes,3,EMP0461
+462,Research & Development,Manufacturing Director,3,31,Female,No,Stable,Write,45,Medium,11,9,Travel_Rarely,Yes,3,EMP0462
+463,Sales,Sales Executive,2,29,Female,No,Stable,Write,40,Medium,7,7,Travel_Rarely,Yes,3,EMP0463
+464,Research & Development,Manufacturing Director,3,35,Male,No,Stable,Write,35,Medium,16,6,Travel_Rarely,No,3,EMP0464
+465,Research & Development,Research Scientist,1,23,Male,No,Stable,Write,20,Low,4,2,Travel_Rarely,No,3,EMP0465
+466,Research & Development,Manufacturing Director,2,41,Male,No,Stable,Write,30,Medium,5,4,Travel_Rarely,Yes,3,EMP0466
+467,Sales,Sales Representative,2,47,Male,No,Mover,Read,45,Medium,0,0,Travel_Frequently,No,3,EMP0467
+468,Research & Development,Research Director,4,42,Female,No,Mover,Admin,65,High,1,0,Travel_Rarely,No,3,EMP0468
+469,Sales,Sales Executive,2,29,Male,No,Stable,Write,15,Low,4,3,Non-Travel,No,3,EMP0469
+470,Human Resources,Human Resources,1,42,Male,No,Stable,Read,30,Medium,3,2,Travel_Rarely,Yes,3,EMP0470
+471,Research & Development,Laboratory Technician,1,32,Female,No,Mover,Read,40,Medium,8,0,Travel_Rarely,No,3,EMP0471
+473,Sales,Manager,3,48,Female,No,Mover,Write,50,High,0,0,Travel_Rarely,No,4,EMP0473
+474,Research & Development,Research Scientist,2,37,Male,No,Stable,Write,40,Medium,7,7,Travel_Rarely,Yes,3,EMP0474
+475,Sales,Sales Executive,2,30,Female,No,Stable,Write,25,Low,2,2,Non-Travel,Yes,3,EMP0475
+476,Sales,Sales Executive,2,26,Male,No,Stable,Write,30,Medium,8,7,Travel_Rarely,No,3,EMP0476
+477,Research & Development,Healthcare Representative,2,42,Male,No,Mover,Read,40,Medium,1,0,Travel_Rarely,No,4,EMP0477
+478,Sales,Sales Representative,1,21,Female,Yes,Leaver,Read,65,High,3,2,Travel_Frequently,Yes,3,EMP0478
+479,Sales,Sales Executive,2,36,Female,No,Mover,Write,45,Medium,1,0,Non-Travel,No,3,EMP0479
+481,Sales,Sales Executive,3,36,Male,No,Stable,Write,40,Medium,13,9,Travel_Frequently,No,3,EMP0481
+482,Research & Development,Healthcare Representative,2,57,Male,No,Stable,Read,10,Low,3,2,Travel_Rarely,No,3,EMP0482
+483,Research & Development,Laboratory Technician,1,40,Female,No,Stable,Read,30,Medium,7,7,Travel_Rarely,Yes,3,EMP0483
+484,Sales,Sales Representative,1,21,Male,No,Stable,Read,5,Low,3,2,Non-Travel,No,4,EMP0484
+485,Sales,Sales Representative,1,33,Female,Yes,Leaver,Read,70,Critical,1,0,Travel_Rarely,Yes,3,EMP0485
+486,Research & Development,Laboratory Technician,1,37,Female,No,Stable,Read,10,Low,5,4,Travel_Rarely,No,4,EMP0486
+487,Research & Development,Manufacturing Director,2,46,Female,No,Mover,Write,45,Medium,1,0,Non-Travel,No,3,EMP0487
+488,Sales,Sales Executive,2,41,Male,Yes,Leaver,Write,75,Critical,8,7,Travel_Frequently,No,3,EMP0488
+491,Research & Development,Healthcare Representative,3,50,Male,No,Stable,Read,10,Low,4,3,Travel_Rarely,No,3,EMP0491
+492,Sales,Sales Executive,2,40,Male,Yes,Leaver,Write,90,Critical,6,4,Travel_Rarely,Yes,3,EMP0492
+493,Research & Development,Research Scientist,1,31,Male,No,Stable,Write,30,Medium,2,2,Travel_Rarely,Yes,3,EMP0493
+494,Sales,Sales Representative,1,21,Female,Yes,Leaver,Read,60,High,1,0,Travel_Rarely,No,3,EMP0494
+495,Research & Development,Research Scientist,1,29,Male,No,Stable,Write,20,Low,3,2,Travel_Rarely,No,3,EMP0495
+496,Research & Development,Healthcare Representative,2,35,Male,No,Mover,Read,40,Medium,1,1,Travel_Rarely,No,3,EMP0496
+497,Research & Development,Laboratory Technician,1,27,Male,No,Stable,Read,10,Low,5,2,Travel_Rarely,No,3,EMP0497
+498,Sales,Sales Executive,2,28,Male,No,Stable,Write,30,Medium,7,5,Travel_Rarely,No,3,EMP0498
+499,Research & Development,Healthcare Representative,3,49,Male,No,Stable,Read,20,Low,5,2,Travel_Rarely,No,4,EMP0499
+500,Sales,Sales Executive,2,51,Female,No,Stable,Write,30,Medium,7,7,Travel_Rarely,No,3,EMP0500
+501,Research & Development,Research Scientist,1,36,Female,No,Stable,Write,20,Low,2,2,Travel_Rarely,No,3,EMP0501
+502,Sales,Sales Executive,2,34,Male,Yes,Leaver,Write,65,High,5,2,Non-Travel,Yes,3,EMP0502
+505,Research & Development,Manager,4,55,Female,No,Stable,Write,30,Medium,5,4,Travel_Rarely,Yes,3,EMP0505
+507,Sales,Sales Executive,2,24,Female,No,Stable,Write,30,Medium,5,2,Travel_Rarely,Yes,3,EMP0507
+508,Sales,Sales Representative,1,30,Male,No,Mover,Read,40,Medium,1,0,Travel_Rarely,No,3,EMP0508
+510,Research & Development,Research Scientist,1,26,Male,Yes,Leaver,Write,75,Critical,6,4,Travel_Frequently,No,4,EMP0510
+511,Research & Development,Research Scientist,1,22,Female,No,Mover,Write,40,Medium,2,1,Travel_Rarely,No,3,EMP0511
+513,Sales,Sales Executive,3,36,Male,No,Stable,Write,40,Medium,10,9,Travel_Rarely,No,3,EMP0513
+514,Research & Development,Research Scientist,1,30,Male,Yes,Leaver,Write,85,Critical,1,0,Travel_Frequently,Yes,4,EMP0514
+515,Research & Development,Laboratory Technician,1,37,Female,No,Stable,Read,25,Low,18,7,Travel_Rarely,No,3,EMP0515
+516,Sales,Sales Executive,2,40,Female,No,Stable,Write,20,Low,5,4,Travel_Rarely,No,3,EMP0516
+517,Research & Development,Laboratory Technician,1,42,Female,No,Stable,Read,10,Low,5,2,Travel_Rarely,No,3,EMP0517
+518,Research & Development,Manufacturing Director,2,37,Male,No,Mover,Write,60,High,1,0,Travel_Rarely,Yes,3,EMP0518
+520,Research & Development,Research Director,4,43,Male,No,Stable,Admin,50,High,25,10,Travel_Rarely,No,3,EMP0520
+521,Research & Development,Laboratory Technician,2,40,Female,No,Mover,Read,40,Medium,1,0,Travel_Rarely,No,4,EMP0521
+522,Research & Development,Research Director,5,54,Male,No,Stable,Admin,35,Medium,4,2,Travel_Rarely,No,3,EMP0522
+523,Sales,Sales Executive,2,34,Female,No,Stable,Write,15,Low,3,2,Non-Travel,No,3,EMP0523
+524,Research & Development,Manufacturing Director,2,31,Female,No,Stable,Write,35,Medium,13,10,Travel_Rarely,No,3,EMP0524
+525,Research & Development,Laboratory Technician,1,43,Male,No,Stable,Read,15,Low,3,2,Travel_Frequently,No,4,EMP0525
+526,Research & Development,Healthcare Representative,2,43,Female,No,Stable,Read,20,Low,5,2,Travel_Rarely,Yes,3,EMP0526
+527,Sales,Sales Executive,2,25,Female,No,Stable,Write,30,Medium,5,4,Travel_Rarely,Yes,3,EMP0527
+529,Research & Development,Research Scientist,2,37,Female,No,Stable,Write,40,Medium,13,11,Non-Travel,Yes,3,EMP0529
+530,Research & Development,Laboratory Technician,1,31,Male,No,Stable,Read,10,Low,4,2,Travel_Rarely,No,3,EMP0530
+531,Research & Development,Manager,5,39,Male,No,Stable,Write,50,High,21,8,Travel_Frequently,Yes,3,EMP0531
+532,Sales,Sales Executive,4,56,Female,No,Stable,Write,35,Medium,7,7,Travel_Frequently,No,3,EMP0532
+533,Sales,Sales Executive,2,30,Female,No,Stable,Write,20,Low,5,4,Travel_Rarely,No,3,EMP0533
+534,Sales,Sales Executive,3,41,Male,No,Stable,Write,30,Medium,10,7,Travel_Rarely,No,3,EMP0534
+536,Research & Development,Laboratory Technician,2,28,Male,No,Mover,Read,40,Medium,10,0,Travel_Rarely,No,3,EMP0536
+538,Research & Development,Laboratory Technician,1,25,Male,Yes,Leaver,Read,50,High,2,2,Travel_Rarely,No,3,EMP0538
+543,Research & Development,Manufacturing Director,3,52,Male,No,Stable,Write,30,Medium,5,4,Travel_Rarely,Yes,3,EMP0543
+544,Research & Development,Research Scientist,1,45,Male,No,Stable,Write,20,Low,2,2,Travel_Rarely,No,4,EMP0544
+546,Research & Development,Manager,4,52,Female,No,Stable,Write,20,Low,5,2,Travel_Rarely,No,3,EMP0546
+547,Research & Development,Research Scientist,2,42,Female,No,Stable,Write,25,Low,5,4,Travel_Frequently,No,3,EMP0547
+548,Research & Development,Manufacturing Director,2,30,Female,No,Stable,Write,20,Low,5,4,Travel_Rarely,No,4,EMP0548
+549,Research & Development,Manager,5,60,Female,No,Stable,Write,35,Medium,29,8,Travel_Rarely,No,3,EMP0549
+550,Research & Development,Manufacturing Director,2,46,Female,No,Stable,Write,30,Medium,10,7,Travel_Rarely,No,3,EMP0550
+551,Research & Development,Healthcare Representative,2,42,Female,No,Stable,Read,25,Low,6,5,Travel_Frequently,No,3,EMP0551
+554,Sales,Sales Representative,1,24,Female,Yes,Leaver,Read,60,High,5,3,Travel_Rarely,Yes,3,EMP0554
+555,Sales,Sales Representative,1,34,Female,Yes,Leaver,Read,65,High,2,2,Travel_Frequently,No,3,EMP0555
+556,Research & Development,Laboratory Technician,1,38,Male,No,Mover,Read,55,High,1,0,Travel_Frequently,Yes,4,EMP0556
+558,Sales,Manager,5,40,Female,No,Stable,Write,35,Medium,20,15,Travel_Rarely,No,3,EMP0558
+560,Research & Development,Research Scientist,1,26,Female,No,Stable,Write,20,Low,3,2,Travel_Rarely,No,4,EMP0560
+562,Research & Development,Laboratory Technician,1,30,Male,No,Stable,Read,5,Low,5,3,Non-Travel,No,3,EMP0562
+564,Research & Development,Research Director,3,29,Male,No,Stable,Admin,45,Medium,10,2,Travel_Rarely,No,3,EMP0564
+565,Research & Development,Research Scientist,1,29,Female,Yes,Leaver,Write,70,Critical,2,2,Travel_Rarely,No,3,EMP0565
+566,Human Resources,Human Resources,1,19,Male,Yes,Leaver,Read,60,High,1,0,Travel_Rarely,No,3,EMP0566
+567,Sales,Sales Executive,3,30,Female,No,Stable,Write,25,Low,9,8,Non-Travel,No,3,EMP0567
+568,Sales,Manager,4,57,Male,No,Mover,Write,50,High,1,0,Travel_Rarely,No,3,EMP0568
+569,Research & Development,Manager,4,50,Male,No,Stable,Write,35,Medium,27,10,Travel_Rarely,No,3,EMP0569
+571,Research & Development,Laboratory Technician,1,30,Female,No,Stable,Read,20,Low,11,7,Non-Travel,No,3,EMP0571
+573,Sales,Sales Executive,3,60,Female,No,Stable,Write,40,Medium,18,13,Travel_Frequently,No,3,EMP0573
+574,Research & Development,Manufacturing Director,2,47,Female,No,Mover,Write,40,Medium,5,0,Travel_Rarely,No,3,EMP0574
+575,Research & Development,Research Director,4,46,Male,No,Stable,Admin,45,Medium,3,2,Travel_Rarely,No,3,EMP0575
+577,Research & Development,Laboratory Technician,1,35,Male,No,Stable,Read,10,Low,5,4,Travel_Rarely,No,3,EMP0577
+578,Research & Development,Laboratory Technician,2,54,Female,No,Mover,Read,40,Medium,1,0,Travel_Rarely,No,3,EMP0578
+579,Research & Development,Research Scientist,1,34,Male,No,Stable,Write,30,Medium,7,3,Travel_Rarely,No,3,EMP0579
+580,Sales,Sales Executive,3,46,Female,No,Stable,Write,30,Medium,3,2,Travel_Rarely,Yes,3,EMP0580
+581,Research & Development,Manufacturing Director,3,31,Male,No,Stable,Write,35,Medium,13,8,Travel_Rarely,No,4,EMP0581
+582,Research & Development,Manager,3,33,Male,Yes,Leaver,Write,80,Critical,7,6,Travel_Rarely,Yes,3,EMP0582
+584,Research & Development,Laboratory Technician,1,33,Male,Yes,Leaver,Read,50,High,4,3,Travel_Rarely,No,3,EMP0584
+585,Sales,Sales Representative,1,30,Male,No,Stable,Read,10,Low,3,2,Travel_Rarely,No,3,EMP0585
+586,Research & Development,Healthcare Representative,3,35,Male,No,Stable,Read,40,Medium,8,7,Travel_Rarely,Yes,3,EMP0586
+587,Research & Development,Healthcare Representative,3,31,Male,Yes,Leaver,Read,65,High,1,0,Travel_Frequently,No,3,EMP0587
+590,Human Resources,Human Resources,3,34,Female,Yes,Leaver,Read,65,High,3,2,Travel_Frequently,Yes,3,EMP0590
+591,Research & Development,Laboratory Technician,1,42,Male,No,Stable,Read,25,Low,2,2,Travel_Frequently,No,3,EMP0591
+592,Sales,Sales Executive,3,36,Male,No,Stable,Write,25,Low,10,3,Non-Travel,No,3,EMP0592
+593,Research & Development,Laboratory Technician,1,22,Male,Yes,Leaver,Read,55,High,2,2,Travel_Frequently,No,3,EMP0593
+595,Sales,Sales Executive,2,48,Female,No,Stable,Write,30,Medium,9,7,Travel_Rarely,No,3,EMP0595
+597,Sales,Manager,4,55,Female,No,Stable,Write,30,Medium,10,9,Travel_Rarely,No,4,EMP0597
+599,Sales,Sales Executive,2,41,Male,No,Stable,Write,30,Medium,14,3,Non-Travel,No,3,EMP0599
+600,Sales,Sales Executive,2,35,Male,No,Stable,Write,35,Medium,11,9,Travel_Rarely,No,3,EMP0600
+601,Research & Development,Manufacturing Director,4,40,Female,No,Stable,Write,35,Medium,20,6,Travel_Rarely,No,3,EMP0601
+602,Research & Development,Laboratory Technician,1,39,Female,No,Stable,Read,25,Low,8,3,Travel_Frequently,No,3,EMP0602
+604,Sales,Sales Executive,2,31,Male,No,Stable,Write,40,Medium,6,5,Travel_Rarely,Yes,3,EMP0604
+605,Research & Development,Manufacturing Director,3,42,Male,No,Stable,Write,40,Medium,10,9,Travel_Rarely,Yes,4,EMP0605
+606,Sales,Sales Executive,2,45,Male,No,Stable,Write,30,Medium,8,7,Travel_Rarely,No,3,EMP0606
+608,Human Resources,Human Resources,1,26,Female,Yes,Leaver,Read,85,Critical,7,7,Travel_Frequently,Yes,3,EMP0608
+611,Research & Development,Manufacturing Director,2,29,Male,No,Stable,Write,20,Low,3,2,Travel_Rarely,No,3,EMP0611
+612,Research & Development,Research Director,4,33,Female,No,Mover,Admin,65,High,6,1,Travel_Rarely,No,3,EMP0612
+613,Sales,Manager,3,31,Male,No,Stable,Write,30,Medium,5,4,Travel_Rarely,No,4,EMP0613
+614,Sales,Sales Representative,1,18,Male,Yes,Leaver,Read,75,Critical,0,0,Travel_Frequently,Yes,3,EMP0614
+615,Sales,Sales Executive,3,40,Male,No,Mover,Write,45,Medium,1,0,Non-Travel,No,3,EMP0615
+616,Research & Development,Healthcare Representative,2,41,Female,No,Stable,Read,25,Low,8,7,Non-Travel,Yes,3,EMP0616
+618,Sales,Sales Executive,2,26,Male,No,Mover,Write,50,High,0,0,Travel_Rarely,No,3,EMP0618
+620,Sales,Sales Executive,2,35,Female,No,Stable,Write,20,Low,5,4,Travel_Rarely,No,3,EMP0620
+621,Sales,Sales Executive,2,34,Male,No,Stable,Write,30,Medium,10,7,Travel_Rarely,No,3,EMP0621
+622,Research & Development,Laboratory Technician,1,26,Male,Yes,Leaver,Read,70,Critical,1,0,Travel_Rarely,Yes,3,EMP0622
+623,Research & Development,Manufacturing Director,3,37,Female,No,Stable,Write,30,Medium,6,5,Travel_Rarely,No,3,EMP0623
+624,Research & Development,Healthcare Representative,3,46,Female,No,Stable,Read,15,Low,2,2,Travel_Frequently,No,3,EMP0624
+625,Sales,Manager,4,41,Female,No,Stable,Write,35,Medium,18,16,Travel_Rarely,No,3,EMP0625
+626,Sales,Sales Executive,3,37,Male,No,Stable,Write,25,Low,9,5,Non-Travel,No,3,EMP0626
+630,Research & Development,Research Scientist,2,52,Male,No,Stable,Write,40,Medium,10,9,Travel_Rarely,Yes,3,EMP0630
+631,Sales,Sales Executive,2,32,Male,Yes,Leaver,Write,55,High,4,2,Non-Travel,No,3,EMP0631
+632,Sales,Sales Representative,1,24,Male,No,Stable,Read,25,Low,2,2,Travel_Frequently,No,3,EMP0632
+634,Research & Development,Healthcare Representative,2,38,Female,No,Mover,Read,40,Medium,1,0,Travel_Rarely,No,3,EMP0634
+635,Research & Development,Manufacturing Director,2,37,Female,No,Stable,Write,30,Medium,6,5,Travel_Rarely,No,3,EMP0635
+638,Research & Development,Research Director,5,49,Male,No,Stable,Admin,60,High,31,9,Travel_Rarely,Yes,3,EMP0638
+639,Research & Development,Research Scientist,1,24,Male,No,Stable,Write,40,Medium,6,5,Travel_Rarely,Yes,3,EMP0639
+641,Sales,Sales Executive,2,26,Male,No,Stable,Write,20,Low,5,3,Travel_Rarely,No,4,EMP0641
+643,Research & Development,Laboratory Technician,1,24,Male,No,Mover,Read,40,Medium,1,0,Travel_Rarely,No,4,EMP0643
+644,Human Resources,Manager,5,50,Male,No,Stable,Write,40,Medium,32,5,Travel_Frequently,No,3,EMP0644
+645,Sales,Sales Representative,1,25,Male,No,Stable,Read,20,Low,7,4,Travel_Rarely,No,3,EMP0645
+647,Research & Development,Laboratory Technician,1,24,Female,Yes,Leaver,Read,75,Critical,6,3,Travel_Frequently,Yes,3,EMP0647
+648,Sales,Sales Representative,1,30,Male,Yes,Leaver,Read,65,High,1,0,Travel_Frequently,No,3,EMP0648
+649,Research & Development,Research Scientist,1,34,Male,No,Stable,Write,40,Medium,6,5,Travel_Rarely,Yes,3,EMP0649
+650,Sales,Sales Executive,2,31,Male,Yes,Leaver,Write,60,High,3,1,Travel_Rarely,No,3,EMP0650
+652,Research & Development,Laboratory Technician,2,35,Male,No,Stable,Read,10,Low,3,2,Travel_Rarely,No,3,EMP0652
+653,Sales,Sales Executive,2,31,Male,No,Stable,Write,30,Medium,7,7,Travel_Rarely,No,4,EMP0653
+655,Research & Development,Research Scientist,1,27,Female,No,Stable,Write,20,Low,5,3,Travel_Rarely,No,3,EMP0655
+656,Sales,Sales Executive,2,37,Male,No,Mover,Write,60,High,3,0,Travel_Rarely,Yes,3,EMP0656
+657,Research & Development,Research Scientist,1,20,Female,No,Mover,Write,50,High,1,0,Travel_Rarely,No,3,EMP0657
+659,Research & Development,Healthcare Representative,2,42,Female,No,Stable,Read,20,Low,10,2,Travel_Rarely,No,3,EMP0659
+661,Research & Development,Research Director,4,43,Male,No,Mover,Admin,75,Critical,1,0,Travel_Rarely,Yes,3,EMP0661
+662,Research & Development,Research Scientist,1,38,Female,No,Mover,Write,50,High,0,0,Travel_Rarely,No,3,EMP0662
+663,Research & Development,Laboratory Technician,2,43,Male,No,Stable,Read,35,Medium,8,7,Travel_Frequently,Yes,3,EMP0663
+664,Research & Development,Manager,4,48,Female,No,Stable,Write,20,Low,3,2,Travel_Rarely,No,3,EMP0664
+665,Human Resources,Human Resources,2,44,Female,No,Stable,Read,10,Low,2,2,Travel_Rarely,No,3,EMP0665
+666,Sales,Sales Representative,1,34,Female,No,Stable,Read,30,Medium,8,2,Travel_Rarely,Yes,3,EMP0666
+667,Sales,Sales Representative,1,27,Male,Yes,Leaver,Read,50,High,4,3,Travel_Rarely,No,3,EMP0667
+669,Sales,Sales Representative,1,21,Male,No,Stable,Read,10,Low,3,2,Travel_Rarely,No,3,EMP0669
+671,Research & Development,Manager,5,44,Male,No,Stable,Write,40,Medium,2,2,Travel_Rarely,Yes,3,EMP0671
+675,Research & Development,Research Scientist,1,22,Male,No,Stable,Write,20,Low,2,2,Travel_Rarely,No,4,EMP0675
+677,Sales,Sales Executive,2,33,Male,No,Mover,Write,40,Medium,5,0,Travel_Rarely,No,3,EMP0677
+679,Research & Development,Research Scientist,2,32,Female,No,Stable,Write,40,Medium,6,4,Travel_Rarely,Yes,3,EMP0679
+680,Research & Development,Research Scientist,1,30,Female,No,Mover,Write,55,High,1,0,Travel_Frequently,No,4,EMP0680
+682,Sales,Sales Executive,2,53,Female,No,Stable,Write,35,Medium,14,7,Travel_Rarely,No,4,EMP0682
+683,Research & Development,Research Scientist,1,34,Male,No,Stable,Write,30,Medium,10,9,Travel_Rarely,No,3,EMP0683
+684,Sales,Sales Executive,2,45,Female,Yes,Leaver,Write,75,Critical,1,1,Travel_Frequently,No,3,EMP0684
+686,Research & Development,Laboratory Technician,1,26,Female,No,Stable,Read,20,Low,3,2,Travel_Rarely,Yes,3,EMP0686
+689,Research & Development,Manufacturing Director,3,37,Male,No,Stable,Write,30,Medium,10,7,Travel_Rarely,No,3,EMP0689
+690,Sales,Sales Executive,2,29,Female,No,Mover,Write,50,High,6,0,Travel_Rarely,No,3,EMP0690
+691,Research & Development,Research Scientist,2,35,Male,No,Stable,Write,35,Medium,17,11,Travel_Rarely,No,3,EMP0691
+692,Research & Development,Healthcare Representative,2,33,Male,No,Stable,Read,30,Medium,13,11,Travel_Frequently,No,4,EMP0692
+698,Human Resources,Human Resources,3,54,Male,No,Stable,Read,30,Medium,9,7,Travel_Rarely,No,3,EMP0698
+699,Research & Development,Manufacturing Director,2,36,Male,No,Stable,Write,30,Medium,3,2,Travel_Rarely,Yes,3,EMP0699
+700,Research & Development,Research Scientist,1,27,Male,No,Stable,Write,30,Medium,4,2,Travel_Rarely,No,3,EMP0700
+701,Research & Development,Research Scientist,1,20,Male,Yes,Leaver,Write,80,Critical,1,0,Travel_Rarely,Yes,3,EMP0701
+702,Research & Development,Research Scientist,1,33,Male,Yes,Leaver,Write,85,Critical,10,8,Travel_Frequently,Yes,3,EMP0702
+704,Research & Development,Laboratory Technician,1,35,Male,No,Mover,Read,35,Medium,1,0,Non-Travel,No,3,EMP0704
+705,Research & Development,Research Scientist,1,23,Male,No,Stable,Write,20,Low,3,2,Travel_Rarely,No,3,EMP0705
+707,Sales,Sales Executive,2,25,Male,No,Stable,Write,20,Low,3,2,Travel_Rarely,No,4,EMP0707
+709,Sales,Sales Executive,2,38,Female,No,Stable,Write,30,Medium,7,7,Travel_Rarely,No,4,EMP0709
+710,Research & Development,Research Scientist,1,29,Male,No,Stable,Write,35,Medium,10,7,Travel_Frequently,No,3,EMP0710
+712,Sales,Sales Executive,2,48,Male,No,Stable,Write,20,Low,2,2,Travel_Rarely,No,3,EMP0712
+714,Sales,Sales Executive,2,27,Female,No,Stable,Write,45,Medium,6,5,Travel_Frequently,Yes,4,EMP0714
+715,Research & Development,Research Scientist,1,37,Male,No,Mover,Write,50,High,1,0,Travel_Rarely,No,3,EMP0715
+716,Research & Development,Laboratory Technician,1,50,Male,No,Stable,Read,35,Medium,20,8,Travel_Rarely,Yes,3,EMP0716
+717,Research & Development,Healthcare Representative,3,34,Female,No,Stable,Read,20,Low,8,7,Travel_Rarely,No,3,EMP0717
+720,Sales,Sales Executive,2,24,Female,Yes,Leaver,Write,70,Critical,2,2,Travel_Rarely,No,3,EMP0720
+721,Research & Development,Healthcare Representative,2,39,Female,No,Stable,Read,25,Low,20,7,Travel_Rarely,No,3,EMP0721
+722,Sales,Sales Executive,2,32,Male,No,Stable,Write,30,Medium,10,7,Travel_Rarely,No,3,EMP0722
+723,Sales,Sales Executive,2,50,Male,Yes,Leaver,Write,75,Critical,4,3,Travel_Frequently,Yes,3,EMP0723
+724,Research & Development,Healthcare Representative,2,38,Female,No,Stable,Read,20,Low,9,7,Travel_Rarely,No,3,EMP0724
+725,Research & Development,Manufacturing Director,3,27,Female,No,Stable,Write,30,Medium,9,7,Travel_Rarely,No,3,EMP0725
+727,Research & Development,Research Director,3,32,Female,No,Stable,Admin,45,Medium,7,7,Travel_Rarely,No,3,EMP0727
+728,Sales,Sales Executive,2,47,Male,No,Stable,Write,30,Medium,7,7,Travel_Rarely,No,3,EMP0728
+729,Sales,Sales Executive,3,40,Male,No,Stable,Write,50,High,18,13,Travel_Frequently,Yes,4,EMP0729
+730,Research & Development,Research Director,4,53,Male,No,Mover,Admin,55,High,5,1,Travel_Rarely,No,3,EMP0730
+731,Human Resources,Manager,5,41,Male,No,Stable,Write,35,Medium,21,6,Travel_Rarely,No,3,EMP0731
+732,Sales,Sales Executive,2,60,Male,No,Stable,Write,20,Low,2,2,Travel_Rarely,No,3,EMP0732
+733,Research & Development,Manufacturing Director,3,27,Male,No,Stable,Write,35,Medium,9,7,Travel_Frequently,No,4,EMP0733
+734,Human Resources,Manager,5,41,Male,No,Stable,Write,35,Medium,22,7,Travel_Rarely,No,3,EMP0734
+738,Sales,Sales Representative,1,50,Male,No,Stable,Read,10,Low,2,2,Travel_Rarely,No,3,EMP0738
+741,Research & Development,Research Scientist,1,28,Female,Yes,Leaver,Write,80,Critical,7,7,Travel_Rarely,Yes,3,EMP0741
+742,Research & Development,Research Director,3,36,Female,No,Stable,Admin,40,Medium,8,7,Non-Travel,No,3,EMP0742
+743,Research & Development,Manufacturing Director,3,38,Female,No,Mover,Write,60,High,1,0,Travel_Rarely,Yes,3,EMP0743
+744,Research & Development,Laboratory Technician,1,44,Male,No,Stable,Read,5,Low,5,2,Non-Travel,No,3,EMP0744
+746,Sales,Sales Executive,4,47,Female,No,Stable,Write,50,High,22,2,Travel_Frequently,Yes,3,EMP0746
+747,Sales,Sales Executive,2,30,Male,No,Stable,Write,30,Medium,8,7,Travel_Rarely,No,4,EMP0747
+749,Sales,Sales Representative,1,29,Male,No,Mover,Read,40,Medium,1,0,Travel_Rarely,No,3,EMP0749
+752,Research & Development,Research Scientist,1,42,Male,Yes,Leaver,Write,75,Critical,2,2,Travel_Frequently,Yes,3,EMP0752
+754,Sales,Sales Executive,2,43,Male,No,Stable,Write,25,Low,2,2,Travel_Frequently,No,3,EMP0754
+757,Research & Development,Healthcare Representative,2,34,Female,No,Mover,Read,30,Medium,5,1,Travel_Rarely,No,3,EMP0757
+758,Research & Development,Laboratory Technician,1,23,Male,No,Stable,Read,10,Low,4,3,Travel_Rarely,No,3,EMP0758
+760,Human Resources,Human Resources,2,39,Female,No,Stable,Read,20,Low,8,3,Travel_Rarely,No,3,EMP0760
+762,Research & Development,Healthcare Representative,4,56,Male,No,Stable,Read,30,Medium,10,7,Travel_Rarely,No,3,EMP0762
+763,Research & Development,Research Scientist,1,40,Female,No,Stable,Write,30,Medium,4,2,Travel_Rarely,Yes,4,EMP0763
+764,Research & Development,Healthcare Representative,2,27,Female,No,Stable,Read,20,Low,7,6,Travel_Rarely,No,3,EMP0764
+766,Sales,Sales Representative,1,29,Male,No,Stable,Read,10,Low,2,2,Travel_Rarely,No,3,EMP0766
+769,Research & Development,Laboratory Technician,2,53,Male,No,Stable,Read,10,Low,2,2,Travel_Rarely,No,3,EMP0769
+771,Research & Development,Healthcare Representative,2,35,Female,No,Mover,Read,35,Medium,1,0,Non-Travel,No,3,EMP0771
+772,Research & Development,Laboratory Technician,2,32,Male,No,Stable,Read,25,Low,10,8,Travel_Frequently,No,3,EMP0772
+773,Research & Development,Research Scientist,1,38,Male,No,Mover,Write,60,High,1,0,Travel_Rarely,Yes,3,EMP0773
+775,Research & Development,Manufacturing Director,2,34,Female,No,Mover,Write,50,High,0,0,Travel_Rarely,No,3,EMP0775
+776,Sales,Manager,4,52,Male,No,Stable,Write,35,Medium,34,6,Travel_Rarely,No,3,EMP0776
+780,Research & Development,Research Scientist,1,33,Male,Yes,Leaver,Write,80,Critical,10,9,Travel_Rarely,Yes,3,EMP0780
+781,Sales,Sales Executive,2,25,Female,No,Stable,Write,30,Medium,6,5,Travel_Rarely,No,4,EMP0781
+783,Sales,Sales Representative,2,45,Male,No,Stable,Read,30,Medium,8,7,Travel_Rarely,No,3,EMP0783
+784,Research & Development,Research Scientist,1,23,Male,No,Stable,Write,20,Low,2,2,Travel_Rarely,No,3,EMP0784
+785,Sales,Sales Executive,2,47,Female,Yes,Leaver,Write,75,Critical,5,4,Travel_Frequently,Yes,3,EMP0785
+786,Sales,Sales Executive,2,34,Male,No,Stable,Write,30,Medium,6,5,Travel_Rarely,No,4,EMP0786
+787,Research & Development,Manager,5,55,Male,Yes,Leaver,Write,70,Critical,5,2,Travel_Rarely,Yes,3,EMP0787
+789,Sales,Sales Executive,3,36,Male,No,Stable,Write,25,Low,10,7,Non-Travel,No,3,EMP0789
+791,Research & Development,Research Scientist,1,52,Male,No,Stable,Write,15,Low,4,3,Non-Travel,No,3,EMP0791
+792,Research & Development,Laboratory Technician,1,26,Female,No,Stable,Read,25,Low,2,2,Travel_Frequently,No,3,EMP0792
+793,Research & Development,Healthcare Representative,2,29,Female,No,Stable,Read,30,Medium,8,7,Travel_Rarely,No,3,EMP0793
+796,Sales,Sales Executive,2,26,Male,Yes,Leaver,Write,60,High,4,3,Travel_Rarely,No,3,EMP0796
+797,Research & Development,Research Scientist,1,34,Female,No,Stable,Write,20,Low,4,2,Travel_Rarely,No,3,EMP0797
+799,Research & Development,Manufacturing Director,2,54,Female,No,Stable,Write,30,Medium,5,3,Travel_Rarely,Yes,3,EMP0799
+800,Sales,Sales Executive,2,27,Male,No,Stable,Write,35,Medium,4,2,Travel_Frequently,No,3,EMP0800
+802,Research & Development,Research Scientist,1,37,Female,No,Stable,Write,30,Medium,5,3,Travel_Rarely,Yes,3,EMP0802
+803,Research & Development,Manufacturing Director,2,38,Female,No,Stable,Write,50,High,15,7,Travel_Frequently,Yes,3,EMP0803
+804,Research & Development,Research Scientist,1,34,Female,No,Stable,Write,30,Medium,6,5,Travel_Rarely,No,3,EMP0804
+805,Sales,Sales Representative,1,35,Female,No,Stable,Read,10,Low,3,2,Travel_Rarely,No,3,EMP0805
+806,Research & Development,Laboratory Technician,1,30,Male,No,Stable,Read,10,Low,2,2,Travel_Rarely,No,4,EMP0806
+807,Research & Development,Healthcare Representative,2,40,Female,No,Stable,Read,25,Low,8,7,Travel_Frequently,No,4,EMP0807
+808,Sales,Sales Executive,2,34,Female,No,Stable,Write,20,Low,3,2,Travel_Rarely,No,3,EMP0808
+809,Research & Development,Manager,5,42,Male,No,Stable,Write,40,Medium,24,7,Travel_Frequently,No,3,EMP0809
+811,Research & Development,Laboratory Technician,1,23,Male,Yes,Leaver,Read,70,Critical,0,0,Travel_Rarely,Yes,4,EMP0811
+812,Research & Development,Laboratory Technician,1,24,Male,No,Mover,Read,35,Medium,1,0,Non-Travel,No,3,EMP0812
+813,Research & Development,Laboratory Technician,2,52,Female,No,Stable,Read,10,Low,5,2,Travel_Rarely,No,4,EMP0813
+815,Research & Development,Research Director,4,50,Male,No,Stable,Admin,35,Medium,4,3,Travel_Rarely,No,3,EMP0815
+816,Research & Development,Laboratory Technician,1,29,Female,Yes,Leaver,Read,70,Critical,1,0,Travel_Rarely,Yes,3,EMP0816
+817,Research & Development,Research Director,3,33,Male,No,Stable,Admin,50,High,13,9,Travel_Rarely,No,3,EMP0817
+819,Sales,Sales Executive,2,33,Female,Yes,Leaver,Write,60,High,3,2,Travel_Rarely,No,3,EMP0819
+820,Research & Development,Manager,4,47,Female,No,Stable,Write,55,High,26,14,Travel_Rarely,Yes,3,EMP0820
+823,Research & Development,Manufacturing Director,2,36,Female,No,Stable,Write,30,Medium,9,7,Travel_Rarely,No,3,EMP0823
+824,Research & Development,Research Scientist,1,29,Male,No,Stable,Write,30,Medium,10,7,Travel_Rarely,No,4,EMP0824
+825,Research & Development,Research Director,5,58,Male,Yes,Leaver,Admin,100,Critical,31,15,Travel_Rarely,Yes,3,EMP0825
+826,Research & Development,Research Scientist,1,35,Female,No,Stable,Write,20,Low,2,2,Travel_Rarely,No,3,EMP0826
+827,Research & Development,Manufacturing Director,2,42,Female,No,Stable,Write,30,Medium,4,3,Travel_Rarely,Yes,3,EMP0827
+828,Research & Development,Research Scientist,1,28,Male,Yes,Leaver,Write,70,Critical,2,2,Travel_Rarely,No,3,EMP0828
+829,Human Resources,Human Resources,1,36,Male,No,Stable,Read,10,Low,5,2,Travel_Rarely,No,3,EMP0829
+830,Research & Development,Manufacturing Director,2,32,Female,No,Stable,Write,35,Medium,14,13,Travel_Rarely,No,3,EMP0830
+832,Research & Development,Laboratory Technician,2,40,Male,No,Mover,Read,45,Medium,1,0,Travel_Frequently,No,3,EMP0832
+833,Research & Development,Manufacturing Director,2,30,Female,No,Mover,Write,60,High,0,0,Travel_Rarely,Yes,4,EMP0833
+834,Research & Development,Research Scientist,1,45,Female,No,Mover,Write,50,High,1,0,Travel_Rarely,No,3,EMP0834
+836,Research & Development,Manufacturing Director,2,42,Male,No,Stable,Write,30,Medium,9,8,Travel_Rarely,No,3,EMP0836
+837,Research & Development,Healthcare Representative,2,38,Male,No,Stable,Read,15,Low,4,3,Travel_Frequently,No,3,EMP0837
+838,Research & Development,Research Scientist,1,34,Female,No,Stable,Write,25,Low,5,2,Travel_Frequently,No,3,EMP0838
+840,Sales,Sales Executive,3,49,Female,Yes,Leaver,Write,70,Critical,9,8,Travel_Rarely,No,3,EMP0840
+842,Sales,Sales Executive,2,55,Male,Yes,Leaver,Write,70,Critical,9,7,Travel_Rarely,No,3,EMP0842
+843,Research & Development,Research Director,4,43,Male,No,Mover,Admin,65,High,4,1,Travel_Rarely,No,4,EMP0843
+844,Research & Development,Research Director,3,27,Male,No,Stable,Admin,55,High,9,8,Travel_Rarely,Yes,3,EMP0844
+845,Research & Development,Manufacturing Director,3,35,Male,No,Stable,Write,30,Medium,8,5,Travel_Rarely,No,4,EMP0845
+846,Sales,Sales Executive,2,28,Female,No,Stable,Write,40,Medium,8,7,Travel_Rarely,Yes,4,EMP0846
+847,Human Resources,Human Resources,1,34,Male,No,Stable,Read,10,Low,3,2,Travel_Rarely,No,3,EMP0847
+848,Research & Development,Research Scientist,1,26,Female,Yes,Leaver,Write,85,Critical,8,7,Travel_Frequently,Yes,3,EMP0848
+850,Research & Development,Research Scientist,1,27,Male,No,Mover,Write,45,Medium,0,0,Non-Travel,No,3,EMP0850
+851,Sales,Manager,4,51,Female,No,Stable,Write,35,Medium,20,6,Travel_Rarely,No,3,EMP0851
+852,Research & Development,Healthcare Representative,2,44,Male,No,Stable,Read,10,Low,5,2,Travel_Rarely,No,3,EMP0852
+854,Research & Development,Research Scientist,1,25,Male,No,Stable,Write,30,Medium,4,3,Travel_Rarely,No,3,EMP0854
+855,Sales,Sales Executive,2,33,Male,No,Stable,Write,30,Medium,9,8,Travel_Rarely,No,4,EMP0855
+856,Research & Development,Research Scientist,1,35,Female,No,Stable,Write,40,Medium,6,5,Travel_Rarely,No,3,EMP0856
+857,Sales,Sales Executive,2,36,Male,No,Stable,Write,45,Medium,18,14,Travel_Rarely,Yes,3,EMP0857
+859,Sales,Sales Executive,2,32,Male,No,Stable,Write,20,Low,5,2,Travel_Rarely,No,3,EMP0859
+861,Research & Development,Research Scientist,1,30,Male,No,Stable,Write,25,Low,5,4,Travel_Frequently,No,3,EMP0861
+862,Sales,Sales Executive,3,53,Female,No,Stable,Write,30,Medium,5,2,Travel_Rarely,Yes,3,EMP0862
+864,Sales,Sales Executive,3,45,Male,No,Stable,Write,30,Medium,5,4,Travel_Rarely,Yes,3,EMP0864
+865,Research & Development,Research Scientist,2,32,Female,No,Stable,Write,20,Low,5,3,Travel_Rarely,No,3,EMP0865
+867,Research & Development,Manufacturing Director,4,52,Female,No,Stable,Write,45,Medium,9,8,Travel_Frequently,No,4,EMP0867
+868,Sales,Sales Executive,2,37,Male,No,Mover,Write,50,High,1,0,Travel_Rarely,No,3,EMP0868
+869,Human Resources,Human Resources,1,28,Male,No,Mover,Read,30,Medium,5,1,Travel_Rarely,No,3,EMP0869
+872,Research & Development,Manufacturing Director,2,22,Male,No,Stable,Write,20,Low,2,2,Travel_Rarely,No,4,EMP0872
+874,Research & Development,Laboratory Technician,1,44,Male,No,Stable,Read,20,Low,3,2,Travel_Rarely,Yes,4,EMP0874
+875,Research & Development,Research Scientist,1,42,Male,No,Mover,Write,55,High,2,1,Travel_Frequently,Yes,3,EMP0875
+878,Human Resources,Human Resources,1,36,Male,No,Stable,Read,10,Low,5,4,Travel_Rarely,No,4,EMP0878
+879,Sales,Sales Executive,2,25,Male,No,Stable,Write,30,Medium,5,3,Travel_Rarely,Yes,3,EMP0879
+880,Research & Development,Manufacturing Director,3,35,Female,No,Stable,Write,45,Medium,17,14,Travel_Rarely,Yes,4,EMP0880
+881,Research & Development,Research Scientist,1,35,Female,Yes,Leaver,Write,85,Critical,10,2,Travel_Frequently,Yes,3,EMP0881
+882,Research & Development,Laboratory Technician,1,32,Male,No,Mover,Read,25,Low,3,0,Non-Travel,No,3,EMP0882
+885,Sales,Sales Executive,2,25,Male,No,Stable,Write,20,Low,5,2,Travel_Rarely,No,3,EMP0885
+887,Research & Development,Research Scientist,1,49,Female,No,Stable,Write,20,Low,4,2,Travel_Rarely,No,3,EMP0887
+888,Research & Development,Laboratory Technician,1,24,Male,No,Stable,Read,5,Low,5,2,Non-Travel,No,3,EMP0888
+889,Sales,Sales Executive,2,32,Male,No,Stable,Write,35,Medium,10,8,Travel_Frequently,No,3,EMP0889
+893,Sales,Sales Representative,1,38,Male,No,Stable,Read,10,Low,2,2,Travel_Rarely,No,3,EMP0893
+894,Research & Development,Laboratory Technician,2,42,Female,No,Stable,Read,20,Low,5,3,Travel_Rarely,Yes,3,EMP0894
+895,Research & Development,Research Scientist,1,31,Male,No,Stable,Write,40,Medium,6,4,Travel_Rarely,Yes,3,EMP0895
+896,Sales,Sales Representative,1,29,Female,Yes,Leaver,Read,60,High,3,2,Travel_Rarely,Yes,3,EMP0896
+897,Sales,Sales Executive,4,53,Male,No,Mover,Write,40,Medium,2,0,Travel_Rarely,No,3,EMP0897
+899,Research & Development,Manufacturing Director,3,35,Male,No,Stable,Write,35,Medium,13,10,Travel_Rarely,No,3,EMP0899
+900,Sales,Sales Representative,1,37,Female,No,Stable,Read,25,Low,5,4,Travel_Frequently,No,3,EMP0900
+901,Research & Development,Research Director,4,53,Female,No,Stable,Admin,50,High,12,9,Travel_Rarely,No,3,EMP0901
+902,Research & Development,Healthcare Representative,2,43,Female,No,Stable,Read,15,Low,5,2,Travel_Frequently,No,3,EMP0902
+903,Sales,Sales Executive,2,47,Female,No,Stable,Write,40,Medium,7,6,Travel_Rarely,Yes,4,EMP0903
+904,Sales,Sales Executive,3,37,Male,No,Mover,Write,55,High,10,0,Non-Travel,Yes,3,EMP0904
+905,Research & Development,Manager,4,50,Male,No,Stable,Write,30,Medium,31,6,Non-Travel,No,3,EMP0905
+909,Human Resources,Human Resources,2,39,Female,No,Stable,Read,10,Low,5,4,Travel_Rarely,No,3,EMP0909
+910,Human Resources,Human Resources,1,33,Male,No,Stable,Read,20,Low,4,3,Travel_Rarely,Yes,3,EMP0910
+911,Research & Development,Laboratory Technician,1,32,Male,Yes,Leaver,Read,70,Critical,1,0,Travel_Rarely,Yes,4,EMP0911
+912,Research & Development,Laboratory Technician,1,29,Female,No,Stable,Read,10,Low,4,3,Travel_Rarely,No,3,EMP0912
+913,Research & Development,Research Scientist,1,44,Male,No,Stable,Write,50,High,8,7,Travel_Rarely,Yes,3,EMP0913
+916,Sales,Sales Executive,2,28,Male,No,Stable,Write,20,Low,4,2,Travel_Rarely,No,3,EMP0916
+918,Research & Development,Laboratory Technician,1,58,Male,Yes,Leaver,Read,75,Critical,1,0,Travel_Frequently,Yes,3,EMP0918
+920,Research & Development,Manufacturing Director,2,43,Female,No,Mover,Write,50,High,1,0,Travel_Rarely,No,4,EMP0920
+922,Sales,Sales Representative,1,20,Female,Yes,Leaver,Read,50,High,2,2,Travel_Rarely,No,3,EMP0922
+923,Research & Development,Research Scientist,1,21,Female,Yes,Leaver,Write,70,Critical,1,0,Travel_Rarely,No,3,EMP0923
+924,Research & Development,Healthcare Representative,2,36,Male,No,Stable,Read,35,Medium,16,8,Travel_Rarely,Yes,3,EMP0924
+925,Sales,Sales Representative,1,47,Female,No,Stable,Read,20,Low,3,2,Travel_Rarely,Yes,3,EMP0925
+926,Research & Development,Manufacturing Director,2,22,Female,Yes,Leaver,Write,70,Critical,3,2,Travel_Rarely,Yes,3,EMP0926
+927,Research & Development,Laboratory Technician,1,41,Female,Yes,Leaver,Read,80,Critical,7,7,Travel_Rarely,Yes,3,EMP0927
+930,Research & Development,Research Scientist,1,28,Female,No,Stable,Write,20,Low,2,2,Travel_Rarely,No,3,EMP0930
+932,Research & Development,Laboratory Technician,1,39,Male,Yes,Leaver,Read,60,High,2,2,Travel_Rarely,Yes,4,EMP0932
+933,Research & Development,Research Scientist,1,27,Female,No,Mover,Write,50,High,1,1,Travel_Rarely,No,3,EMP0933
+934,Research & Development,Laboratory Technician,1,34,Male,No,Mover,Read,40,Medium,1,0,Travel_Rarely,No,3,EMP0934
+936,Sales,Sales Executive,2,42,Female,No,Stable,Write,20,Low,5,4,Travel_Rarely,No,3,EMP0936
+939,Research & Development,Research Scientist,1,33,Male,No,Stable,Write,30,Medium,3,2,Travel_Rarely,Yes,3,EMP0939
+940,Research & Development,Healthcare Representative,3,58,Female,No,Mover,Read,50,High,6,0,Travel_Rarely,Yes,3,EMP0940
+941,Sales,Sales Representative,1,31,Male,No,Stable,Read,20,Low,7,7,Travel_Rarely,No,3,EMP0941
+942,Research & Development,Healthcare Representative,2,35,Female,No,Stable,Read,30,Medium,10,6,Travel_Rarely,Yes,4,EMP0942
+944,Research & Development,Laboratory Technician,3,49,Female,No,Stable,Read,25,Low,26,9,Travel_Rarely,No,3,EMP0944
+945,Research & Development,Research Scientist,1,48,Male,No,Mover,Write,50,High,0,0,Travel_Rarely,No,3,EMP0945
+947,Sales,Sales Executive,2,31,Female,No,Stable,Write,35,Medium,9,8,Non-Travel,No,3,EMP0947
+949,Research & Development,Research Scientist,1,36,Male,No,Stable,Write,40,Medium,6,2,Travel_Rarely,No,3,EMP0949
+950,Research & Development,Research Director,3,38,Female,No,Stable,Admin,50,High,15,12,Travel_Rarely,No,3,EMP0950
+951,Research & Development,Laboratory Technician,1,32,Female,No,Mover,Read,25,Low,3,0,Non-Travel,No,4,EMP0951
+952,Sales,Sales Representative,1,25,Male,Yes,Leaver,Read,70,Critical,1,0,Travel_Rarely,Yes,3,EMP0952
+954,Sales,Sales Executive,3,40,Male,No,Mover,Write,50,High,1,0,Travel_Rarely,No,3,EMP0954
+956,Sales,Sales Executive,2,26,Male,No,Stable,Write,35,Medium,7,7,Travel_Frequently,No,3,EMP0956
+957,Research & Development,Laboratory Technician,1,41,Male,No,Stable,Read,35,Medium,18,13,Travel_Rarely,Yes,3,EMP0957
+958,Research & Development,Laboratory Technician,1,36,Male,No,Stable,Read,25,Low,11,8,Travel_Rarely,No,4,EMP0958
+959,Sales,Sales Representative,1,19,Male,Yes,Leaver,Read,70,Critical,1,0,Travel_Rarely,Yes,3,EMP0959
+960,Research & Development,Laboratory Technician,1,20,Male,Yes,Leaver,Read,60,High,1,0,Travel_Rarely,No,3,EMP0960
+961,Research & Development,Healthcare Representative,2,31,Female,No,Stable,Read,30,Medium,9,7,Travel_Rarely,Yes,3,EMP0961
+964,Research & Development,Research Scientist,1,40,Male,No,Mover,Write,65,High,1,1,Travel_Frequently,Yes,3,EMP0964
+966,Research & Development,Manufacturing Director,2,32,Female,No,Stable,Write,30,Medium,8,7,Travel_Rarely,No,3,EMP0966
+967,Sales,Sales Executive,3,36,Male,Yes,Leaver,Write,85,Critical,16,7,Travel_Rarely,Yes,3,EMP0967
+969,Research & Development,Healthcare Representative,2,33,Female,No,Mover,Read,30,Medium,5,0,Travel_Rarely,No,3,EMP0969
+970,Sales,Sales Executive,3,37,Male,Yes,Leaver,Write,75,Critical,14,1,Travel_Rarely,No,3,EMP0970
+972,Research & Development,Laboratory Technician,2,45,Male,No,Stable,Read,15,Low,9,7,Non-Travel,No,3,EMP0972
+974,Sales,Sales Representative,1,29,Female,No,Mover,Read,35,Medium,3,1,Travel_Frequently,No,3,EMP0974
+975,Sales,Sales Executive,2,35,Female,No,Stable,Write,30,Medium,5,2,Travel_Rarely,No,3,EMP0975
+976,Research & Development,Manager,4,52,Male,No,Stable,Write,30,Medium,9,8,Travel_Rarely,No,3,EMP0976
+977,Research & Development,Research Scientist,1,58,Male,Yes,Leaver,Write,70,Critical,1,0,Travel_Rarely,No,4,EMP0977
+981,Sales,Manager,4,53,Male,No,Stable,Write,35,Medium,17,13,Travel_Rarely,No,3,EMP0981
+982,Sales,Sales Executive,3,30,Male,No,Stable,Write,30,Medium,8,4,Travel_Rarely,No,3,EMP0982
+983,Sales,Sales Executive,2,38,Female,No,Stable,Write,25,Low,5,3,Non-Travel,Yes,3,EMP0983
+984,Sales,Sales Executive,3,35,Male,No,Stable,Write,30,Medium,10,9,Travel_Rarely,No,3,EMP0984
+985,Sales,Sales Executive,3,39,Male,No,Stable,Write,30,Medium,8,7,Travel_Rarely,No,3,EMP0985
+986,Sales,Sales Executive,4,40,Female,Yes,Leaver,Write,75,Critical,1,0,Non-Travel,Yes,3,EMP0986
+987,Research & Development,Manufacturing Director,2,47,Male,No,Stable,Write,50,High,19,10,Travel_Frequently,Yes,3,EMP0987
+990,Sales,Sales Executive,2,36,Male,No,Stable,Write,25,Low,7,7,Non-Travel,No,3,EMP0990
+991,Research & Development,Research Scientist,1,31,Male,Yes,Leaver,Write,65,High,3,2,Non-Travel,Yes,4,EMP0991
+992,Sales,Manager,4,33,Male,No,Stable,Write,35,Medium,10,8,Non-Travel,No,3,EMP0992
+994,Research & Development,Research Scientist,1,29,Female,Yes,Leaver,Write,80,Critical,0,0,Travel_Rarely,Yes,4,EMP0994
+995,Research & Development,Research Scientist,1,33,Female,No,Stable,Write,20,Low,3,2,Travel_Rarely,No,3,EMP0995
+996,Research & Development,Laboratory Technician,1,45,Female,No,Stable,Read,10,Low,5,3,Travel_Rarely,No,3,EMP0996
+997,Research & Development,Research Director,4,50,Male,No,Stable,Admin,35,Medium,5,4,Travel_Rarely,No,4,EMP0997
+998,Research & Development,Healthcare Representative,2,33,Female,No,Stable,Read,35,Medium,6,5,Travel_Frequently,Yes,3,EMP0998
+999,Research & Development,Research Director,5,41,Male,No,Stable,Admin,55,High,18,16,Travel_Frequently,No,3,EMP0999
+1001,Research & Development,Laboratory Technician,1,27,Female,No,Stable,Read,10,Low,2,2,Travel_Rarely,No,3,EMP1001
+1002,Research & Development,Laboratory Technician,2,45,Male,No,Stable,Read,25,Low,9,8,Non-Travel,Yes,3,EMP1002
+1003,Sales,Sales Executive,2,47,Female,No,Mover,Write,60,High,9,0,Travel_Rarely,Yes,3,EMP1003
+1004,Research & Development,Research Scientist,1,30,Female,Yes,Leaver,Write,80,Critical,5,2,Travel_Rarely,Yes,3,EMP1004
+1005,Research & Development,Manufacturing Director,4,50,Male,No,Stable,Write,45,Medium,12,11,Travel_Rarely,Yes,3,EMP1005
+1006,Research & Development,Research Scientist,1,38,Male,No,Mover,Write,45,Medium,2,1,Travel_Frequently,No,3,EMP1006
+1007,Research & Development,Manufacturing Director,3,46,Male,No,Stable,Write,30,Medium,8,7,Travel_Rarely,No,3,EMP1007
+1009,Research & Development,Manufacturing Director,2,24,Female,No,Stable,Write,20,Low,4,2,Travel_Rarely,No,3,EMP1009
+1010,Research & Development,Laboratory Technician,1,35,Male,Yes,Leaver,Read,60,High,4,2,Travel_Rarely,Yes,4,EMP1010
+1011,Research & Development,Manufacturing Director,2,31,Female,No,Stable,Write,25,Low,4,3,Travel_Frequently,No,3,EMP1011
+1012,Research & Development,Research Scientist,1,18,Male,No,Mover,Write,45,Medium,0,0,Non-Travel,No,3,EMP1012
+1013,Research & Development,Manufacturing Director,3,54,Female,No,Stable,Write,30,Medium,10,7,Travel_Rarely,No,3,EMP1013
+1014,Research & Development,Healthcare Representative,3,35,Female,No,Stable,Read,45,Medium,16,10,Travel_Rarely,Yes,3,EMP1014
+1015,Research & Development,Research Director,3,30,Female,No,Stable,Admin,55,High,8,7,Travel_Rarely,Yes,3,EMP1015
+1016,Research & Development,Research Scientist,1,20,Female,Yes,Leaver,Write,80,Critical,1,0,Travel_Rarely,Yes,3,EMP1016
+1017,Research & Development,Laboratory Technician,1,30,Female,Yes,Leaver,Read,55,High,3,2,Travel_Frequently,No,3,EMP1017
+1018,Research & Development,Manufacturing Director,2,26,Male,No,Stable,Write,30,Medium,8,7,Travel_Rarely,No,3,EMP1018
+1019,Research & Development,Laboratory Technician,1,22,Male,No,Stable,Read,20,Low,4,3,Travel_Rarely,No,3,EMP1019
+1022,Research & Development,Healthcare Representative,2,48,Male,No,Stable,Read,10,Low,2,2,Travel_Rarely,No,3,EMP1022
+1024,Research & Development,Healthcare Representative,3,48,Male,No,Stable,Read,25,Low,15,11,Travel_Rarely,No,3,EMP1024
+1025,Research & Development,Manufacturing Director,2,41,Female,No,Stable,Write,30,Medium,2,2,Travel_Rarely,No,3,EMP1025
+1026,Research & Development,Manufacturing Director,4,39,Female,No,Stable,Write,35,Medium,21,6,Travel_Rarely,No,3,EMP1026
+1027,Research & Development,Manufacturing Director,2,27,Female,No,Stable,Write,20,Low,3,2,Travel_Rarely,No,3,EMP1027
+1028,Research & Development,Laboratory Technician,1,35,Male,No,Stable,Read,10,Low,3,2,Travel_Rarely,No,4,EMP1028
+1029,Sales,Manager,5,42,Male,No,Mover,Write,50,High,1,0,Travel_Rarely,No,3,EMP1029
+1030,Research & Development,Laboratory Technician,1,50,Male,No,Mover,Read,40,Medium,1,0,Travel_Rarely,No,3,EMP1030
+1032,Research & Development,Manufacturing Director,4,59,Female,No,Stable,Write,30,Medium,5,3,Travel_Rarely,Yes,3,EMP1032
+1033,Research & Development,Healthcare Representative,2,37,Female,Yes,Leaver,Read,60,High,1,0,Travel_Rarely,No,3,EMP1033
+1034,Research & Development,Healthcare Representative,2,55,Male,No,Stable,Read,35,Medium,8,7,Travel_Frequently,Yes,3,EMP1034
+1035,Research & Development,Research Director,5,41,Female,No,Stable,Admin,45,Medium,21,16,Non-Travel,No,4,EMP1035
+1036,Sales,Sales Executive,2,38,Male,No,Mover,Write,60,High,1,0,Travel_Rarely,Yes,3,EMP1036
+1037,Sales,Sales Executive,2,26,Male,Yes,Leaver,Write,55,High,2,2,Non-Travel,No,3,EMP1037
+1038,Sales,Manager,5,52,Female,Yes,Leaver,Write,75,Critical,32,14,Travel_Rarely,No,3,EMP1038
+1039,Sales,Sales Executive,4,44,Female,No,Stable,Write,45,Medium,12,11,Travel_Rarely,Yes,3,EMP1039
+1040,Sales,Sales Executive,2,50,Female,No,Stable,Write,30,Medium,18,7,Non-Travel,No,3,EMP1040
+1042,Research & Development,Laboratory Technician,1,36,Female,Yes,Leaver,Read,65,High,17,13,Travel_Rarely,No,3,EMP1042
+1043,Research & Development,Manufacturing Director,3,39,Female,No,Stable,Write,50,High,21,6,Travel_Frequently,Yes,3,EMP1043
+1044,Sales,Sales Representative,1,33,Female,No,Stable,Read,5,Low,2,2,Non-Travel,No,3,EMP1044
+1045,Sales,Manager,4,45,Female,No,Stable,Write,40,Medium,9,3,Travel_Rarely,No,3,EMP1045
+1046,Research & Development,Laboratory Technician,1,32,Female,No,Stable,Read,15,Low,8,7,Non-Travel,No,3,EMP1046
+1047,Sales,Sales Executive,2,34,Male,No,Mover,Write,55,High,15,1,Travel_Rarely,No,3,EMP1047
+1048,Sales,Manager,3,59,Male,No,Stable,Write,40,Medium,6,4,Travel_Rarely,Yes,3,EMP1048
+1049,Human Resources,Human Resources,1,45,Male,No,Stable,Read,20,Low,6,3,Travel_Rarely,No,3,EMP1049
+1050,Sales,Sales Executive,3,53,Female,No,Stable,Write,40,Medium,15,7,Travel_Frequently,No,3,EMP1050
+1052,Research & Development,Laboratory Technician,2,36,Male,Yes,Leaver,Read,60,High,1,0,Travel_Rarely,No,3,EMP1052
+1053,Research & Development,Research Scientist,1,26,Male,Yes,Leaver,Write,75,Critical,3,2,Travel_Frequently,Yes,3,EMP1053
+1055,Sales,Sales Representative,1,34,Female,No,Mover,Read,50,High,1,1,Travel_Rarely,Yes,3,EMP1055
+1056,Sales,Sales Representative,1,28,Male,No,Mover,Read,40,Medium,1,0,Travel_Rarely,No,4,EMP1056
+1060,Research & Development,Research Scientist,1,38,Male,No,Stable,Write,25,Low,2,2,Travel_Frequently,No,3,EMP1060
+1061,Research & Development,Research Director,5,50,Male,No,Mover,Admin,75,Critical,8,1,Travel_Rarely,Yes,3,EMP1061
+1062,Research & Development,Healthcare Representative,2,37,Female,No,Stable,Read,20,Low,4,3,Travel_Rarely,No,3,EMP1062
+1066,Sales,Sales Executive,2,40,Male,No,Stable,Write,30,Medium,7,7,Travel_Rarely,No,3,EMP1066
+1068,Research & Development,Research Scientist,1,26,Female,No,Stable,Write,25,Low,5,3,Travel_Frequently,No,3,EMP1068
+1069,Research & Development,Research Director,5,46,Male,No,Stable,Admin,35,Medium,2,2,Travel_Rarely,No,3,EMP1069
+1070,Sales,Sales Executive,3,54,Female,No,Stable,Write,40,Medium,9,4,Travel_Rarely,No,3,EMP1070
+1071,Research & Development,Research Scientist,1,56,Female,No,Stable,Write,25,Low,5,4,Travel_Frequently,No,3,EMP1071
+1073,Research & Development,Manufacturing Director,3,36,Female,No,Stable,Write,35,Medium,14,8,Travel_Rarely,No,3,EMP1073
+1074,Research & Development,Manager,4,55,Male,No,Stable,Write,25,Low,9,7,Non-Travel,No,3,EMP1074
+1076,Sales,Sales Executive,3,43,Male,No,Mover,Write,50,High,1,0,Travel_Rarely,No,3,EMP1076
+1077,Sales,Sales Representative,1,20,Female,Yes,Leaver,Read,65,High,2,2,Travel_Frequently,Yes,3,EMP1077
+1079,Research & Development,Laboratory Technician,1,21,Female,Yes,Leaver,Read,60,High,1,0,Travel_Rarely,No,3,EMP1079
+1080,Research & Development,Research Scientist,2,46,Female,No,Stable,Write,45,Medium,16,13,Travel_Rarely,Yes,4,EMP1080
+1081,Research & Development,Research Scientist,1,51,Male,Yes,Leaver,Write,80,Critical,10,0,Travel_Rarely,Yes,3,EMP1081
+1082,Research & Development,Healthcare Representative,3,28,Male,Yes,Leaver,Read,55,High,10,7,Non-Travel,No,3,EMP1082
+1083,Research & Development,Laboratory Technician,1,26,Male,No,Stable,Read,10,Low,5,3,Travel_Rarely,No,3,EMP1083
+1084,Research & Development,Manufacturing Director,2,30,Male,No,Stable,Write,30,Medium,6,2,Travel_Rarely,No,3,EMP1084
+1085,Research & Development,Research Scientist,1,41,Female,No,Stable,Write,30,Medium,10,6,Travel_Rarely,No,3,EMP1085
+1088,Research & Development,Healthcare Representative,3,38,Female,No,Stable,Read,25,Low,19,9,Travel_Rarely,No,3,EMP1088
+1092,Research & Development,Healthcare Representative,3,40,Male,No,Stable,Read,35,Medium,11,10,Travel_Rarely,No,4,EMP1092
+1094,Research & Development,Laboratory Technician,1,27,Male,No,Stable,Read,5,Low,3,2,Non-Travel,No,3,EMP1094
+1096,Research & Development,Manufacturing Director,3,55,Male,No,Stable,Write,25,Low,3,2,Travel_Frequently,No,3,EMP1096
+1097,Research & Development,Research Scientist,2,28,Female,No,Stable,Write,30,Medium,8,7,Travel_Rarely,No,3,EMP1097
+1098,Human Resources,Human Resources,3,44,Male,Yes,Leaver,Read,65,High,20,6,Travel_Rarely,No,3,EMP1098
+1099,Research & Development,Healthcare Representative,3,33,Male,No,Stable,Read,10,Low,3,2,Travel_Rarely,No,3,EMP1099
+1100,Sales,Sales Executive,3,35,Male,Yes,Leaver,Write,80,Critical,8,7,Travel_Rarely,Yes,4,EMP1100
+1101,Research & Development,Research Scientist,2,33,Female,Yes,Leaver,Write,80,Critical,13,7,Travel_Frequently,No,4,EMP1101
+1102,Research & Development,Laboratory Technician,1,28,Male,No,Stable,Read,10,Low,4,2,Travel_Rarely,No,3,EMP1102
+1103,Research & Development,Healthcare Representative,2,34,Male,No,Stable,Read,25,Low,6,2,Travel_Frequently,No,3,EMP1103
+1105,Sales,Sales Executive,2,37,Female,No,Mover,Write,60,High,1,0,Travel_Rarely,Yes,3,EMP1105
+1106,Research & Development,Laboratory Technician,1,25,Male,Yes,Leaver,Read,70,Critical,7,7,Travel_Rarely,Yes,3,EMP1106
+1107,Research & Development,Laboratory Technician,1,26,Male,Yes,Leaver,Read,60,High,1,1,Travel_Rarely,No,4,EMP1107
+1108,Research & Development,Research Scientist,1,33,Male,Yes,Leaver,Write,70,Critical,2,2,Travel_Rarely,Yes,4,EMP1108
+1109,Research & Development,Manager,4,42,Male,No,Stable,Write,35,Medium,22,6,Travel_Rarely,No,3,EMP1109
+1111,Research & Development,Laboratory Technician,1,28,Male,Yes,Leaver,Read,65,High,1,0,Travel_Frequently,No,3,EMP1111
+1113,Sales,Sales Executive,2,50,Male,Yes,Leaver,Write,85,Critical,0,0,Travel_Frequently,Yes,3,EMP1113
+1114,Sales,Sales Executive,2,33,Female,No,Stable,Write,25,Low,3,2,Travel_Frequently,No,3,EMP1114
+1115,Research & Development,Research Scientist,1,34,Male,No,Mover,Write,45,Medium,0,0,Non-Travel,No,3,EMP1115
+1116,Research & Development,Manager,4,48,Male,No,Stable,Write,25,Low,5,4,Non-Travel,No,4,EMP1116
+1117,Sales,Sales Executive,2,45,Female,No,Stable,Write,30,Medium,15,10,Non-Travel,No,3,EMP1117
+1118,Research & Development,Healthcare Representative,3,52,Male,No,Stable,Read,30,Medium,8,6,Travel_Rarely,No,3,EMP1118
+1119,Sales,Sales Executive,3,38,Male,No,Stable,Write,40,Medium,8,7,Travel_Rarely,Yes,3,EMP1119
+1120,Research & Development,Research Scientist,1,29,Female,No,Stable,Write,30,Medium,7,5,Travel_Rarely,No,4,EMP1120
+1121,Research & Development,Manufacturing Director,3,28,Female,No,Stable,Write,30,Medium,9,7,Travel_Rarely,No,3,EMP1121
+1124,Sales,Manager,4,46,Male,No,Stable,Write,35,Medium,12,9,Travel_Rarely,No,3,EMP1124
+1125,Sales,Sales Executive,3,38,Male,No,Mover,Write,50,High,1,0,Travel_Rarely,No,3,EMP1125
+1126,Research & Development,Manufacturing Director,3,43,Female,No,Stable,Write,45,Medium,8,7,Travel_Frequently,No,3,EMP1126
+1127,Research & Development,Healthcare Representative,4,39,Male,Yes,Leaver,Read,70,Critical,18,7,Travel_Frequently,No,3,EMP1127
+1128,Research & Development,Research Director,5,40,Male,No,Stable,Admin,50,High,20,7,Travel_Rarely,No,3,EMP1128
+1131,Research & Development,Research Scientist,1,21,Female,No,Stable,Write,30,Medium,2,2,Travel_Rarely,Yes,3,EMP1131
+1132,Research & Development,Laboratory Technician,2,39,Male,No,Stable,Read,5,Low,5,4,Non-Travel,No,3,EMP1132
+1133,Research & Development,Manufacturing Director,2,36,Male,No,Stable,Write,30,Medium,11,9,Non-Travel,No,4,EMP1133
+1135,Sales,Sales Representative,1,31,Male,No,Stable,Read,15,Low,2,2,Travel_Frequently,No,3,EMP1135
+1136,Research & Development,Research Scientist,1,28,Male,No,Stable,Write,20,Low,5,3,Travel_Rarely,No,3,EMP1136
+1137,Sales,Sales Executive,2,35,Male,No,Stable,Write,25,Low,5,2,Travel_Frequently,No,3,EMP1137
+1138,Sales,Sales Executive,4,49,Male,No,Stable,Write,30,Medium,9,8,Travel_Rarely,No,3,EMP1138
+1140,Research & Development,Manufacturing Director,2,34,Male,No,Stable,Write,25,Low,3,2,Travel_Frequently,No,3,EMP1140
+1143,Research & Development,Research Scientist,1,29,Female,No,Stable,Write,45,Medium,7,5,Travel_Frequently,No,3,EMP1143
+1148,Research & Development,Laboratory Technician,2,42,Male,No,Mover,Read,40,Medium,1,0,Travel_Rarely,No,3,EMP1148
+1150,Research & Development,Manufacturing Director,2,29,Male,No,Stable,Write,40,Medium,10,7,Travel_Rarely,Yes,3,EMP1150
+1152,Human Resources,Human Resources,1,38,Male,No,Stable,Read,30,Medium,7,6,Travel_Rarely,No,3,EMP1152
+1154,Research & Development,Research Scientist,1,28,Male,No,Mover,Write,55,High,3,1,Travel_Frequently,Yes,3,EMP1154
+1156,Research & Development,Laboratory Technician,1,18,Male,Yes,Leaver,Read,55,High,0,0,Non-Travel,No,3,EMP1156
+1157,Sales,Sales Executive,2,33,Female,Yes,Leaver,Write,70,Critical,5,2,Travel_Rarely,Yes,3,EMP1157
+1158,Research & Development,Laboratory Technician,1,41,Male,No,Mover,Read,50,High,1,0,Travel_Rarely,Yes,3,EMP1158
+1160,Research & Development,Laboratory Technician,1,31,Male,Yes,Leaver,Read,55,High,2,2,Travel_Frequently,No,3,EMP1160
+1161,Research & Development,Healthcare Representative,2,37,Female,No,Stable,Read,20,Low,6,2,Travel_Rarely,No,3,EMP1161
+1162,Research & Development,Research Scientist,1,27,Male,No,Stable,Write,20,Low,4,2,Travel_Rarely,No,3,EMP1162
+1163,Sales,Sales Executive,2,34,Female,No,Stable,Write,30,Medium,6,5,Travel_Rarely,No,4,EMP1163
+1164,Human Resources,Human Resources,1,35,Male,No,Stable,Read,10,Low,5,4,Travel_Rarely,No,3,EMP1164
+1165,Sales,Sales Executive,3,29,Female,Yes,Leaver,Write,75,Critical,11,8,Travel_Rarely,No,3,EMP1165
+1166,Research & Development,Research Director,3,40,Female,No,Stable,Admin,55,High,18,7,Travel_Frequently,No,3,EMP1166
+1167,Sales,Sales Executive,4,42,Male,Yes,Leaver,Write,90,Critical,21,9,Travel_Frequently,Yes,3,EMP1167
+1171,Sales,Sales Executive,2,42,Male,No,Stable,Write,30,Medium,6,4,Travel_Rarely,No,3,EMP1171
+1172,Research & Development,Laboratory Technician,1,35,Male,No,Mover,Read,40,Medium,8,0,Travel_Rarely,No,3,EMP1172
+1173,Research & Development,Laboratory Technician,1,24,Male,No,Stable,Read,10,Low,4,3,Travel_Rarely,No,4,EMP1173
+1175,Research & Development,Laboratory Technician,1,28,Female,Yes,Leaver,Read,70,Critical,1,1,Travel_Rarely,Yes,3,EMP1175
+1177,Research & Development,Laboratory Technician,1,26,Male,No,Stable,Read,20,Low,8,7,Travel_Rarely,No,4,EMP1177
+1179,Sales,Sales Executive,2,30,Male,No,Stable,Write,30,Medium,10,3,Travel_Rarely,No,3,EMP1179
+1180,Research & Development,Research Scientist,2,40,Female,No,Mover,Write,65,High,1,1,Travel_Frequently,Yes,3,EMP1180
+1182,Research & Development,Manufacturing Director,3,35,Male,No,Stable,Write,30,Medium,7,7,Travel_Rarely,No,3,EMP1182
+1184,Research & Development,Healthcare Representative,2,34,Male,No,Stable,Read,30,Medium,13,9,Travel_Frequently,No,4,EMP1184
+1185,Research & Development,Laboratory Technician,1,35,Male,No,Stable,Read,15,Low,2,2,Travel_Frequently,No,3,EMP1185
+1188,Sales,Sales Executive,2,43,Female,Yes,Leaver,Write,60,High,4,3,Travel_Rarely,No,3,EMP1188
+1190,Sales,Sales Representative,1,32,Female,No,Mover,Read,35,Medium,1,0,Non-Travel,No,3,EMP1190
+1191,Research & Development,Manager,5,56,Female,No,Stable,Write,20,Low,5,2,Travel_Rarely,No,3,EMP1191
+1192,Research & Development,Laboratory Technician,1,29,Female,No,Stable,Read,20,Low,10,8,Travel_Rarely,No,3,EMP1192
+1193,Research & Development,Research Scientist,1,19,Male,No,Mover,Write,50,High,1,1,Travel_Rarely,No,4,EMP1193
+1195,Research & Development,Research Scientist,1,45,Female,No,Stable,Write,30,Medium,3,2,Travel_Rarely,Yes,3,EMP1195
+1196,Research & Development,Manufacturing Director,2,37,Female,No,Stable,Write,35,Medium,14,8,Travel_Rarely,No,3,EMP1196
+1198,Research & Development,Laboratory Technician,1,20,Male,No,Stable,Read,10,Low,2,2,Travel_Rarely,No,3,EMP1198
+1200,Research & Development,Research Scientist,1,44,Male,Yes,Leaver,Write,80,Critical,6,4,Travel_Rarely,Yes,3,EMP1200
+1201,Research & Development,Manager,5,53,Female,No,Stable,Write,30,Medium,7,7,Travel_Rarely,No,3,EMP1201
+1202,Research & Development,Research Scientist,1,29,Female,No,Stable,Write,30,Medium,5,4,Travel_Rarely,Yes,3,EMP1202
+1203,Research & Development,Research Scientist,1,22,Male,Yes,Leaver,Write,85,Critical,0,0,Travel_Frequently,Yes,3,EMP1203
+1204,Sales,Manager,4,46,Female,No,Stable,Write,35,Medium,26,15,Travel_Rarely,No,4,EMP1204
+1206,Research & Development,Research Scientist,1,44,Male,No,Mover,Write,45,Medium,0,0,Non-Travel,No,3,EMP1206
+1207,Human Resources,Human Resources,1,33,Male,No,Stable,Read,10,Low,5,4,Travel_Rarely,No,3,EMP1207
+1210,Research & Development,Research Scientist,1,41,Male,Yes,Leaver,Write,65,High,1,0,Non-Travel,No,3,EMP1210
+1211,Sales,Sales Executive,2,30,Male,No,Stable,Write,20,Low,4,3,Travel_Rarely,No,3,EMP1211
+1212,Sales,Sales Executive,2,40,Male,No,Mover,Write,55,High,0,0,Travel_Frequently,No,3,EMP1212
+1215,Research & Development,Manager,4,50,Female,No,Stable,Write,25,Low,2,2,Travel_Frequently,No,4,EMP1215
+1216,Research & Development,Laboratory Technician,1,28,Male,No,Stable,Read,20,Low,6,5,Travel_Rarely,No,3,EMP1216
+1217,Research & Development,Research Director,5,46,Male,No,Stable,Admin,35,Medium,4,2,Travel_Rarely,No,3,EMP1217
+1218,Sales,Sales Executive,2,35,Male,No,Stable,Write,40,Medium,7,7,Travel_Rarely,Yes,3,EMP1218
+1219,Research & Development,Laboratory Technician,1,24,Female,Yes,Leaver,Read,60,High,1,0,Travel_Rarely,No,3,EMP1219
+1220,Sales,Sales Executive,2,33,Female,No,Stable,Write,45,Medium,10,7,Travel_Frequently,No,3,EMP1220
+1221,Research & Development,Laboratory Technician,1,36,Male,No,Stable,Read,20,Low,7,7,Travel_Rarely,No,3,EMP1221
+1224,Research & Development,Laboratory Technician,2,30,Male,No,Stable,Read,20,Low,10,7,Travel_Rarely,No,3,EMP1224
+1225,Research & Development,Research Scientist,2,44,Male,No,Stable,Write,35,Medium,20,11,Travel_Rarely,No,4,EMP1225
+1226,Sales,Sales Representative,1,20,Male,No,Mover,Read,30,Medium,2,1,Travel_Rarely,No,3,EMP1226
+1228,Research & Development,Manufacturing Director,2,46,Male,No,Stable,Write,30,Medium,6,3,Travel_Rarely,No,3,EMP1228
+1231,Human Resources,Human Resources,2,42,Male,No,Stable,Read,5,Low,4,3,Non-Travel,No,3,EMP1231
+1233,Sales,Sales Executive,2,60,Male,No,Stable,Write,45,Medium,11,7,Travel_Rarely,Yes,3,EMP1233
+1234,Research & Development,Laboratory Technician,1,32,Female,No,Stable,Read,15,Low,2,2,Travel_Frequently,No,4,EMP1234
+1235,Research & Development,Research Scientist,2,32,Female,No,Stable,Write,45,Medium,8,7,Travel_Frequently,Yes,3,EMP1235
+1237,Research & Development,Manufacturing Director,3,36,Female,No,Stable,Write,40,Medium,7,7,Travel_Rarely,Yes,4,EMP1237
+1238,Research & Development,Research Scientist,1,33,Male,No,Stable,Write,35,Medium,14,10,Travel_Rarely,No,3,EMP1238
+1239,Sales,Sales Executive,2,40,Female,No,Mover,Write,40,Medium,5,1,Travel_Rarely,No,3,EMP1239
+1240,Sales,Sales Executive,2,25,Male,No,Stable,Write,30,Medium,4,3,Travel_Rarely,No,3,EMP1240
+1241,Research & Development,Research Scientist,1,30,Male,No,Stable,Write,45,Medium,11,9,Travel_Rarely,Yes,4,EMP1241
+1242,Research & Development,Research Director,3,42,Female,No,Mover,Admin,80,Critical,1,0,Travel_Frequently,Yes,3,EMP1242
+1243,Sales,Sales Executive,3,35,Female,No,Stable,Write,40,Medium,13,2,Non-Travel,Yes,3,EMP1243
+1244,Research & Development,Research Scientist,1,27,Male,No,Stable,Write,40,Medium,9,7,Travel_Rarely,Yes,3,EMP1244
+1245,Research & Development,Manufacturing Director,3,54,Female,No,Stable,Write,25,Low,5,4,Travel_Frequently,No,3,EMP1245
+1246,Research & Development,Research Scientist,1,44,Female,No,Stable,Write,30,Medium,10,5,Travel_Rarely,No,3,EMP1246
+1248,Research & Development,Research Scientist,1,19,Female,Yes,Leaver,Write,75,Critical,1,1,Non-Travel,Yes,4,EMP1248
+1249,Research & Development,Research Scientist,1,29,Female,No,Stable,Write,20,Low,3,2,Travel_Rarely,No,3,EMP1249
+1250,Research & Development,Research Director,4,54,Male,No,Stable,Admin,45,Medium,10,9,Travel_Rarely,No,3,EMP1250
+1251,Research & Development,Healthcare Representative,2,31,Male,No,Stable,Read,40,Medium,6,5,Travel_Rarely,Yes,3,EMP1251
+1252,Research & Development,Healthcare Representative,2,31,Female,No,Stable,Read,20,Low,10,9,Travel_Rarely,No,3,EMP1252
+1254,Sales,Sales Executive,2,59,Female,No,Mover,Write,50,High,6,1,Travel_Rarely,No,3,EMP1254
+1255,Research & Development,Research Director,5,43,Male,No,Stable,Admin,45,Medium,8,7,Travel_Rarely,No,3,EMP1255
+1256,Research & Development,Manager,5,49,Male,No,Mover,Write,50,High,1,0,Travel_Rarely,No,3,EMP1256
+1257,Research & Development,Research Scientist,1,36,Male,No,Stable,Write,40,Medium,11,10,Travel_Frequently,No,3,EMP1257
+1258,Research & Development,Laboratory Technician,1,48,Male,No,Mover,Read,40,Medium,1,0,Travel_Rarely,No,3,EMP1258
+1259,Research & Development,Research Scientist,1,27,Male,No,Stable,Write,20,Low,5,3,Travel_Rarely,No,3,EMP1259
+1260,Research & Development,Healthcare Representative,2,29,Male,No,Mover,Read,60,High,6,0,Travel_Rarely,Yes,3,EMP1260
+1263,Research & Development,Research Director,5,48,Male,No,Mover,Admin,65,High,1,0,Travel_Rarely,No,3,EMP1263
+1264,Research & Development,Research Director,4,29,Female,No,Stable,Admin,45,Medium,7,7,Travel_Rarely,No,3,EMP1264
+1265,Research & Development,Research Scientist,1,34,Female,No,Mover,Write,50,High,1,0,Travel_Rarely,No,3,EMP1265
+1267,Sales,Manager,5,44,Male,No,Stable,Write,35,Medium,22,9,Travel_Rarely,No,3,EMP1267
+1268,Sales,Sales Executive,3,33,Male,No,Stable,Write,40,Medium,9,8,Travel_Rarely,Yes,3,EMP1268
+1269,Research & Development,Research Scientist,1,19,Female,No,Mover,Write,60,High,1,0,Travel_Rarely,Yes,3,EMP1269
+1270,Research & Development,Research Scientist,1,23,Male,No,Mover,Write,50,High,1,0,Travel_Rarely,No,4,EMP1270
+1273,Sales,Sales Representative,1,25,Male,Yes,Leaver,Read,75,Critical,1,0,Travel_Frequently,Yes,3,EMP1273
+1275,Research & Development,Research Scientist,1,26,Male,No,Stable,Write,40,Medium,8,5,Travel_Rarely,Yes,4,EMP1275
+1277,Sales,Manager,5,45,Female,Yes,Leaver,Write,85,Critical,24,10,Travel_Rarely,Yes,3,EMP1277
+1278,Research & Development,Healthcare Representative,4,55,Male,No,Stable,Read,40,Medium,33,9,Non-Travel,Yes,3,EMP1278
+1279,Research & Development,Laboratory Technician,1,21,Female,Yes,Leaver,Read,55,High,2,2,Travel_Frequently,No,4,EMP1279
+1280,Sales,Manager,5,46,Female,No,Stable,Write,35,Medium,11,4,Travel_Rarely,No,3,EMP1280
+1281,Sales,Sales Executive,2,34,Female,No,Stable,Write,30,Medium,3,2,Travel_Rarely,Yes,3,EMP1281
+1282,Sales,Manager,5,51,Male,No,Stable,Write,50,High,29,10,Travel_Frequently,Yes,4,EMP1282
+1283,Research & Development,Manufacturing Director,3,59,Male,No,Stable,Write,30,Medium,9,7,Travel_Rarely,No,3,EMP1283
+1285,Research & Development,Laboratory Technician,2,34,Female,No,Stable,Read,30,Medium,11,8,Travel_Frequently,No,3,EMP1285
+1286,Research & Development,Laboratory Technician,1,28,Male,No,Stable,Read,25,Low,4,2,Travel_Frequently,Yes,3,EMP1286
+1288,Research & Development,Manager,5,44,Male,No,Stable,Write,35,Medium,25,9,Travel_Rarely,No,3,EMP1288
+1289,Human Resources,Human Resources,2,34,Male,No,Stable,Read,25,Low,10,9,Travel_Frequently,No,3,EMP1289
+1291,Research & Development,Research Scientist,1,35,Male,No,Stable,Write,30,Medium,3,2,Travel_Rarely,Yes,3,EMP1291
+1292,Research & Development,Research Scientist,2,42,Female,No,Mover,Write,60,High,1,0,Travel_Rarely,Yes,3,EMP1292
+1293,Sales,Sales Executive,3,43,Female,No,Stable,Write,35,Medium,21,7,Travel_Rarely,No,3,EMP1293
+1294,Research & Development,Manufacturing Director,2,36,Female,No,Stable,Write,45,Medium,16,14,Travel_Rarely,Yes,3,EMP1294
+1295,Research & Development,Healthcare Representative,3,44,Female,Yes,Leaver,Read,60,High,10,7,Travel_Rarely,No,3,EMP1295
+1296,Research & Development,Laboratory Technician,1,28,Male,No,Stable,Read,25,Low,2,2,Travel_Frequently,Yes,3,EMP1296
+1297,Research & Development,Laboratory Technician,1,51,Female,No,Mover,Read,45,Medium,7,0,Travel_Frequently,No,3,EMP1297
+1298,Research & Development,Manufacturing Director,2,30,Female,No,Stable,Write,35,Medium,8,4,Non-Travel,Yes,3,EMP1298
+1299,Research & Development,Laboratory Technician,1,29,Female,Yes,Leaver,Read,70,Critical,7,7,Travel_Rarely,Yes,3,EMP1299
+1301,Research & Development,Research Scientist,1,28,Male,No,Stable,Write,20,Low,3,2,Travel_Rarely,No,3,EMP1301
+1303,Research & Development,Research Scientist,1,25,Female,No,Stable,Write,30,Medium,2,2,Travel_Rarely,No,3,EMP1303
+1304,Sales,Sales Executive,2,32,Male,No,Stable,Write,30,Medium,10,7,Travel_Rarely,No,3,EMP1304
+1306,Research & Development,Manager,5,45,Female,No,Mover,Write,55,High,0,0,Travel_Frequently,No,4,EMP1306
+1307,Research & Development,Manager,4,39,Female,No,Stable,Write,45,Medium,19,9,Travel_Rarely,Yes,3,EMP1307
+1308,Research & Development,Research Scientist,1,58,Male,No,Stable,Write,20,Low,2,2,Travel_Rarely,No,3,EMP1308
+1309,Research & Development,Laboratory Technician,2,32,Male,Yes,Leaver,Read,70,Critical,10,4,Travel_Rarely,No,3,EMP1309
+1310,Research & Development,Research Scientist,1,39,Male,Yes,Leaver,Write,60,High,5,2,Travel_Rarely,No,3,EMP1310
+1311,Research & Development,Laboratory Technician,2,30,Female,No,Stable,Read,20,Low,9,2,Travel_Rarely,No,3,EMP1311
+1312,Research & Development,Healthcare Representative,3,36,Female,No,Stable,Read,20,Low,7,7,Travel_Rarely,No,3,EMP1312
+1314,Human Resources,Human Resources,1,46,Female,No,Stable,Read,20,Low,7,6,Travel_Rarely,No,3,EMP1314
+1315,Research & Development,Laboratory Technician,2,28,Female,No,Stable,Read,15,Low,9,8,Non-Travel,No,3,EMP1315
+1317,Research & Development,Research Director,4,50,Female,No,Stable,Admin,45,Medium,3,2,Travel_Rarely,Yes,3,EMP1317
+1318,Sales,Sales Executive,3,40,Male,Yes,Leaver,Write,80,Critical,5,4,Travel_Rarely,Yes,3,EMP1318
+1319,Sales,Sales Executive,3,52,Male,Yes,Leaver,Write,80,Critical,8,7,Travel_Rarely,Yes,3,EMP1319
+1321,Research & Development,Manager,3,30,Female,No,Mover,Write,60,High,9,1,Travel_Rarely,Yes,4,EMP1321
+1322,Research & Development,Manufacturing Director,2,39,Male,No,Stable,Write,30,Medium,8,7,Travel_Rarely,No,3,EMP1322
+1324,Sales,Sales Executive,3,31,Female,No,Stable,Write,35,Medium,10,8,Non-Travel,Yes,3,EMP1324
+1329,Sales,Sales Executive,2,41,Male,No,Stable,Write,30,Medium,19,2,Non-Travel,No,3,EMP1329
+1331,Sales,Sales Representative,1,31,Female,Yes,Leaver,Read,65,High,3,2,Travel_Frequently,Yes,3,EMP1331
+1333,Research & Development,Laboratory Technician,1,44,Male,Yes,Leaver,Read,50,High,3,2,Travel_Rarely,No,3,EMP1333
+1334,Research & Development,Manager,4,42,Male,No,Stable,Write,40,Medium,20,8,Non-Travel,Yes,3,EMP1334
+1336,Research & Development,Manager,5,55,Female,No,Stable,Write,35,Medium,19,9,Travel_Rarely,No,3,EMP1336
+1338,Human Resources,Manager,5,56,Male,No,Stable,Write,30,Medium,7,3,Travel_Rarely,No,3,EMP1338
+1340,Research & Development,Research Scientist,1,40,Male,No,Stable,Write,25,Low,4,2,Non-Travel,No,3,EMP1340
+1344,Research & Development,Healthcare Representative,3,34,Male,No,Stable,Read,20,Low,9,7,Travel_Rarely,No,3,EMP1344
+1346,Research & Development,Research Scientist,2,40,Male,No,Stable,Write,30,Medium,9,8,Travel_Rarely,No,3,EMP1346
+1349,Sales,Sales Executive,2,41,Female,No,Stable,Write,35,Medium,9,3,Travel_Frequently,No,3,EMP1349
+1350,Research & Development,Research Scientist,2,35,Male,No,Stable,Write,55,High,9,6,Travel_Frequently,Yes,3,EMP1350
+1352,Human Resources,Manager,4,51,Male,No,Stable,Write,45,Medium,33,9,Travel_Rarely,Yes,3,EMP1352
+1355,Sales,Sales Executive,2,38,Female,No,Stable,Write,30,Medium,7,7,Travel_Rarely,No,3,EMP1355
+1356,Sales,Sales Executive,2,34,Female,No,Stable,Write,30,Medium,10,8,Travel_Rarely,No,3,EMP1356
+1358,Research & Development,Laboratory Technician,1,25,Male,No,Stable,Read,10,Low,3,2,Travel_Rarely,No,3,EMP1358
+1360,Research & Development,Manufacturing Director,3,58,Female,Yes,Leaver,Write,80,Critical,10,9,Travel_Rarely,Yes,3,EMP1360
+1361,Research & Development,Laboratory Technician,1,40,Male,No,Stable,Read,10,Low,4,2,Travel_Rarely,No,4,EMP1361
+1362,Sales,Sales Executive,2,36,Female,No,Stable,Write,40,Medium,15,7,Travel_Frequently,No,3,EMP1362
+1363,Research & Development,Manufacturing Director,3,48,Male,No,Stable,Write,30,Medium,10,9,Travel_Rarely,No,3,EMP1363
+1364,Sales,Sales Representative,1,27,Female,No,Mover,Read,40,Medium,1,0,Travel_Rarely,No,3,EMP1364
+1367,Research & Development,Manufacturing Director,4,51,Female,No,Stable,Write,20,Low,5,2,Travel_Rarely,No,3,EMP1367
+1368,Research & Development,Laboratory Technician,1,18,Female,No,Mover,Read,35,Medium,0,0,Non-Travel,No,3,EMP1368
+1369,Research & Development,Laboratory Technician,2,35,Female,No,Stable,Read,30,Medium,9,7,Travel_Rarely,No,3,EMP1369
+1371,Sales,Sales Executive,2,27,Male,No,Stable,Write,45,Medium,6,2,Travel_Frequently,No,4,EMP1371
+1372,Sales,Sales Executive,4,55,Male,Yes,Leaver,Write,85,Critical,19,7,Travel_Rarely,Yes,3,EMP1372
+1373,Research & Development,Manufacturing Director,4,56,Male,No,Stable,Write,45,Medium,19,16,Travel_Rarely,Yes,3,EMP1373
+1374,Research & Development,Research Scientist,1,34,Female,No,Stable,Write,25,Low,5,4,Non-Travel,No,4,EMP1374
+1375,Research & Development,Healthcare Representative,2,40,Female,No,Stable,Read,25,Low,12,11,Travel_Rarely,No,4,EMP1375
+1377,Research & Development,Laboratory Technician,2,34,Male,No,Stable,Read,20,Low,8,7,Travel_Rarely,No,3,EMP1377
+1379,Sales,Sales Representative,1,31,Female,Yes,Leaver,Read,65,High,1,0,Travel_Frequently,No,3,EMP1379
+1380,Sales,Sales Executive,2,35,Female,Yes,Leaver,Write,75,Critical,4,2,Travel_Frequently,Yes,3,EMP1380
+1382,Research & Development,Research Scientist,1,38,Male,No,Stable,Write,25,Low,4,2,Travel_Frequently,No,3,EMP1382
+1383,Research & Development,Healthcare Representative,2,34,Female,No,Stable,Read,25,Low,14,11,Travel_Rarely,No,3,EMP1383
+1387,Sales,Sales Executive,2,28,Male,No,Stable,Write,20,Low,5,3,Travel_Rarely,No,3,EMP1387
+1389,Research & Development,Manufacturing Director,2,31,Male,Yes,Leaver,Write,80,Critical,10,2,Travel_Rarely,Yes,3,EMP1389
+1390,Sales,Sales Executive,2,39,Male,No,Stable,Write,30,Medium,5,4,Travel_Rarely,Yes,3,EMP1390
+1391,Sales,Sales Executive,3,51,Male,No,Stable,Write,25,Low,4,2,Travel_Frequently,No,3,EMP1391
+1392,Research & Development,Research Scientist,2,41,Female,No,Stable,Write,45,Medium,6,2,Travel_Frequently,Yes,3,EMP1392
+1394,Research & Development,Research Scientist,1,37,Male,No,Stable,Write,40,Medium,6,4,Travel_Rarely,Yes,3,EMP1394
+1395,Sales,Sales Executive,2,33,Male,No,Stable,Write,25,Low,5,4,Travel_Frequently,No,3,EMP1395
+1396,Sales,Sales Executive,2,32,Male,No,Stable,Write,30,Medium,3,2,Travel_Rarely,Yes,3,EMP1396
+1397,Research & Development,Healthcare Representative,3,39,Male,No,Stable,Read,15,Low,6,4,Non-Travel,No,4,EMP1397
+1399,Sales,Sales Executive,2,25,Male,No,Stable,Write,20,Low,3,2,Travel_Rarely,No,3,EMP1399
+1401,Research & Development,Manufacturing Director,4,52,Female,No,Stable,Write,35,Medium,5,3,Travel_Frequently,Yes,3,EMP1401
+1402,Research & Development,Research Scientist,2,43,Female,No,Stable,Write,45,Medium,20,7,Travel_Rarely,Yes,3,EMP1402
+1403,Sales,Sales Executive,2,27,Female,No,Stable,Write,40,Medium,6,2,Travel_Rarely,Yes,3,EMP1403
+1405,Research & Development,Research Scientist,1,27,Female,Yes,Leaver,Write,80,Critical,8,2,Travel_Rarely,Yes,3,EMP1405
+1407,Research & Development,Research Scientist,1,26,Male,No,Stable,Write,30,Medium,4,3,Travel_Rarely,No,3,EMP1407
+1408,Human Resources,Manager,4,42,Female,No,Stable,Write,35,Medium,20,7,Travel_Rarely,No,3,EMP1408
+1409,Research & Development,Laboratory Technician,1,52,Female,No,Stable,Read,10,Low,5,4,Travel_Rarely,No,3,EMP1409
+1411,Research & Development,Laboratory Technician,1,37,Female,No,Stable,Read,10,Low,3,2,Travel_Rarely,No,3,EMP1411
+1412,Research & Development,Manufacturing Director,3,35,Male,No,Stable,Write,25,Low,2,2,Travel_Frequently,No,3,EMP1412
+1415,Research & Development,Laboratory Technician,1,25,Male,No,Stable,Read,10,Low,3,2,Travel_Rarely,No,3,EMP1415
+1417,Research & Development,Laboratory Technician,1,26,Male,No,Stable,Read,20,Low,7,7,Travel_Rarely,No,3,EMP1417
+1419,Human Resources,Human Resources,3,29,Male,No,Stable,Read,20,Low,10,9,Travel_Rarely,No,3,EMP1419
+1420,Research & Development,Laboratory Technician,2,49,Male,Yes,Leaver,Read,55,High,4,3,Travel_Frequently,No,4,EMP1420
+1421,Research & Development,Healthcare Representative,3,29,Female,Yes,Leaver,Read,75,Critical,8,7,Travel_Frequently,Yes,3,EMP1421
+1422,Research & Development,Research Director,4,54,Female,No,Stable,Admin,50,High,20,7,Travel_Rarely,No,3,EMP1422
+1423,Research & Development,Research Director,5,58,Female,No,Stable,Admin,55,High,9,8,Travel_Rarely,Yes,4,EMP1423
+1424,Research & Development,Research Director,4,55,Male,No,Stable,Admin,55,High,7,7,Travel_Rarely,No,3,EMP1424
+1425,Sales,Sales Executive,2,36,Female,No,Stable,Write,40,Medium,5,4,Travel_Rarely,Yes,3,EMP1425
+1427,Sales,Sales Representative,1,31,Female,Yes,Leaver,Read,65,High,1,0,Travel_Frequently,No,3,EMP1427
+1428,Sales,Sales Executive,2,30,Female,No,Stable,Write,20,Low,3,2,Travel_Rarely,No,3,EMP1428
+1430,Research & Development,Research Director,4,31,Female,No,Stable,Admin,45,Medium,3,2,Travel_Rarely,No,3,EMP1430
+1431,Research & Development,Research Scientist,1,34,Male,No,Stable,Write,25,Low,4,3,Travel_Frequently,No,3,EMP1431
+1433,Research & Development,Research Scientist,1,31,Female,Yes,Leaver,Write,70,Critical,1,0,Travel_Rarely,No,3,EMP1433
+1434,Research & Development,Laboratory Technician,1,27,Male,No,Mover,Read,30,Medium,5,0,Travel_Rarely,No,3,EMP1434
+1435,Research & Development,Laboratory Technician,2,36,Male,No,Stable,Read,20,Low,10,4,Travel_Rarely,No,3,EMP1435
+1436,Sales,Sales Executive,2,36,Female,No,Stable,Write,20,Low,3,2,Travel_Rarely,No,3,EMP1436
+1438,Research & Development,Research Scientist,1,47,Male,No,Stable,Write,30,Medium,6,5,Travel_Rarely,No,3,EMP1438
+1439,Sales,Sales Representative,1,25,Male,Yes,Leaver,Read,50,High,3,2,Travel_Rarely,No,3,EMP1439
+1440,Research & Development,Laboratory Technician,1,37,Male,No,Stable,Read,15,Low,6,5,Non-Travel,No,3,EMP1440
+1441,Research & Development,Research Scientist,1,56,Female,No,Stable,Write,30,Medium,3,2,Travel_Rarely,No,4,EMP1441
+1443,Research & Development,Research Director,4,47,Female,No,Stable,Admin,50,High,20,17,Travel_Rarely,No,3,EMP1443
+1445,Sales,Sales Executive,2,24,Female,No,Stable,Write,30,Medium,5,4,Travel_Rarely,Yes,3,EMP1445
+1446,Sales,Sales Executive,2,32,Male,No,Stable,Write,20,Low,4,3,Travel_Rarely,No,3,EMP1446
+1447,Research & Development,Laboratory Technician,1,34,Female,No,Stable,Read,10,Low,5,4,Travel_Rarely,No,3,EMP1447
+1448,Research & Development,Research Scientist,1,41,Male,No,Stable,Write,30,Medium,4,2,Travel_Rarely,Yes,3,EMP1448
+1449,Research & Development,Laboratory Technician,2,40,Male,No,Stable,Read,15,Low,8,7,Non-Travel,No,3,EMP1449
+1453,Sales,Sales Executive,3,31,Male,No,Stable,Write,35,Medium,13,7,Travel_Rarely,No,3,EMP1453
+1457,Sales,Sales Executive,3,46,Male,Yes,Leaver,Write,70,Critical,7,7,Travel_Rarely,No,3,EMP1457
+1458,Research & Development,Laboratory Technician,1,39,Female,Yes,Leaver,Read,65,High,1,0,Non-Travel,Yes,4,EMP1458
+1459,Research & Development,Manufacturing Director,3,31,Female,Yes,Leaver,Write,75,Critical,10,8,Travel_Frequently,No,3,EMP1459
+1460,Research & Development,Healthcare Representative,3,45,Male,No,Stable,Read,30,Medium,7,7,Travel_Rarely,Yes,3,EMP1460
+1461,Human Resources,Human Resources,1,31,Female,No,Stable,Read,10,Low,3,2,Travel_Rarely,No,3,EMP1461
+1464,Research & Development,Laboratory Technician,1,31,Male,Yes,Leaver,Read,65,High,2,2,Travel_Frequently,Yes,3,EMP1464
+1465,Research & Development,Manufacturing Director,3,45,Male,No,Mover,Write,50,High,3,1,Travel_Rarely,Yes,3,EMP1465
+1466,Sales,Sales Executive,2,48,Male,No,Stable,Write,20,Low,2,2,Travel_Rarely,No,3,EMP1466
+1467,Human Resources,Human Resources,1,34,Female,Yes,Leaver,Read,50,High,2,2,Travel_Rarely,No,3,EMP1467
+1468,Research & Development,Research Director,3,40,Male,No,Stable,Admin,40,Medium,9,8,Non-Travel,No,3,EMP1468
+1469,Sales,Sales Executive,2,28,Male,No,Stable,Write,20,Low,5,4,Travel_Rarely,No,3,EMP1469
+1471,Research & Development,Laboratory Technician,1,44,Male,No,Stable,Read,5,Low,5,2,Non-Travel,No,3,EMP1471
+1472,Research & Development,Research Director,4,53,Male,No,Stable,Admin,45,Medium,9,8,Travel_Rarely,No,3,EMP1472
+1473,Research & Development,Healthcare Representative,2,49,Male,No,Stable,Read,10,Low,3,2,Travel_Rarely,No,3,EMP1473
+1474,Research & Development,Research Scientist,1,40,Male,No,Mover,Write,40,Medium,3,1,Travel_Rarely,No,3,EMP1474
+1475,Research & Development,Research Scientist,1,44,Male,No,Stable,Write,20,Low,5,2,Travel_Rarely,No,3,EMP1475
+1477,Sales,Sales Executive,2,33,Male,No,Stable,Write,25,Low,4,3,Travel_Frequently,No,3,EMP1477
+1478,Sales,Sales Executive,2,34,Male,No,Stable,Write,35,Medium,13,9,Travel_Rarely,No,3,EMP1478
+1479,Sales,Sales Executive,2,30,Male,No,Mover,Write,40,Medium,2,1,Travel_Rarely,No,3,EMP1479
+1480,Research & Development,Laboratory Technician,1,42,Female,No,Stable,Read,30,Medium,12,9,Travel_Frequently,No,3,EMP1480
+1481,Sales,Sales Executive,2,44,Female,No,Mover,Write,55,High,1,0,Travel_Frequently,No,3,EMP1481
+1482,Research & Development,Research Scientist,1,30,Male,No,Mover,Write,45,Medium,1,0,Non-Travel,No,3,EMP1482
+1483,Research & Development,Research Scientist,2,57,Male,No,Stable,Write,35,Medium,12,9,Travel_Rarely,No,4,EMP1483
+1484,Research & Development,Healthcare Representative,3,49,Male,No,Stable,Read,20,Low,8,7,Travel_Rarely,No,3,EMP1484
+1485,Research & Development,Research Director,4,34,Male,No,Stable,Admin,55,High,14,8,Travel_Frequently,No,3,EMP1485
+1486,Sales,Sales Representative,1,28,Male,Yes,Leaver,Read,55,High,3,2,Travel_Frequently,No,3,EMP1486
+1487,Sales,Sales Executive,2,29,Female,Yes,Leaver,Write,75,Critical,5,3,Travel_Frequently,No,3,EMP1487
+1489,Sales,Sales Executive,2,34,Female,Yes,Leaver,Write,85,Critical,15,9,Travel_Rarely,Yes,4,EMP1489
+1492,Sales,Sales Representative,1,35,Male,No,Mover,Read,40,Medium,1,0,Travel_Rarely,No,3,EMP1492
+1494,Research & Development,Laboratory Technician,1,24,Male,Yes,Leaver,Read,75,Critical,0,0,Travel_Frequently,Yes,3,EMP1494
+1495,Sales,Sales Representative,1,24,Female,No,Mover,Read,35,Medium,1,0,Non-Travel,No,3,EMP1495
+1496,Research & Development,Manufacturing Director,3,44,Male,No,Stable,Write,35,Medium,2,2,Travel_Frequently,Yes,3,EMP1496
+1497,Sales,Sales Executive,2,29,Male,No,Stable,Write,30,Medium,10,7,Travel_Rarely,No,3,EMP1497
+1499,Human Resources,Human Resources,1,30,Male,No,Stable,Read,10,Low,5,3,Travel_Rarely,No,4,EMP1499
+1501,Research & Development,Healthcare Representative,2,55,Male,No,Stable,Read,20,Low,3,2,Travel_Rarely,Yes,3,EMP1501
+1502,Research & Development,Laboratory Technician,1,33,Female,No,Stable,Read,10,Low,5,4,Travel_Rarely,No,3,EMP1502
+1503,Sales,Sales Executive,2,47,Female,No,Stable,Write,30,Medium,5,4,Travel_Rarely,Yes,3,EMP1503
+1504,Research & Development,Laboratory Technician,1,28,Male,Yes,Leaver,Read,65,High,0,0,Travel_Frequently,No,3,EMP1504
+1506,Research & Development,Research Scientist,1,28,Male,No,Mover,Write,50,High,1,0,Travel_Rarely,No,3,EMP1506
+1507,Sales,Sales Executive,2,28,Male,No,Stable,Write,25,Low,4,2,Travel_Frequently,No,3,EMP1507
+1509,Research & Development,Laboratory Technician,2,49,Female,No,Stable,Read,10,Low,3,2,Travel_Rarely,No,4,EMP1509
+1513,Research & Development,Laboratory Technician,1,29,Female,No,Stable,Read,15,Low,3,2,Travel_Frequently,No,3,EMP1513
+1514,Research & Development,Manufacturing Director,2,28,Male,No,Stable,Write,30,Medium,8,6,Travel_Rarely,No,3,EMP1514
+1515,Research & Development,Healthcare Representative,2,33,Male,No,Mover,Read,50,High,0,0,Travel_Rarely,Yes,3,EMP1515
+1516,Research & Development,Manager,3,32,Male,No,Stable,Write,30,Medium,5,2,Travel_Rarely,No,4,EMP1516
+1520,Research & Development,Manager,4,54,Female,No,Stable,Write,40,Medium,14,9,Travel_Frequently,No,4,EMP1520
+1522,Research & Development,Research Scientist,1,29,Male,Yes,Leaver,Write,70,Critical,9,7,Travel_Rarely,No,3,EMP1522
+1523,Research & Development,Research Director,4,44,Male,No,Stable,Admin,50,High,20,6,Travel_Rarely,No,3,EMP1523
+1525,Research & Development,Manufacturing Director,3,39,Female,No,Mover,Write,40,Medium,2,0,Travel_Rarely,No,3,EMP1525
+1527,Sales,Manager,4,46,Female,No,Stable,Write,45,Medium,13,12,Travel_Rarely,No,3,EMP1527
+1529,Research & Development,Healthcare Representative,3,35,Female,No,Stable,Read,25,Low,11,8,Travel_Rarely,No,3,EMP1529
+1533,Research & Development,Laboratory Technician,2,23,Male,No,Stable,Read,10,Low,4,3,Travel_Rarely,No,3,EMP1533
+1534,Research & Development,Laboratory Technician,1,40,Male,Yes,Leaver,Read,60,High,5,4,Travel_Rarely,No,3,EMP1534
+1535,Sales,Sales Executive,3,34,Male,No,Stable,Write,40,Medium,10,9,Travel_Rarely,Yes,3,EMP1535
+1537,Research & Development,Research Scientist,1,31,Female,Yes,Leaver,Write,75,Critical,7,2,Travel_Frequently,No,3,EMP1537
+1539,Research & Development,Research Director,4,50,Male,No,Stable,Admin,65,High,32,6,Travel_Frequently,Yes,3,EMP1539
+1541,Sales,Sales Representative,1,34,Male,No,Stable,Read,35,Medium,11,10,Travel_Rarely,Yes,4,EMP1541
+1542,Research & Development,Laboratory Technician,1,42,Male,No,Mover,Read,40,Medium,1,0,Travel_Rarely,No,3,EMP1542
+1543,Research & Development,Research Scientist,2,37,Male,No,Stable,Write,30,Medium,10,8,Travel_Rarely,No,3,EMP1543
+1544,Research & Development,Healthcare Representative,2,29,Female,No,Stable,Read,20,Low,7,7,Travel_Rarely,No,3,EMP1544
+1545,Research & Development,Manufacturing Director,2,33,Male,No,Stable,Write,20,Low,5,3,Travel_Rarely,No,3,EMP1545
+1546,Research & Development,Research Scientist,1,45,Male,No,Stable,Write,20,Low,5,4,Travel_Rarely,No,4,EMP1546
+1547,Research & Development,Healthcare Representative,3,42,Male,No,Stable,Read,40,Medium,20,8,Travel_Frequently,Yes,3,EMP1547
+1548,Sales,Sales Executive,2,40,Male,No,Stable,Write,40,Medium,8,4,Travel_Rarely,No,3,EMP1548
+1549,Research & Development,Laboratory Technician,2,33,Male,No,Stable,Read,35,Medium,15,14,Travel_Rarely,Yes,3,EMP1549
+1550,Human Resources,Manager,4,40,Male,No,Stable,Write,45,Medium,21,7,Travel_Rarely,Yes,4,EMP1550
+1551,Research & Development,Laboratory Technician,1,24,Male,No,Mover,Read,40,Medium,1,1,Travel_Rarely,No,3,EMP1551
+1552,Research & Development,Healthcare Representative,2,40,Male,No,Stable,Read,15,Low,2,2,Non-Travel,Yes,3,EMP1552
+1553,Research & Development,Healthcare Representative,3,45,Male,No,Stable,Read,20,Low,10,8,Travel_Rarely,No,3,EMP1553
+1554,Sales,Sales Representative,1,35,Female,No,Stable,Read,10,Low,5,3,Travel_Rarely,No,4,EMP1554
+1555,Research & Development,Research Scientist,2,32,Female,No,Mover,Write,50,High,7,1,Travel_Rarely,No,3,EMP1555
+1556,Sales,Sales Representative,1,36,Male,No,Stable,Read,20,Low,3,2,Travel_Rarely,Yes,4,EMP1556
+1557,Sales,Sales Executive,2,48,Female,No,Stable,Write,30,Medium,8,7,Travel_Rarely,No,3,EMP1557
+1558,Research & Development,Research Scientist,1,29,Male,No,Mover,Write,50,High,1,0,Travel_Rarely,No,3,EMP1558
+1560,Sales,Sales Executive,2,33,Male,No,Stable,Write,20,Low,2,2,Travel_Rarely,No,3,EMP1560
+1562,Sales,Sales Executive,2,30,Male,Yes,Leaver,Write,70,Critical,10,8,Travel_Rarely,No,3,EMP1562
+1563,Human Resources,Human Resources,2,38,Male,No,Stable,Read,25,Low,6,3,Travel_Frequently,No,3,EMP1563
+1564,Research & Development,Laboratory Technician,1,35,Male,No,Mover,Read,30,Medium,3,0,Travel_Rarely,No,3,EMP1564
+1568,Sales,Sales Executive,3,30,Male,No,Stable,Write,20,Low,4,2,Travel_Rarely,No,3,EMP1568
+1569,Research & Development,Laboratory Technician,1,35,Female,Yes,Leaver,Read,70,Critical,1,0,Travel_Rarely,Yes,3,EMP1569
+1572,Research & Development,Manufacturing Director,3,53,Female,Yes,Leaver,Write,75,Critical,33,7,Travel_Rarely,No,3,EMP1572
+1573,Research & Development,Manufacturing Director,2,38,Male,Yes,Leaver,Write,60,High,5,2,Travel_Rarely,No,3,EMP1573
+1574,Research & Development,Research Scientist,2,32,Male,No,Stable,Write,25,Low,6,5,Non-Travel,No,3,EMP1574
+1576,Research & Development,Research Scientist,1,48,Female,No,Stable,Write,30,Medium,8,2,Travel_Rarely,No,3,EMP1576
+1577,Research & Development,Research Scientist,1,34,Male,No,Mover,Write,50,High,1,0,Travel_Rarely,No,3,EMP1577
+1578,Sales,Manager,5,55,Male,No,Stable,Write,35,Medium,36,6,Travel_Rarely,No,4,EMP1578
+1580,Research & Development,Research Scientist,2,34,Male,No,Stable,Write,30,Medium,2,2,Travel_Rarely,No,3,EMP1580
+1581,Research & Development,Research Scientist,1,26,Female,No,Mover,Write,50,High,1,0,Travel_Rarely,No,4,EMP1581
+1582,Sales,Sales Executive,2,38,Male,No,Stable,Write,30,Medium,9,8,Travel_Rarely,No,3,EMP1582
+1583,Sales,Sales Executive,2,38,Female,No,Stable,Write,20,Low,3,2,Travel_Rarely,No,3,EMP1583
+1585,Sales,Sales Executive,2,36,Female,No,Mover,Write,50,High,1,0,Travel_Rarely,No,3,EMP1585
+1586,Research & Development,Laboratory Technician,1,29,Male,No,Stable,Read,30,Medium,10,9,Travel_Rarely,Yes,3,EMP1586
+1587,Research & Development,Healthcare Representative,2,35,Female,No,Stable,Read,20,Low,5,2,Travel_Rarely,Yes,3,EMP1587
+1588,Sales,Sales Executive,3,39,Male,No,Stable,Write,30,Medium,7,6,Travel_Rarely,No,3,EMP1588
+1590,Research & Development,Healthcare Representative,2,29,Male,No,Stable,Read,25,Low,6,4,Travel_Frequently,No,3,EMP1590
+1591,Sales,Manager,5,50,Male,No,Mover,Write,60,High,1,0,Travel_Rarely,Yes,3,EMP1591
+1592,Research & Development,Research Scientist,1,23,Male,No,Stable,Write,20,Low,2,2,Travel_Rarely,No,3,EMP1592
+1594,Research & Development,Laboratory Technician,2,36,Male,No,Stable,Read,25,Low,3,2,Travel_Frequently,Yes,3,EMP1594
+1595,Research & Development,Manager,5,42,Male,No,Mover,Write,50,High,1,0,Travel_Rarely,No,4,EMP1595
+1596,Research & Development,Laboratory Technician,2,35,Male,No,Stable,Read,20,Low,10,9,Travel_Rarely,No,3,EMP1596
+1597,Research & Development,Healthcare Representative,2,34,Male,No,Stable,Read,25,Low,8,2,Travel_Frequently,No,3,EMP1597
+1598,Sales,Sales Executive,2,40,Female,No,Stable,Write,20,Low,5,4,Travel_Rarely,No,3,EMP1598
+1599,Research & Development,Laboratory Technician,1,43,Male,No,Stable,Read,20,Low,6,4,Travel_Rarely,No,3,EMP1599
+1601,Research & Development,Laboratory Technician,1,35,Male,No,Mover,Read,40,Medium,1,0,Travel_Rarely,No,3,EMP1601
+1602,Sales,Manager,4,46,Male,No,Mover,Write,55,High,26,0,Travel_Rarely,No,3,EMP1602
+1604,Research & Development,Laboratory Technician,1,28,Male,Yes,Leaver,Read,70,Critical,1,1,Travel_Rarely,Yes,3,EMP1604
+1605,Research & Development,Research Scientist,1,22,Female,No,Stable,Write,25,Low,4,2,Non-Travel,Yes,3,EMP1605
+1606,Research & Development,Healthcare Representative,4,50,Male,No,Stable,Read,40,Medium,30,8,Travel_Frequently,Yes,3,EMP1606
+1607,Research & Development,Research Scientist,1,32,Female,No,Stable,Write,20,Low,3,2,Travel_Rarely,No,3,EMP1607
+1608,Research & Development,Research Director,5,44,Female,No,Stable,Admin,60,High,22,7,Travel_Rarely,Yes,3,EMP1608
+1609,Research & Development,Research Scientist,1,30,Male,No,Stable,Write,40,Medium,6,4,Travel_Rarely,No,3,EMP1609
+1611,Research & Development,Laboratory Technician,2,45,Female,No,Stable,Read,30,Medium,10,7,Travel_Rarely,Yes,3,EMP1611
+1612,Sales,Sales Executive,2,45,Male,No,Stable,Write,25,Low,10,7,Non-Travel,No,3,EMP1612
+1613,Sales,Sales Executive,2,31,Male,No,Stable,Write,25,Low,5,2,Travel_Frequently,No,3,EMP1613
+1614,Research & Development,Manufacturing Director,2,36,Female,No,Stable,Write,40,Medium,3,2,Travel_Rarely,Yes,3,EMP1614
+1615,Research & Development,Manufacturing Director,2,34,Male,No,Stable,Write,35,Medium,9,7,Travel_Frequently,No,3,EMP1615
+1617,Research & Development,Laboratory Technician,1,49,Female,No,Stable,Read,20,Low,9,6,Travel_Rarely,No,3,EMP1617
+1618,Research & Development,Manufacturing Director,2,39,Male,No,Stable,Write,30,Medium,7,7,Travel_Rarely,No,3,EMP1618
+1619,Research & Development,Laboratory Technician,1,27,Male,No,Stable,Read,20,Low,7,7,Travel_Rarely,No,3,EMP1619
+1621,Research & Development,Research Scientist,2,35,Male,No,Stable,Write,35,Medium,16,15,Travel_Rarely,No,3,EMP1621
+1622,Research & Development,Manufacturing Director,2,28,Female,No,Stable,Write,30,Medium,5,3,Travel_Rarely,No,4,EMP1622
+1623,Research & Development,Research Scientist,1,21,Male,No,Stable,Write,20,Low,2,2,Travel_Rarely,No,3,EMP1623
+1624,Sales,Sales Representative,1,18,Female,Yes,Leaver,Read,75,Critical,0,0,Travel_Frequently,Yes,3,EMP1624
+1625,Human Resources,Manager,5,47,Female,No,Stable,Write,30,Medium,5,2,Travel_Rarely,No,3,EMP1625
+1627,Research & Development,Laboratory Technician,2,39,Male,No,Stable,Read,20,Low,10,8,Travel_Rarely,No,3,EMP1627
+1628,Research & Development,Manufacturing Director,3,40,Female,No,Stable,Write,35,Medium,18,15,Travel_Rarely,No,3,EMP1628
+1630,Research & Development,Healthcare Representative,2,35,Female,No,Stable,Read,20,Low,14,11,Non-Travel,No,3,EMP1630
+1631,Research & Development,Manufacturing Director,2,37,Male,No,Stable,Write,20,Low,4,3,Travel_Rarely,No,3,EMP1631
+1633,Research & Development,Manufacturing Director,2,39,Female,No,Stable,Write,35,Medium,9,2,Travel_Frequently,No,3,EMP1633
+1635,Research & Development,Manufacturing Director,2,45,Female,No,Stable,Write,30,Medium,10,7,Travel_Rarely,No,3,EMP1635
+1638,Research & Development,Manufacturing Director,3,38,Female,No,Stable,Write,30,Medium,5,4,Travel_Rarely,Yes,3,EMP1638
+1639,Sales,Sales Executive,3,35,Male,Yes,Leaver,Write,85,Critical,13,12,Travel_Rarely,No,3,EMP1639
+1640,Research & Development,Research Scientist,1,37,Female,No,Stable,Write,30,Medium,8,4,Travel_Rarely,No,3,EMP1640
+1641,Research & Development,Manufacturing Director,3,40,Female,No,Stable,Write,30,Medium,4,2,Travel_Rarely,Yes,3,EMP1641
+1642,Human Resources,Human Resources,2,44,Male,No,Stable,Read,35,Medium,10,7,Travel_Frequently,Yes,3,EMP1642
+1644,Research & Development,Manager,4,48,Male,No,Stable,Write,25,Low,2,2,Travel_Frequently,No,4,EMP1644
+1645,Sales,Sales Executive,2,35,Male,Yes,Leaver,Write,70,Critical,2,2,Travel_Rarely,Yes,3,EMP1645
+1646,Research & Development,Research Scientist,1,24,Female,No,Stable,Write,45,Medium,6,3,Travel_Frequently,Yes,3,EMP1646
+1647,Research & Development,Research Scientist,1,27,Female,No,Stable,Write,20,Low,3,2,Travel_Rarely,No,3,EMP1647
+1648,Research & Development,Research Scientist,1,27,Male,No,Stable,Write,25,Low,4,2,Travel_Frequently,No,3,EMP1648
+1649,Research & Development,Laboratory Technician,1,40,Male,Yes,Leaver,Read,60,High,4,2,Travel_Rarely,Yes,3,EMP1649
+1650,Sales,Sales Executive,2,29,Male,No,Stable,Write,20,Low,5,2,Travel_Rarely,No,3,EMP1650
+1651,Research & Development,Healthcare Representative,3,36,Female,No,Stable,Read,10,Low,3,2,Travel_Rarely,No,3,EMP1651
+1653,Research & Development,Manufacturing Director,2,25,Male,No,Stable,Write,35,Medium,7,7,Travel_Frequently,No,3,EMP1653
+1654,Research & Development,Manufacturing Director,2,39,Male,No,Stable,Write,30,Medium,5,4,Travel_Rarely,No,4,EMP1654
+1655,Research & Development,Research Director,4,49,Female,No,Stable,Admin,35,Medium,4,2,Travel_Rarely,No,3,EMP1655
+1656,Research & Development,Research Director,3,50,Female,No,Stable,Admin,50,High,14,11,Travel_Rarely,No,3,EMP1656
+1657,Sales,Sales Representative,1,20,Female,No,Stable,Read,10,Low,2,2,Travel_Rarely,No,3,EMP1657
+1658,Research & Development,Research Scientist,2,34,Female,No,Stable,Write,35,Medium,11,8,Travel_Rarely,No,3,EMP1658
+1659,Research & Development,Laboratory Technician,1,36,Male,No,Stable,Read,10,Low,4,3,Travel_Rarely,No,3,EMP1659
+1661,Research & Development,Healthcare Representative,4,49,Female,No,Stable,Read,35,Medium,15,11,Travel_Rarely,Yes,3,EMP1661
+1662,Research & Development,Manufacturing Director,2,36,Female,No,Stable,Write,15,Low,3,2,Non-Travel,No,3,EMP1662
+1664,Research & Development,Healthcare Representative,2,36,Male,No,Stable,Read,10,Low,5,4,Travel_Rarely,No,4,EMP1664
+1665,Research & Development,Manager,4,54,Female,No,Stable,Write,30,Medium,10,8,Travel_Rarely,No,4,EMP1665
+1666,Research & Development,Research Director,4,43,Male,No,Stable,Admin,50,High,14,10,Travel_Rarely,No,4,EMP1666
+1667,Sales,Sales Executive,2,35,Male,Yes,Leaver,Write,90,Critical,11,9,Travel_Frequently,Yes,4,EMP1667
+1668,Research & Development,Research Scientist,2,38,Male,No,Stable,Write,40,Medium,13,11,Travel_Frequently,No,3,EMP1668
+1669,Sales,Sales Executive,2,29,Male,No,Mover,Write,60,High,10,0,Travel_Rarely,Yes,3,EMP1669
+1670,Sales,Sales Executive,2,33,Male,No,Stable,Write,30,Medium,6,2,Travel_Rarely,No,3,EMP1670
+1671,Research & Development,Research Scientist,2,32,Male,No,Stable,Write,30,Medium,9,5,Travel_Rarely,No,3,EMP1671
+1673,Sales,Sales Executive,2,31,Female,No,Mover,Write,50,High,10,0,Travel_Rarely,No,3,EMP1673
+1674,Research & Development,Laboratory Technician,1,49,Female,No,Stable,Read,20,Low,2,2,Travel_Rarely,Yes,3,EMP1674
+1675,Research & Development,Laboratory Technician,1,38,Female,No,Stable,Read,15,Low,4,3,Travel_Frequently,No,4,EMP1675
+1676,Sales,Manager,4,47,Female,No,Stable,Write,20,Low,3,2,Travel_Rarely,No,3,EMP1676
+1677,Research & Development,Manager,4,49,Male,No,Stable,Write,40,Medium,8,7,Travel_Rarely,No,3,EMP1677
+1678,Sales,Sales Executive,3,41,Male,No,Mover,Write,50,High,2,0,Travel_Rarely,Yes,3,EMP1678
+1680,Sales,Sales Representative,1,20,Male,No,Stable,Read,10,Low,2,2,Travel_Rarely,No,3,EMP1680
+1681,Sales,Sales Executive,2,33,Female,No,Stable,Write,35,Medium,6,5,Non-Travel,Yes,4,EMP1681
+1682,Research & Development,Healthcare Representative,2,36,Male,No,Stable,Read,10,Low,3,2,Travel_Rarely,No,3,EMP1682
+1683,Human Resources,Human Resources,1,44,Female,No,Stable,Read,20,Low,2,2,Travel_Rarely,Yes,3,EMP1683
+1684,Research & Development,Laboratory Technician,1,23,Male,Yes,Leaver,Read,60,High,5,4,Travel_Rarely,Yes,3,EMP1684
+1687,Research & Development,Laboratory Technician,1,38,Female,No,Mover,Read,40,Medium,0,0,Travel_Rarely,No,3,EMP1687
+1689,Research & Development,Healthcare Representative,3,53,Male,No,Stable,Read,10,Low,4,3,Travel_Rarely,No,3,EMP1689
+1691,Sales,Sales Representative,1,48,Female,Yes,Leaver,Read,75,Critical,9,7,Travel_Frequently,Yes,3,EMP1691
+1692,Research & Development,Laboratory Technician,1,32,Male,Yes,Leaver,Read,60,High,1,0,Travel_Rarely,No,3,EMP1692
+1693,Research & Development,Laboratory Technician,1,26,Male,No,Stable,Read,15,Low,7,7,Non-Travel,No,4,EMP1693
+1694,Research & Development,Research Scientist,1,55,Male,No,Stable,Write,20,Low,4,2,Travel_Rarely,No,3,EMP1694
+1696,Research & Development,Laboratory Technician,2,34,Male,No,Stable,Read,25,Low,15,10,Travel_Rarely,No,3,EMP1696
+1697,Research & Development,Healthcare Representative,3,60,Male,No,Mover,Read,40,Medium,1,0,Travel_Rarely,No,4,EMP1697
+1698,Research & Development,Laboratory Technician,1,33,Male,No,Stable,Read,25,Low,14,11,Travel_Rarely,No,3,EMP1698
+1700,Sales,Sales Executive,2,37,Male,No,Stable,Write,35,Medium,6,3,Travel_Frequently,No,3,EMP1700
+1701,Research & Development,Research Scientist,1,34,Female,No,Stable,Write,30,Medium,10,9,Travel_Rarely,No,3,EMP1701
+1702,Sales,Sales Representative,1,23,Male,Yes,Leaver,Read,60,High,3,2,Travel_Rarely,Yes,4,EMP1702
+1703,Research & Development,Healthcare Representative,3,44,Female,No,Stable,Read,30,Medium,8,7,Travel_Rarely,Yes,3,EMP1703
+1704,Research & Development,Research Scientist,1,35,Male,No,Stable,Write,35,Medium,5,4,Travel_Frequently,Yes,3,EMP1704
+1706,Sales,Sales Executive,2,43,Male,No,Stable,Write,40,Medium,10,9,Travel_Rarely,Yes,3,EMP1706
+1707,Research & Development,Research Scientist,1,24,Male,No,Stable,Write,20,Low,5,3,Travel_Rarely,No,3,EMP1707
+1708,Sales,Sales Executive,3,41,Male,No,Stable,Write,30,Medium,10,8,Travel_Rarely,No,3,EMP1708
+1709,Research & Development,Laboratory Technician,1,29,Female,No,Stable,Read,10,Low,5,3,Travel_Rarely,No,3,EMP1709
+1710,Sales,Sales Representative,2,36,Female,No,Stable,Read,25,Low,13,7,Travel_Rarely,No,3,EMP1710
+1712,Research & Development,Healthcare Representative,3,45,Male,No,Stable,Read,20,Low,23,15,Non-Travel,No,4,EMP1712
+1714,Human Resources,Human Resources,1,24,Male,Yes,Leaver,Read,60,High,1,0,Travel_Rarely,No,3,EMP1714
+1716,Sales,Sales Executive,4,47,Male,Yes,Leaver,Write,80,Critical,23,5,Travel_Frequently,No,3,EMP1716
+1718,Research & Development,Laboratory Technician,1,26,Male,No,Stable,Read,10,Low,3,2,Travel_Rarely,No,3,EMP1718
+1719,Research & Development,Research Director,4,45,Female,No,Stable,Admin,50,High,21,6,Travel_Rarely,No,3,EMP1719
+1720,Research & Development,Research Scientist,1,32,Male,No,Stable,Write,25,Low,5,2,Travel_Frequently,No,3,EMP1720
+1721,Research & Development,Laboratory Technician,1,31,Male,No,Stable,Read,10,Low,5,2,Travel_Rarely,No,3,EMP1721
+1722,Human Resources,Human Resources,2,41,Male,No,Stable,Read,5,Low,3,2,Non-Travel,No,3,EMP1722
+1724,Research & Development,Manufacturing Director,2,40,Female,No,Mover,Write,60,High,1,0,Travel_Rarely,Yes,3,EMP1724
+1725,Research & Development,Laboratory Technician,1,24,Male,No,Stable,Read,20,Low,6,2,Travel_Rarely,No,3,EMP1725
+1727,Research & Development,Healthcare Representative,2,46,Male,No,Stable,Read,20,Low,10,7,Travel_Rarely,No,3,EMP1727
+1728,Research & Development,Manufacturing Director,2,35,Male,No,Stable,Write,30,Medium,7,7,Travel_Rarely,No,3,EMP1728
+1729,Research & Development,Research Scientist,1,30,Male,No,Mover,Write,50,High,10,0,Travel_Rarely,No,3,EMP1729
+1731,Sales,Sales Executive,2,47,Male,No,Mover,Write,45,Medium,1,0,Non-Travel,No,3,EMP1731
+1732,Sales,Sales Executive,3,46,Male,No,Stable,Write,40,Medium,10,6,Travel_Rarely,Yes,3,EMP1732
+1733,Sales,Sales Executive,2,36,Male,Yes,Leaver,Write,70,Critical,2,2,Travel_Rarely,Yes,3,EMP1733
+1734,Sales,Sales Executive,2,32,Male,Yes,Leaver,Write,70,Critical,0,0,Travel_Rarely,No,3,EMP1734
+1735,Research & Development,Laboratory Technician,1,23,Female,No,Stable,Read,10,Low,3,2,Travel_Rarely,No,3,EMP1735
+1736,Research & Development,Manufacturing Director,2,31,Female,No,Stable,Write,25,Low,5,4,Travel_Frequently,No,4,EMP1736
+1737,Research & Development,Laboratory Technician,2,39,Male,No,Stable,Read,25,Low,9,8,Non-Travel,Yes,3,EMP1737
+1739,Sales,Sales Executive,3,32,Male,No,Stable,Write,20,Low,4,3,Travel_Rarely,No,3,EMP1739
+1740,Sales,Manager,5,40,Male,No,Stable,Write,35,Medium,21,8,Travel_Rarely,No,3,EMP1740
+1744,Human Resources,Human Resources,3,45,Female,No,Mover,Read,30,Medium,5,0,Travel_Rarely,No,4,EMP1744
+1745,Research & Development,Research Scientist,1,30,Female,No,Stable,Write,35,Medium,9,7,Travel_Frequently,No,3,EMP1745
+1746,Human Resources,Human Resources,1,24,Male,No,Stable,Read,25,Low,2,2,Travel_Frequently,No,3,EMP1746
+1747,Human Resources,Human Resources,1,30,Female,Yes,Leaver,Read,55,High,4,2,Travel_Frequently,No,3,EMP1747
+1749,Sales,Sales Executive,2,31,Male,No,Stable,Write,20,Low,5,2,Travel_Rarely,No,3,EMP1749
+1751,Research & Development,Research Scientist,1,27,Female,No,Stable,Write,30,Medium,6,2,Travel_Rarely,No,3,EMP1751
+1752,Sales,Sales Representative,1,29,Female,Yes,Leaver,Read,50,High,2,2,Travel_Rarely,No,3,EMP1752
+1753,Research & Development,Healthcare Representative,2,29,Male,No,Stable,Read,25,Low,3,2,Travel_Frequently,Yes,3,EMP1753
+1754,Sales,Sales Executive,3,30,Male,No,Stable,Write,30,Medium,7,7,Travel_Rarely,No,3,EMP1754
+1755,Research & Development,Research Scientist,1,34,Male,No,Mover,Write,50,High,5,0,Travel_Rarely,Yes,3,EMP1755
+1756,Sales,Sales Executive,2,33,Female,No,Stable,Write,30,Medium,11,7,Non-Travel,No,3,EMP1756
+1757,Sales,Sales Executive,2,49,Female,No,Mover,Write,40,Medium,5,1,Travel_Rarely,No,3,EMP1757
+1758,Sales,Sales Executive,3,33,Female,Yes,Leaver,Write,80,Critical,0,0,Travel_Rarely,Yes,4,EMP1758
+1760,Research & Development,Laboratory Technician,1,38,Female,No,Mover,Read,45,Medium,6,1,Travel_Frequently,No,3,EMP1760
+1761,Sales,Sales Executive,3,31,Male,Yes,Leaver,Write,70,Critical,1,0,Travel_Rarely,No,3,EMP1761
+1762,Research & Development,Research Scientist,1,29,Female,No,Mover,Write,50,High,1,0,Travel_Rarely,No,3,EMP1762
+1763,Research & Development,Healthcare Representative,2,30,Male,No,Mover,Read,40,Medium,7,0,Travel_Rarely,No,3,EMP1763
+1764,Research & Development,Research Scientist,1,32,Male,No,Stable,Write,25,Low,7,7,Non-Travel,No,3,EMP1764
+1766,Research & Development,Healthcare Representative,2,38,Male,No,Mover,Read,50,High,1,0,Travel_Rarely,Yes,3,EMP1766
+1767,Research & Development,Research Scientist,1,43,Male,Yes,Leaver,Write,85,Critical,1,0,Travel_Frequently,Yes,3,EMP1767
+1768,Research & Development,Laboratory Technician,1,42,Male,No,Stable,Read,10,Low,5,3,Travel_Rarely,No,4,EMP1768
+1770,Research & Development,Research Director,5,55,Male,No,Mover,Admin,65,High,1,0,Travel_Rarely,No,3,EMP1770
+1771,Research & Development,Research Scientist,2,33,Male,No,Stable,Write,25,Low,9,8,Non-Travel,No,3,EMP1771
+1772,Research & Development,Laboratory Technician,1,41,Male,No,Stable,Read,10,Low,5,3,Travel_Rarely,No,4,EMP1772
+1774,Sales,Sales Executive,2,34,Male,No,Stable,Write,40,Medium,15,14,Non-Travel,Yes,3,EMP1774
+1775,Research & Development,Manufacturing Director,4,53,Female,No,Stable,Write,25,Low,3,2,Non-Travel,Yes,4,EMP1775
+1778,Human Resources,Human Resources,1,43,Male,No,Stable,Read,20,Low,9,7,Travel_Rarely,No,3,EMP1778
+1779,Sales,Sales Executive,2,34,Female,No,Stable,Write,20,Low,2,2,Travel_Rarely,No,3,EMP1779
+1780,Sales,Sales Representative,1,21,Male,Yes,Leaver,Read,60,High,1,0,Travel_Rarely,No,3,EMP1780
+1782,Research & Development,Laboratory Technician,1,38,Female,No,Stable,Read,10,Low,5,4,Travel_Rarely,No,3,EMP1782
+1783,Research & Development,Laboratory Technician,1,22,Female,Yes,Leaver,Read,70,Critical,1,0,Travel_Rarely,Yes,3,EMP1783
+1784,Sales,Sales Executive,2,31,Female,No,Stable,Write,35,Medium,12,7,Travel_Rarely,No,3,EMP1784
+1786,Research & Development,Manager,3,51,Female,No,Stable,Write,20,Low,2,2,Travel_Rarely,No,3,EMP1786
+1787,Sales,Sales Executive,2,37,Male,No,Stable,Write,20,Low,5,2,Travel_Rarely,No,3,EMP1787
+1789,Research & Development,Research Director,5,46,Male,No,Mover,Admin,65,High,2,1,Travel_Rarely,Yes,3,EMP1789
+1790,Research & Development,Healthcare Representative,3,36,Male,No,Stable,Read,35,Medium,12,8,Travel_Rarely,Yes,3,EMP1790
+1792,Research & Development,Research Scientist,1,44,Male,Yes,Leaver,Write,75,Critical,5,3,Travel_Frequently,Yes,3,EMP1792
+1794,Human Resources,Human Resources,2,37,Male,No,Mover,Read,40,Medium,10,0,Travel_Rarely,No,3,EMP1794
+1797,Sales,Sales Executive,2,35,Male,Yes,Leaver,Write,80,Critical,10,7,Travel_Rarely,Yes,3,EMP1797
+1798,Research & Development,Research Scientist,1,33,Male,No,Stable,Write,30,Medium,10,8,Travel_Rarely,No,3,EMP1798
+1799,Research & Development,Research Scientist,1,28,Male,No,Stable,Write,20,Low,5,3,Travel_Rarely,No,3,EMP1799
+1800,Research & Development,Research Director,3,39,Male,No,Stable,Admin,35,Medium,4,3,Travel_Rarely,No,4,EMP1800
+1801,Sales,Sales Executive,2,46,Male,No,Stable,Write,15,Low,2,2,Non-Travel,No,3,EMP1801
+1802,Research & Development,Laboratory Technician,1,40,Female,No,Stable,Read,10,Low,4,3,Travel_Rarely,No,3,EMP1802
+1803,Research & Development,Healthcare Representative,2,42,Male,No,Mover,Read,40,Medium,0,0,Travel_Rarely,No,3,EMP1803
+1804,Research & Development,Manufacturing Director,2,35,Male,No,Stable,Write,25,Low,7,7,Non-Travel,No,3,EMP1804
+1805,Human Resources,Human Resources,1,38,Male,No,Stable,Read,20,Low,11,10,Non-Travel,No,3,EMP1805
+1807,Research & Development,Laboratory Technician,2,34,Male,Yes,Leaver,Read,65,High,7,1,Travel_Frequently,No,3,EMP1807
+1809,Research & Development,Manufacturing Director,2,37,Male,Yes,Leaver,Write,70,Critical,10,3,Travel_Rarely,No,3,EMP1809
+1812,Sales,Sales Executive,2,39,Male,No,Mover,Write,45,Medium,2,1,Travel_Frequently,No,3,EMP1812
+1813,Research & Development,Research Scientist,1,43,Male,No,Stable,Write,15,Low,3,2,Non-Travel,No,3,EMP1813
+1814,Research & Development,Healthcare Representative,2,41,Male,No,Stable,Read,10,Low,3,2,Travel_Rarely,No,3,EMP1814
+1815,Sales,Sales Executive,3,41,Female,No,Stable,Write,45,Medium,22,14,Travel_Rarely,Yes,3,EMP1815
+1816,Research & Development,Manufacturing Director,3,30,Female,No,Stable,Write,30,Medium,7,7,Travel_Rarely,No,3,EMP1816
+1818,Human Resources,Human Resources,1,26,Female,Yes,Leaver,Read,60,High,5,1,Travel_Rarely,Yes,3,EMP1818
+1821,Research & Development,Healthcare Representative,2,46,Female,Yes,Leaver,Read,60,High,9,7,Travel_Rarely,No,4,EMP1821
+1822,Research & Development,Healthcare Representative,2,40,Female,No,Stable,Read,10,Low,5,3,Travel_Rarely,No,3,EMP1822
+1823,Sales,Sales Executive,2,34,Male,No,Stable,Write,30,Medium,10,8,Travel_Rarely,No,4,EMP1823
+1824,Sales,Manager,4,58,Male,No,Stable,Write,30,Medium,16,9,Non-Travel,No,4,EMP1824
+1826,Research & Development,Laboratory Technician,1,35,Male,No,Stable,Read,10,Low,5,4,Travel_Rarely,No,3,EMP1826
+1827,Research & Development,Manufacturing Director,3,47,Female,No,Stable,Write,45,Medium,22,11,Travel_Rarely,Yes,3,EMP1827
+1829,Research & Development,Healthcare Representative,2,40,Female,No,Stable,Read,20,Low,7,4,Travel_Rarely,No,3,EMP1829
+1830,Research & Development,Research Scientist,2,54,Female,No,Mover,Write,50,High,7,1,Travel_Rarely,No,3,EMP1830
+1833,Sales,Sales Executive,3,31,Female,No,Stable,Write,25,Low,3,2,Travel_Frequently,No,3,EMP1833
+1834,Research & Development,Research Scientist,1,28,Female,No,Stable,Write,20,Low,3,2,Travel_Rarely,No,4,EMP1834
+1835,Sales,Sales Representative,2,38,Female,No,Stable,Read,20,Low,4,2,Travel_Rarely,Yes,4,EMP1835
+1836,Sales,Sales Executive,2,26,Male,No,Stable,Write,20,Low,5,3,Travel_Rarely,No,3,EMP1836
+1837,Research & Development,Research Director,4,58,Male,No,Stable,Admin,50,High,2,2,Travel_Frequently,Yes,3,EMP1837
+1839,Research & Development,Research Scientist,1,18,Female,No,Mover,Write,45,Medium,0,0,Non-Travel,No,3,EMP1839
+1842,Human Resources,Human Resources,1,31,Male,Yes,Leaver,Read,60,High,1,0,Travel_Rarely,No,3,EMP1842
+1844,Human Resources,Human Resources,1,29,Male,Yes,Leaver,Read,70,Critical,2,2,Travel_Rarely,Yes,3,EMP1844
+1845,Sales,Sales Executive,2,45,Female,No,Stable,Write,25,Low,8,7,Non-Travel,No,4,EMP1845
+1847,Research & Development,Research Scientist,2,36,Female,No,Mover,Write,60,High,1,0,Travel_Rarely,Yes,4,EMP1847
+1849,Sales,Sales Executive,2,43,Male,No,Stable,Write,35,Medium,7,7,Travel_Frequently,No,4,EMP1849
+1850,Research & Development,Laboratory Technician,1,27,Female,No,Stable,Read,25,Low,5,4,Travel_Frequently,Yes,3,EMP1850
+1852,Research & Development,Laboratory Technician,1,29,Male,No,Stable,Read,30,Medium,11,8,Travel_Frequently,No,3,EMP1852
+1853,Sales,Sales Executive,2,32,Male,No,Mover,Write,55,High,0,0,Travel_Frequently,No,3,EMP1853
+1854,Research & Development,Research Scientist,1,42,Male,No,Stable,Write,25,Low,6,3,Non-Travel,No,4,EMP1854
+1856,Research & Development,Laboratory Technician,1,47,Female,No,Stable,Read,20,Low,2,2,Travel_Rarely,No,3,EMP1856
+1857,Research & Development,Manufacturing Director,3,46,Male,No,Stable,Write,30,Medium,9,8,Travel_Rarely,No,3,EMP1857
+1858,Human Resources,Human Resources,1,28,Male,No,Stable,Read,5,Low,3,2,Non-Travel,No,3,EMP1858
+1859,Research & Development,Healthcare Representative,2,29,Male,No,Mover,Read,40,Medium,7,0,Travel_Rarely,No,3,EMP1859
+1860,Research & Development,Laboratory Technician,1,42,Male,No,Mover,Read,40,Medium,0,0,Travel_Rarely,No,3,EMP1860
+1862,Sales,Sales Executive,2,32,Male,Yes,Leaver,Write,70,Critical,2,2,Travel_Rarely,Yes,3,EMP1862
+1863,Sales,Sales Executive,4,46,Female,No,Stable,Write,35,Medium,19,17,Travel_Rarely,No,3,EMP1863
+1864,Sales,Sales Representative,2,27,Female,No,Stable,Read,20,Low,9,8,Travel_Rarely,No,4,EMP1864
+1865,Human Resources,Human Resources,1,29,Male,No,Mover,Read,40,Medium,1,0,Travel_Rarely,No,3,EMP1865
+1866,Research & Development,Manager,5,43,Female,No,Stable,Write,35,Medium,16,12,Travel_Rarely,No,3,EMP1866
+1867,Research & Development,Research Director,5,48,Male,No,Stable,Admin,50,High,22,10,Travel_Rarely,No,3,EMP1867
+1868,Research & Development,Research Scientist,1,29,Male,Yes,Leaver,Write,85,Critical,1,0,Travel_Frequently,Yes,4,EMP1868
+1869,Sales,Sales Executive,3,46,Female,Yes,Leaver,Write,70,Critical,8,7,Travel_Rarely,No,4,EMP1869
+1870,Research & Development,Research Scientist,1,27,Female,No,Stable,Write,35,Medium,7,6,Travel_Frequently,No,3,EMP1870
+1871,Research & Development,Research Scientist,2,39,Male,No,Stable,Write,20,Low,2,2,Travel_Rarely,No,3,EMP1871
+1873,Research & Development,Research Scientist,1,55,Male,No,Stable,Write,20,Low,5,2,Travel_Rarely,No,4,EMP1873
+1875,Sales,Sales Representative,1,28,Female,No,Mover,Read,40,Medium,1,0,Travel_Rarely,No,3,EMP1875
+1876,Sales,Sales Representative,1,30,Male,Yes,Leaver,Read,60,High,1,0,Travel_Rarely,No,3,EMP1876
+1878,Research & Development,Research Scientist,1,22,Male,Yes,Leaver,Write,80,Critical,1,0,Travel_Rarely,Yes,4,EMP1878
+1880,Sales,Sales Executive,2,36,Female,No,Stable,Write,40,Medium,10,9,Travel_Rarely,Yes,3,EMP1880
+1881,Research & Development,Laboratory Technician,2,31,Male,No,Stable,Read,20,Low,10,8,Travel_Rarely,No,3,EMP1881
+1882,Sales,Sales Executive,3,34,Male,No,Stable,Write,40,Medium,5,3,Travel_Rarely,Yes,3,EMP1882
+1883,Research & Development,Laboratory Technician,1,29,Male,No,Stable,Read,10,Low,3,2,Travel_Rarely,No,3,EMP1883
+1885,Research & Development,Research Scientist,2,37,Male,No,Stable,Write,30,Medium,5,3,Travel_Rarely,Yes,4,EMP1885
+1886,Research & Development,Manufacturing Director,2,35,Female,No,Stable,Write,30,Medium,3,2,Travel_Rarely,Yes,3,EMP1886
+1888,Research & Development,Manufacturing Director,2,45,Female,No,Stable,Write,30,Medium,9,8,Travel_Rarely,No,3,EMP1888
+1890,Human Resources,Human Resources,2,36,Male,No,Mover,Read,45,Medium,10,1,Travel_Frequently,No,4,EMP1890
+1892,Research & Development,Manager,4,40,Male,No,Stable,Write,35,Medium,19,7,Travel_Rarely,No,3,EMP1892
+1893,Research & Development,Research Scientist,1,26,Female,No,Mover,Write,60,High,1,0,Travel_Rarely,Yes,3,EMP1893
+1898,Sales,Sales Executive,2,27,Female,No,Stable,Write,30,Medium,8,7,Travel_Rarely,No,3,EMP1898
+1900,Research & Development,Manager,4,48,Female,No,Stable,Write,40,Medium,22,17,Travel_Frequently,No,3,EMP1900
+1903,Research & Development,Healthcare Representative,2,44,Male,No,Mover,Read,30,Medium,2,0,Travel_Rarely,No,3,EMP1903
+1905,Research & Development,Research Scientist,1,34,Male,Yes,Leaver,Write,75,Critical,5,2,Non-Travel,Yes,4,EMP1905
+1907,Research & Development,Laboratory Technician,1,56,Male,Yes,Leaver,Read,60,High,4,2,Travel_Rarely,No,3,EMP1907
+1908,Sales,Sales Executive,2,36,Male,No,Stable,Write,20,Low,4,2,Travel_Rarely,No,3,EMP1908
+1909,Sales,Sales Executive,2,41,Female,No,Stable,Write,20,Low,5,4,Travel_Rarely,No,4,EMP1909
+1911,Research & Development,Research Director,3,42,Male,No,Stable,Admin,50,High,13,7,Travel_Rarely,No,3,EMP1911
+1912,Sales,Sales Executive,2,31,Female,No,Stable,Write,30,Medium,5,2,Travel_Rarely,Yes,3,EMP1912
+1915,Sales,Sales Executive,2,34,Female,No,Stable,Write,40,Medium,4,2,Travel_Rarely,Yes,3,EMP1915
+1916,Research & Development,Laboratory Technician,1,31,Female,No,Stable,Read,10,Low,2,2,Travel_Rarely,No,3,EMP1916
+1918,Research & Development,Laboratory Technician,1,26,Male,No,Stable,Read,25,Low,7,7,Travel_Frequently,No,3,EMP1918
+1922,Research & Development,Healthcare Representative,2,45,Male,No,Stable,Read,15,Low,4,2,Travel_Frequently,No,3,EMP1922
+1924,Sales,Sales Executive,2,33,Male,No,Stable,Write,30,Medium,10,4,Travel_Rarely,No,3,EMP1924
+1927,Sales,Sales Executive,2,28,Male,No,Stable,Write,45,Medium,7,7,Travel_Frequently,Yes,3,EMP1927
+1928,Sales,Sales Representative,1,29,Male,Yes,Leaver,Read,65,High,1,0,Travel_Frequently,No,3,EMP1928
+1929,Sales,Sales Executive,2,39,Female,No,Stable,Write,15,Low,3,2,Non-Travel,No,3,EMP1929
+1931,Research & Development,Research Scientist,1,27,Male,No,Stable,Write,20,Low,5,3,Travel_Rarely,No,3,EMP1931
+1932,Research & Development,Research Scientist,2,34,Male,No,Stable,Write,50,High,15,10,Travel_Frequently,Yes,3,EMP1932
+1933,Sales,Sales Executive,2,28,Female,Yes,Leaver,Write,70,Critical,2,0,Travel_Rarely,Yes,3,EMP1933
+1934,Research & Development,Research Scientist,2,47,Male,No,Stable,Write,25,Low,8,7,Non-Travel,No,3,EMP1934
+1935,Sales,Sales Executive,2,56,Female,No,Mover,Write,50,High,0,0,Travel_Rarely,No,3,EMP1935
+1936,Research & Development,Manufacturing Director,2,39,Male,No,Mover,Write,50,High,10,0,Travel_Rarely,No,4,EMP1936
+1937,Research & Development,Research Scientist,2,38,Female,No,Stable,Write,50,High,20,11,Travel_Frequently,Yes,3,EMP1937
+1938,Sales,Manager,4,58,Female,No,Mover,Write,60,High,1,0,Travel_Rarely,Yes,3,EMP1938
+1939,Research & Development,Research Scientist,1,32,Female,Yes,Leaver,Write,75,Critical,4,1,Travel_Frequently,Yes,3,EMP1939
+1940,Research & Development,Research Scientist,1,38,Male,No,Stable,Write,20,Low,5,2,Travel_Rarely,No,3,EMP1940
+1941,Research & Development,Research Director,5,49,Male,No,Stable,Admin,40,Medium,5,4,Travel_Frequently,No,3,EMP1941
+1943,Sales,Sales Executive,2,42,Male,No,Mover,Write,60,High,0,0,Travel_Rarely,Yes,3,EMP1943
+1944,Human Resources,Human Resources,1,27,Female,Yes,Leaver,Read,65,High,1,0,Travel_Frequently,No,3,EMP1944
+1945,Sales,Sales Executive,2,35,Male,No,Stable,Write,20,Low,5,3,Travel_Rarely,No,3,EMP1945
+1947,Research & Development,Research Scientist,1,28,Male,No,Stable,Write,15,Low,5,3,Non-Travel,No,3,EMP1947
+1948,Research & Development,Research Scientist,1,31,Male,No,Stable,Write,25,Low,4,2,Non-Travel,Yes,3,EMP1948
+1949,Research & Development,Laboratory Technician,1,36,Male,No,Stable,Read,5,Low,5,4,Non-Travel,No,4,EMP1949
+1950,Sales,Sales Executive,3,34,Male,No,Stable,Write,45,Medium,14,8,Travel_Rarely,No,4,EMP1950
+1951,Sales,Sales Executive,3,34,Male,No,Stable,Write,40,Medium,8,7,Travel_Rarely,No,3,EMP1951
+1952,Research & Development,Laboratory Technician,1,26,Male,No,Stable,Read,20,Low,7,7,Travel_Rarely,No,3,EMP1952
+1954,Research & Development,Healthcare Representative,2,29,Male,No,Stable,Read,10,Low,5,3,Travel_Rarely,No,3,EMP1954
+1955,Research & Development,Healthcare Representative,2,32,Female,No,Mover,Read,25,Low,5,1,Non-Travel,No,3,EMP1955
+1956,Research & Development,Research Scientist,2,31,Male,No,Stable,Write,35,Medium,10,8,Travel_Frequently,No,4,EMP1956
+1960,Research & Development,Laboratory Technician,1,28,Male,Yes,Leaver,Read,50,High,4,1,Travel_Rarely,No,3,EMP1960
+1961,Sales,Sales Representative,1,38,Male,No,Mover,Read,40,Medium,1,0,Travel_Rarely,No,3,EMP1961
+1962,Sales,Sales Executive,2,35,Female,No,Stable,Write,40,Medium,10,8,Travel_Rarely,Yes,3,EMP1962
+1965,Sales,Sales Executive,2,27,Male,No,Stable,Write,30,Medium,7,7,Travel_Rarely,No,3,EMP1965
+1966,Research & Development,Manufacturing Director,2,32,Male,No,Mover,Write,50,High,1,0,Travel_Rarely,No,4,EMP1966
+1967,Sales,Sales Executive,2,31,Male,Yes,Leaver,Write,85,Critical,10,7,Travel_Frequently,Yes,3,EMP1967
+1968,Sales,Sales Executive,3,53,Male,Yes,Leaver,Write,70,Critical,2,2,Travel_Rarely,Yes,3,EMP1968
+1969,Research & Development,Research Scientist,2,54,Female,No,Stable,Write,20,Low,4,3,Travel_Rarely,No,3,EMP1969
+1970,Research & Development,Healthcare Representative,2,33,Male,No,Stable,Read,25,Low,9,7,Travel_Frequently,No,4,EMP1970
+1971,Research & Development,Healthcare Representative,3,43,Male,No,Stable,Read,20,Low,10,9,Travel_Rarely,No,3,EMP1971
+1972,Human Resources,Human Resources,1,38,Male,No,Stable,Read,35,Medium,6,2,Travel_Frequently,Yes,3,EMP1972
+1973,Human Resources,Manager,5,55,Male,No,Stable,Write,40,Medium,10,9,Travel_Rarely,Yes,3,EMP1973
+1974,Research & Development,Laboratory Technician,1,31,Female,No,Mover,Read,50,High,1,0,Travel_Rarely,Yes,3,EMP1974
+1975,Sales,Sales Executive,4,39,Male,No,Stable,Write,35,Medium,20,8,Travel_Rarely,No,3,EMP1975
+1976,Research & Development,Research Scientist,2,42,Male,No,Stable,Write,30,Medium,20,9,Non-Travel,No,3,EMP1976
+1979,Research & Development,Research Director,3,31,Female,No,Stable,Admin,45,Medium,11,7,Non-Travel,No,4,EMP1979
+1980,Research & Development,Manufacturing Director,2,54,Female,No,Stable,Write,30,Medium,5,2,Travel_Rarely,Yes,3,EMP1980
+1981,Research & Development,Healthcare Representative,2,24,Male,No,Stable,Read,10,Low,4,3,Travel_Rarely,No,3,EMP1981
+1982,Research & Development,Laboratory Technician,1,23,Male,No,Stable,Read,10,Low,5,2,Travel_Rarely,No,3,EMP1982
+1985,Research & Development,Laboratory Technician,2,40,Female,No,Stable,Read,25,Low,10,9,Travel_Frequently,No,3,EMP1985
+1986,Sales,Sales Executive,2,40,Female,No,Stable,Write,35,Medium,11,8,Travel_Rarely,No,3,EMP1986
+1987,Human Resources,Human Resources,1,25,Female,No,Mover,Read,30,Medium,2,0,Travel_Rarely,No,3,EMP1987
+1989,Research & Development,Laboratory Technician,1,30,Male,No,Stable,Read,25,Low,12,8,Travel_Rarely,No,3,EMP1989
+1992,Research & Development,Laboratory Technician,1,25,Male,No,Stable,Read,20,Low,2,2,Travel_Rarely,Yes,3,EMP1992
+1993,Research & Development,Healthcare Representative,3,47,Male,No,Stable,Read,25,Low,17,14,Travel_Rarely,No,4,EMP1993
+1994,Research & Development,Laboratory Technician,1,33,Male,No,Mover,Read,35,Medium,1,1,Non-Travel,No,3,EMP1994
+1995,Sales,Sales Executive,2,38,Male,No,Stable,Write,35,Medium,15,13,Travel_Rarely,No,3,EMP1995
+1996,Sales,Sales Representative,1,31,Male,No,Stable,Read,10,Low,2,2,Travel_Rarely,No,3,EMP1996
+1997,Research & Development,Manufacturing Director,2,38,Male,No,Stable,Write,35,Medium,8,3,Travel_Frequently,No,3,EMP1997
+1998,Research & Development,Research Scientist,2,42,Male,No,Stable,Write,30,Medium,4,3,Travel_Rarely,Yes,3,EMP1998
+1999,Research & Development,Research Scientist,1,41,Male,No,Stable,Write,30,Medium,5,3,Travel_Rarely,No,4,EMP1999
+2000,Research & Development,Research Director,3,47,Female,No,Stable,Admin,45,Medium,13,8,Non-Travel,No,3,EMP2000
+2003,Research & Development,Laboratory Technician,1,35,Male,No,Stable,Read,20,Low,2,2,Travel_Rarely,Yes,3,EMP2003
+2007,Research & Development,Research Scientist,1,22,Male,No,Stable,Write,20,Low,3,2,Travel_Rarely,No,3,EMP2007
+2008,Research & Development,Research Scientist,2,35,Male,No,Stable,Write,30,Medium,10,7,Travel_Rarely,No,3,EMP2008
+2009,Research & Development,Healthcare Representative,2,33,Female,No,Stable,Read,40,Medium,9,7,Travel_Rarely,Yes,3,EMP2009
+2010,Research & Development,Laboratory Technician,1,32,Female,No,Stable,Read,30,Medium,6,2,Travel_Rarely,No,3,EMP2010
+2012,Research & Development,Laboratory Technician,1,40,Male,No,Mover,Read,40,Medium,1,0,Travel_Rarely,No,3,EMP2012
+2013,Sales,Sales Representative,1,32,Male,No,Stable,Read,10,Low,2,2,Travel_Rarely,No,3,EMP2013
+2014,Research & Development,Research Scientist,2,39,Male,No,Stable,Write,30,Medium,7,7,Travel_Rarely,No,3,EMP2014
+2015,Research & Development,Research Director,3,38,Female,No,Stable,Admin,50,High,18,16,Travel_Rarely,No,3,EMP2015
+2016,Sales,Sales Executive,3,32,Female,No,Stable,Write,35,Medium,14,10,Travel_Rarely,No,3,EMP2016
+2017,Research & Development,Research Director,3,37,Female,No,Stable,Admin,60,High,16,11,Travel_Rarely,Yes,4,EMP2017
+2018,Sales,Sales Executive,2,25,Female,No,Stable,Write,30,Medium,5,3,Travel_Rarely,Yes,4,EMP2018
+2019,Sales,Sales Representative,1,52,Male,No,Stable,Read,25,Low,9,8,Non-Travel,No,3,EMP2019
+2020,Research & Development,Research Scientist,1,44,Male,No,Stable,Write,30,Medium,4,3,Travel_Rarely,Yes,3,EMP2020
+2021,Sales,Sales Representative,1,21,Male,No,Stable,Read,20,Low,2,2,Travel_Rarely,Yes,3,EMP2021
+2022,Research & Development,Manager,5,39,Male,No,Mover,Write,45,Medium,6,0,Non-Travel,No,3,EMP2022
+2023,Sales,Sales Representative,1,23,Male,Yes,Leaver,Read,65,High,1,0,Travel_Frequently,No,3,EMP2023
+2024,Sales,Sales Executive,3,36,Female,No,Stable,Write,30,Medium,9,7,Travel_Rarely,No,3,EMP2024
+2025,Research & Development,Manufacturing Director,2,36,Female,No,Stable,Write,25,Low,4,2,Travel_Frequently,No,3,EMP2025
+2026,Research & Development,Healthcare Representative,2,56,Male,No,Stable,Read,20,Low,13,12,Non-Travel,No,4,EMP2026
+2027,Research & Development,Research Scientist,1,29,Male,Yes,Leaver,Write,70,Critical,2,2,Travel_Rarely,Yes,3,EMP2027
+2031,Research & Development,Manager,5,42,Male,No,Stable,Write,35,Medium,22,6,Travel_Rarely,No,3,EMP2031
+2032,Research & Development,Laboratory Technician,1,56,Male,Yes,Leaver,Read,60,High,10,9,Travel_Rarely,No,3,EMP2032
+2034,Research & Development,Manufacturing Director,4,41,Female,No,Stable,Write,35,Medium,20,7,Travel_Rarely,No,4,EMP2034
+2035,Sales,Sales Executive,2,34,Female,No,Stable,Write,30,Medium,8,7,Travel_Rarely,No,4,EMP2035
+2036,Sales,Sales Executive,2,36,Male,No,Stable,Write,30,Medium,15,12,Non-Travel,No,4,EMP2036
+2037,Sales,Sales Executive,2,41,Male,No,Stable,Write,20,Low,5,4,Travel_Rarely,No,3,EMP2037
+2038,Research & Development,Research Scientist,1,32,Male,No,Stable,Write,20,Low,4,2,Travel_Rarely,No,3,EMP2038
+2040,Human Resources,Human Resources,3,35,Female,No,Mover,Read,50,High,9,0,Travel_Rarely,Yes,3,EMP2040
+2041,Sales,Sales Executive,2,38,Female,No,Stable,Write,30,Medium,10,7,Travel_Rarely,No,3,EMP2041
+2044,Sales,Sales Executive,2,50,Male,Yes,Leaver,Write,85,Critical,6,3,Travel_Frequently,No,3,EMP2044
+2045,Sales,Sales Executive,2,36,Female,No,Stable,Write,40,Medium,6,3,Travel_Rarely,No,3,EMP2045
+2046,Sales,Sales Executive,2,45,Female,No,Stable,Write,30,Medium,5,3,Travel_Rarely,No,3,EMP2046
+2048,Research & Development,Research Scientist,1,40,Male,No,Stable,Write,20,Low,2,2,Travel_Rarely,No,3,EMP2048
+2049,Research & Development,Healthcare Representative,2,35,Male,No,Stable,Read,35,Medium,10,2,Travel_Frequently,Yes,3,EMP2049
+2051,Research & Development,Research Scientist,1,40,Female,No,Stable,Write,20,Low,5,3,Travel_Rarely,No,3,EMP2051
+2052,Research & Development,Research Scientist,1,35,Female,No,Stable,Write,30,Medium,4,3,Travel_Rarely,No,3,EMP2052
+2053,Research & Development,Laboratory Technician,2,29,Male,No,Stable,Read,20,Low,4,3,Travel_Rarely,Yes,3,EMP2053
+2054,Research & Development,Research Scientist,1,29,Female,No,Stable,Write,20,Low,5,4,Travel_Rarely,No,3,EMP2054
+2055,Sales,Sales Executive,3,50,Male,Yes,Leaver,Write,80,Critical,3,2,Travel_Rarely,Yes,3,EMP2055
+2056,Sales,Sales Executive,4,39,Female,No,Stable,Write,35,Medium,20,9,Travel_Rarely,No,3,EMP2056
+2057,Research & Development,Manufacturing Director,2,31,Male,No,Stable,Write,25,Low,9,4,Non-Travel,No,3,EMP2057
+2060,Sales,Sales Representative,1,26,Female,No,Stable,Read,20,Low,4,2,Travel_Rarely,No,3,EMP2060
+2061,Research & Development,Laboratory Technician,2,36,Male,No,Stable,Read,15,Low,5,2,Travel_Frequently,No,3,EMP2061
+2062,Research & Development,Healthcare Representative,3,39,Male,No,Stable,Read,20,Low,7,7,Travel_Rarely,No,3,EMP2062
+2064,Research & Development,Manufacturing Director,2,27,Male,No,Stable,Write,40,Medium,6,2,Travel_Rarely,Yes,4,EMP2064
+2065,Sales,Sales Executive,2,49,Male,No,Stable,Write,35,Medium,9,6,Travel_Frequently,No,3,EMP2065
+2068,Research & Development,Laboratory Technician,2,34,Male,No,Stable,Read,10,Low,4,3,Travel_Rarely,No,3,EMP2068

@@ -1,0 +1,4 @@
+JML_Status,UniqueEmployees,TotalAccessRecords,AvgRiskScore,CriticalRecords,HighRecords
+Leaver,237,1185,69.4,710,475
+Mover,217,1085,47.2,20,545
+Stable,1016,5080,28.4,0,265
